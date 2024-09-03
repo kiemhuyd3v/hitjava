@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "thanbai_item_blur.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bonus": {
+      "__uuid__": "761291dc-b6a4-4418-8eca-22b15d36f0e1"
+    },
+    "freespin": {
+      "__uuid__": "a96074bc-f7bb-4cda-8432-b84786054090"
+    },
+    "item_1": {
+      "__uuid__": "38c96c99-a55d-4b80-8963-c38044d22729"
+    },
+    "item_2": {
+      "__uuid__": "4dce392a-d518-47cc-98c4-f6ffec3ae40b"
+    },
+    "item_3": {
+      "__uuid__": "19b46434-1afc-4ebf-8850-8fca7f9a5e8e"
+    },
+    "item_4": {
+      "__uuid__": "a6e939f1-bc7d-40cd-b3f3-e38d0fd0d451"
+    },
+    "jackpot": {
+      "__uuid__": "114e43f0-e870-4b8a-b9c1-67bd6053e87b"
+    }
+  }
+}

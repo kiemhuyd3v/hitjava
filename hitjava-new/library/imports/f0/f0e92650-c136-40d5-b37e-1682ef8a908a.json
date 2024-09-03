@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_danger",
+    "texture": "524b036c-7366-4c2f-8f8e-5ad9c2b0b033",
+    "atlas": "08385db6-5754-40ff-acd4-656d18b5b7cf",
+    "rect": [
+      0,
+      0,
+      200,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

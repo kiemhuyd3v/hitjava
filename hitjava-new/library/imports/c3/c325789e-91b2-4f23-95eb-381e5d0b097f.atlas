@@ -1,0 +1,20 @@
+
+iteam4.png
+size: 240,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it4
+  rotate: false
+  xy: 2, 2
+  size: 117, 142
+  orig: 117, 142
+  offset: 0, 0
+  index: -1
+it42
+  rotate: false
+  xy: 121, 2
+  size: 117, 142
+  orig: 117, 142
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mainnohu3",
+    "texture": "bd25a5fe-7c2e-4fb9-97b9-8bbb572c5de9",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1476,
+      983
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      1481,
+      988
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

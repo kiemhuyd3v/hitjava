@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnLuotMoiOff",
+    "texture": "0c28436b-71ce-4504-9155-ab267147f586",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      129,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xoCa",
+    "texture": "7bb7d74f-3cc8-4d28-a364-a3242f1146e5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      270,
+      193
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      270,
+      193
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "STTT_Symbol_SonTinh_Wild_3o",
+    "texture": "202ea819-af09-4da5-9662-bfee45ed5b02",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      984,
+      603
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      990,
+      607
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

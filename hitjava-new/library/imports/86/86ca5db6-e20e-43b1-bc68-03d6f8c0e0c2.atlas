@@ -1,0 +1,41 @@
+
+hujackpot.png
+size: 1481,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asnen1
+  rotate: false
+  xy: 508, 23
+  size: 404, 414
+  orig: 450, 450
+  offset: 22, 29
+  index: -1
+asnen2
+  rotate: false
+  xy: 2, 2
+  size: 504, 435
+  orig: 550, 550
+  offset: 0, 58
+  index: -1
+khaynen
+  rotate: false
+  xy: 914, 244
+  size: 563, 193
+  orig: 563, 193
+  offset: 0, 0
+  index: -1
+mu
+  rotate: true
+  xy: 1331, 5
+  size: 237, 148
+  orig: 237, 148
+  offset: 0, 0
+  index: -1
+txtjp
+  rotate: false
+  xy: 914, 121
+  size: 415, 121
+  orig: 415, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GO_tet_2021",
+    "texture": "bd8160c2-bbc4-456c-a813-2a8e0d37a358",
+    "atlas": "",
+    "rect": [
+      2,
+      5,
+      532,
+      527
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      536,
+      534
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

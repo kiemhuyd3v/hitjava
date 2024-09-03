@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toggleMusicOff",
+    "texture": "b8cd235e-2821-4dea-8eb8-81d7516fd88e",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      68,
+      68
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      71,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

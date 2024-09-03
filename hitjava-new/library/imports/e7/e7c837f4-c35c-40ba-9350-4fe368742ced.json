@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shadow_win",
+    "texture": "21be8353-d053-4bb2-926c-20cad9123f43",
+    "atlas": "0d24dec3-dd40-41ee-8de6-9a695a856bd3",
+    "rect": [
+      0,
+      1924,
+      297,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      297,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

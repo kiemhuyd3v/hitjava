@@ -1,0 +1,48 @@
+
+xhuAladin.png
+size: 591,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 216, 10
+  size: 202, 158
+  orig: 202, 158
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 510, 7
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+imgtile8
+  rotate: true
+  xy: 2, 2
+  size: 166, 212
+  orig: 166, 212
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 420, 11
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 420, 91
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+x6
+  rotate: true
+  xy: 512, 79
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1

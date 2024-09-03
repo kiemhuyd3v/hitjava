@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moquantai",
+    "texture": "c5f632e5-7634-4e2a-ae39-093a0b9b202f",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      474,
+      308
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      484,
+      313
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

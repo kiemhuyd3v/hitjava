@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hu_xiu",
+    "texture": "45df2cac-c5f0-47b3-b2a6-ebb35b24ebfc",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      278,
+      101
+    ],
+    "offset": [
+      -17.5,
+      0
+    ],
+    "originalSize": [
+      323,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

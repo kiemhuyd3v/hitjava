@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "STTT-Anim-Scatter",
+    "texture": "a22477d7-066e-4450-ac1b-ed96386260b4",
+    "atlas": "",
+    "rect": [
+      3,
+      7,
+      326,
+      256
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      332,
+      266
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

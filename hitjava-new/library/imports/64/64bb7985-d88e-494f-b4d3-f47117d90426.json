@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "onePayOn",
+    "texture": "abde6220-c853-41cc-b7e5-8dd5ab7f4c0c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

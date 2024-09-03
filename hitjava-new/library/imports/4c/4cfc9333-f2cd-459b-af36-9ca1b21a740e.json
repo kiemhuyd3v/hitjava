@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "conrong",
+    "texture": "eb959ca7-d93e-42eb-b091-e4f86922b9fa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      461,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      461,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

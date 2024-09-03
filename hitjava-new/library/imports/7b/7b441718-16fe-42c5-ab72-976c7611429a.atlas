@@ -1,0 +1,125 @@
+
+bingo.png
+size: 1568,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 11
+  size: 343, 344
+  orig: 343, 344
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 908, 175
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 347, 153
+  size: 202, 184
+  orig: 202, 184
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 533, 158
+  size: 197, 186
+  orig: 197, 186
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: true
+  xy: 721, 159
+  size: 196, 185
+  orig: 196, 185
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: true
+  xy: 797, 3
+  size: 154, 161
+  orig: 154, 161
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1464, 246
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 503, 19
+  size: 127, 132
+  orig: 127, 132
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 347, 6
+  size: 145, 154
+  orig: 145, 154
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 632, 2
+  size: 154, 163
+  orig: 154, 163
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 1316, 18
+  size: 157, 167
+  orig: 157, 167
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 960, 2
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 1134, 2
+  size: 180, 174
+  orig: 180, 174
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 1110, 178
+  size: 192, 177
+  orig: 192, 177
+  offset: 0, 0
+  index: -1
+asmat
+  rotate: false
+  xy: 1475, 17
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+daubi
+  rotate: true
+  xy: 1304, 187
+  size: 168, 158
+  orig: 168, 166
+  offset: 0, 4
+  index: -1
+mom
+  rotate: true
+  xy: 1475, 99
+  size: 145, 60
+  orig: 145, 60
+  offset: 0, 0
+  index: -1

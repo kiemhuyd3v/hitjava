@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "giacat",
+    "texture": "6d3543c9-b575-40d6-bf78-4e2e95ddd6e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      350,
+      345
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      350,
+      345
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

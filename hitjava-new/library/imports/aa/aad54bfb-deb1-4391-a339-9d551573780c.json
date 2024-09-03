@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnDongY",
+    "texture": "349cfd5e-22f4-4de8-b9cf-dd173b3b9b71",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      183,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

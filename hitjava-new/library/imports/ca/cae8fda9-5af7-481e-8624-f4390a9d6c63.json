@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dongbang-btn",
+    "texture": "124a5ac7-a569-426c-83f7-36e20cf1d5cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      268,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

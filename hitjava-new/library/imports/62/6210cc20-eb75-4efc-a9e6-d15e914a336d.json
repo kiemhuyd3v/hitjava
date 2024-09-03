@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "giâctduminigame",
+    "texture": "792f0c3d-d4a2-48da-ab36-c3d99df868fc",
+    "atlas": "",
+    "rect": [
+      17,
+      12,
+      317,
+      318
+    ],
+    "offset": [
+      0.5,
+      1.5
+    ],
+    "originalSize": [
+      350,
+      345
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

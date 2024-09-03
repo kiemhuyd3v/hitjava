@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg copy 3",
+    "texture": "d71f00b5-ec49-4a3d-b383-6661f652e756",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      341,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      341,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

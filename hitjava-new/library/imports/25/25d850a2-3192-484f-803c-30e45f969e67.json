@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "worlddance",
+    "texture": "2b807ede-0bcc-4cab-ad9a-b57093023725",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      850,
+      1021
+    ],
+    "offset": [
+      -86,
+      0.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

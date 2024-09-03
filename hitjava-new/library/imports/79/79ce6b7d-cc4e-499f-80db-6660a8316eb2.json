@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kinh",
+    "texture": "df385366-60f8-47df-bc4b-81a7b4c122e4",
+    "atlas": "",
+    "rect": [
+      214,
+      563,
+      246,
+      164
+    ],
+    "offset": [
+      -27.5,
+      -280.5
+    ],
+    "originalSize": [
+      729,
+      729
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

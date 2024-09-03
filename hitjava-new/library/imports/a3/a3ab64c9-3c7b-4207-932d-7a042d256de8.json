@@ -1,0 +1,92 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "UI_main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "BG_BottomUI": {
+      "__uuid__": "cf461204-3cf6-48f9-b912-764e9b911a37"
+    },
+    "BoardG_Knot_L": {
+      "__uuid__": "5db4496b-6461-4e12-98fb-3b1a110d4c44"
+    },
+    "BoardG_String_L": {
+      "__uuid__": "5861038a-f462-40b2-8e22-7204a22b3db5"
+    },
+    "BoardG_String_R": {
+      "__uuid__": "d37fe759-4f0e-43ed-8859-9e919cbc3024"
+    },
+    "Btn_Close_hanger": {
+      "__uuid__": "2d7c4415-d77f-4a1f-83e7-ca2b4dd82cc0"
+    },
+    "Btn_Close_hover": {
+      "__uuid__": "39c8cecc-538f-4dce-ad19-36c40d1fad7f"
+    },
+    "Btn_Home_hover": {
+      "__uuid__": "a37a01c2-9ea0-4989-b75d-49d9ede36367"
+    },
+    "Btn_Info_hover": {
+      "__uuid__": "315ddcd1-f07e-48b8-9fa0-c14f7cc69367"
+    },
+    "Btn_Minus_hover": {
+      "__uuid__": "987afd74-f3e3-4bcf-9e71-de704669beb3"
+    },
+    "Btn_Plus_hover": {
+      "__uuid__": "89c33769-d55f-443d-bca4-b3f126465a6b"
+    },
+    "Btn_Setting_hover": {
+      "__uuid__": "c9c0ad1b-b9c1-4ebd-880f-d93997291f7c"
+    },
+    "Btn_Spin_pressed": {
+      "__uuid__": "1da31455-60c0-47fc-a074-d63b55efdb74"
+    },
+    "Btn_Stop": {
+      "__uuid__": "526a2dac-6eb8-4228-a5dc-858e9ecd99c9"
+    },
+    "Btn_Turbo_off": {
+      "__uuid__": "addc1558-6a0e-4bb4-87d6-b359436edb71"
+    },
+    "Btn_Turbo_on": {
+      "__uuid__": "f7a038ed-5324-46bd-bcfa-1300d9dd005a"
+    },
+    "Frame_Bet": {
+      "__uuid__": "dbb1615c-2800-4836-9943-49944369ad54"
+    },
+    "Frame_JP_Grand": {
+      "__uuid__": "ee3508c7-e57b-4d66-978c-4256cdd3b5d4"
+    },
+    "Frame_JP_Major": {
+      "__uuid__": "e475acb8-d5c5-40db-acb8-5e766093c94b"
+    },
+    "Frame_JP_Mini": {
+      "__uuid__": "6b7dbc30-8f76-4b5b-8302-c5bb9821d62c"
+    },
+    "Frame_JP_Minor": {
+      "__uuid__": "cf60e069-d4ea-46a8-8af1-0e37cb1adbf9"
+    },
+    "Frame_Line-TotalBet": {
+      "__uuid__": "5aade332-2e1c-4fca-8c22-54cd05c0d1ef"
+    },
+    "Frame_TotalWin": {
+      "__uuid__": "52cb2a7d-55fa-4ff8-9eba-d6177c57b0e5"
+    },
+    "Frame_Wallet": {
+      "__uuid__": "a47135a5-cfb7-4bfd-981a-714572e168c7"
+    },
+    "Icon_Spin": {
+      "__uuid__": "94be8dda-976a-4a24-b4af-383ec2a00f55"
+    },
+    "JPCell_FreeGame": {
+      "__uuid__": "cc3289f8-5916-4a9a-93fb-1a6f66ead2ad"
+    },
+    "JPCell_Lock": {
+      "__uuid__": "d86d1aea-7e21-43a3-8478-121da7ea6ee6"
+    },
+    "Lock": {
+      "__uuid__": "b9eeef7b-5f02-4cb5-b464-7c19d0291fb4"
+    },
+    "TopBoard_half": {
+      "__uuid__": "e6bcbf84-f52d-4f55-9560-3792d0d642de"
+    }
+  }
+}

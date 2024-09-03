@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sapno",
+    "texture": "9027ef32-a771-46d6-af3b-4a61284c071c",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1343,
+      541
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      1348,
+      545
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

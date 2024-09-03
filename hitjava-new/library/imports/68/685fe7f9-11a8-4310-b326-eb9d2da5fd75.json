@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnXingau3",
+    "texture": "df063ce1-0a34-4c0a-8868-02962b79385b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

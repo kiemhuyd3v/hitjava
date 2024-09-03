@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iteambonus",
+    "texture": "70beeea8-524c-4fd4-b4fe-801f6b4d1ec8",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      300,
+      174
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      304,
+      178
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

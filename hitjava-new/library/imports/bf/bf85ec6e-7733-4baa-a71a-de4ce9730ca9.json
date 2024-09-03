@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoLiveChat",
+    "texture": "b2cd2967-3e24-41e4-a075-3ec3d7484482",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      175,
+      68
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      175,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

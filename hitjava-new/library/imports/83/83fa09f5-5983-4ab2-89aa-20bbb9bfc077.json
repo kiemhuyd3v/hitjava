@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lineMauCam",
+    "texture": "d4c2cc38-8288-4ccd-beb6-5dfeeb319c5b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

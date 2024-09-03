@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Loadinglogosm",
+    "texture": "be69fb47-b711-4c6a-abb0-98b055d83100",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      323,
+      60
+    ],
+    "offset": [
+      -92.5,
+      0
+    ],
+    "originalSize": [
+      512,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

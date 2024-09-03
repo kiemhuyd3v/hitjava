@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Crypo copy 7",
+    "texture": "0e3dbfbc-5529-49d7-b042-0b90427a1ec7",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1554,
+      997
+    ],
+    "offset": [
+      -245,
+      11.5
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

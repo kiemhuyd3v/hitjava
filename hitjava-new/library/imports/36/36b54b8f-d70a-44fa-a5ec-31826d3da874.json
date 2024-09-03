@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chungthucmd5",
+    "texture": "0132aaf1-1f02-40ac-8b7e-ea2d8a26b73b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1195,
+      671
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1195,
+      671
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

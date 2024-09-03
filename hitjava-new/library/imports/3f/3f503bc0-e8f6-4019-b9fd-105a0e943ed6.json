@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plate-xoc-1",
+    "texture": "a4e17206-9193-4fa6-9f1a-222cf36e4165",
+    "atlas": "9189f6dc-f734-4f55-bce5-5bb9e1d26646",
+    "rect": [
+      271,
+      0,
+      217,
+      176
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      217,
+      176
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

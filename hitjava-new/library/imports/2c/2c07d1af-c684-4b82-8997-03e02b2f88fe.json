@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thongbaoJackpot1",
+    "texture": "0d866efb-5655-4b0c-9f40-aebbeda0ba53",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      258,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      258,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

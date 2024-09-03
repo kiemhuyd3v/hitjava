@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Avatar3",
+    "texture": "b25d01a5-a4f8-4b89-9912-317c0f196239",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

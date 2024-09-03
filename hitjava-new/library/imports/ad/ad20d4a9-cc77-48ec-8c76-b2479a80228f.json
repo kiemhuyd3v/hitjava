@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "player_slot",
+    "texture": "86418523-f4c4-432c-8135-f6a1dfda78f7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      109
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

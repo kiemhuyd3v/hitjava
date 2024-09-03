@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quabay",
+    "texture": "87b49603-2388-4097-82d7-351e5e4da268",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      413,
+      178
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      419,
+      185
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

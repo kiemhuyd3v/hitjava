@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "slots_angrybirds_minigame.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "angrybirds_bg_mng_text_1": {
+      "__uuid__": "dae99de5-84ec-46fb-8099-e390cfc9c58a"
+    },
+    "angrybirds_bg_mng_text_2": {
+      "__uuid__": "c15eb326-b6bc-4b7a-a378-2b6a8545bc83"
+    },
+    "angrybirds_mng2_bg": {
+      "__uuid__": "c1d74db3-4972-481d-8076-75fa33fa2c0e"
+    },
+    "angrybirds_mng2_item_0": {
+      "__uuid__": "c8f5a92d-5f7e-4926-abd0-64029601ae54"
+    },
+    "angrybirds_mng2_item_open_0": {
+      "__uuid__": "f8fea743-d3ac-4331-8046-65e48ada2613"
+    },
+    "angrybirds_mng_bg_1": {
+      "__uuid__": "b2581a06-5a20-4431-ae45-6566aca9a937"
+    },
+    "angrybirds_mng_bg_2": {
+      "__uuid__": "30901865-377e-4bf5-b210-936e413c05e4"
+    },
+    "angrybirds_mng_bg_thongbao": {
+      "__uuid__": "aa0950c4-b1da-49ce-abb0-14722b4d4811"
+    },
+    "angrybirds_mng_btn_close": {
+      "__uuid__": "90073b22-f740-4bcf-bf33-99c7d8293ff9"
+    },
+    "angrybirds_mng_btn_item_0": {
+      "__uuid__": "aeafcc1d-818b-407e-af43-55dadafe2192"
+    },
+    "angrybirds_mng_rw_0": {
+      "__uuid__": "37748551-8108-41fe-8149-35da5af4f0bc"
+    },
+    "angrybirds_mng_rw_1": {
+      "__uuid__": "00e19814-a6ef-4061-adfb-4c5ce849b804"
+    },
+    "angrybirds_mng_rw_2": {
+      "__uuid__": "d6ba2443-995b-4c85-824f-f8b94ba1f8f9"
+    },
+    "angrybirds_mng_rw_3": {
+      "__uuid__": "76460de8-7c08-40ed-bab8-9f47766fbc04"
+    },
+    "angrybirds_mng_rw_4": {
+      "__uuid__": "41885652-a3ad-4739-bb9d-1e1adeddab39"
+    },
+    "angrybirds_top_bg_minigame": {
+      "__uuid__": "d2d9d2c7-51b0-4900-8b95-e2ade02dcb19"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "thantaibottom.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "background": {
+      "__uuid__": "333916a9-51ab-4a45-a62b-4dfa00df38d7"
+    },
+    "thantai_bangthuong_btn_close": {
+      "__uuid__": "1356fb31-d098-40cc-bd12-645999812c64"
+    },
+    "thantai_bg_napcoin": {
+      "__uuid__": "2ab4c7df-5e09-43d6-86e4-d591c4d77992"
+    },
+    "thantai_bg_slots": {
+      "__uuid__": "7e44483d-c3af-47ca-ba5c-8c958bf5a952"
+    },
+    "thantai_bg_so_dong": {
+      "__uuid__": "cc9bf447-90e0-4f13-8564-4887b12e9481"
+    },
+    "thantai_bg_so_phong": {
+      "__uuid__": "b64634d4-cee1-41c3-a516-ef9192e9aa34"
+    },
+    "thantai_bg_thongtin": {
+      "__uuid__": "5dae8bd8-f0c9-4eb2-9262-382658ed7978"
+    },
+    "thantai_bottom": {
+      "__uuid__": "830a6c43-f4b0-45ec-9bf7-795136aaf010"
+    },
+    "thantai_btn_back": {
+      "__uuid__": "09489b9f-499e-4023-b43a-7b8328ae37e8"
+    },
+    "thantai_btn_bangthuong": {
+      "__uuid__": "64cc851b-958f-4344-b30f-cedb2f47ffd1"
+    },
+    "thantai_btn_quay": {
+      "__uuid__": "26a4a5ea-61a9-4110-810a-c477a546825c"
+    },
+    "thantai_btn_settings": {
+      "__uuid__": "27c9ff40-7926-4a36-b7d9-5bcdeda8c512"
+    },
+    "thantai_btn_sieutoc2": {
+      "__uuid__": "e1710b9f-b5e3-4f2a-aa8a-b730f452f5d2"
+    },
+    "thantai_khungtien_jackpot": {
+      "__uuid__": "77ba39f3-0379-47f5-b1fd-6db22cd89430"
+    },
+    "thantai_mng_bg_2": {
+      "__uuid__": "075c6a93-a7eb-4757-a1d6-95df7e8168c6"
+    },
+    "thantai_win_jackpot_bg_gold": {
+      "__uuid__": "98140e8d-a070-4a8b-bb9b-1f9f9727ccc4"
+    },
+    "thantai_x2_bg_dathang": {
+      "__uuid__": "9d141afe-ad5a-4170-b3c4-f51113e55653"
+    },
+    "thantai_x2_continue_btn": {
+      "__uuid__": "bb10e8e3-dd89-437a-9851-bab90151c7ad"
+    },
+    "thantai_x2_huongdan_bg": {
+      "__uuid__": "8405730b-f4bf-4b8e-a232-bdabc7ed64bf"
+    },
+    "thantai_x2_huongdan_btn": {
+      "__uuid__": "ff87d5eb-7086-4c38-9348-7138dea8250c"
+    },
+    "thantai_x2_item_open1": {
+      "__uuid__": "6deb7f5b-241f-4064-a929-ad0a067d65e7"
+    },
+    "thantai_x2_stop_btn": {
+      "__uuid__": "011ef9a0-5183-4787-9a42-715b7e9eb389"
+    }
+  }
+}

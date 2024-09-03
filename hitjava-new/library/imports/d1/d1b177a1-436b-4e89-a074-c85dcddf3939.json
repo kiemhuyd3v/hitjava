@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "denlong",
+    "texture": "00d0ff22-25f3-40b6-a8ba-0af341fb58e1",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      375,
+      293
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      383,
+      297
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

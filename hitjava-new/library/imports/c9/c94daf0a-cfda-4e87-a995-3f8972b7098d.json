@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "miniavtive",
+    "texture": "99cb0910-930c-430c-a15a-3408b128270a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      389,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      393,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

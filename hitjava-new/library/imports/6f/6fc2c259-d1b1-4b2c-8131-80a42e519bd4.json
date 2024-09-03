@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn10KOn",
+    "texture": "076eb44d-e760-4850-965b-4b38431e8d5d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Button.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btn_close": {
+      "__uuid__": "4a46af25-f561-4214-a1da-48574eaaf6b8"
+    },
+    "btn_refresh": {
+      "__uuid__": "33da949f-0878-47c3-bf44-b451206dfcfe"
+    },
+    "btn_sms_card_type": {
+      "__uuid__": "dbfd91b4-8e53-4d5f-8134-436029693469"
+    },
+    "btn_sms_card_type_active": {
+      "__uuid__": "d8273743-cba7-44fd-b1c6-7c30df1fbb52"
+    },
+    "btn_switch_off": {
+      "__uuid__": "e471028f-bb8f-4b23-9fa4-f54e9b7cea77"
+    },
+    "btn_switch_on": {
+      "__uuid__": "47eadc4c-c807-40f5-b8d8-34a773d44cfe"
+    },
+    "button_danger": {
+      "__uuid__": "f0e92650-c136-40d5-b37e-1682ef8a908a"
+    },
+    "button_default": {
+      "__uuid__": "9425c51a-dea1-4839-ae64-6329541f6bfd"
+    },
+    "button_violet": {
+      "__uuid__": "955be445-c28d-4b0f-ae28-ce28fdf480b3"
+    },
+    "number": {
+      "__uuid__": "34929097-187d-47a3-a151-ebd584ba76dd"
+    },
+    "number_back": {
+      "__uuid__": "ac4e12bb-7825-4aff-9733-6aea9cb6c233"
+    },
+    "number_back_s": {
+      "__uuid__": "40c307e9-865c-4dee-9c96-29e74f552d1e"
+    },
+    "number_backall": {
+      "__uuid__": "a04bbb27-d78b-4112-be15-aeca2e7bfed7"
+    },
+    "number_backall_s": {
+      "__uuid__": "80253101-acf4-4dcb-8e8e-cee5164ee16f"
+    },
+    "number_s": {
+      "__uuid__": "6772b313-d489-4c2f-ac30-5a0892dafe3e"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tatCaOn",
+    "texture": "94bf7ff5-9a64-4384-b6f2-1158b2f6dfae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      99
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      99
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

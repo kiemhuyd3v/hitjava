@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icPlus02",
+    "texture": "443470e3-6022-4143-8f47-0f0c150e451a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

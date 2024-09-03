@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icLoadingBattle",
+    "texture": "b6fb80f7-6513-4e52-a630-a37d27096732",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      133,
+      133
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

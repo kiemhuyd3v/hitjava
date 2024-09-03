@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nenchaydat",
+    "texture": "a81b6ffd-ccea-491c-a512-2c4112e52a9d",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      864,
+      290
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      868,
+      294
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

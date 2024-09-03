@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lama",
+    "texture": "a1949cfa-889f-441e-b662-5bbebd1b4e88",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      86,
+      86
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      89,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

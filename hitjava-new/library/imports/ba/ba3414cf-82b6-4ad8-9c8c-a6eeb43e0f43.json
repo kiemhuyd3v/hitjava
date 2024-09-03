@@ -1,0 +1,197 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "arrow anim",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "1": {
+          "1": {
+            "x": -0.31,
+            "width": 160,
+            "y": 98.57,
+            "height": 126
+          }
+        },
+        "2": {
+          "2": {
+            "x": -0.31,
+            "width": 160,
+            "y": 15.57,
+            "height": 126
+          }
+        },
+        "3": {
+          "3": {
+            "x": -0.31,
+            "width": 160,
+            "y": -67.43,
+            "height": 126
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "E:/OUTSOURCE GAME/ACE update/OTHER/arrow anim/images/",
+      "width": 160,
+      "spine": "3.7.94",
+      "audio": "E:\\OUTSOURCE GAME\\ACE update\\OTHER\\arrow anim",
+      "hash": "4+SnHUqyuICUOfgq0E4Ra3nbcGM",
+      "height": 292
+    },
+    "slots": [
+      {
+        "attachment": "3",
+        "name": "3",
+        "bone": "root"
+      },
+      {
+        "attachment": "2",
+        "name": "2",
+        "bone": "root"
+      },
+      {
+        "attachment": "1",
+        "name": "1",
+        "bone": "root"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root",
+        "y": 0.76
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "1": {
+            "color": [
+              {
+                "color": "ffffff54",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffffaa",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.2667
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.5333
+              },
+              {
+                "color": "ffffff54",
+                "time": 0.8
+              }
+            ]
+          },
+          "2": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffff54",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.2667
+              },
+              {
+                "color": "ffffffaa",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.5333
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.8
+              }
+            ]
+          },
+          "3": {
+            "color": [
+              {
+                "color": "ffffffaa",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.2667
+              },
+              {
+                "color": "ffffff54",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.5333
+              },
+              {
+                "color": "ffffffaa",
+                "time": 0.8
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\narrow anim.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 160, 126\r\n  orig: 160, 126\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 160, 126\r\n  orig: 160, 126\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 160, 126\r\n  orig: 160, 126\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "7cbef2b0-1036-481d-ac42-5b99ef52e909"
+    }
+  ],
+  "textureNames": [
+    "arrow anim.png"
+  ],
+  "scale": 1
+}

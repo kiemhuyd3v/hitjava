@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_miss",
+    "texture": "21be8353-d053-4bb2-926c-20cad9123f43",
+    "atlas": "0d24dec3-dd40-41ee-8de6-9a695a856bd3",
+    "rect": [
+      968,
+      1822,
+      206,
+      206
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      206,
+      206
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

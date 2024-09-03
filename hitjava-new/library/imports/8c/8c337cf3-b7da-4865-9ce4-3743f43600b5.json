@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Stop_hover",
+    "texture": "e4eeebac-d0de-4fac-9930-d19bad3e8e3e",
+    "atlas": "",
+    "rect": [
+      5,
+      3,
+      174,
+      191
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      184,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

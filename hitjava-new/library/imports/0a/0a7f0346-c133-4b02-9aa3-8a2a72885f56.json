@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toggleMusicOn",
+    "texture": "1596d751-a0a5-4303-b9e9-075c3660289a",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      68,
+      68
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      71,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderbuttonset",
+    "texture": "d9ab674f-d031-4851-8e4f-76d0ddaa3388",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

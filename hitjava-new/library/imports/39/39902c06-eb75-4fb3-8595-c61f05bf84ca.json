@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "STTT-Bigwin",
+    "texture": "7c76cc10-6b7e-4d31-8c2a-bf6feb70e426",
+    "atlas": "",
+    "rect": [
+      5,
+      8,
+      944,
+      1011
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      954,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

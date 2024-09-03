@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vinaOff2",
+    "texture": "3ff26294-8acb-4006-a100-6233acd78880",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

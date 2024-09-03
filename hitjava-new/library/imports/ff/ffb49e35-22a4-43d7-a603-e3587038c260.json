@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "UI_MAIN.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "BG_BoardGame_half": {
+      "__uuid__": "fb604c83-55cc-480a-8421-78f00eb3d3e2"
+    },
+    "BG_BottomUI_half": {
+      "__uuid__": "6197997b-b50f-4fe1-985d-6ed6e56a08f5"
+    },
+    "Btn_Home_normal": {
+      "__uuid__": "f33108b9-d416-4bdc-8521-8b183a2264cc"
+    },
+    "Btn_Minus_normal": {
+      "__uuid__": "f9f27564-0c9b-4fac-829c-a4fa0016c972"
+    },
+    "Btn_Plus_normal": {
+      "__uuid__": "3da325d7-f59e-4c31-8fdc-bd7dd440b721"
+    },
+    "Btn_Setting_normal": {
+      "__uuid__": "95fbd008-f9ef-4213-8db3-6603b66cd508"
+    },
+    "Btn_Spin_normal": {
+      "__uuid__": "78fa3d7d-44c1-4eb6-8d3e-4c5bfb3c7a3b"
+    },
+    "Btn_Stop_normal": {
+      "__uuid__": "719c8f3c-e03c-4199-aaec-206d5fa06783"
+    },
+    "Btn_Turbo_off": {
+      "__uuid__": "ab15b658-16cf-47c0-b7b6-6463112e9f8f"
+    },
+    "Btn_Turbo_on": {
+      "__uuid__": "c7aba0bc-0c37-48e9-a72d-224b514b377a"
+    },
+    "Frame_Jackpot": {
+      "__uuid__": "f3bfc13c-f1b9-443d-b98f-bb552369a879"
+    },
+    "Frame_TotalBet": {
+      "__uuid__": "3ae46083-bf13-4a94-80f0-bf28023560c7"
+    },
+    "Frame_TotalWin_half": {
+      "__uuid__": "9f2bdaca-a9c0-4bef-ad9f-084df1cdd22f"
+    },
+    "Frame_Wallet": {
+      "__uuid__": "78aa20bc-66af-4f05-adb6-bb802fb17cee"
+    },
+    "Panel_Info_half": {
+      "__uuid__": "4a8fe184-a9c7-440f-aa08-3d47e7d7cd77"
+    }
+  }
+}

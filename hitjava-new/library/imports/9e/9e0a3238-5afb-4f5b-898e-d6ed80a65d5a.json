@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_an_hien",
+    "texture": "e4506b70-20bb-4b99-ac56-44dfff356a0f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      73,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

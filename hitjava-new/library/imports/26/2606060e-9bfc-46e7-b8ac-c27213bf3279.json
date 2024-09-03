@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "borderCheck02_2",
+    "texture": "e3b44d73-663e-45d0-8bb4-a5f5ad2fcaac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

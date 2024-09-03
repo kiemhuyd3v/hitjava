@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab2_minigame",
+    "texture": "c5c5efb6-7ee9-423a-87d9-ac1a6ecbdf3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

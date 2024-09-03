@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caorua",
+    "texture": "d2168789-ec75-4fda-bad9-da6620173f19",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      506,
+      246
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

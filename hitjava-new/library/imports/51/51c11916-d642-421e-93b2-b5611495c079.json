@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank_mtimebank",
+    "texture": "67e18ea4-d963-4322-8c79-63888bd59823",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      163,
+      40
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      163,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

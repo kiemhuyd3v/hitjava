@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconNewMiniCopy",
+    "texture": "fb3879d9-0511-46e6-8c8a-06ab152949d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      32
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      117,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

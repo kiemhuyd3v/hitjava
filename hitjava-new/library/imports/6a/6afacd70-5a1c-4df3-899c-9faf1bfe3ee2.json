@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phong1",
+    "texture": "dde7986f-77a0-4335-bccd-e02b1e6f0dc6",
+    "atlas": "",
+    "rect": [
+      3,
+      129,
+      720,
+      592
+    ],
+    "offset": [
+      -149,
+      87
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

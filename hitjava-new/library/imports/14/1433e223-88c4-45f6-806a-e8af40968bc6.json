@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mien_bac_inactive",
+    "texture": "79d41cf8-406f-41a6-8462-bd54eeee222d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

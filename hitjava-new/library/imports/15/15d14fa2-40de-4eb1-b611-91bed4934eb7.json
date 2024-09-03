@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "borderJackpot",
+    "texture": "0a417fa4-bd03-44fa-8af2-12d2bf9bfff4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      243,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      243,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

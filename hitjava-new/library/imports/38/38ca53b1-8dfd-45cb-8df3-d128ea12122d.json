@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effBonus",
+    "texture": "9b618001-0031-412b-a34d-4284455f167b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1381,
+      1347
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1385,
+      1351
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

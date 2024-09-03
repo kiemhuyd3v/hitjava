@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bansd",
+    "texture": "81e33250-9b28-4927-b9cb-77190c953ea6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

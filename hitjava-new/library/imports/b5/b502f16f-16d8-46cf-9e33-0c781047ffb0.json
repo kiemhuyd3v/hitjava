@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logoone6789",
+    "texture": "f3df5046-69bd-4e3f-989b-cadfeef18fb6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      811,
+      328
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      811,
+      328
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

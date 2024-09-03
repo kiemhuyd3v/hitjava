@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blackJackOff",
+    "texture": "63a7f1bf-b369-4a80-baaa-40bbb6439a62",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

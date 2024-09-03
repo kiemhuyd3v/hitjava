@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quydinh_chuyentien",
+    "texture": "fb41291c-92a7-4520-8c81-90d42249128c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      429,
+      383
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      429,
+      383
+    ],
+    "capInsets": [
+      171,
+      161,
+      173,
+      158
+    ]
+  }
+}

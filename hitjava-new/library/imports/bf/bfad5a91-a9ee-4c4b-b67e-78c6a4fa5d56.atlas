@@ -1,0 +1,208 @@
+
+thanglonsieulon.png
+size: 1496,1473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anhsang
+  rotate: false
+  xy: 2, 982
+  size: 518, 489
+  orig: 518, 489
+  offset: 0, 0
+  index: -1
+bt0024
+  rotate: false
+  xy: 579, 53
+  size: 236, 191
+  orig: 1000, 600
+  offset: 339, 223
+  index: -1
+bt0026
+  rotate: false
+  xy: 1235, 941
+  size: 256, 206
+  orig: 1000, 600
+  offset: 329, 215
+  index: -1
+bt0030
+  rotate: true
+  xy: 1234, 2
+  size: 291, 236
+  orig: 1000, 600
+  offset: 313, 198
+  index: -1
+bt0031
+  rotate: true
+  xy: 1234, 295
+  size: 302, 243
+  orig: 1000, 600
+  offset: 308, 193
+  index: -1
+bt0033
+  rotate: true
+  xy: 1235, 1149
+  size: 322, 259
+  orig: 1000, 600
+  offset: 298, 183
+  index: -1
+bt0035
+  rotate: true
+  xy: 1213, 599
+  size: 340, 277
+  orig: 1000, 600
+  offset: 290, 173
+  index: -1
+bt0037
+  rotate: true
+  xy: 937, 953
+  size: 356, 296
+  orig: 1000, 600
+  offset: 283, 163
+  index: -1
+bt0041
+  rotate: false
+  xy: 435, 246
+  size: 395, 333
+  orig: 1000, 600
+  offset: 264, 143
+  index: -1
+bt0043
+  rotate: false
+  xy: 832, 238
+  size: 400, 351
+  orig: 1000, 600
+  offset: 256, 133
+  index: -1
+bt0045
+  rotate: false
+  xy: 522, 959
+  size: 413, 350
+  orig: 1000, 600
+  offset: 247, 124
+  index: -1
+bt0046
+  rotate: false
+  xy: 2, 169
+  size: 423, 359
+  orig: 1000, 600
+  offset: 242, 119
+  index: -1
+bt0048
+  rotate: false
+  xy: 435, 581
+  size: 381, 376
+  orig: 1000, 600
+  offset: 234, 110
+  index: -1
+bt0050
+  rotate: true
+  xy: 818, 591
+  size: 360, 393
+  orig: 1000, 600
+  offset: 225, 100
+  index: -1
+sieulon
+  rotate: false
+  xy: 2, 26
+  size: 575, 141
+  orig: 577, 141
+  offset: 1, 0
+  index: -1
+thang
+  rotate: false
+  xy: 817, 94
+  size: 382, 142
+  orig: 384, 142
+  offset: 1, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 522, 1311
+  size: 649, 160
+  orig: 652, 163
+  offset: 1, 1
+  index: -1
+tuyet
+  rotate: false
+  xy: 2, 530
+  size: 431, 450
+  orig: 431, 450
+  offset: 0, 0
+  index: -1
+
+thanglonsieulon2.png
+size: 1060,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bt0012
+  rotate: true
+  xy: 910, 2
+  size: 136, 134
+  orig: 1000, 600
+  offset: 378, 245
+  index: -1
+bt0014
+  rotate: false
+  xy: 910, 140
+  size: 148, 128
+  orig: 1000, 600
+  offset: 376, 255
+  index: -1
+bt0016
+  rotate: true
+  xy: 777, 101
+  size: 167, 131
+  orig: 1000, 600
+  offset: 367, 257
+  index: -1
+bt0018
+  rotate: true
+  xy: 627, 76
+  size: 184, 148
+  orig: 1000, 600
+  offset: 359, 248
+  index: -1
+bt0020
+  rotate: true
+  xy: 463, 60
+  size: 200, 162
+  orig: 1000, 600
+  offset: 354, 240
+  index: -1
+bt0022
+  rotate: true
+  xy: 278, 32
+  size: 219, 183
+  orig: 1000, 600
+  offset: 346, 224
+  index: -1
+bt0028
+  rotate: false
+  xy: 2, 30
+  size: 274, 221
+  orig: 1000, 600
+  offset: 321, 207
+  index: -1
+bt0039
+  rotate: true
+  xy: 356, 262
+  size: 376, 314
+  orig: 1000, 600
+  offset: 273, 153
+  index: -1
+bt0047
+  rotate: false
+  xy: 672, 270
+  size: 373, 368
+  orig: 1000, 600
+  offset: 238, 114
+  index: -1
+bt0049
+  rotate: false
+  xy: 2, 253
+  size: 352, 385
+  orig: 1000, 600
+  offset: 229, 105
+  index: -1

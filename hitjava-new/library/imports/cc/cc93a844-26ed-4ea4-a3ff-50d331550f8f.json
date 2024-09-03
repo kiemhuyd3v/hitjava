@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_3cay",
+    "texture": "c8afe176-e543-4fd8-82a4-f5c19d55f2a0",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      489,
+      327
+    ],
+    "offset": [
+      -10.5,
+      91.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

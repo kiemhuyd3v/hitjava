@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_VD_ev",
+    "texture": "12e3bef9-39df-4609-8f81-7b57d275117a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      135,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "slots_angrybirds_bgs.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "angrybirds_bg": {
+      "__uuid__": "72e6c2b0-55c3-43f3-b2d8-1b3d2a7e81d5"
+    },
+    "angrybirds_bg_1": {
+      "__uuid__": "7ad04716-516a-4ba7-b026-9776af78f0f6"
+    }
+  }
+}

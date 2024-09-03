@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nganHangOn",
+    "texture": "a705e7c5-67fb-40dc-b0a3-a3c5e1fa1e6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

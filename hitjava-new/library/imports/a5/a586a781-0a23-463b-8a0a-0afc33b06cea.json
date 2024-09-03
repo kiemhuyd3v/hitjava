@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rongthan",
+    "texture": "6fa9609f-4ede-49cd-a0b5-d6d21a03632c",
+    "atlas": "",
+    "rect": [
+      2,
+      46,
+      599,
+      553
+    ],
+    "offset": [
+      0,
+      -22
+    ],
+    "originalSize": [
+      603,
+      601
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

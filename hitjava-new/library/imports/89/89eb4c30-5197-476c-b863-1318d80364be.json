@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "timeline",
+    "texture": "99301d17-2452-449b-be9b-4506f29d5b39",
+    "atlas": "36fee65b-3dfd-4285-b331-5931a8942655",
+    "rect": [
+      0,
+      0,
+      538,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      538,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

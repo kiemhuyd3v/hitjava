@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iteamxit",
+    "texture": "5d567304-1af2-4d60-85d1-e15925139a17",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      400,
+      132
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      405,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

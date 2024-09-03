@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gamehall_effect_touch_tex",
+    "texture": "0eb1d9e0-376b-4b4d-942c-1dfdfdb648bf",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      389,
+      283
+    ],
+    "offset": [
+      -61,
+      19.5
+    ],
+    "originalSize": [
+      513,
+      324
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

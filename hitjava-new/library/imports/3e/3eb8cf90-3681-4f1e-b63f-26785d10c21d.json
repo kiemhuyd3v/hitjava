@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_tx_md5",
+    "texture": "e56dd443-e582-46af-8eec-ea98f8239b58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      78
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      67,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

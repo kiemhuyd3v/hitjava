@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tatca-tab-active",
+    "texture": "46539433-c7ae-4a92-94f1-38f9cce43e65",
+    "atlas": "",
+    "rect": [
+      33,
+      15,
+      84,
+      29
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      150,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

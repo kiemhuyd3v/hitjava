@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "tesst.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "item_1": {
+      "__uuid__": "b83d2e88-f8ed-44b4-bcd0-79c2ad7bb389"
+    },
+    "item_1_blur": {
+      "__uuid__": "4f3abddd-412e-4ece-ab42-741fe03b9f59"
+    },
+    "item_2": {
+      "__uuid__": "2cdb5ab0-c523-423b-ad5c-bebf232181e8"
+    },
+    "item_2_blur": {
+      "__uuid__": "fe03d616-266d-4fc8-a690-83258ef45a37"
+    },
+    "item_3": {
+      "__uuid__": "72b62b29-a78f-4e7b-b331-575a951b8ba6"
+    },
+    "item_3_blur": {
+      "__uuid__": "f192dd92-577d-4e3f-a73c-28187b4cd610"
+    },
+    "item_4": {
+      "__uuid__": "c381b7f9-2a0a-454d-902d-0c8327a37ce1"
+    },
+    "item_4_blur": {
+      "__uuid__": "436e4e96-e507-4718-83db-3ee2a20ef35c"
+    },
+    "item_5": {
+      "__uuid__": "11394251-82f8-4d86-ab99-165950943198"
+    },
+    "item_5_blur": {
+      "__uuid__": "2ab310dc-7a99-4a44-b376-46673d0c355b"
+    },
+    "item_6": {
+      "__uuid__": "f50ba149-b848-4cbe-bf23-05d588bfccd1"
+    },
+    "item_6_blur": {
+      "__uuid__": "2eb7fabb-499b-43e1-a7df-3a13d3f3e212"
+    },
+    "item_7": {
+      "__uuid__": "e5eb9e38-6ed4-43dc-bb50-c0f9f41bd084"
+    },
+    "item_7_blur": {
+      "__uuid__": "ee5690fa-140e-49d8-9ca0-c030a1c57269"
+    },
+    "item_8": {
+      "__uuid__": "a2456b6b-c6de-491e-94a5-455e4e5408a9"
+    },
+    "item_8_blur": {
+      "__uuid__": "290c4611-cd98-4f5e-ab7b-77b5b3f24c3c"
+    },
+    "item_9": {
+      "__uuid__": "06e20ee1-5416-434a-b025-33387528738a"
+    },
+    "item_9_blur": {
+      "__uuid__": "c0f5fdea-d983-4ea9-9ce3-51c08fceb493"
+    }
+  }
+}

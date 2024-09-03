@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnNan2",
+    "texture": "1f7e2e13-9c50-481b-b36e-7e0b70c019fb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

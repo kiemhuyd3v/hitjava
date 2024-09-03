@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BanCa-Coin",
+    "texture": "b52135da-6901-4cd2-9433-bb3d9731aeda",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      177,
+      213
+    ],
+    "offset": [
+      -37.5,
+      19.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

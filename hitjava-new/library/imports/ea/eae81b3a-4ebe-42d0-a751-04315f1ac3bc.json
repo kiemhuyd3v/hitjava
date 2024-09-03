@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_money_fish",
+    "texture": "0af0ed1f-4721-44eb-b066-7e2b3e224b98",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      273,
+      284
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      273,
+      284
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

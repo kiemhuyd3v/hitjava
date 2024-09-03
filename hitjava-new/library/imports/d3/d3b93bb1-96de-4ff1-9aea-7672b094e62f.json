@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_minigame",
+    "texture": "2ef0446e-8164-4e93-8994-ba760cfa7a54",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

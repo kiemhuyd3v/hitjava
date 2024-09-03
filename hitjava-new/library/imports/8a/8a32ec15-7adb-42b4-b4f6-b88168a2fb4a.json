@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bannerNewCopy6",
+    "texture": "c288ba13-bb71-4f99-b881-3cacd4d95ccb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

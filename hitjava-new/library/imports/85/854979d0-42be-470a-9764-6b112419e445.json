@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txtVinhDanh",
+    "texture": "c4a318dc-2ada-4bcd-b3c8-183bad6a36bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

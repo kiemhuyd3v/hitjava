@@ -1,0 +1,90 @@
+
+tet_backup.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MAI 2
+  rotate: false
+  xy: 524, 723
+  size: 270, 251
+  orig: 270, 251
+  offset: 0, 0
+  index: -1
+BACKGROUND
+  rotate: false
+  xy: 1, 1
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+MAI 1
+  rotate: false
+  xy: 1563, 701
+  size: 252, 293
+  orig: 252, 293
+  offset: 0, 0
+  index: -1
+BONG 4
+  rotate: false
+  xy: 796, 723
+  size: 238, 172
+  orig: 238, 172
+  offset: 0, 0
+  index: -1
+HOA MAI
+  rotate: false
+  xy: 1817, 919
+  size: 185, 195
+  orig: 185, 195
+  offset: 0, 0
+  index: -1
+BONG 2
+  rotate: false
+  xy: 1916, 147
+  size: 129, 131
+  orig: 129, 131
+  offset: 0, 0
+  index: -1
+BONG 3
+  rotate: false
+  xy: 1817, 701
+  size: 187, 216
+  orig: 187, 216
+  offset: 0, 0
+  index: -1
+BONG VANG
+  rotate: false
+  xy: 1916, 1
+  size: 122, 144
+  orig: 122, 144
+  offset: 0, 0
+  index: -1
+fafa
+  rotate: false
+  xy: 1563, 351
+  size: 351, 348
+  orig: 351, 348
+  offset: 0, 0
+  index: -1
+ádscx
+  rotate: false
+  xy: 1563, 1
+  size: 351, 348
+  orig: 351, 348
+  offset: 0, 0
+  index: -1
+pháo
+  rotate: false
+  xy: 2004, 919
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+ps
+  rotate: false
+  xy: 1, 723
+  size: 521, 499
+  orig: 521, 499
+  offset: 0, 0
+  index: -1

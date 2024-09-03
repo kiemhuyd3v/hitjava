@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "sontinhui.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "2": {
+      "__uuid__": "396fd144-f468-4cd2-96b8-c8f32ce8e906"
+    },
+    "3": {
+      "__uuid__": "b4bdb4a8-7fb3-4c25-b0d9-4c9056a3b4f1"
+    },
+    "4": {
+      "__uuid__": "81592218-6a57-4509-8f3e-e2ac64eabc20"
+    },
+    "5": {
+      "__uuid__": "826e47e8-2257-4573-be4e-d8f759a9fb69"
+    },
+    "6": {
+      "__uuid__": "1526b848-f2af-47e6-b400-d7c3b45d8314"
+    },
+    "7": {
+      "__uuid__": "9780f80a-56d5-4704-aedb-b667d8305801"
+    },
+    "8": {
+      "__uuid__": "ca581827-0bce-4ff5-a345-8b139c4628ea"
+    },
+    "9": {
+      "__uuid__": "eb1debaf-099d-4ef9-8c23-3e6022360652"
+    },
+    "10": {
+      "__uuid__": "dd98ad47-a912-4cc0-80d4-69f27c5dfea6"
+    },
+    "A": {
+      "__uuid__": "2f0d0de1-eee5-4214-8df9-18f69a90f8b0"
+    },
+    "Btn-nhanh-Active": {
+      "__uuid__": "0a51aa9a-7831-496d-9a1c-c1c0e3b7b3ac"
+    },
+    "Icon_BonusG": {
+      "__uuid__": "3201ff32-188b-4be7-9f88-4ff451d667a1"
+    },
+    "Icon_FreeG": {
+      "__uuid__": "5276f402-3589-4510-b4c2-1736d3a70698"
+    },
+    "Icon_Jackpot": {
+      "__uuid__": "32491992-3090-41fe-bb45-031786859954"
+    },
+    "Icon_NormalG": {
+      "__uuid__": "3e7ec6c1-9608-4612-b528-e460ac7bed22"
+    },
+    "IntroFreeGame": {
+      "__uuid__": "f9bb70fb-4996-4828-a91f-c5341a14f73d"
+    },
+    "J": {
+      "__uuid__": "8b786b48-654e-4e18-b520-4fa46b14d41e"
+    },
+    "KMN": {
+      "__uuid__": "2dd2ec06-cd95-4cad-a307-9c89888341b3"
+    },
+    "KST": {
+      "__uuid__": "f7a0d078-a9a2-4702-b5c6-5ddf83158b95"
+    },
+    "KTT": {
+      "__uuid__": "a2ed4f66-1153-4d95-8b69-cf398fe7a0c8"
+    },
+    "Khung-Bottom": {
+      "__uuid__": "29804cbd-972a-4769-838f-4ade4580892b"
+    },
+    "Khung_MainScreen-Top": {
+      "__uuid__": "9aa9763c-4aa5-47a5-8c22-4b0081c62313"
+    },
+    "R": {
+      "__uuid__": "f58c54d3-c9a4-4c99-8dcf-ad2f70b4257c"
+    },
+    "dong-tong": {
+      "__uuid__": "6c1c5851-1497-46fe-b6fe-6adf8d30997f"
+    },
+    "symbol_small_2": {
+      "__uuid__": "1da24385-84aa-4145-b73a-46c54d92ce9c"
+    }
+  }
+}

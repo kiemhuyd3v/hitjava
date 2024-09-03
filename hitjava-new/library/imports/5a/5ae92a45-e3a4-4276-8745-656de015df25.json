@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tay-du-ky",
+    "texture": "b0a64bf3-430e-4d91-8e4f-785517890482",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

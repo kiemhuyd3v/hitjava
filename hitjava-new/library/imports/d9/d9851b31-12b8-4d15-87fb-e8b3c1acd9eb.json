@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phucLocTho",
+    "texture": "f176b241-71a7-4180-bbcf-6cdc77ee12dd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

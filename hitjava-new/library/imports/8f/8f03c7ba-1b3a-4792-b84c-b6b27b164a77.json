@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lineNgang2",
+    "texture": "3a2f0d08-0a73-4bef-8f21-13daeeea825d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      368,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

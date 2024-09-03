@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank_donga",
+    "texture": "02494732-d042-4993-a94c-3057237fb5ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      242,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      242,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

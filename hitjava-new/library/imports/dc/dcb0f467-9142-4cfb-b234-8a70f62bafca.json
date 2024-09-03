@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bau-cua-form-jackpot",
+    "texture": "d6e77e37-b0ef-4d1c-8c54-e9f18b9139a7",
+    "atlas": "cd10a35c-9ad3-4531-984a-032518706941",
+    "rect": [
+      0,
+      550,
+      918,
+      302
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      918,
+      302
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

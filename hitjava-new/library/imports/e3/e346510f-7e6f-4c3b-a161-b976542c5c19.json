@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res-ResourceMenuTab-ic_receive",
+    "texture": "ea7a32cd-f172-4193-afed-80d11f0508fb",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      42,
+      34
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      42,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

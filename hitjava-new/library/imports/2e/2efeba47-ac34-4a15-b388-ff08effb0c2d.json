@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vongXoayCenter",
+    "texture": "be64c5c2-a14c-473f-b73e-ac7a9b727a4d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

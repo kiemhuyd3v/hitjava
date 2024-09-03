@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dangxuat",
+    "texture": "c96c1a4a-cb4c-4b67-8258-0d171b88c677",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

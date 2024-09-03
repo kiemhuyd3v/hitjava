@@ -1,0 +1,265 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "mohom",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "as": {
+          "as": {
+            "x": -2.47,
+            "width": 301,
+            "y": 0.27,
+            "height": 300
+          }
+        },
+        "hom1": {
+          "hom1": {
+            "x": -15.41,
+            "width": 170,
+            "y": 5.13,
+            "height": 160
+          },
+          "hom2": {
+            "x": -15.41,
+            "width": 170,
+            "y": 5.13,
+            "height": 160
+          },
+          "hom3": {
+            "x": -15.41,
+            "width": 170,
+            "y": 5.13,
+            "height": 160
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 301,
+      "spine": "3.2.01",
+      "hash": "p6UJoRDl1xTKhDgbUmTOTslikY8",
+      "height": 300
+    },
+    "slots": [
+      {
+        "attachment": "hom1",
+        "name": "hom1",
+        "bone": "hom"
+      },
+      {
+        "attachment": "as",
+        "name": "as",
+        "bone": "as"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root",
+        "x": -27.62,
+        "y": 10
+      },
+      {
+        "parent": "root",
+        "name": "as",
+        "x": -0.73
+      },
+      {
+        "parent": "root",
+        "name": "hom",
+        "x": 12.2,
+        "y": -4.86
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "as": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffff91",
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "time": 0.1666
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.3333
+              }
+            ],
+            "attachment": [
+              {
+                "name": "as",
+                "time": 0
+              }
+            ]
+          },
+          "hom1": {
+            "attachment": [
+              {
+                "name": "hom1",
+                "time": 0
+              },
+              {
+                "name": "hom1",
+                "time": 0.0333
+              },
+              {
+                "name": "hom2",
+                "time": 0.0666
+              },
+              {
+                "name": "hom3",
+                "time": 0.1
+              },
+              {
+                "name": "hom3",
+                "time": 0.1333
+              },
+              {
+                "name": "hom3",
+                "time": 0.1666
+              },
+              {
+                "name": "hom3",
+                "time": 0.3333
+              }
+            ]
+          }
+        },
+        "bones": {
+          "as": {
+            "rotate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 240,
+                "time": 0.1666
+              },
+              {
+                "angle": 240,
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.1666
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.3333
+              }
+            ]
+          },
+          "hom": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              }
+            ],
+            "shear": [
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.245,
+                  0,
+                  0.637,
+                  0.55
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.381,
+                  0.54,
+                  0.742,
+                  1
+                ],
+                "x": 1.3,
+                "y": 1.3,
+                "time": 0.1
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.1666
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nmohom.png\nsize: 632,306\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nas\n  rotate: false\n  xy: 2, 4\n  size: 301, 300\n  orig: 301, 300\n  offset: 0, 0\n  index: -1\nhom1\n  rotate: false\n  xy: 305, 2\n  size: 170, 140\n  orig: 170, 160\n  offset: 0, 0\n  index: -1\nhom2\n  rotate: true\n  xy: 477, 135\n  size: 169, 153\n  orig: 170, 160\n  offset: 1, 0\n  index: -1\nhom3\n  rotate: false\n  xy: 305, 144\n  size: 168, 160\n  orig: 170, 160\n  offset: 2, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "5d5719e6-e8c2-4db2-83fc-94143a08e591"
+    }
+  ],
+  "textureNames": [
+    "mohom.png"
+  ],
+  "scale": 1
+}

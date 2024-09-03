@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-quythuong",
+    "texture": "e36c7d39-7199-4309-ad38-59fa95fc56ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      54
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      300,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

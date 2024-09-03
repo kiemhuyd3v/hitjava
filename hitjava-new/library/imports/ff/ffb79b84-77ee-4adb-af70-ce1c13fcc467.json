@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_remain_time",
+    "texture": "78f33865-f171-47fd-b373-d9b8af500a11",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      392,
+      237
+    ],
+    "offset": [
+      -60,
+      9.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

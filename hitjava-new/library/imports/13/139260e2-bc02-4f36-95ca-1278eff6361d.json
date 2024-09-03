@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popBtCloseOver",
+    "texture": "38077863-69d3-4e86-8f6c-446c1dc528ae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      81
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      87,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

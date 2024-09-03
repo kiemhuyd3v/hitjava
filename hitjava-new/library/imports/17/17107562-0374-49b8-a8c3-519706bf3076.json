@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank-maritime",
+    "texture": "cf53c06f-963e-4039-9511-e7347414fb9f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

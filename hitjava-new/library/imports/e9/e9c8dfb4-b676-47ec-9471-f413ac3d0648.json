@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "emergency",
+    "texture": "dd4c8901-dae9-4254-adb8-1042a6b24368",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

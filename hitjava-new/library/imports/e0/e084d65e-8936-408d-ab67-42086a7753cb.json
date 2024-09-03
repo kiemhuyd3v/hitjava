@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "miniGameOffCopy",
+    "texture": "cfbb03eb-1df8-4e65-9b31-4e50b4467110",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

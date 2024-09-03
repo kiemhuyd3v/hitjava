@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vinaphone",
+    "texture": "12a8bf19-7e88-4ea3-849c-bbd0fcfdcdbd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

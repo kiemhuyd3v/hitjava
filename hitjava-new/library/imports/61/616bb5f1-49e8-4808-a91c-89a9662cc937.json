@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_chonggianlantuyetdoi",
+    "texture": "b1712680-e819-4af9-b194-89993f45f161",
+    "atlas": "8f681af0-c36a-4174-92f1-0fca7ee943f3",
+    "rect": [
+      0,
+      1540,
+      390,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      391,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

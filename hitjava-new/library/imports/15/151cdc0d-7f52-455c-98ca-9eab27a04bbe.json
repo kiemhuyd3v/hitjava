@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fontKV-export",
+    "texture": "e7cbd688-3a52-4ce2-8053-53d3f7e15e8e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      251
+    ],
+    "offset": [
+      -8,
+      2.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

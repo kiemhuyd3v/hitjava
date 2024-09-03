@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bannerdomain",
+    "texture": "474c83da-a9e0-4caa-b3b6-1ee9983bbae9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      265,
+      402
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      265,
+      402
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

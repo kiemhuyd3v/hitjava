@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ktnn",
+    "texture": "67eff479-bea5-4b40-aec0-130312f997ce",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      292,
+      440
+    ],
+    "offset": [
+      1.5,
+      -0.5
+    ],
+    "originalSize": [
+      295,
+      441
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

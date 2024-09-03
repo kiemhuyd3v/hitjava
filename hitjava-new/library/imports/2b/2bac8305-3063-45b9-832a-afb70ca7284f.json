@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank-dong-a",
+    "texture": "94df6031-5353-4768-8817-2ddf75e072c5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vongXoayBg",
+    "texture": "95f5d06d-3128-4176-a67b-57d288cf2418",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      293,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      293,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

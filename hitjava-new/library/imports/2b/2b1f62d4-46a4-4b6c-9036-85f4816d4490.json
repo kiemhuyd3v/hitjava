@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chinhsach-content",
+    "texture": "84229235-a24b-41c0-bbb4-269fea7bb462",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1135,
+      696
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1135,
+      696
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_thanbai (1)",
+    "texture": "6ddcf803-bf3d-4c86-bcd3-fcf2097951d6",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2027,
+      508
+    ],
+    "offset": [
+      -8.5,
+      0
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

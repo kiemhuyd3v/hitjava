@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_quydinh",
+    "texture": "de295389-c30f-44d5-99bb-e31ee9ce628d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      351,
+      282
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      351,
+      282
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

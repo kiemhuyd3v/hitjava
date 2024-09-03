@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_tien_cuoc_sun",
+    "texture": "ebb39971-bddd-4e0a-8eb6-96dfbcc91639",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

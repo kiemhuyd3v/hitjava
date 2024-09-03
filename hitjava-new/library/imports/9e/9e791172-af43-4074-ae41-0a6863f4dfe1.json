@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnquay",
+    "texture": "4dba58af-3e0c-4850-94f8-2c0efed58707",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      445,
+      175
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      450,
+      180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

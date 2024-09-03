@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dropdownChecked",
+    "texture": "aefe7c5b-b750-456e-8d65-c87c73623331",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      11,
+      11
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      11,
+      11
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

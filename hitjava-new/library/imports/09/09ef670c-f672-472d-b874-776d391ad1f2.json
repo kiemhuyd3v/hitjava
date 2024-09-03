@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UTMAzuki_LSC",
+    "texture": "1e965e68-4ffc-4893-85d2-0e2d38146443",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1018,
+      457
+    ],
+    "offset": [
+      -1,
+      25.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

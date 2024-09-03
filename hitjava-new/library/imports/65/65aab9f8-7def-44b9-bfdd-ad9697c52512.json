@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toatsss",
+    "texture": "fb8a55c8-f5b1-4d84-ad16-3ab8cde99443",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      618,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      618,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

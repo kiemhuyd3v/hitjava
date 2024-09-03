@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "STTT-ANim-WildMiNuong",
+    "texture": "5cb71c6e-3472-48ec-9871-c5b4ba90f133",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      594,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      602,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

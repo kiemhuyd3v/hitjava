@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_ruttien",
+    "texture": "2a44b9bc-6a92-4aab-a211-2050b8eb65bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

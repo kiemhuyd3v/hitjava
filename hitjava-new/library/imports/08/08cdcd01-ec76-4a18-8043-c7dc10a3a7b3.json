@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Go anim lobby_cut1",
+    "texture": "c1c272f5-f421-405a-9908-6ea0248bb00e",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      2042,
+      2043
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

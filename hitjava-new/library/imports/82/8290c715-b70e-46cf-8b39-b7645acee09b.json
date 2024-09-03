@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_emo_2",
+    "texture": "29b36a29-f635-40ee-8f82-045cb772c013",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      104,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

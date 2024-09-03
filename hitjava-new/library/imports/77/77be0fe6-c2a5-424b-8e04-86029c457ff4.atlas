@@ -1,0 +1,139 @@
+
+mainitem.png
+size: 586,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 737
+  size: 206, 199
+  orig: 206, 199
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 536
+  size: 206, 199
+  orig: 206, 199
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 335
+  size: 206, 199
+  orig: 206, 199
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 134
+  size: 206, 199
+  orig: 206, 199
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 226, 806
+  size: 206, 199
+  orig: 206, 199
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 210, 605
+  size: 206, 199
+  orig: 206, 199
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 210, 404
+  size: 206, 199
+  orig: 206, 199
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 210, 203
+  size: 206, 199
+  orig: 206, 199
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 210, 2
+  size: 206, 199
+  orig: 206, 199
+  offset: 0, 0
+  index: -1
+Jackpot
+  rotate: false
+  xy: 2, 938
+  size: 222, 67
+  orig: 222, 67
+  offset: 0, 0
+  index: -1
+MATSANG
+  rotate: true
+  xy: 434, 851
+  size: 154, 71
+  orig: 154, 71
+  offset: 0, 0
+  index: -1
+bieutuong
+  rotate: false
+  xy: 507, 937
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+cam
+  rotate: false
+  xy: 2, 33
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+iconsang
+  rotate: false
+  xy: 418, 475
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+icontoi
+  rotate: false
+  xy: 418, 316
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+moi
+  rotate: true
+  xy: 210, 901
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+nen
+  rotate: true
+  xy: 418, 634
+  size: 170, 166
+  orig: 170, 166
+  offset: 0, 0
+  index: -1
+set
+  rotate: true
+  xy: 2, 69
+  size: 63, 161
+  orig: 63, 161
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: false
+  xy: 418, 207
+  size: 112, 107
+  orig: 112, 107
+  offset: 0, 0
+  index: -1

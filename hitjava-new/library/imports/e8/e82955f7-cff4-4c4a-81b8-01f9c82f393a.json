@@ -1,0 +1,80 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "effect_xoay_khi_dem": {
+          "effect_xoay_khi_dem": {
+            "x": 3.57,
+            "width": 293,
+            "y": 16.32,
+            "height": 294
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "./images/",
+      "width": 327.89,
+      "spine": "3.7.94",
+      "audio": "",
+      "hash": "7hfgHbmJSBxSLLI02nzcYfoznGw",
+      "height": 328
+    },
+    "slots": [
+      {
+        "attachment": "effect_xoay_khi_dem",
+        "blend": "additive",
+        "name": "effect_xoay_khi_dem",
+        "bone": "bone"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "scaleX": 1.113,
+        "parent": "root",
+        "scaleY": 1.113,
+        "name": "bone",
+        "x": -3.07
+      }
+    ],
+    "animations": {
+      "animation": {
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 180,
+                "time": 0.8333
+              },
+              {
+                "angle": 0,
+                "time": 1.6667
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nskeleton.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\neffect_xoay_khi_dem\n  rotate: false\n  xy: 2, 2\n  size: 293, 294\n  orig: 293, 294\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "82ca97f1-babd-4612-a550-69174698bebb"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png"
+  ],
+  "scale": 1
+}

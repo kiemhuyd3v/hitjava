@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tienAoOff",
+    "texture": "e2cadc7c-f38e-4890-a891-f7754f0b971b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      199,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      199,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

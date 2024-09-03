@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_sun",
+    "texture": "449c4b6d-697a-4b89-8079-d07512cd58d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      237,
+      204
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      237,
+      204
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

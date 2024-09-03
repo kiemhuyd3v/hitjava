@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tayduky",
+    "texture": "31cbe120-6dbc-430f-ae5b-2c64cf34daa4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      350,
+      345
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      350,
+      345
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

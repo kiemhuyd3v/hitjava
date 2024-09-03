@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "soThuTu",
+    "texture": "db2c2058-1ce9-44f1-b368-e1d55a73e217",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      462
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      462
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

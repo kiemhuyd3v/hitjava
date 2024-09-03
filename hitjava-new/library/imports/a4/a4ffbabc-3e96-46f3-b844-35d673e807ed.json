@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_symbol_2_8",
+    "texture": "b40833fb-110a-44db-8247-aae7fc81086f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lonuoc",
+    "texture": "bdcccdae-25bb-471f-a1a7-af90b3a539ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      350,
+      345
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      350,
+      345
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chamsangchay",
+    "texture": "59ca5cd7-5780-4d50-b0d9-fe07787a4347",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      40,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

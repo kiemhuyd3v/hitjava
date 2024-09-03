@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "line.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "dong_1": {
+      "__uuid__": "09db053a-320e-4157-aae4-83e40eb6898b"
+    },
+    "dong_10": {
+      "__uuid__": "495e5bc4-afe9-4035-ad09-b55d9cb5ceb7"
+    },
+    "dong_10_disable": {
+      "__uuid__": "90b2d0f6-1847-4fea-8fee-59ccd0b7acbf"
+    },
+    "dong_11": {
+      "__uuid__": "4eec4108-a280-421b-8a96-32b63117f4c9"
+    },
+    "dong_11_disable": {
+      "__uuid__": "81dfb134-8495-4ce9-848e-b12345b3c260"
+    },
+    "dong_12": {
+      "__uuid__": "d6af7914-45cc-48c6-a7d1-326b0a292b9d"
+    },
+    "dong_12_disable": {
+      "__uuid__": "8806b655-acaa-43ed-b1f7-766172c3668a"
+    },
+    "dong_13": {
+      "__uuid__": "846565b9-ae0c-40c1-8a86-c9e87ce3789d"
+    },
+    "dong_13_disable": {
+      "__uuid__": "c03a176f-a37c-4320-97c0-d4c1f9e8c980"
+    },
+    "dong_14": {
+      "__uuid__": "a82c62f5-bca9-42a3-a2a0-caccf6851ac0"
+    },
+    "dong_14_disable": {
+      "__uuid__": "d79ad8ec-f160-42c8-b85a-5bac8875148a"
+    },
+    "dong_15": {
+      "__uuid__": "4f412e0c-3d10-4557-9c70-8229dc20b99f"
+    },
+    "dong_15_disable": {
+      "__uuid__": "ba50ae3c-48dc-45f7-95e7-dd2676e10c78"
+    },
+    "dong_16": {
+      "__uuid__": "1662fa1f-37f8-4c07-b205-dd02970ba683"
+    },
+    "dong_16_disable": {
+      "__uuid__": "61fb6df8-2293-4e32-8a0d-cb7a26f992d0"
+    },
+    "dong_17": {
+      "__uuid__": "d5fe5538-fe51-417e-b232-4064f9cb4bb1"
+    },
+    "dong_17_disable": {
+      "__uuid__": "c5470525-ca92-4d41-8cff-771dc49b3a9b"
+    },
+    "dong_18": {
+      "__uuid__": "df714bbb-60fd-4820-8e67-1cf8457f30c9"
+    },
+    "dong_18_disable": {
+      "__uuid__": "de898219-f058-4cb2-a198-a6bec010e282"
+    },
+    "dong_19": {
+      "__uuid__": "b9964664-f757-4822-8f54-3b72b95efcee"
+    },
+    "dong_19_disable": {
+      "__uuid__": "dd76735e-ecfa-407a-b020-a8a6f62d24ea"
+    },
+    "dong_1_disable": {
+      "__uuid__": "ebeffd8a-b390-4251-a499-d303122281b5"
+    },
+    "dong_2": {
+      "__uuid__": "73b505fb-3f0d-49ae-8052-04ef3204533d"
+    },
+    "dong_20": {
+      "__uuid__": "2d217e04-3129-48b0-b2df-a019cd72b3d9"
+    },
+    "dong_20_disable": {
+      "__uuid__": "c236adcb-e948-47cb-afdb-0b46883f2357"
+    },
+    "dong_21": {
+      "__uuid__": "32c208df-061e-4e08-a7cf-88f08185619d"
+    },
+    "dong_21_disable": {
+      "__uuid__": "7e5ecacb-ebf0-4a1a-8785-d2872d72480d"
+    },
+    "dong_22": {
+      "__uuid__": "963c0179-3d8f-4e7c-9acf-622da27f0023"
+    },
+    "dong_22_disable": {
+      "__uuid__": "4532b023-2e14-4f6d-a481-a317af589381"
+    },
+    "dong_23": {
+      "__uuid__": "e5c9e8bb-3061-49c8-9a4c-b0f461c73adc"
+    },
+    "dong_23_disable": {
+      "__uuid__": "6b256447-f31e-4928-bad6-538f7ba91e77"
+    },
+    "dong_24": {
+      "__uuid__": "36df1cc3-081a-440c-b243-44345a89f9b5"
+    },
+    "dong_24_disable": {
+      "__uuid__": "f1376e2b-9362-477b-afa2-155a83cb2786"
+    },
+    "dong_25": {
+      "__uuid__": "2a9a6f6c-4704-4740-89c3-de542bf5e0e1"
+    },
+    "dong_25_disable": {
+      "__uuid__": "0a9c830f-0853-4402-89ec-c77977fe18e7"
+    },
+    "dong_2_disable": {
+      "__uuid__": "8261441b-2bf7-4e49-88f9-d826ae19a0a8"
+    },
+    "dong_3": {
+      "__uuid__": "b040ea26-427d-4a82-bac5-319e4fe93bc4"
+    },
+    "dong_3_disable": {
+      "__uuid__": "f404baf5-67bb-42ea-aad2-f262ab1f1f77"
+    },
+    "dong_4": {
+      "__uuid__": "604cc1db-8ff7-4d03-8ca2-7d8731445ab5"
+    },
+    "dong_4_disable": {
+      "__uuid__": "1c0e47ab-c6ad-4f75-a5f7-58b30005dd55"
+    },
+    "dong_5": {
+      "__uuid__": "0115e7b1-9f4a-49c1-aad2-0871f2000c9e"
+    },
+    "dong_5_disable": {
+      "__uuid__": "d521cb70-e0dd-4170-85fb-e29fda536765"
+    },
+    "dong_6": {
+      "__uuid__": "3a82110c-9961-4d40-8209-9301857e172f"
+    },
+    "dong_6_disable": {
+      "__uuid__": "44ebfa34-74e5-41a3-b8dd-73645aae5944"
+    },
+    "dong_7": {
+      "__uuid__": "53d3ca90-f3c3-44c2-a474-c2fb84ed355a"
+    },
+    "dong_7_disable": {
+      "__uuid__": "1a4d3eff-05fd-42d9-bcd3-3ace2a170334"
+    },
+    "dong_8": {
+      "__uuid__": "a34b502e-568f-489f-b0d4-cc7f535b7407"
+    },
+    "dong_8_disable": {
+      "__uuid__": "3323ca62-91aa-4b6c-abd9-ccdf8b0edd5e"
+    },
+    "dong_9": {
+      "__uuid__": "25199aa9-7f53-4600-a05f-f119197fa29b"
+    },
+    "dong_9_disable": {
+      "__uuid__": "de06e0b0-92e0-4c60-8afc-04a6f6a53b4e"
+    }
+  }
+}

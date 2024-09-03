@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_xoa",
+    "texture": "d2cdc246-34d3-4889-986d-57f272b270fd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

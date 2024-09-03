@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bongda",
+    "texture": "6875e37a-176f-4c62-b865-5d26ac278fa2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      292,
+      438
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      292,
+      438
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

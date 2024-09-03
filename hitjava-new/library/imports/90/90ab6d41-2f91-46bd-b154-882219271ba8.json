@@ -1,0 +1,331 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "neniteamwild",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "s1": {
+          "s1": {
+            "width": 170,
+            "height": 638
+          }
+        },
+        "s2": {
+          "s2": {
+            "rotation": 90,
+            "x": 13,
+            "width": 151,
+            "y": 0.5,
+            "height": 63
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 170,
+      "spine": "3.6.53",
+      "hash": "uw4tlGqd+MQh/SpOwQhN9MQWIcM",
+      "height": 638
+    },
+    "slots": [
+      {
+        "color": "ffffffa6",
+        "attachment": "s1",
+        "blend": "additive",
+        "name": "s1",
+        "bone": "bone2"
+      },
+      {
+        "attachment": "s2",
+        "blend": "additive",
+        "name": "s2",
+        "bone": "s2"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone"
+      },
+      {
+        "parent": "bone",
+        "name": "bone2"
+      },
+      {
+        "parent": "bone",
+        "rotation": -90,
+        "name": "s2",
+        "length": 33,
+        "x": -3.5,
+        "y": 269
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "s1": {
+            "color": [
+              {
+                "color": "ffffffa6",
+                "time": 0
+              },
+              {
+                "color": "ffffff74",
+                "time": 0.4
+              },
+              {
+                "color": "ffffffdc",
+                "time": 0.8
+              },
+              {
+                "color": "ffffff74",
+                "time": 1.2
+              },
+              {
+                "color": "ffffffa6",
+                "time": 1.6
+              }
+            ]
+          },
+          "s2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.1333
+              },
+              {
+                "color": "ffffff80",
+                "time": 0.2333
+              },
+              {
+                "color": "ffffff9f",
+                "time": 0.4
+              },
+              {
+                "color": "ffffff80",
+                "time": 0.6
+              },
+              {
+                "color": "ffffff9f",
+                "time": 0.7333
+              },
+              {
+                "color": "ffffff80",
+                "time": 0.9
+              },
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 1.0333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.1667
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1.6
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1.6
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1.6
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1.6
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ]
+          },
+          "s2": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1.6
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ],
+            "scale": [
+              {
+                "x": 0,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 2,
+                "y": 1,
+                "time": 0.1667
+              },
+              {
+                "x": 2,
+                "y": 1,
+                "time": 1
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 1,
+                "time": 1.1667
+              },
+              {
+                "x": 0,
+                "y": 1,
+                "time": 1.6
+              }
+            ],
+            "translate": [
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": -522.93,
+                "time": 1.1667
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nneniteamwild.png\nsize: 707,174\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ns1\n  rotate: true\n  xy: 2, 2\n  size: 170, 638\n  orig: 170, 638\n  offset: 0, 0\n  index: -1\ns2\n  rotate: true\n  xy: 642, 21\n  size: 151, 63\n  orig: 151, 63\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "e479de9d-cb1a-4017-9fe2-1fadc34d97df"
+    }
+  ],
+  "textureNames": [
+    "neniteamwild.png"
+  ],
+  "scale": 1
+}

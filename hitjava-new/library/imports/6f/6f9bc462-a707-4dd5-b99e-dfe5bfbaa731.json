@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "otienthang",
+    "texture": "1f04d603-0c20-4a92-90c3-ab9a54c1da77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      299,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      299,
+      145
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

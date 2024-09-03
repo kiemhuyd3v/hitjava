@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab_loto1",
+    "texture": "7a4189a1-9b5e-47f3-a2af-c00ca01e13b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      135,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

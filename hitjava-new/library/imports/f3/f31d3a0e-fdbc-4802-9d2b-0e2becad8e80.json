@@ -1,0 +1,176 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "popup_thantai.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "b81e5765-15bc-4652-9cfa-b95f63cebde4"
+    },
+    "2": {
+      "__uuid__": "afbb427c-6954-47ad-a643-da7d1c91c2f2"
+    },
+    "3": {
+      "__uuid__": "cac5a2d9-599e-4e95-b5d0-4f0ad0c4abc9"
+    },
+    "4": {
+      "__uuid__": "4b9b6037-7010-4207-87cc-d6b1ce2833ad"
+    },
+    "5": {
+      "__uuid__": "f4757c7a-c3f1-4882-8ec9-c115e694efb0"
+    },
+    "6": {
+      "__uuid__": "ecc5ac7d-b1aa-4ff3-a39e-2cc5297f4662"
+    },
+    "7": {
+      "__uuid__": "edcd4573-cfae-471d-a99d-5bbbf0228423"
+    },
+    "8": {
+      "__uuid__": "87c6fa02-2ba9-4fab-9d60-1c86bfdca279"
+    },
+    "9": {
+      "__uuid__": "af5e1b1d-5c66-432a-8540-04ccfa27beef"
+    },
+    "10": {
+      "__uuid__": "b69c6ac7-91e9-4bdd-b30b-4774c014e314"
+    },
+    "11": {
+      "__uuid__": "93ca0fbf-47fd-4a48-9164-0b60976a728a"
+    },
+    "12": {
+      "__uuid__": "1cd07d03-fe40-418b-859b-c0b0a7771d36"
+    },
+    "13": {
+      "__uuid__": "a57f6311-efed-4d70-9ff4-f01274e5aef1"
+    },
+    "14": {
+      "__uuid__": "cdf5ae7a-51bd-4435-a077-6781d1184cc7"
+    },
+    "15": {
+      "__uuid__": "983ead90-0b40-421e-9efb-b7bfea2a043e"
+    },
+    "16": {
+      "__uuid__": "1ebb1844-93f4-4d77-9df0-18abd225d370"
+    },
+    "17": {
+      "__uuid__": "585b27ac-f09d-434c-8c83-d935c2c40500"
+    },
+    "18": {
+      "__uuid__": "8a4da497-26c3-406b-87fb-02551a29995a"
+    },
+    "19": {
+      "__uuid__": "954ae917-06cd-4013-8880-dc7c51ae72bf"
+    },
+    "20": {
+      "__uuid__": "97a6f772-41ac-43a9-b64d-b35af0e2067c"
+    },
+    "21": {
+      "__uuid__": "c293fd7b-29bd-4fbb-983e-c73f35408b6e"
+    },
+    "22": {
+      "__uuid__": "41c96ce8-f73b-4267-aa82-5ae3e24b090e"
+    },
+    "23": {
+      "__uuid__": "735ece64-0953-49b5-a3ff-db0143a86e2c"
+    },
+    "24": {
+      "__uuid__": "59d83789-75db-41e0-a381-cea5d6a728bb"
+    },
+    "25": {
+      "__uuid__": "24bfe559-2e5b-4ada-b360-43c9a2ef343c"
+    },
+    "Bảng thưởng": {
+      "__uuid__": "ac81a78c-9030-4a59-834d-8352c20e58dd"
+    },
+    "Chọn dòng": {
+      "__uuid__": "f1716463-966c-433d-9d3b-9c5dc0d4679c"
+    },
+    "Lịch sử": {
+      "__uuid__": "bf922126-cfaa-4dc4-a4ea-4a344f91702d"
+    },
+    "Vinh danh": {
+      "__uuid__": "3274b768-74bd-460b-8686-632bd3123947"
+    },
+    "btn_bochon": {
+      "__uuid__": "eebdfa9a-906e-4a21-b515-aa3185b00630"
+    },
+    "btn_bochon_on": {
+      "__uuid__": "5002364d-e14d-4817-80e6-5ecc6519adbc"
+    },
+    "btn_chonchan": {
+      "__uuid__": "9196a8f3-bad7-4fc4-8ddb-85e1df3ccb98"
+    },
+    "btn_chonchan_on": {
+      "__uuid__": "9b869cc9-f8bf-43d5-bd18-dc6d30b61610"
+    },
+    "btn_chonle": {
+      "__uuid__": "ed9b9452-c866-42de-865a-fbc9183b6873"
+    },
+    "btn_chonle_on": {
+      "__uuid__": "255f87af-8d1c-4dcc-9a28-fad693cb7e06"
+    },
+    "btn_spin": {
+      "__uuid__": "e00e1aae-caa0-4dd5-bcb0-11b85cf87700"
+    },
+    "btn_tatca": {
+      "__uuid__": "c992c768-1700-41e5-b889-966cce121431"
+    },
+    "btn_tatca_on": {
+      "__uuid__": "bf2c934c-1406-40ac-b60b-effeb23a118a"
+    },
+    "btn_tumo": {
+      "__uuid__": "006a0584-b525-4fdc-b9cf-78158fdca4e9"
+    },
+    "frame": {
+      "__uuid__": "0dda65b9-517d-4085-8dd0-0f64c56f0908"
+    },
+    "frame_small": {
+      "__uuid__": "eda3ac57-2d25-417f-9d02-0cb4fdeb9438"
+    },
+    "frame_tổng thắng": {
+      "__uuid__": "79c72a14-cf59-4920-91e1-8a598639b421"
+    },
+    "ic_arrow": {
+      "__uuid__": "e4d5413b-e15d-4f52-8d86-85bc794af373"
+    },
+    "ic_close": {
+      "__uuid__": "de3b09db-775c-4a3c-ab99-b9ea839ab35c"
+    },
+    "item_disable": {
+      "__uuid__": "b40dd6f9-164e-4cbf-aad0-ddab1ef5c882"
+    },
+    "item_enable": {
+      "__uuid__": "a61c53db-b2d3-4c56-b9d4-8b82e6edd92c"
+    },
+    "item_normal": {
+      "__uuid__": "2be3ac68-d838-4642-8e8d-db7ae19712f7"
+    },
+    "page_1": {
+      "__uuid__": "f2498ecb-913b-453f-b25a-7d708ef70393"
+    },
+    "page_2": {
+      "__uuid__": "f2936124-e47c-487b-aded-08981d5cd465"
+    },
+    "page_3": {
+      "__uuid__": "46fca755-9da6-4e6a-b1a6-004a6abfd4d3"
+    },
+    "roll": {
+      "__uuid__": "b0babf58-5bfa-47e2-a452-b66c03d2fadd"
+    },
+    "sangphai": {
+      "__uuid__": "52a4e21b-85b5-48eb-ae9c-fb75472b36e4"
+    },
+    "sangtrai": {
+      "__uuid__": "12fa5e5a-65ea-4339-b1cc-8178e738d630"
+    },
+    "shadow": {
+      "__uuid__": "c6d6d5bc-7b3c-4421-a1d5-61f5427f8764"
+    },
+    "title_danhsach": {
+      "__uuid__": "232a9df2-0233-4ae6-b2b2-5934587c42f0"
+    },
+    "title_danhsach_vinhdanh": {
+      "__uuid__": "34d98de3-1895-4a7a-9c08-9e86653c8848"
+    }
+  }
+}

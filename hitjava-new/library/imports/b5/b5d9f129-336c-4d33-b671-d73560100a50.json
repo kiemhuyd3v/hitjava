@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TWSymbolGeraltWild",
+    "texture": "4ed55164-853c-43f8-947b-57632ae2225b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      800,
+      642
+    ],
+    "offset": [
+      -7.5,
+      0
+    ],
+    "originalSize": [
+      819,
+      646
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

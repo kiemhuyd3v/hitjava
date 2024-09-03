@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_datcuoc",
+    "texture": "1f262da0-ab1b-4099-a4b4-cc13938ec7ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "light_win",
+    "texture": "21be8353-d053-4bb2-926c-20cad9123f43",
+    "atlas": "0d24dec3-dd40-41ee-8de6-9a695a856bd3",
+    "rect": [
+      389,
+      1632,
+      367,
+      291
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      367,
+      291
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

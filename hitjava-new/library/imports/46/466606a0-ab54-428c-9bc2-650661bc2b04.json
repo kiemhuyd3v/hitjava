@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "othe-thao@2x",
+    "texture": "42e934e6-421b-4999-a09f-8cc217f9e952",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      213,
+      222
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      222
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

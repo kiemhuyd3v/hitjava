@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nhanvat",
+    "texture": "81e9ba47-c893-4ac8-9209-4fc263a7e361",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      1742,
+      497
+    ],
+    "offset": [
+      -150,
+      3.5
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

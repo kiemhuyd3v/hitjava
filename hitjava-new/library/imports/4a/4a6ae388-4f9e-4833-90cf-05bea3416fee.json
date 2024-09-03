@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jackpot_font_number-export",
+    "texture": "cc7fa575-64a9-4d2d-b55d-850d245aebd6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      155
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      141,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

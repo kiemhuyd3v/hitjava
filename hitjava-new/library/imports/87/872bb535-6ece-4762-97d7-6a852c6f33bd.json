@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect win euro3",
+    "texture": "101aa820-9421-4a22-833c-b5b918882531",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1184,
+      1056
+    ],
+    "offset": [
+      -429,
+      493
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

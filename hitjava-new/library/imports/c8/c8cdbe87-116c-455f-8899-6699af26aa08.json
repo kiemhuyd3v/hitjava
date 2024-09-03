@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold_text-export",
+    "texture": "a657fdad-d3b1-4203-aa0d-d19ad79eca29",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      462,
+      511
+    ],
+    "offset": [
+      -25,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

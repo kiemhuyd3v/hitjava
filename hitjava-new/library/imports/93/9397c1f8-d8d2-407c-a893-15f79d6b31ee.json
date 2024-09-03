@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank-sea",
+    "texture": "d9ac9a7c-6497-454f-b69f-9f1151957b41",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

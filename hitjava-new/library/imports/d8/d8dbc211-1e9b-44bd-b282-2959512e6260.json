@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res-CardGame-MauBinh-rs_tuqui",
+    "texture": "deaadbe6-33fa-46ae-8a13-a83be78f1b6c",
+    "atlas": "e1400530-0339-4c93-9643-d5769aca5cb8",
+    "rect": [
+      299,
+      198,
+      196,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      48
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

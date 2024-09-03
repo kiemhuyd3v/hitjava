@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "line_tab",
+    "texture": "ad809ca4-fad3-4b0e-ac50-b3afe429b10d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      11,
+      359
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      11,
+      359
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

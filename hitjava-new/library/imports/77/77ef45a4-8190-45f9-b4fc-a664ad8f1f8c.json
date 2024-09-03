@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fonttiennguoichoi_font",
+    "texture": "d4bd0c36-f83f-4ea8-82b2-b0a5295ea959",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      101
+    ],
+    "offset": [
+      -5,
+      5
+    ],
+    "originalSize": [
+      107,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

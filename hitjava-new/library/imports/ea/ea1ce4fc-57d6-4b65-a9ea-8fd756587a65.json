@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "so_da_chon",
+    "texture": "d9664c48-d3d8-4d54-b01b-f057dddb42a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      25,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      25,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

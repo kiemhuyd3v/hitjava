@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "footerDetailHistory",
+    "texture": "640a2b5f-f97d-40ff-89a5-60a729ebbd21",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      980,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      980,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "round_date_location",
+    "texture": "a2aa7a58-92f0-4eaf-9e38-57ebaa7e49d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      279,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      279,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NAP_TIEN",
+    "texture": "f8f5c4e2-0d23-4ca5-89ae-66190a0d4187",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      1018,
+      263
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      1024,
+      268
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "animhombonus",
+    "texture": "4188784c-f06a-4959-be41-e9865802388e",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      725,
+      259
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      729,
+      263
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

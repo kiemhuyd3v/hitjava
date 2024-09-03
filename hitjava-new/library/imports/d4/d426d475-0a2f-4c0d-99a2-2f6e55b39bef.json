@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "borderSoiCau",
+    "texture": "deaa536c-dedd-4921-9bc3-c6affbd1391b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      516,
+      28
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      516,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

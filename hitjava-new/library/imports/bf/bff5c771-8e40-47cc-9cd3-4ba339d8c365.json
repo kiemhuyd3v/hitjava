@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_bonus.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bích": {
+      "__uuid__": "2928334f-2579-432a-a5ce-6cb37f8c9bf7"
+    },
+    "cơ": {
+      "__uuid__": "afb14413-b215-4a37-8d1d-08db037ea20f"
+    },
+    "frame_soluot": {
+      "__uuid__": "46596c97-5a6a-467d-83f1-d32dcfd2d3a8"
+    },
+    "frame_thang": {
+      "__uuid__": "248f8c10-65ac-4bef-b56d-dcd519bbe29b"
+    },
+    "frame_thongbao": {
+      "__uuid__": "81f03c6e-3da1-45c6-814f-219e7b5c2552"
+    },
+    "frame_win": {
+      "__uuid__": "741860cc-17d6-4752-84d3-26ceb33ee627"
+    },
+    "labai": {
+      "__uuid__": "677817a9-dd54-4fc2-a0e3-f8acadd7d8ba"
+    },
+    "labai_lose": {
+      "__uuid__": "5a3e4303-20f1-4473-89fd-39821fbaee9d"
+    },
+    "labai_win": {
+      "__uuid__": "c664e866-25a1-49ce-8f6d-71d5a2f9eb11"
+    },
+    "light_win": {
+      "__uuid__": "fd259937-8a1f-41cf-9959-21837ee41a5f"
+    },
+    "miss": {
+      "__uuid__": "1762224f-c2b6-4fa9-892a-1fc05c1c7c5b"
+    },
+    "rô": {
+      "__uuid__": "eeb41c89-e4b2-4cd2-a81d-d58c7629fc2e"
+    },
+    "title_thongbao": {
+      "__uuid__": "103072e0-383c-4e0b-87d4-348b0216e20f"
+    },
+    "tép": {
+      "__uuid__": "bacbce0f-97ab-4c0f-b296-898af8663c31"
+    }
+  }
+}

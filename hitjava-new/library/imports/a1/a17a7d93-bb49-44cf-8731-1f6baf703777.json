@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank_bidv",
+    "texture": "7878146e-a676-4b46-9527-e0b7d9a7e359",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

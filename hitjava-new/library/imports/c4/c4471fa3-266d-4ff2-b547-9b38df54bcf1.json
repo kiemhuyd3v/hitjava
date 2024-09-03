@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "item.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "2": {
+      "__uuid__": "8cd26956-4641-441b-bdee-3d1424a07c8f"
+    },
+    "3": {
+      "__uuid__": "917fed65-0319-41f9-b37d-e89d6fa39a48"
+    },
+    "4": {
+      "__uuid__": "cf1b2413-8497-4bac-8acc-055e2bd69ef0"
+    },
+    "5": {
+      "__uuid__": "7103b325-1d64-4c18-9cda-a98eb9bb901e"
+    },
+    "6": {
+      "__uuid__": "3bb8979a-9f26-47c4-9d86-01827b899b08"
+    },
+    "7": {
+      "__uuid__": "77bf402e-3160-4c62-bb4c-748d14e0c7cf"
+    },
+    "8": {
+      "__uuid__": "29cb76c7-f9b5-4935-9ea6-40ae18430d7e"
+    },
+    "9": {
+      "__uuid__": "15ac04b9-6997-4f77-9fbe-a6ab38c233c1"
+    },
+    "10": {
+      "__uuid__": "2fea07f7-325b-4921-834d-ff7dda9d68d5"
+    },
+    "J": {
+      "__uuid__": "28c8428b-2ac4-42bd-bb82-5f742bf4e919"
+    },
+    "Popup_FreeG_decor": {
+      "__uuid__": "408f198a-d04d-4e96-861d-44fac7a0cc4d"
+    },
+    "Q": {
+      "__uuid__": "c42a2971-6bc8-4c74-8feb-c06fb7520e65"
+    },
+    "s1": {
+      "__uuid__": "af1abbd8-2c97-41bf-8010-4c4bbf342c11"
+    }
+  }
+}

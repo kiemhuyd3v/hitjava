@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonngang_on",
+    "texture": "9496925a-db74-4367-8b49-7c3e1a6afd44",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

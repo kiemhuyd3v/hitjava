@@ -1,0 +1,76 @@
+
+bgdatcua.png
+size: 1053,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 2, 2
+  size: 223, 46
+  orig: 223, 46
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 227, 2
+  size: 223, 46
+  orig: 223, 46
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: false
+  xy: 452, 2
+  size: 223, 46
+  orig: 223, 46
+  offset: 0, 0
+  index: -1
+bg4
+  rotate: false
+  xy: 677, 2
+  size: 223, 46
+  orig: 223, 46
+  offset: 0, 0
+  index: -1
+clock1
+  rotate: false
+  xy: 987, 5
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+clock2
+  rotate: false
+  xy: 1009, 5
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+clock3
+  rotate: false
+  xy: 1031, 5
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+textdatcua
+  rotate: false
+  xy: 987, 31
+  size: 58, 17
+  orig: 58, 17
+  offset: 0, 0
+  index: -1
+textquayxeng
+  rotate: false
+  xy: 902, 11
+  size: 79, 17
+  orig: 79, 17
+  offset: 0, 0
+  index: -1
+texttrathuong
+  rotate: false
+  xy: 902, 30
+  size: 83, 18
+  orig: 83, 18
+  offset: 0, 0
+  index: -1

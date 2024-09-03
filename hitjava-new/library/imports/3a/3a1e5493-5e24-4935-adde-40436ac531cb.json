@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderDemSo",
+    "texture": "5664f21d-9408-43ee-8863-e190812f648a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

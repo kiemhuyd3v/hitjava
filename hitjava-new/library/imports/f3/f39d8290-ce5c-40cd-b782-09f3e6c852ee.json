@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sheld_poptx",
+    "texture": "692d47a0-db66-45b7-ae54-60f9fc359af4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

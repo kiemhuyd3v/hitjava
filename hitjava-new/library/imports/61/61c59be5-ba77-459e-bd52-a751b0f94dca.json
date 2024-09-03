@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgSoiCau",
+    "texture": "57ea6b48-853f-4bd9-af57-06f8e73e3bcb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      515,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      515,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

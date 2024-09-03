@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgdangnhap",
+    "texture": "1ea5d010-b75f-470a-b4f5-2b2ba5395a8c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      205,
+      66
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      205,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

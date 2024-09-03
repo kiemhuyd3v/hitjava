@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "conCa",
+    "texture": "77f730b3-c46e-4dbf-b248-6bd05f270d6c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

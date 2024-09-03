@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "conTom",
+    "texture": "20d40793-2b01-4ea1-bb84-7b8157c7b9a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

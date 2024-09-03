@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuyenkhoan-tab-active",
+    "texture": "64113d5b-fb2d-4eb1-bb00-c6657d6ef0b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      245,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      245,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

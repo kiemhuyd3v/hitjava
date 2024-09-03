@@ -1,0 +1,299 @@
+
+homBonus.png
+size: 1477,1482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 381, 323
+  orig: 384, 323
+  offset: 3, 0
+  index: -1
+10
+  rotate: false
+  xy: 606, 411
+  size: 207, 258
+  orig: 384, 323
+  offset: 118, 5
+  index: -1
+11
+  rotate: false
+  xy: 385, 800
+  size: 197, 233
+  orig: 384, 323
+  offset: 109, 5
+  index: -1
+16
+  rotate: false
+  xy: 967, 671
+  size: 219, 210
+  orig: 384, 323
+  offset: 101, 5
+  index: -1
+17
+  rotate: false
+  xy: 1231, 143
+  size: 221, 206
+  orig: 384, 323
+  offset: 100, 5
+  index: -1
+18
+  rotate: false
+  xy: 1231, 351
+  size: 222, 201
+  orig: 384, 323
+  offset: 100, 5
+  index: -1
+2
+  rotate: false
+  xy: 2, 385
+  size: 381, 323
+  orig: 384, 323
+  offset: 3, 0
+  index: -1
+21
+  rotate: false
+  xy: 815, 417
+  size: 215, 252
+  orig: 384, 323
+  offset: 104, 5
+  index: -1
+23
+  rotate: true
+  xy: 648, 40
+  size: 369, 293
+  orig: 384, 323
+  offset: 15, 5
+  index: -1
+24
+  rotate: true
+  xy: 943, 87
+  size: 328, 286
+  orig: 384, 323
+  offset: 56, 5
+  index: -1
+29
+  rotate: false
+  xy: 1134, 883
+  size: 328, 286
+  orig: 384, 323
+  offset: 56, 4
+  index: -1
+3
+  rotate: true
+  xy: 327, 2
+  size: 381, 319
+  orig: 384, 323
+  offset: 3, 0
+  index: -1
+38
+  rotate: true
+  xy: 1188, 554
+  size: 327, 287
+  orig: 384, 323
+  offset: 57, 3
+  index: -1
+4
+  rotate: false
+  xy: 584, 671
+  size: 381, 323
+  orig: 384, 323
+  offset: 3, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 710
+  size: 381, 323
+  orig: 384, 323
+  offset: 3, 0
+  index: -1
+6
+  rotate: false
+  xy: 1134, 1171
+  size: 337, 309
+  orig: 384, 323
+  offset: 47, 0
+  index: -1
+8
+  rotate: true
+  xy: 385, 581
+  size: 217, 197
+  orig: 384, 323
+  offset: 114, 5
+  index: -1
+9
+  rotate: false
+  xy: 385, 399
+  size: 219, 180
+  orig: 384, 323
+  offset: 127, 4
+  index: -1
+pngguru.com
+  rotate: false
+  xy: 2, 1035
+  size: 582, 445
+  orig: 582, 445
+  offset: 0, 0
+  index: -1
+pngguru.com copy
+  rotate: false
+  xy: 586, 996
+  size: 546, 484
+  orig: 546, 484
+  offset: 0, 0
+  index: -1
+
+homBonus2.png
+size: 1446,1207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: true
+  xy: 1197, 1001
+  size: 204, 221
+  orig: 384, 323
+  offset: 94, 5
+  index: -1
+13
+  rotate: true
+  xy: 1197, 573
+  size: 208, 209
+  orig: 384, 323
+  offset: 82, 4
+  index: -1
+14
+  rotate: true
+  xy: 2, 3
+  size: 212, 209
+  orig: 384, 323
+  offset: 84, 4
+  index: -1
+15
+  rotate: false
+  xy: 433, 2
+  size: 216, 215
+  orig: 384, 323
+  offset: 102, 5
+  index: -1
+19
+  rotate: false
+  xy: 213, 4
+  size: 218, 211
+  orig: 384, 323
+  offset: 101, 5
+  index: -1
+20
+  rotate: false
+  xy: 651, 2
+  size: 216, 217
+  orig: 384, 323
+  offset: 102, 5
+  index: -1
+22
+  rotate: true
+  xy: 2, 877
+  size: 328, 286
+  orig: 384, 323
+  offset: 56, 0
+  index: -1
+25
+  rotate: true
+  xy: 578, 549
+  size: 327, 286
+  orig: 384, 323
+  offset: 57, 5
+  index: -1
+26
+  rotate: true
+  xy: 579, 878
+  size: 327, 285
+  orig: 384, 323
+  offset: 57, 5
+  index: -1
+27
+  rotate: true
+  xy: 2, 217
+  size: 328, 285
+  orig: 384, 323
+  offset: 56, 5
+  index: -1
+28
+  rotate: true
+  xy: 2, 547
+  size: 328, 285
+  orig: 384, 323
+  offset: 56, 5
+  index: -1
+30
+  rotate: false
+  xy: 869, 629
+  size: 326, 287
+  orig: 384, 323
+  offset: 56, 3
+  index: -1
+31
+  rotate: true
+  xy: 1157, 25
+  size: 313, 287
+  orig: 384, 323
+  offset: 56, 3
+  index: -1
+32
+  rotate: true
+  xy: 869, 20
+  size: 318, 286
+  orig: 384, 323
+  offset: 55, 4
+  index: -1
+33
+  rotate: false
+  xy: 869, 340
+  size: 320, 287
+  orig: 384, 323
+  offset: 56, 3
+  index: -1
+34
+  rotate: false
+  xy: 869, 918
+  size: 326, 287
+  orig: 384, 323
+  offset: 56, 3
+  index: -1
+35
+  rotate: true
+  xy: 578, 221
+  size: 326, 287
+  orig: 384, 323
+  offset: 57, 3
+  index: -1
+36
+  rotate: true
+  xy: 289, 219
+  size: 327, 287
+  orig: 384, 323
+  offset: 57, 3
+  index: -1
+37
+  rotate: true
+  xy: 290, 878
+  size: 327, 287
+  orig: 384, 323
+  offset: 57, 3
+  index: -1
+39
+  rotate: true
+  xy: 289, 548
+  size: 327, 287
+  orig: 384, 323
+  offset: 57, 3
+  index: -1
+7
+  rotate: true
+  xy: 1197, 783
+  size: 216, 217
+  orig: 384, 323
+  offset: 102, 5
+  index: -1

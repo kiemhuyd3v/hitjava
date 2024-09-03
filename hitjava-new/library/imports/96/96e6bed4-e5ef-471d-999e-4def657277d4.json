@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slideOnOf",
+    "texture": "f561be0a-7836-44af-bbcc-8931dbf415f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

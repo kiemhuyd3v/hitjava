@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_thanbai",
+    "texture": "6745495e-8cb2-47f9-aeea-2753359c6588",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      316,
+      322
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      317,
+      322
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

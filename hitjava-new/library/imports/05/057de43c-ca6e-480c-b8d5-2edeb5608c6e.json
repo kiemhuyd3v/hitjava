@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_vaoban",
+    "texture": "34aee3d0-8bf6-4e12-9c36-49475b46707b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "labai_41",
+    "texture": "93b45f1a-d14f-430a-b1a0-69ea5312b12e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      161
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      161
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

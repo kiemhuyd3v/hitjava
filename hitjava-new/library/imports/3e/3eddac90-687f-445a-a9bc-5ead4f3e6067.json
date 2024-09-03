@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taocode_no1",
+    "texture": "8735c607-0a09-4871-857c-722afc68c098",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

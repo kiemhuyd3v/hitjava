@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UUU",
+    "texture": "5ea12ab8-80ca-45dc-9d33-3d3dbd5e0fda",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      815,
+      1280
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      815,
+      1280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Group 63 copy 2",
+    "texture": "8c8d0f5c-5e3f-41ee-b235-9022a6601424",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      213,
+      226
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      226
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

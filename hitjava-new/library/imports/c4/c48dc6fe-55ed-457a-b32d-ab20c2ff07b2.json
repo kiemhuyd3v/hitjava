@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huy_sun",
+    "texture": "5c258b8b-5fa5-47c6-9f1d-6baafa41f54e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

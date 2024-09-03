@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dangKy",
+    "texture": "3791d581-59e8-48a0-b480-19431626a95d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      258,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      258,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_bg_so_phong",
+    "texture": "1ce684e6-36c2-4bee-8a92-ee49e395ff2d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      86
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      153,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

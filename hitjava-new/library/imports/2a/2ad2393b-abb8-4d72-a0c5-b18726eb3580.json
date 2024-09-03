@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xito",
+    "texture": "2e7eaef0-d8ef-481f-adba-657cde1fef5f",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      213,
+      221
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      217,
+      221
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

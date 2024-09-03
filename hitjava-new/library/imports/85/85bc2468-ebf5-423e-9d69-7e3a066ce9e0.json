@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "congdong",
+    "texture": "e447fec2-7b4c-461d-9c64-f2d6d9984d08",
+    "atlas": "",
+    "rect": [
+      1,
+      9,
+      206,
+      60
+    ],
+    "offset": [
+      -3,
+      -4
+    ],
+    "originalSize": [
+      214,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

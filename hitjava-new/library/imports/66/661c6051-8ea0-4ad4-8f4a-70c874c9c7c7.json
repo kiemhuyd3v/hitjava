@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xhuzombie",
+    "texture": "049d2df7-89da-405d-b2b0-79ee6fac24cf",
+    "atlas": "",
+    "rect": [
+      2,
+      6,
+      344,
+      233
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      348,
+      242
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

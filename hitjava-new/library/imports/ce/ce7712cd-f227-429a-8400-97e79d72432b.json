@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sontinhthuytinh",
+    "texture": "8a905d2f-2074-41a6-8c4c-0f8992506010",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      278,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      278,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

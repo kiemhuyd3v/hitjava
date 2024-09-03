@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baccarat16",
+    "texture": "a9a39175-f872-4316-bbf1-7a438b468ca7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      346
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      259,
+      346
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

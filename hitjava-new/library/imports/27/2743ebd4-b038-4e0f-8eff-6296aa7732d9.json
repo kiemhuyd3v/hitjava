@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TWSymbolTrissWild",
+    "texture": "59225234-f26d-47a6-add5-6b9323d3dd92",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      508,
+      252
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

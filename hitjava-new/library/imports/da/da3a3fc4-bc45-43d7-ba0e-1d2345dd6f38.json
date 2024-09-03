@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameBaiOffCopy",
+    "texture": "9c12a234-75cb-4406-afb7-1c5cb95a5027",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angrybirds_font_money2",
+    "texture": "490335d3-4854-488a-8027-11275b771abb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      114
+    ],
+    "offset": [
+      -21.5,
+      7
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_bikini",
+    "texture": "2b41c29c-7944-4ccf-927d-e17d759a49f0",
+    "atlas": "",
+    "rect": [
+      17,
+      12,
+      316,
+      322
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      350,
+      345
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

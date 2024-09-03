@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boxinside2",
+    "texture": "36565401-bd4b-497f-9cba-4405244e6ebb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      676
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      676
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

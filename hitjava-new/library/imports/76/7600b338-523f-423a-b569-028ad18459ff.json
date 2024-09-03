@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Button_Loc",
+    "texture": "94711ccf-89d1-45da-bb3b-6822a650c140",
+    "atlas": "",
+    "rect": [
+      2,
+      25,
+      306,
+      274
+    ],
+    "offset": [
+      0,
+      -8
+    ],
+    "originalSize": [
+      310,
+      308
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

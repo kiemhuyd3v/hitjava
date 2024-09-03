@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_qua",
+    "texture": "c485af26-d591-4a08-9926-16f9be07e465",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

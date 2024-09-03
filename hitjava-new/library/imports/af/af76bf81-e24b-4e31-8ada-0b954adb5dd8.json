@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toggleSoundOff",
+    "texture": "4fdeda1a-96eb-4cce-8dcd-9d321d850782",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      68,
+      68
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      71,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

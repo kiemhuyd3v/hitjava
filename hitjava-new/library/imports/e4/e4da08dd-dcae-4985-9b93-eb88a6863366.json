@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_sung1",
+    "texture": "db07d0a7-6e65-442a-a523-cf369eec010d",
+    "atlas": "",
+    "rect": [
+      9,
+      5,
+      164,
+      73
+    ],
+    "offset": [
+      -0.5,
+      -2.5
+    ],
+    "originalSize": [
+      183,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chilken_icon",
+    "texture": "033650a7-003d-42fc-b4ed-6cea19e43d98",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

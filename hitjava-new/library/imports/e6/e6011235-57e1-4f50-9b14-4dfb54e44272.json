@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconoantuti",
+    "texture": "fcd278af-54cf-49ea-86a0-04e6a4667fca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

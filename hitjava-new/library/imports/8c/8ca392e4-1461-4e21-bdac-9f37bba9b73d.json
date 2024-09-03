@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "topTX_check",
+    "texture": "8dd2a332-7944-48bc-868b-03aa2767e2ee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      82
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      102,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

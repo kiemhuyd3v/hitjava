@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Symbol_0_Gold",
+    "texture": "6f739689-1c6b-4eee-80c9-15c91515d36b",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      251,
+      199
+    ],
+    "offset": [
+      -0.5,
+      25.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

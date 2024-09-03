@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo-giauto",
+    "texture": "ccdc67e5-761c-4ae2-94b8-9d62270984bf",
+    "atlas": "",
+    "rect": [
+      3,
+      9,
+      884,
+      905
+    ],
+    "offset": [
+      -15,
+      -1.5
+    ],
+    "originalSize": [
+      920,
+      920
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

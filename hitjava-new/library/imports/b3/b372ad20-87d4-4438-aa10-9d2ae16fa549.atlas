@@ -1,0 +1,48 @@
+
+xhuzombie.png
+size: 348,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 141, 2
+  size: 202, 158
+  orig: 202, 158
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 2, 170
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+huzombie
+  rotate: true
+  xy: 2, 25
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 258, 162
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 75, 163
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 167, 163
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1

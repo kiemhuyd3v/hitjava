@@ -1,0 +1,27 @@
+
+btn kichhoat.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2000 VND
+  rotate: false
+  xy: 2, 2
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+Kích Hoạt Nhận
+  rotate: false
+  xy: 275, 82
+  size: 215, 42
+  orig: 215, 42
+  offset: 0, 0
+  index: -1
+Rounded Rectangle 1
+  rotate: false
+  xy: 2, 38
+  size: 271, 86
+  orig: 271, 86
+  offset: 0, 0
+  index: -1

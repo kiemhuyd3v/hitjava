@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank-sacom",
+    "texture": "af4dd7c4-5b71-45a5-831e-d397545cbe10",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

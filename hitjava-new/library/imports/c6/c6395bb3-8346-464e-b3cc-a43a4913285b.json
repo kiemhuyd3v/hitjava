@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tet_backup",
+    "texture": "80126d71-fc6b-438d-b6cd-a48f6a2f24b3",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      2022,
+      1220
+    ],
+    "offset": [
+      -11,
+      413
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

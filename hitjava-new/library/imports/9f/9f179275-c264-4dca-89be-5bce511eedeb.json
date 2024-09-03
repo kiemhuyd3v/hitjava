@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_box_nhapid",
+    "texture": "26418c29-a924-4b01-883a-90c260ad46dd",
+    "atlas": "91825f77-71cb-44a7-aea8-bfb68d0d8815",
+    "rect": [
+      0,
+      1828,
+      317,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      317,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

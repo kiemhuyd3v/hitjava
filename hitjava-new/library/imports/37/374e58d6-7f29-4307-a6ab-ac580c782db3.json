@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khungspin_bot",
+    "texture": "198f61f1-ed9a-428c-81ca-ea8da27a4e0f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      439,
+      34
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      439,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Small_Icon_thantai",
+    "texture": "d3bd5ac1-96fd-4854-9a26-dbabd377ee68",
+    "atlas": "e3eeada1-18b1-41bc-9547-c3a6827bc229",
+    "rect": [
+      429,
+      82,
+      78,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

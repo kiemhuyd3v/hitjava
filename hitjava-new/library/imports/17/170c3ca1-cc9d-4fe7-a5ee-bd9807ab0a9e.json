@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baomat",
+    "texture": "da4d54a9-ea1d-44fa-bc4c-742dced9e71d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      142,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      142,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

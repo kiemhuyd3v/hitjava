@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "help_bank",
+    "texture": "d5874df1-9645-4d48-90d6-0a076388b325",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1195,
+      666
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1195,
+      666
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

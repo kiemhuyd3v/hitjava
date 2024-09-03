@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TL_Symbol_Electric",
+    "texture": "75be4168-ac96-4073-ab67-46b8644f5d19",
+    "atlas": "",
+    "rect": [
+      2,
+      8,
+      502,
+      487
+    ],
+    "offset": [
+      -2.5,
+      -3
+    ],
+    "originalSize": [
+      511,
+      497
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NguoiAnh",
+    "texture": "caf15bb8-dd07-4455-95a7-d59aaf4bb526",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      344,
+      140
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      348,
+      144
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

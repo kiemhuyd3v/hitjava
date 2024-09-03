@@ -1,0 +1,140 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "baucua.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bat": {
+      "__uuid__": "01b5fab3-fdd7-4a50-a2a7-26419550d764"
+    },
+    "bg": {
+      "__uuid__": "52f3dfd4-d2f5-4cd0-8901-3e38e419ae63"
+    },
+    "bg_chip": {
+      "__uuid__": "05122721-a00b-4973-a5b5-90f396bfafe9"
+    },
+    "bg_cuoc": {
+      "__uuid__": "8c247c01-4be4-44b9-b0bc-d797b3ee8d08"
+    },
+    "bg_lichsu": {
+      "__uuid__": "de8f27a4-2317-47f1-8876-fa338bdd50a6"
+    },
+    "bg_line": {
+      "__uuid__": "cbbcc732-856d-476e-868d-353ab5715ed8"
+    },
+    "btn_datlai": {
+      "__uuid__": "6104dcaa-dd17-4074-904b-3e5fe9bd666a"
+    },
+    "btn_doicau": {
+      "__uuid__": "136be07f-b946-41b5-9dff-f4ca0ecf909f"
+    },
+    "btn_dongy": {
+      "__uuid__": "5e28e29d-955a-4a59-9ce9-8d015be34f9e"
+    },
+    "btn_huy": {
+      "__uuid__": "6f3758ef-2827-4024-b788-cbef3f20d37e"
+    },
+    "chip_100k": {
+      "__uuid__": "54475b8f-7dae-4dfa-a6a0-5476bb992a39"
+    },
+    "chip_10k": {
+      "__uuid__": "39f8eb36-83ee-4f8f-870b-947b54698b07"
+    },
+    "chip_1k": {
+      "__uuid__": "54dacea7-67a0-4d01-b2af-c4393997ae79"
+    },
+    "chip_50k": {
+      "__uuid__": "43f27715-ba3a-483a-997d-64ab4d6ae032"
+    },
+    "chip_5k": {
+      "__uuid__": "23598482-7357-45ad-8eb1-21637bdc3a03"
+    },
+    "dia": {
+      "__uuid__": "d1cfb14e-1445-4704-8a3c-d6a4fb2ef107"
+    },
+    "ic_bau": {
+      "__uuid__": "95c2d675-c369-40a5-bc8b-08f6223f2ac9"
+    },
+    "ic_ca": {
+      "__uuid__": "5122ac01-6d93-40ad-963c-510f8a4e1ad0"
+    },
+    "ic_close": {
+      "__uuid__": "d54addc7-1c11-4c15-9652-a1ab9608c6e7"
+    },
+    "ic_cua": {
+      "__uuid__": "66409320-992a-46c5-b32a-2e35a9efa8ce"
+    },
+    "ic_ga": {
+      "__uuid__": "b415bcc7-c112-417e-8472-1ff34032451a"
+    },
+    "ic_info": {
+      "__uuid__": "95499011-de15-42bc-b9f2-9f6d8cd60851"
+    },
+    "ic_kq_bau": {
+      "__uuid__": "9c547d34-2fa1-4035-8aaf-c26e6dfdde8d"
+    },
+    "ic_kq_ca": {
+      "__uuid__": "6692c066-9677-498a-bfa2-22a0e77a34b2"
+    },
+    "ic_kq_cua": {
+      "__uuid__": "c5ce80d6-6757-4786-9360-0013b0b050cd"
+    },
+    "ic_kq_ga": {
+      "__uuid__": "ba0ec073-7754-4301-84dd-9c0f1ba40932"
+    },
+    "ic_kq_nai": {
+      "__uuid__": "a2daaafe-8e99-4cfe-953a-80ad78139c3b"
+    },
+    "ic_kq_tom": {
+      "__uuid__": "bca48db4-64fa-42a5-98c3-779357c290df"
+    },
+    "ic_lichsu": {
+      "__uuid__": "e5fbdcce-2279-4a44-8e13-42b580075aee"
+    },
+    "ic_nai": {
+      "__uuid__": "44a85b75-baf5-47e8-8456-c35839009b98"
+    },
+    "ic_sangphai": {
+      "__uuid__": "d64788da-9e8c-4953-853d-9266151e58b5"
+    },
+    "ic_sangtrai": {
+      "__uuid__": "578c688f-2142-4502-a887-9004a85dc286"
+    },
+    "ic_soicau": {
+      "__uuid__": "993f2b32-cd43-4b55-a100-318e075c59dc"
+    },
+    "ic_tom": {
+      "__uuid__": "6e695de5-3a2a-4813-ad3c-dddf3d0385a8"
+    },
+    "ic_vinhdanh": {
+      "__uuid__": "7110d975-9685-440d-8a78-30bbf3b025df"
+    },
+    "item_bau": {
+      "__uuid__": "3bc8e414-7cc6-43d8-8f4a-71329fdb8738"
+    },
+    "item_ca": {
+      "__uuid__": "6a2528b3-716e-4c2a-acf4-236736e3dea7"
+    },
+    "item_cua": {
+      "__uuid__": "a54e9bc7-d9eb-4089-966e-7d783ed4efe8"
+    },
+    "item_ga": {
+      "__uuid__": "063fbec3-6b16-4559-bc45-bf780647dd6c"
+    },
+    "item_nai": {
+      "__uuid__": "8eb56b22-3251-4323-9ded-388795917f44"
+    },
+    "item_tom": {
+      "__uuid__": "0ca5dfa1-8271-4d85-afec-9711e70317a1"
+    },
+    "line_win": {
+      "__uuid__": "7ea99b0a-b27a-4d50-86a2-02c09dc9de59"
+    },
+    "spr_dice": {
+      "__uuid__": "48bff299-1521-49a2-8451-7639a363069d"
+    },
+    "title": {
+      "__uuid__": "88bedff9-24b6-4644-90d5-3c4053aae1fa"
+    }
+  }
+}

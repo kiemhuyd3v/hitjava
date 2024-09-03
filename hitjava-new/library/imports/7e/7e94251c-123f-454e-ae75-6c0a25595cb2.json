@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_taoban",
+    "texture": "8ed8b3da-dd0d-4332-98c3-b0bb79ac1adb",
+    "atlas": "f8d835f9-31d3-4e33-91ab-d8dca1fe6925",
+    "rect": [
+      251,
+      1948,
+      88,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

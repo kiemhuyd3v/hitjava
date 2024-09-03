@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_btn_quay",
+    "texture": "6101cedd-1c21-45f5-9fda-7fd3e2e12e9b",
+    "atlas": "6ea3250d-c44d-4b15-92cf-b111b6367bee",
+    "rect": [
+      1563,
+      1221,
+      221,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      221,
+      87
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

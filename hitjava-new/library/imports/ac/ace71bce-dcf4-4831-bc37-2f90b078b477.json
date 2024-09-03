@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baomatdangnhap-tab-active",
+    "texture": "354839aa-5f44-4bd1-b4ba-f90d5bb03210",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      245,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      245,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

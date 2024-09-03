@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_HD_nhiem_vu",
+    "texture": "33e71b8b-80f5-4af9-a201-ee731155f377",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1238,
+      635
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1238,
+      635
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

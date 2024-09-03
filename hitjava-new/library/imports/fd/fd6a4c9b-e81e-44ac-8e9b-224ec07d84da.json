@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yo_compressed",
+    "texture": "d1bd82d1-06e1-4a89-8531-580c864bcd43",
+    "atlas": "",
+    "rect": [
+      104,
+      23,
+      818,
+      406
+    ],
+    "offset": [
+      1,
+      7
+    ],
+    "originalSize": [
+      1024,
+      466
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

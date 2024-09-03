@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xdokm",
+    "texture": "a0160510-910f-4db9-a43a-6f05dd9fdd17",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      290,
+      441
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      290,
+      441
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

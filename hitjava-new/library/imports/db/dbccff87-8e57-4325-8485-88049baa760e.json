@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderBanner",
+    "texture": "17724a56-6ade-4277-aa4d-5c0e1895d980",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      410
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      274,
+      410
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

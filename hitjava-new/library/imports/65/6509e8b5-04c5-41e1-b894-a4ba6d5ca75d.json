@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boxchat",
+    "texture": "02f850e2-484b-433c-89d4-60cd7468cfc3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      413,
+      596
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      413,
+      596
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_giam",
+    "texture": "ac51c39b-902b-4e3e-ad9f-d3c628d32d82",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

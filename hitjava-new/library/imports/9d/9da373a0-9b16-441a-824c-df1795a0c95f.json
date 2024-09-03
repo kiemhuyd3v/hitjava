@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icMessenger",
+    "texture": "eab7ce2d-860e-43ae-8095-ee276bf6980b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

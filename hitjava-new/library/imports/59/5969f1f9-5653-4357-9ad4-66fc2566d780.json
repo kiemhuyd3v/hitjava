@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo-casino-chung-phat",
+    "texture": "17320026-b718-4e76-829d-46d0c2caf0e9",
+    "atlas": "",
+    "rect": [
+      65,
+      12,
+      461,
+      363
+    ],
+    "offset": [
+      -4.5,
+      6.5
+    ],
+    "originalSize": [
+      600,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

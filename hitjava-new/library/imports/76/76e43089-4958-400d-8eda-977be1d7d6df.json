@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "minimaubinhminiigame",
+    "texture": "67d80bdb-8f75-4a2d-8426-d6a878d3117a",
+    "atlas": "",
+    "rect": [
+      17,
+      12,
+      317,
+      318
+    ],
+    "offset": [
+      0.5,
+      1.5
+    ],
+    "originalSize": [
+      350,
+      345
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

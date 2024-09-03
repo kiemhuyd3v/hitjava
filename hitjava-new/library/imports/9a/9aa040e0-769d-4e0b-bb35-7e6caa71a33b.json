@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_thongtin",
+    "texture": "705c433c-ce22-4248-b1bb-45515ba878eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

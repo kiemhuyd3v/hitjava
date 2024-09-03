@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text an ga",
+    "texture": "d4fdb510-6f25-4e21-a2e2-653f78e3196b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      174,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      174,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

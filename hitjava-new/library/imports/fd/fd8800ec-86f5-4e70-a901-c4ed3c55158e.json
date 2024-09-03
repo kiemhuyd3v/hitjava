@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wildShow2",
+    "texture": "d9df3d1f-b625-4dc5-a2ca-22d8dda9dd9a",
+    "atlas": "",
+    "rect": [
+      23,
+      5,
+      1156,
+      294
+    ],
+    "offset": [
+      -423,
+      104
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

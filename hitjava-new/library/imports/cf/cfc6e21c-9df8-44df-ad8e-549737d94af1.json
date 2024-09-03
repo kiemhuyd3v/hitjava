@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Small_Icon_baucuamini",
+    "texture": "3cf942e0-2008-43b4-8612-de3995e3a7f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

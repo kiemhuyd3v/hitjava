@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Avatar58",
+    "texture": "ecdc7baf-e951-4818-9125-5cd32894890e",
+    "atlas": "39a96015-46e8-41ac-9381-522225ea6698",
+    "rect": [
+      738,
+      95,
+      95,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      94
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

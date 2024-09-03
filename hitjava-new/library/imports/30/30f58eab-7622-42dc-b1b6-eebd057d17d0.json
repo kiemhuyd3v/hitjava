@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bitcoin",
+    "texture": "f13eb422-7961-4784-95e3-cf4214e50529",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      533,
+      1006
+    ],
+    "offset": [
+      -244.5,
+      8
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

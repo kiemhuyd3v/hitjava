@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thungnohu",
+    "texture": "5c0456ee-0407-4085-973a-50aa56911526",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      1018,
+      199
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1024,
+      203
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

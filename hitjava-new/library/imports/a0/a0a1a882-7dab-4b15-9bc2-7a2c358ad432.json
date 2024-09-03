@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logogo88",
+    "texture": "77ff9311-a573-4ca0-9c4f-4464f7b8eaa8",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1180,
+      447
+    ],
+    "offset": [
+      -431,
+      29.5
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

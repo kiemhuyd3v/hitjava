@@ -1,0 +1,388 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": [
+      {
+        "attachments": {
+          "Layer 37": {
+            "Layer 37": {
+              "width": 264,
+              "y": -127.2,
+              "height": 128
+            }
+          },
+          "c": {
+            "c": {
+              "color": "ce3a3aff",
+              "vertices": [
+                -133.26,
+                160.92,
+                -131.31,
+                -153.85,
+                -115.09,
+                -168.12,
+                -108.6,
+                -183.7,
+                -61.87,
+                -198.63,
+                1.08,
+                -203.17,
+                69.88,
+                -197.33,
+                104.92,
+                -185.65,
+                114.01,
+                -166.18,
+                130.88,
+                -155.79,
+                131.57,
+                160.7,
+                116.64,
+                171.09,
+                108.2,
+                188.61,
+                72.51,
+                200.94,
+                -15.11,
+                206.13,
+                -83.79,
+                197.93,
+                -108.35,
+                191.72,
+                -113.75,
+                173.04
+              ],
+              "end": "Layer 37",
+              "type": "clipping",
+              "vertexCount": 18
+            }
+          },
+          "h1": {
+            "h1": {
+              "x": -11.03,
+              "width": 188,
+              "height": 320
+            }
+          },
+          "h2": {
+            "h2": {
+              "rotation": 6.51,
+              "x": 36.5,
+              "width": 177,
+              "y": -22,
+              "height": 344
+            }
+          },
+          "bg2": {
+            "bg2": {
+              "width": 288,
+              "y": 0.5,
+              "height": 441
+            }
+          },
+          "bg1": {
+            "bg1": {
+              "x": 0.5,
+              "width": 267,
+              "y": 0.5,
+              "height": 409
+            }
+          },
+          "t1": {
+            "t1": {
+              "x": 5,
+              "width": 166,
+              "y": -7.14,
+              "height": 85
+            }
+          },
+          "t2": {
+            "t2": {
+              "x": 0.5,
+              "width": 109,
+              "y": 0.5,
+              "height": 87
+            }
+          },
+          "b1": {
+            "b1": {
+              "width": 58,
+              "height": 58
+            }
+          }
+        },
+        "name": "default"
+      }
+    ],
+    "skeleton": {
+      "images": "./bong-88/",
+      "x": -144,
+      "width": 288,
+      "y": -220,
+      "spine": "3.8.75",
+      "audio": "",
+      "hash": "0U6pcZz7iGt67JWWoWkOlVmR8sQ",
+      "height": 441
+    },
+    "slots": [
+      {
+        "attachment": "bg1",
+        "name": "bg1",
+        "bone": "bone"
+      },
+      {
+        "attachment": "c",
+        "name": "c",
+        "bone": "bone"
+      },
+      {
+        "attachment": "h1",
+        "name": "h1",
+        "bone": "bone2"
+      },
+      {
+        "attachment": "h2",
+        "name": "h2",
+        "bone": "bone3"
+      },
+      {
+        "attachment": "b1",
+        "name": "b1",
+        "bone": "bone4"
+      },
+      {
+        "attachment": "Layer 37",
+        "name": "Layer 37",
+        "bone": "bone7"
+      },
+      {
+        "attachment": "bg2",
+        "name": "bg2",
+        "bone": "bone"
+      },
+      {
+        "attachment": "t1",
+        "name": "t1",
+        "bone": "bone5"
+      },
+      {
+        "attachment": "t2",
+        "name": "t2",
+        "bone": "bone6"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone"
+      },
+      {
+        "parent": "bone",
+        "name": "bone2",
+        "x": -42.18
+      },
+      {
+        "parent": "bone",
+        "name": "bone3"
+      },
+      {
+        "parent": "bone",
+        "name": "bone4",
+        "x": 68,
+        "y": -142
+      },
+      {
+        "parent": "root",
+        "name": "bone5"
+      },
+      {
+        "parent": "root",
+        "name": "bone6",
+        "x": 77.23,
+        "y": -53.22
+      },
+      {
+        "parent": "bone",
+        "name": "bone7"
+      }
+    ],
+    "animations": {
+      "animation": {
+        "bones": {
+          "bone3": {
+            "translate": [
+              {
+                "x": 39,
+                "y": -28
+              },
+              {
+                "curve": "stepped",
+                "x": 1.71,
+                "y": -11.34,
+                "time": 1
+              },
+              {
+                "x": 1.71,
+                "y": -11.34,
+                "time": 1.3333
+              },
+              {
+                "x": 39,
+                "y": -28,
+                "time": 2.3333
+              }
+            ]
+          },
+          "bone2": {
+            "translate": [
+              {
+                "x": 3.87
+              },
+              {
+                "curve": "stepped",
+                "x": -17.38,
+                "y": -18.13,
+                "time": 1.1667
+              },
+              {
+                "x": -17.38,
+                "y": -18.13,
+                "time": 1.3333
+              },
+              {
+                "x": 3.87,
+                "time": 2.1667
+              }
+            ]
+          },
+          "bone5": {
+            "translate": [
+              {
+                "x": -52.16,
+                "y": -38.56
+              },
+              {
+                "x": -38.9,
+                "y": -38.56,
+                "time": 0.8333
+              },
+              {
+                "x": -52.16,
+                "y": -38.56,
+                "time": 1
+              },
+              {
+                "x": -38.9,
+                "y": -38.56,
+                "time": 1.1667
+              },
+              {
+                "x": -52.16,
+                "y": -38.56,
+                "time": 1.3333
+              },
+              {
+                "x": -38.9,
+                "y": -38.56,
+                "time": 1.5
+              },
+              {
+                "x": -52.16,
+                "y": -38.56,
+                "time": 2.3333
+              }
+            ]
+          },
+          "bone4": {
+            "rotate": [
+              {},
+              {
+                "angle": 180,
+                "time": 0.5
+              },
+              {
+                "time": 1.3
+              },
+              {
+                "angle": 180,
+                "time": 2.0333
+              },
+              {
+                "time": 2.3333
+              }
+            ],
+            "scale": [
+              {
+                "x": 0.914,
+                "y": 0.914
+              }
+            ],
+            "translate": [
+              {},
+              {
+                "x": 19.55,
+                "y": 29.75,
+                "time": 0.8667
+              },
+              {
+                "x": -13.6,
+                "y": -5.1,
+                "time": 1.0667
+              },
+              {
+                "time": 1.7667
+              }
+            ]
+          },
+          "bone6": {
+            "translate": [
+              {
+                "x": 20.09
+              },
+              {
+                "x": 6.83,
+                "time": 0.8333
+              },
+              {
+                "x": 20.09,
+                "time": 1
+              },
+              {
+                "x": 6.83,
+                "time": 1.1667
+              },
+              {
+                "x": 20.09,
+                "time": 1.3333
+              },
+              {
+                "x": 6.83,
+                "time": 1.5
+              },
+              {
+                "x": 20.09,
+                "time": 2.3333
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nskeleton.png\nsize: 450,1046\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLayer 37\n  rotate: true\n  xy: 292, 780\n  size: 264, 128\n  orig: 264, 128\n  offset: 0, 0\n  index: -1\nb1\n  rotate: false\n  xy: 271, 197\n  size: 58, 58\n  orig: 58, 58\n  offset: 0, 0\n  index: -1\nbg1\n  rotate: false\n  xy: 2, 192\n  size: 267, 409\n  orig: 267, 409\n  offset: 0, 0\n  index: -1\nbg2\n  rotate: false\n  xy: 2, 603\n  size: 288, 441\n  orig: 288, 441\n  offset: 0, 0\n  index: -1\nh1\n  rotate: true\n  xy: 2, 2\n  size: 188, 320\n  orig: 188, 320\n  offset: 0, 0\n  index: -1\nh2\n  rotate: false\n  xy: 271, 257\n  size: 177, 344\n  orig: 177, 344\n  offset: 0, 0\n  index: -1\nt1\n  rotate: true\n  xy: 324, 29\n  size: 166, 85\n  orig: 166, 85\n  offset: 0, 0\n  index: -1\nt2\n  rotate: true\n  xy: 292, 669\n  size: 109, 87\n  orig: 109, 87\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "db645696-80a8-42f2-98ed-95fcb230dd3b"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png"
+  ],
+  "scale": 1
+}

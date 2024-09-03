@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ruleVIPKV",
+    "texture": "056bd84e-bae9-4e1e-b3b1-58108422deba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      925,
+      447
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      925,
+      447
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

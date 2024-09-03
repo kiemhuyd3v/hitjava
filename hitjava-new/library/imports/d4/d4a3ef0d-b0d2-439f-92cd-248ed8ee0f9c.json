@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo_txmd5",
+    "texture": "2f07aa60-c181-4698-8879-0b31fd1026f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      378,
+      140
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      378,
+      141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

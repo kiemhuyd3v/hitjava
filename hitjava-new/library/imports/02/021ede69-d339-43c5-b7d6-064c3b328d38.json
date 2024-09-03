@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baccaratOn",
+    "texture": "7c8d031e-3f57-4db2-a840-58849e1260b9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

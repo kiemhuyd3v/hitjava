@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thanglon",
+    "texture": "43685ff6-181a-419c-92b1-36d16f579616",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      865,
+      932
+    ],
+    "offset": [
+      -76.5,
+      43
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

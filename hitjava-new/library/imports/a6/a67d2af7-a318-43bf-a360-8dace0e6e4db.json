@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thethao",
+    "texture": "2ec66f4f-7985-4ed1-80ca-52a48ff39f36",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      297,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      297,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

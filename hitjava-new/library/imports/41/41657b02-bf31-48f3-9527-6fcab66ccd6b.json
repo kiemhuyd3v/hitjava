@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoFbMessenger",
+    "texture": "395c97ee-9c1f-4ac9-8047-e422fdfa7256",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      46
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      177,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

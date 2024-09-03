@@ -1,0 +1,475 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "huanline",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "anline": {
+          "anline": {
+            "width": 236,
+            "height": 228
+          }
+        },
+        "Layer-31": {
+          "Layer-43": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-42": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-41": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-40": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-47": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-46": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-45": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-44": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-39": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-38": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-37": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-50": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-32": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-54": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-31": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-53": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-52": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-51": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-36": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-35": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-34": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-56": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-33": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-55": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-49": {
+            "width": 368,
+            "height": 560
+          },
+          "Layer-48": {
+            "width": 368,
+            "height": 560
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 236,
+      "spine": "3.7.94",
+      "audio": "",
+      "hash": "05pZGlNaXurZAB9FYlVBPbdg2yM",
+      "height": 331.75
+    },
+    "slots": [
+      {
+        "attachment": "anline",
+        "blend": "additive",
+        "name": "anline",
+        "bone": "bone2"
+      },
+      {
+        "attachment": "Layer-31",
+        "blend": "additive",
+        "name": "Layer-31",
+        "bone": "bone"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "scaleX": 0.442,
+        "parent": "root",
+        "scaleY": 0.442,
+        "name": "bone",
+        "y": 94
+      },
+      {
+        "parent": "root",
+        "name": "bone2"
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "anline": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 1
+              }
+            ]
+          },
+          "Layer-31": {
+            "attachment": [
+              {
+                "name": "Layer-31",
+                "time": 0
+              },
+              {
+                "name": "Layer-32",
+                "time": 0.0333
+              },
+              {
+                "name": "Layer-33",
+                "time": 0.0667
+              },
+              {
+                "name": "Layer-34",
+                "time": 0.1
+              },
+              {
+                "name": "Layer-35",
+                "time": 0.1333
+              },
+              {
+                "name": "Layer-36",
+                "time": 0.1667
+              },
+              {
+                "name": "Layer-37",
+                "time": 0.2
+              },
+              {
+                "name": "Layer-38",
+                "time": 0.2333
+              },
+              {
+                "name": "Layer-39",
+                "time": 0.2667
+              },
+              {
+                "name": "Layer-40",
+                "time": 0.3
+              },
+              {
+                "name": "Layer-41",
+                "time": 0.3333
+              },
+              {
+                "name": "Layer-42",
+                "time": 0.3667
+              },
+              {
+                "name": "Layer-43",
+                "time": 0.4
+              },
+              {
+                "name": "Layer-44",
+                "time": 0.4333
+              },
+              {
+                "name": "Layer-45",
+                "time": 0.4667
+              },
+              {
+                "name": "Layer-46",
+                "time": 0.5
+              },
+              {
+                "name": "Layer-47",
+                "time": 0.5333
+              },
+              {
+                "name": "Layer-48",
+                "time": 0.5667
+              },
+              {
+                "name": "Layer-49",
+                "time": 0.6
+              },
+              {
+                "name": "Layer-50",
+                "time": 0.6333
+              },
+              {
+                "name": "Layer-51",
+                "time": 0.6667
+              },
+              {
+                "name": "Layer-52",
+                "time": 0.7
+              },
+              {
+                "name": "Layer-53",
+                "time": 0.7333
+              },
+              {
+                "name": "Layer-54",
+                "time": 0.7667
+              },
+              {
+                "name": "Layer-55",
+                "time": 0.8
+              },
+              {
+                "name": "Layer-56",
+                "time": 0.8333
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1.134,
+                "y": 1.134,
+                "time": 0.3333
+              },
+              {
+                "curve": [
+                  0.284,
+                  0,
+                  0.625,
+                  0.38
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.307,
+                  0.25,
+                  0.651,
+                  0.62
+                ],
+                "x": 1.251,
+                "y": 1.251,
+                "time": 0.6
+              },
+              {
+                "curve": [
+                  0.34,
+                  0.35,
+                  0.684,
+                  0.72
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.7333
+              },
+              {
+                "curve": [
+                  0.38,
+                  0.59,
+                  0.727,
+                  1
+                ],
+                "x": 1.098,
+                "y": 1.098,
+                "time": 0.8667
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nhuanline.png\nsize: 1635,1141\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLayer-31\n  rotate: false\n  xy: 2, 595\n  size: 346, 544\n  orig: 368, 560\n  offset: 0, 2\n  index: -1\nLayer-32\n  rotate: false\n  xy: 2, 49\n  size: 336, 544\n  orig: 368, 560\n  offset: 11, 0\n  index: -1\nLayer-33\n  rotate: false\n  xy: 649, 636\n  size: 332, 503\n  orig: 368, 560\n  offset: 18, 0\n  index: -1\nLayer-34\n  rotate: false\n  xy: 983, 665\n  size: 323, 474\n  orig: 368, 560\n  offset: 23, 3\n  index: -1\nLayer-35\n  rotate: false\n  xy: 1308, 676\n  size: 319, 463\n  orig: 368, 560\n  offset: 32, 6\n  index: -1\nLayer-36\n  rotate: false\n  xy: 340, 154\n  size: 312, 439\n  orig: 368, 560\n  offset: 35, 9\n  index: -1\nLayer-37\n  rotate: false\n  xy: 654, 211\n  size: 309, 423\n  orig: 368, 560\n  offset: 36, 13\n  index: -1\nLayer-38\n  rotate: false\n  xy: 1207, 310\n  size: 302, 353\n  orig: 368, 560\n  offset: 36, 17\n  index: -1\nLayer-39\n  rotate: true\n  xy: 654, 37\n  size: 172, 347\n  orig: 368, 560\n  offset: 39, 18\n  index: -1\nLayer-40\n  rotate: false\n  xy: 1562, 179\n  size: 48, 48\n  orig: 368, 560\n  offset: 167, 31\n  index: -1\nLayer-41\n  rotate: true\n  xy: 1570, 307\n  size: 57, 63\n  orig: 368, 560\n  offset: 152, 34\n  index: -1\nLayer-42\n  rotate: false\n  xy: 1562, 229\n  size: 65, 76\n  orig: 368, 560\n  offset: 140, 36\n  index: -1\nLayer-43\n  rotate: false\n  xy: 1534, 18\n  size: 65, 86\n  orig: 368, 560\n  offset: 123, 32\n  index: -1\nLayer-44\n  rotate: true\n  xy: 1358, 36\n  size: 68, 86\n  orig: 368, 560\n  offset: 119, 32\n  index: -1\nLayer-45\n  rotate: true\n  xy: 1003, 2\n  size: 34, 42\n  orig: 368, 560\n  offset: 198, 15\n  index: -1\nLayer-46\n  rotate: false\n  xy: 609, 98\n  size: 43, 54\n  orig: 368, 560\n  offset: 197, 17\n  index: -1\nLayer-47\n  rotate: true\n  xy: 1511, 366\n  size: 144, 96\n  orig: 368, 560\n  offset: 118, 21\n  index: -1\nLayer-48\n  rotate: true\n  xy: 1511, 512\n  size: 162, 88\n  orig: 368, 560\n  offset: 116, 26\n  index: -1\nLayer-49\n  rotate: false\n  xy: 340, 60\n  size: 173, 92\n  orig: 368, 560\n  offset: 116, 24\n  index: -1\nLayer-50\n  rotate: true\n  xy: 1511, 320\n  size: 44, 57\n  orig: 368, 560\n  offset: 118, 32\n  index: -1\nLayer-51\n  rotate: false\n  xy: 515, 64\n  size: 92, 88\n  orig: 368, 560\n  offset: 197, 28\n  index: -1\nLayer-52\n  rotate: false\n  xy: 1446, 18\n  size: 86, 86\n  orig: 368, 560\n  offset: 202, 30\n  index: -1\nLayer-53\n  rotate: true\n  xy: 515, 2\n  size: 60, 67\n  orig: 368, 560\n  offset: 225, 46\n  index: -1\nLayer-54\n  rotate: false\n  xy: 1003, 38\n  size: 353, 240\n  orig: 368, 560\n  offset: 15, 320\n  index: -1\nLayer-55\n  rotate: true\n  xy: 965, 280\n  size: 354, 240\n  orig: 368, 560\n  offset: 14, 320\n  index: -1\nLayer-56\n  rotate: false\n  xy: 350, 595\n  size: 297, 544\n  orig: 368, 560\n  offset: 31, 6\n  index: -1\nanline\n  rotate: false\n  xy: 1358, 106\n  size: 202, 202\n  orig: 236, 228\n  offset: 15, 10\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "3dbc76fb-6986-4e3b-b95c-6a76c7a30323"
+    }
+  ],
+  "textureNames": [
+    "huanline.png"
+  ],
+  "scale": 1
+}

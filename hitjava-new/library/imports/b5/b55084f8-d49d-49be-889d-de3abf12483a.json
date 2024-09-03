@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnBoluot",
+    "texture": "e95b3000-5bf2-4530-ac95-5a5bfe340643",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ICONVIP",
+    "texture": "8664a05b-721e-4fa4-9145-d9a4d2613ca3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

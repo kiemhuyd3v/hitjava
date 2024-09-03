@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Effect_khobautulinh",
+    "texture": "64cc670f-2777-4bee-b486-76d5d62e3073",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      727,
+      727
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      731,
+      731
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

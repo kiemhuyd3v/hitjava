@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "line-vippoint",
+    "texture": "0b402b4e-4cbd-468e-85fe-9e5cd865a83e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1001,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1001,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

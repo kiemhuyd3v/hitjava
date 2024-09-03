@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_focus_small_03",
+    "texture": "b264d55d-06bf-4a47-9899-44fa04c85cb2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      175,
+      225
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      175,
+      225
+    ],
+    "capInsets": [
+      60,
+      80,
+      60,
+      80
+    ]
+  }
+}

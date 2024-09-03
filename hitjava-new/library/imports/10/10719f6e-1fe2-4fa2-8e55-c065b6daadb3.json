@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ThanTai",
+    "texture": "dcb7a663-c1ae-4599-8574-737d71c0126b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      908,
+      1019
+    ],
+    "offset": [
+      -57,
+      1.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+
+husansieuhu.png
+size: 1702,1123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 1341, 2
+  size: 215, 224
+  orig: 215, 224
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 2, 744
+  size: 427, 377
+  orig: 427, 377
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 2, 360
+  size: 417, 382
+  orig: 417, 382
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 857, 741
+  size: 416, 380
+  orig: 416, 380
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 703, 30
+  size: 327, 329
+  orig: 327, 329
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1341, 228
+  size: 270, 271
+  orig: 270, 271
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1032, 54
+  size: 307, 314
+  orig: 307, 314
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 780, 406
+  size: 326, 333
+  orig: 326, 333
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 368, 15
+  size: 333, 343
+  orig: 333, 343
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 7
+  size: 364, 351
+  orig: 364, 351
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 421, 361
+  size: 381, 357
+  orig: 381, 357
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 1275, 758
+  size: 406, 363
+  orig: 406, 363
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 431, 752
+  size: 424, 369
+  orig: 424, 369
+  offset: 0, 0
+  index: -1
+bat1
+  rotate: true
+  xy: 1558, 84
+  size: 142, 121
+  orig: 191, 167
+  offset: 21, 21
+  index: -1
+bat2
+  rotate: true
+  xy: 1220, 374
+  size: 125, 94
+  orig: 150, 105
+  offset: 16, 5
+  index: -1
+bat3
+  rotate: true
+  xy: 1613, 387
+  size: 112, 68
+  orig: 132, 73
+  offset: 2, 3
+  index: -1
+bat4
+  rotate: true
+  xy: 1558, 14
+  size: 68, 89
+  orig: 94, 106
+  offset: 10, 13
+  index: -1
+item
+  rotate: false
+  xy: 1275, 501
+  size: 425, 255
+  orig: 458, 288
+  offset: 20, 19
+  index: -1
+sansieuhu
+  rotate: true
+  xy: 1108, 370
+  size: 369, 110
+  orig: 377, 118
+  offset: 3, 5
+  index: -1

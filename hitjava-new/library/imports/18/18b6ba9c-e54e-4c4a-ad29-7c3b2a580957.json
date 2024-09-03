@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "minigame.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nminigame.png\nsize: 128,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n0_minigame\n  rotate: false\n  xy: 2, 2\n  size: 107, 107\n  orig: 107, 107\n  offset: 0, 0\n  index: -1\n"
+}

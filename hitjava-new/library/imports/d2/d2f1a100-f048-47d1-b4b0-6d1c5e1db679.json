@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effectwin_gem",
+    "texture": "94c63220-9de5-4772-8930-dfb547bb6c66",
+    "atlas": "",
+    "rect": [
+      32,
+      3,
+      1974,
+      1019
+    ],
+    "offset": [
+      -5,
+      -0.5
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

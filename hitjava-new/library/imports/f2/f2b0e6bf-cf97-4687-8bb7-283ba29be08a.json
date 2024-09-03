@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "soicau_tx_sun",
+    "texture": "e0286712-d84a-407d-a2e5-6d7374301a3e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

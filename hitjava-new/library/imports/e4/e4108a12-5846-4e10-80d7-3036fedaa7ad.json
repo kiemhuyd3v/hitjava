@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TL_FX_Jackpot",
+    "texture": "d3576bf5-0894-4305-b84d-119393003934",
+    "atlas": "",
+    "rect": [
+      4,
+      11,
+      403,
+      905
+    ],
+    "offset": [
+      -2.5,
+      -0.5
+    ],
+    "originalSize": [
+      416,
+      926
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

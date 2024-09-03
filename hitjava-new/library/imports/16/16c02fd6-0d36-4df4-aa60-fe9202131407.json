@@ -1,0 +1,146 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "XocDia_InGame.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ban_xocdia": {
+      "__uuid__": "3a26ae07-cfbe-499e-927c-8208d6d4884d"
+    },
+    "bat": {
+      "__uuid__": "78ac5b68-89c7-4fc3-bf14-3b1c92947b6c"
+    },
+    "bat1": {
+      "__uuid__": "80bb7d31-b7b3-42a3-a782-c59ea11e58c7"
+    },
+    "bg": {
+      "__uuid__": "074da103-0c7f-488c-adf0-266f80af6ee9"
+    },
+    "bg_time": {
+      "__uuid__": "d35371a2-9e71-4ac9-b187-9e537b5cda28"
+    },
+    "bkg_MessRight": {
+      "__uuid__": "b64aa0f6-6c09-4612-8d22-74788953060d"
+    },
+    "btn": {
+      "__uuid__": "c18ca1c0-0434-4e71-9923-9849896371e8"
+    },
+    "chip_100k": {
+      "__uuid__": "5215eaca-d860-4c09-bb01-5a1647fd3d87"
+    },
+    "chip_10k": {
+      "__uuid__": "27738aeb-bcf9-4def-8904-828e2cb9075c"
+    },
+    "chip_1k": {
+      "__uuid__": "cceeb9b5-7a21-4f5c-86c1-7ad45b1b2b75"
+    },
+    "chip_1m": {
+      "__uuid__": "a34902f5-594a-429d-b9b8-78b45441d072"
+    },
+    "chip_5k": {
+      "__uuid__": "2139994c-a0de-4c77-9054-6aaf68bdcfd4"
+    },
+    "dia": {
+      "__uuid__": "98bf458e-d7e1-45c2-8a5b-a859af1ea44a"
+    },
+    "dia1": {
+      "__uuid__": "4b4d1941-85c9-412f-ae1b-f6ff3b5fb659"
+    },
+    "dot_red": {
+      "__uuid__": "4d8dfe49-8dbc-4c3f-9327-bb3f1cd62be7"
+    },
+    "dot_red_2": {
+      "__uuid__": "a6e2a8c7-d9f6-4e4a-bd7c-9ac7312503c8"
+    },
+    "dot_white": {
+      "__uuid__": "cc83165c-aed8-4095-aa7b-9369c5d54cbf"
+    },
+    "dot_white_2": {
+      "__uuid__": "14ddf062-1240-4be3-8915-64116e7f5fe4"
+    },
+    "frame_chip": {
+      "__uuid__": "10d170ac-b745-4519-a9a4-e854ab744a46"
+    },
+    "frame_cuoc_small_1": {
+      "__uuid__": "36665325-ecab-48e4-bfd8-ca1989b99adb"
+    },
+    "frame_cuoc_small_2": {
+      "__uuid__": "809dc1db-d59a-4b59-aeb3-25bb763f5c55"
+    },
+    "frame_cuoc_small_3": {
+      "__uuid__": "8bb5309c-9314-452d-9835-d792eb2d1829"
+    },
+    "frame_cuoc_small_4": {
+      "__uuid__": "97b3cfc1-5ea0-4d40-8f64-2310f4acfc06"
+    },
+    "frame_datcuoc_chan": {
+      "__uuid__": "e5b057db-1123-4f4b-bbc2-90eae9a6550b"
+    },
+    "frame_datcuoc_le": {
+      "__uuid__": "316c0afe-e8b4-4859-a893-4201b244d4b3"
+    },
+    "frame_menu": {
+      "__uuid__": "5c25da32-f5c4-4005-b689-27ac0273daa2"
+    },
+    "frame_muachan": {
+      "__uuid__": "2e19597e-cdaa-4dc9-85e3-b4ec3b571aaf"
+    },
+    "frame_muale": {
+      "__uuid__": "2fcc60ea-d236-4e70-8de2-dc264c92812e"
+    },
+    "frame_name": {
+      "__uuid__": "148a7866-e799-4cc6-a9b9-22f574009cb2"
+    },
+    "frame_soicau": {
+      "__uuid__": "597749f3-cb3d-4c30-9b7e-91e2af490795"
+    },
+    "ic_caidat": {
+      "__uuid__": "53a2957b-5794-4dcb-aa3b-946a566eea5b"
+    },
+    "ic_chat": {
+      "__uuid__": "27490bfe-31c2-4d3d-b067-bacbc7115730"
+    },
+    "ic_close": {
+      "__uuid__": "edb74563-8d22-4d79-ad1a-2e418af68a65"
+    },
+    "ic_huongdan": {
+      "__uuid__": "394a6a2f-e532-4655-a059-f75f94bd4bfa"
+    },
+    "ic_lichsu": {
+      "__uuid__": "2150c885-c2b8-4a46-aa1e-6e153266aefd"
+    },
+    "ic_menu": {
+      "__uuid__": "ce376886-3391-42ef-9c63-d40390b805a5"
+    },
+    "ic_sangphai": {
+      "__uuid__": "3fd1a7db-32d3-4973-82f8-72f64c5c6d26"
+    },
+    "ic_sangtrai": {
+      "__uuid__": "101f9e87-c87f-4d55-9653-9d196eebe144"
+    },
+    "ic_users": {
+      "__uuid__": "e14294e3-3c44-42ac-a9cf-e912397fd7e3"
+    },
+    "ic_vinhdanh": {
+      "__uuid__": "93662812-bf33-4977-a6be-56a46bbee6b2"
+    },
+    "line": {
+      "__uuid__": "f0f57f9d-546b-46a7-a0d0-66c8fae02677"
+    },
+    "load_full": {
+      "__uuid__": "c0ee01a9-64d7-4cd3-b0ad-db499b183ea6"
+    },
+    "load_normal": {
+      "__uuid__": "1d71885e-3d56-449d-aa59-6c08c12161bb"
+    },
+    "loading_time": {
+      "__uuid__": "d024e20f-bf28-45fa-94e8-d1f0ad41a421"
+    },
+    "winline1": {
+      "__uuid__": "5e3fe3b7-2f8b-438f-9a84-1d242ed79c19"
+    },
+    "winline2": {
+      "__uuid__": "607126d9-0514-4b7e-8486-024a16ef0433"
+    }
+  }
+}

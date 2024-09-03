@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_sangtrai",
+    "texture": "8cbd66c2-8562-436e-a378-e1ffb73ff5c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

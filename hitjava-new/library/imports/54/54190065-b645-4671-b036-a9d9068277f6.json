@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lo-de@2x",
+    "texture": "9fe03a8e-b9af-44e4-bd38-b066be4f0427",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TWSymbolScatter",
+    "texture": "b531c5a2-defd-4ccd-8e90-46d07ff6c51b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      499,
+      251
+    ],
+    "offset": [
+      -4.5,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

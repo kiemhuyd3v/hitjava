@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avata",
+    "texture": "3acefd4f-7cc2-441a-bd75-3785476bfb34",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      229,
+      229
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      229,
+      229
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

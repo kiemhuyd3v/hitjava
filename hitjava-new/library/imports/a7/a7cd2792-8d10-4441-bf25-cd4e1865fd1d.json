@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_nohu_on",
+    "texture": "5376e0ca-c6c6-4936-9435-fb550a847532",
+    "atlas": "4d759183-0cc5-4c34-a9df-bae83326fc29",
+    "rect": [
+      232,
+      639,
+      65,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

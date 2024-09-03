@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mien_trung_inactive",
+    "texture": "4c72704e-b741-4d94-8d87-85a9c67c97ee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      104,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

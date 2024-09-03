@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tldl",
+    "texture": "61a106a8-2982-4289-8088-382d953124f9",
+    "atlas": "19c7b7b8-9f56-4d0f-91e6-22ffb72efa41",
+    "rect": [
+      1410,
+      1558,
+      215,
+      221
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      217,
+      221
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

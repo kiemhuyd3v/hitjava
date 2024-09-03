@@ -1,0 +1,638 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Untitled-2",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": [
+      {
+        "attachments": {
+          "b": {
+            "b": {
+              "x": -63.96,
+              "width": 52,
+              "y": -107.55,
+              "height": 59
+            }
+          },
+          "d": {
+            "d": {
+              "x": 1.44,
+              "width": 124,
+              "y": -10.38,
+              "height": 60
+            }
+          },
+          "g": {
+            "g": {
+              "x": 104.9,
+              "width": 51,
+              "y": -109.67,
+              "height": 59
+            }
+          },
+          "KhungVang copy": {
+            "KhungVang copy": {
+              "x": 18.32,
+              "width": 346,
+              "y": 34.32,
+              "height": 550
+            }
+          },
+          "n": {
+            "n": {
+              "x": 48.61,
+              "width": 52,
+              "y": -108.61,
+              "height": 59
+            }
+          },
+          "0ecf4204302d0a00e65a967efe39750d": {
+            "0ecf4204302d0a00e65a967efe39750d": {
+              "x": 1.8,
+              "width": 353,
+              "y": 23.77,
+              "height": 390
+            }
+          },
+          "o": {
+            "o": {
+              "x": -8.73,
+              "width": 51,
+              "y": -100.11,
+              "height": 75
+            }
+          },
+          "root": {
+            "root": {
+              "color": "ce3a3aff",
+              "vertices": [
+                -149.43,
+                268.83,
+                -140.1,
+                294.02,
+                -113.98,
+                299.61,
+                105.28,
+                301.48,
+                164.99,
+                294.95,
+                185.52,
+                269.76,
+                186.45,
+                27.18,
+                185.52,
+                -95.98,
+                186.45,
+                -202.34,
+                172.45,
+                -227.53,
+                -49.6,
+                -232.19,
+                -126.11,
+                -232.19,
+                -145.7,
+                -214.47,
+                -151.3,
+                -189.28
+              ],
+              "end": "root",
+              "type": "clipping",
+              "vertexCount": 14
+            }
+          },
+          "saba": {
+            "saba": {
+              "x": 5.13,
+              "width": 224,
+              "y": -2.32,
+              "height": 61
+            }
+          },
+          "Layer 1": {
+            "Layer 1": {
+              "x": 18.32,
+              "width": 344,
+              "y": 34.82,
+              "height": 529
+            }
+          },
+          "Layer 2": {
+            "Layer 2": {
+              "rotation": 74.52,
+              "x": 36.79,
+              "width": 58,
+              "y": 4.43,
+              "height": 101
+            }
+          },
+          "Layer 3": {
+            "Layer 3": {
+              "rotation": -89.1,
+              "x": 41.38,
+              "width": 48,
+              "y": 3.89,
+              "height": 129
+            }
+          },
+          "Layer 4": {
+            "Layer 4": {
+              "rotation": 105.75,
+              "x": 23.65,
+              "width": 58,
+              "y": -3.02,
+              "height": 116
+            }
+          },
+          "Layer 5": {
+            "Layer 5": {
+              "rotation": -110.14,
+              "x": 49.59,
+              "width": 54,
+              "y": -7.71,
+              "height": 133
+            }
+          },
+          "Layer 2 copy": {
+            "Layer 2 copy": {
+              "x": 18.32,
+              "width": 346,
+              "y": 33.82,
+              "height": 531
+            }
+          },
+          "Layer 6": {
+            "Layer 6": {
+              "x": -6.42,
+              "width": 88,
+              "y": 1.24,
+              "height": 88
+            }
+          }
+        },
+        "name": "default"
+      }
+    ],
+    "skeleton": {
+      "images": "C:/Users/ADMIN/Desktop/đá/DG/bong/images/",
+      "x": -158.68,
+      "width": 353,
+      "y": -240.68,
+      "spine": "3.8.75",
+      "audio": "C:\\Users\\ADMIN\\Desktop\\đá\\DG\\bong",
+      "hash": "5/+NIzOO4NbZSgxPPGF1TlgvKR0",
+      "height": 550
+    },
+    "slots": [
+      {
+        "attachment": "Layer 2 copy",
+        "name": "Layer 2 copy",
+        "bone": "root"
+      },
+      {
+        "attachment": "Layer 1",
+        "name": "Layer 1",
+        "bone": "root"
+      },
+      {
+        "attachment": "0ecf4204302d0a00e65a967efe39750d",
+        "name": "0ecf4204302d0a00e65a967efe39750d",
+        "bone": "0ecf4204302d0a00e65a967efe39750d"
+      },
+      {
+        "attachment": "Layer 4",
+        "name": "Layer 4",
+        "bone": "Layer 4"
+      },
+      {
+        "attachment": "Layer 5",
+        "name": "Layer 5",
+        "bone": "Layer 7"
+      },
+      {
+        "attachment": "Layer 2",
+        "name": "Layer 2",
+        "bone": "Layer 2"
+      },
+      {
+        "attachment": "Layer 3",
+        "name": "Layer 3",
+        "bone": "Layer 5"
+      },
+      {
+        "name": "bóng",
+        "bone": "bóng"
+      },
+      {
+        "attachment": "saba",
+        "name": "saba",
+        "bone": "saba"
+      },
+      {
+        "attachment": "KhungVang copy",
+        "name": "KhungVang copy",
+        "bone": "root"
+      },
+      {
+        "attachment": "root",
+        "name": "root",
+        "bone": "root"
+      },
+      {
+        "attachment": "Layer 6",
+        "name": "Layer 6",
+        "bone": "Layer 8"
+      },
+      {
+        "attachment": "b",
+        "name": "b",
+        "bone": "root"
+      },
+      {
+        "attachment": "o",
+        "name": "o",
+        "bone": "root"
+      },
+      {
+        "attachment": "n",
+        "name": "n",
+        "bone": "root"
+      },
+      {
+        "attachment": "g",
+        "name": "g",
+        "bone": "root"
+      },
+      {
+        "attachment": "d",
+        "name": "d",
+        "bone": "d"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "0ecf4204302d0a00e65a967efe39750d",
+        "x": 16.02,
+        "y": 33.55
+      },
+      {
+        "parent": "0ecf4204302d0a00e65a967efe39750d",
+        "rotation": -105.75,
+        "name": "Layer 4",
+        "length": 49.52,
+        "x": -76.37,
+        "y": 50.71
+      },
+      {
+        "parent": "Layer 4",
+        "rotation": -144.11,
+        "name": "Layer 7",
+        "length": 58.57,
+        "x": 74.5,
+        "y": -7.55
+      },
+      {
+        "parent": "0ecf4204302d0a00e65a967efe39750d",
+        "rotation": -74.52,
+        "name": "Layer 2",
+        "length": 41.21,
+        "x": 89.21,
+        "y": 52.55
+      },
+      {
+        "parent": "Layer 2",
+        "rotation": 163.62,
+        "name": "Layer 5",
+        "length": 77.61,
+        "x": 67.3,
+        "y": 11.79
+      },
+      {
+        "parent": "root",
+        "name": "Layer 8",
+        "x": -282.76,
+        "y": 56.77
+      },
+      {
+        "parent": "root",
+        "name": "bóng",
+        "x": 17.85,
+        "y": -114.31
+      },
+      {
+        "parent": "root",
+        "name": "saba",
+        "x": 14.19,
+        "y": -177.85
+      },
+      {
+        "parent": "root",
+        "name": "d",
+        "x": -82.52,
+        "y": 258.49
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "b": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "c3": 0.75,
+                "color": "ffffff00",
+                "curve": 0.25,
+                "time": 0.3333
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.4
+              }
+            ]
+          },
+          "g": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "c3": 0.75,
+                "color": "ffffff00",
+                "curve": 0.25,
+                "time": 0.5333
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.6
+              }
+            ]
+          },
+          "bóng": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "c3": 0.75,
+                "color": "ffffff00",
+                "curve": 0.25,
+                "time": 0.4333
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.6667
+              }
+            ]
+          },
+          "n": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "c3": 0.75,
+                "color": "ffffff00",
+                "curve": 0.25,
+                "time": 0.4667
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.5333
+              }
+            ]
+          },
+          "o": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "c3": 0.75,
+                "color": "ffffff00",
+                "curve": 0.25,
+                "time": 0.4
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.4667
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Layer 7": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -16.84,
+                "time": 0.8333
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          },
+          "Layer 8": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "angle": 81.01,
+                "time": 0.6667
+              }
+            ],
+            "scale": [
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "x": 0.7,
+                "y": 0.7
+              },
+              {
+                "x": 1.2,
+                "y": 1.2,
+                "time": 0.6667
+              }
+            ],
+            "translate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": -134.5
+              },
+              {
+                "x": 546.86,
+                "y": -156.67,
+                "time": 0.6667
+              }
+            ]
+          },
+          "d": {
+            "rotate": [
+              {},
+              {
+                "angle": 0.38,
+                "time": 1.1667
+              },
+              {
+                "time": 2.5
+              }
+            ],
+            "translate": [
+              {},
+              {
+                "y": -10.57,
+                "time": 1.1667
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          },
+          "saba": {
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 0.016,
+                "y": 0.016
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "x": 0.016,
+                "y": 0.016,
+                "time": 0.6
+              },
+              {
+                "time": 0.7333
+              }
+            ]
+          },
+          "Layer 2": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -9.95,
+                "time": 1
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          },
+          "Layer 4": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -13.98,
+                "time": 1.0333
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          },
+          "0ecf4204302d0a00e65a967efe39750d": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": 1.37,
+                "time": 0.7
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -1.45,
+                "time": 1.7
+              },
+              {
+                "time": 2.5
+              }
+            ],
+            "translate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": -7.24,
+                "time": 0.7
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": -10.34,
+                "time": 1.7
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          },
+          "Layer 5": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": 16.77,
+                "time": 1
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nUntitled-2.png\nsize: 1964,436\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n0ecf4204302d0a00e65a967efe39750d\n  rotate: false\n  xy: 1614, 46\n  size: 348, 388\n  orig: 353, 390\n  offset: 4, 1\n  index: -1\nKhungVang copy\n  rotate: true\n  xy: 2, 90\n  size: 344, 548\n  orig: 346, 550\n  offset: 1, 1\n  index: -1\nLayer 1\n  rotate: true\n  xy: 552, 90\n  size: 344, 529\n  orig: 344, 529\n  offset: 0, 0\n  index: -1\nLayer 2\n  rotate: true\n  xy: 730, 32\n  size: 56, 97\n  orig: 58, 101\n  offset: 1, 3\n  index: -1\nLayer 2 copy\n  rotate: true\n  xy: 1083, 90\n  size: 344, 529\n  orig: 346, 531\n  offset: 1, 1\n  index: -1\nLayer 3\n  rotate: true\n  xy: 359, 42\n  size: 46, 127\n  orig: 48, 129\n  offset: 1, 1\n  index: -1\nLayer 4\n  rotate: true\n  xy: 614, 32\n  size: 56, 114\n  orig: 58, 116\n  offset: 1, 1\n  index: -1\nLayer 5\n  rotate: true\n  xy: 226, 36\n  size: 52, 131\n  orig: 54, 133\n  offset: 1, 1\n  index: -1\nLayer 6\n  rotate: false\n  xy: 829, 2\n  size: 86, 86\n  orig: 88, 88\n  offset: 1, 1\n  index: -1\nb\n  rotate: false\n  xy: 970, 29\n  size: 52, 59\n  orig: 52, 59\n  offset: 0, 0\n  index: -1\nd\n  rotate: false\n  xy: 488, 45\n  size: 124, 43\n  orig: 124, 60\n  offset: 0, 17\n  index: -1\ng\n  rotate: false\n  xy: 1078, 29\n  size: 51, 59\n  orig: 51, 59\n  offset: 0, 0\n  index: -1\nn\n  rotate: false\n  xy: 1024, 29\n  size: 52, 59\n  orig: 52, 59\n  offset: 0, 0\n  index: -1\no\n  rotate: false\n  xy: 917, 13\n  size: 51, 75\n  orig: 51, 75\n  offset: 0, 0\n  index: -1\nsaba\n  rotate: false\n  xy: 2, 29\n  size: 222, 59\n  orig: 224, 61\n  offset: 1, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "da30f9ea-b7fd-419b-abcd-ffce6887f4e8"
+    }
+  ],
+  "textureNames": [
+    "Untitled-2.png"
+  ],
+  "scale": 1
+}

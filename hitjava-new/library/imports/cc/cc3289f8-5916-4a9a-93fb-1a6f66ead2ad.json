@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "JPCell_FreeGame",
+    "texture": "97208c7f-ec01-4401-8224-4acb3ef9aa82",
+    "atlas": "a3ab64c9-3c7b-4207-932d-7a042d256de8",
+    "rect": [
+      67,
+      0,
+      132,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

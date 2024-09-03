@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_outdoor_btn_item_0_1",
+    "texture": "7e675dc7-5e5f-4e82-964c-212e427ea622",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      245,
+      198
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      245,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

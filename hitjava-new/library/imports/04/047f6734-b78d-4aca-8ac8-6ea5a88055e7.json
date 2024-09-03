@@ -1,0 +1,196 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "text2-export",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "f5a299bc-b405-476c-9bb9-4189c30707c6"
+  },
+  "fontSize": 32,
+  "_fntConfig": {
+    "commonHeight": 40,
+    "fontSize": 32,
+    "atlasName": "text2-export.png",
+    "fontDefDictionary": {
+      "9": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 160
+      },
+      "32": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 20
+      },
+      "43": {
+        "rect": {
+          "x": 32,
+          "y": 82,
+          "width": 30,
+          "height": 29
+        },
+        "xOffset": 0,
+        "yOffset": 11,
+        "xAdvance": 31
+      },
+      "44": {
+        "rect": {
+          "x": 94,
+          "y": 41,
+          "width": 15,
+          "height": 21
+        },
+        "xOffset": 0,
+        "yOffset": 27,
+        "xAdvance": 16
+      },
+      "45": {
+        "rect": {
+          "x": 32,
+          "y": 112,
+          "width": 17,
+          "height": 11
+        },
+        "xOffset": 0,
+        "yOffset": 20,
+        "xAdvance": 18
+      },
+      "46": {
+        "rect": {
+          "x": 94,
+          "y": 63,
+          "width": 14,
+          "height": 13
+        },
+        "xOffset": 0,
+        "yOffset": 27,
+        "xAdvance": 15
+      },
+      "48": {
+        "rect": {
+          "x": 63,
+          "y": 41,
+          "width": 30,
+          "height": 40
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 31
+      },
+      "49": {
+        "rect": {
+          "x": 94,
+          "y": 0,
+          "width": 24,
+          "height": 40
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 25
+      },
+      "50": {
+        "rect": {
+          "x": 64,
+          "y": 0,
+          "width": 29,
+          "height": 40
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 30
+      },
+      "51": {
+        "rect": {
+          "x": 32,
+          "y": 41,
+          "width": 30,
+          "height": 40
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 31
+      },
+      "52": {
+        "rect": {
+          "x": 32,
+          "y": 0,
+          "width": 31,
+          "height": 40
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 32
+      },
+      "53": {
+        "rect": {
+          "x": 63,
+          "y": 82,
+          "width": 29,
+          "height": 39
+        },
+        "xOffset": 0,
+        "yOffset": 1,
+        "xAdvance": 30
+      },
+      "54": {
+        "rect": {
+          "x": 0,
+          "y": 82,
+          "width": 31,
+          "height": 40
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 32
+      },
+      "55": {
+        "rect": {
+          "x": 93,
+          "y": 82,
+          "width": 28,
+          "height": 40
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 29
+      },
+      "56": {
+        "rect": {
+          "x": 0,
+          "y": 41,
+          "width": 31,
+          "height": 40
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 32
+      },
+      "57": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 31,
+          "height": 40
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 32
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

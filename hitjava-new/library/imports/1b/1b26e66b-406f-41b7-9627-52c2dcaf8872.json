@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoLichSuCuocOn",
+    "texture": "cb167e7e-8669-46d5-8a96-b36ca27947b1",
+    "atlas": "c074b4b5-aeec-49ac-bc7b-8d3043cfba98",
+    "rect": [
+      126,
+      107,
+      63,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

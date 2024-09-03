@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "3997_Baccarat_Icon",
+    "texture": "c03891a5-4016-4aa7-8f8d-4894ffb409af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      213,
+      223
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      223
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

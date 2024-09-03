@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_phinh_01",
+    "texture": "cba70c96-4a65-4bee-ad07-922892004317",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

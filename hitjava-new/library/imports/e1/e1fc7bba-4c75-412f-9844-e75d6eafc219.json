@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baochung",
+    "texture": "53e07e9b-5655-4644-bcc9-ae5357721523",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      680,
+      52
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      680,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

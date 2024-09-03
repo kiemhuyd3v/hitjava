@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Font_HelveticaNeue_Effect-export",
+    "texture": "e18392e5-8d31-4733-886f-e2f4046622e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      422,
+      422
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      423,
+      423
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

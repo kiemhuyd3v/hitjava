@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tat-ca@2x",
+    "texture": "2b47243e-630d-445d-9028-ba562944a919",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      224,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

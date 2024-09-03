@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "sontinhitem.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "2": {
+      "__uuid__": "e8653cd5-5187-40c8-86c4-a30454fc3d50"
+    },
+    "3": {
+      "__uuid__": "d2c74856-be89-4216-a5b0-4e393530df61"
+    },
+    "4": {
+      "__uuid__": "8e4b8b94-a5dc-4d47-85f3-1cf920f0e2db"
+    },
+    "5": {
+      "__uuid__": "318ea7c8-ab03-425d-ac17-47ce6ed53a09"
+    },
+    "6": {
+      "__uuid__": "8f6b490c-00d6-45b3-9b33-77e200135eef"
+    },
+    "A": {
+      "__uuid__": "c921ab84-ef20-4c6c-90b6-18685282bdeb"
+    },
+    "Icon_BonusG": {
+      "__uuid__": "2e71999d-ec62-4607-876a-fb1d7694b33d"
+    },
+    "Icon_Jackpot": {
+      "__uuid__": "0c16b1df-de57-4e78-99d8-a4fb5aec9005"
+    },
+    "KMN": {
+      "__uuid__": "01f9ff0a-4f5f-406b-8232-a15ca2ae97d9"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Group 3.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nGroup 3.png\nsize: 1024,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nGroup 10\n  rotate: false\n  xy: 583, 143\n  size: 303, 353\n  orig: 303, 353\n  offset: 0, 0\n  index: -1\nGroup 8\n  rotate: true\n  xy: 2, 84\n  size: 412, 579\n  orig: 412, 579\n  offset: 0, 0\n  index: -1\nGroup 9\n  rotate: false\n  xy: 2, 34\n  size: 198, 48\n  orig: 198, 48\n  offset: 0, 0\n  index: -1\nLayer 47 copy 6\n  rotate: false\n  xy: 583, 2\n  size: 144, 139\n  orig: 144, 139\n  offset: 0, 0\n  index: -1\n"
+}

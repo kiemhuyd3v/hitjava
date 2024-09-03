@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnXingau2Unsellect",
+    "texture": "6b8ba42d-f5fb-430f-9d7f-c6a9ecd9237e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

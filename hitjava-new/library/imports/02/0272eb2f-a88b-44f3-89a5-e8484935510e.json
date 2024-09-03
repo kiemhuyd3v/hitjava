@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_ruttien",
+    "texture": "56726a49-1b84-435c-b446-103369d3a703",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      701,
+      551
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      702,
+      552
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

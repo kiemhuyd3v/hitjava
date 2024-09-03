@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MauBinh",
+    "texture": "bbd9fab5-972b-403c-8b5c-b89950d6dcec",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      474,
+      363
+    ],
+    "offset": [
+      -18,
+      73.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

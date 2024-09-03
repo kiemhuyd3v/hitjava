@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_muiten",
+    "texture": "8574ae58-2bee-4d55-9a5a-e17b9c3a0cde",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_tygia",
+    "texture": "971f8ae9-84b2-4ce3-9e7b-bd571b8bc711",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      454,
+      410
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      454,
+      410
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

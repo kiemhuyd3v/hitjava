@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logoUsdt",
+    "texture": "a583b17f-7add-4642-9351-66a6cc00088d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      249,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      249,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

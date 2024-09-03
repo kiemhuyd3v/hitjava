@@ -1,0 +1,256 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "antiveline",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "_0034_as0001": {
+          "_0028_as0007": {
+            "width": 146,
+            "height": 147
+          },
+          "_0034_as0001": {
+            "width": 146,
+            "height": 147
+          },
+          "_0014_as0021": {
+            "width": 146,
+            "height": 147
+          },
+          "_0029_as0006": {
+            "width": 146,
+            "height": 147
+          },
+          "_0026_as0009": {
+            "width": 146,
+            "height": 147
+          },
+          "_0033_as0002": {
+            "width": 146,
+            "height": 147
+          },
+          "_0015_as0020": {
+            "width": 146,
+            "height": 147
+          },
+          "_0027_as0008": {
+            "width": 146,
+            "height": 147
+          },
+          "_0032_as0003": {
+            "width": 146,
+            "height": 147
+          },
+          "_0020_as0015": {
+            "width": 146,
+            "height": 147
+          },
+          "_0030_as0005": {
+            "width": 146,
+            "height": 147
+          },
+          "_0031_as0004": {
+            "width": 146,
+            "height": 147
+          },
+          "_0022_as0013": {
+            "width": 146,
+            "height": 147
+          },
+          "_0016_as0019": {
+            "width": 146,
+            "height": 147
+          },
+          "_0017_as0018": {
+            "width": 146,
+            "height": 147
+          },
+          "_0021_as0014": {
+            "width": 146,
+            "height": 147
+          },
+          "_0018_as0017": {
+            "width": 146,
+            "height": 147
+          },
+          "_0025_as0010": {
+            "width": 146,
+            "height": 147
+          },
+          "_0019_as0016": {
+            "width": 146,
+            "height": 147
+          },
+          "_0023_as0012": {
+            "width": 146,
+            "height": 147
+          },
+          "_0024_as0011": {
+            "width": 146,
+            "height": 147
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 146,
+      "spine": "3.6.53",
+      "hash": "KzNlqLDVFFUwc3GKsiuZg5JG5vE",
+      "height": 147
+    },
+    "slots": [
+      {
+        "attachment": "_0034_as0001",
+        "name": "_0034_as0001",
+        "bone": "Voay"
+      }
+    ],
+    "bones": [
+      {
+        "name": "Anitem"
+      },
+      {
+        "parent": "Anitem",
+        "name": "Voay"
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "_0034_as0001": {
+            "color": [
+              {
+                "color": "ffffff4f",
+                "curve": [
+                  0.308,
+                  0,
+                  0.643,
+                  0.35
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0.0667
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.365,
+                  0.63,
+                  0.821,
+                  0.43
+                ],
+                "time": 0.5667
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.6667
+              }
+            ],
+            "attachment": [
+              {
+                "name": "_0034_as0001",
+                "time": 0
+              },
+              {
+                "name": "_0033_as0002",
+                "time": 0.0333
+              },
+              {
+                "name": "_0032_as0003",
+                "time": 0.0667
+              },
+              {
+                "name": "_0031_as0004",
+                "time": 0.1
+              },
+              {
+                "name": "_0030_as0005",
+                "time": 0.1333
+              },
+              {
+                "name": "_0029_as0006",
+                "time": 0.1667
+              },
+              {
+                "name": "_0028_as0007",
+                "time": 0.2
+              },
+              {
+                "name": "_0027_as0008",
+                "time": 0.2333
+              },
+              {
+                "name": "_0026_as0009",
+                "time": 0.2667
+              },
+              {
+                "name": "_0025_as0010",
+                "time": 0.3
+              },
+              {
+                "name": "_0024_as0011",
+                "time": 0.3333
+              },
+              {
+                "name": "_0023_as0012",
+                "time": 0.3667
+              },
+              {
+                "name": "_0022_as0013",
+                "time": 0.4
+              },
+              {
+                "name": "_0021_as0014",
+                "time": 0.4333
+              },
+              {
+                "name": "_0020_as0015",
+                "time": 0.4667
+              },
+              {
+                "name": "_0019_as0016",
+                "time": 0.5
+              },
+              {
+                "name": "_0018_as0017",
+                "time": 0.5333
+              },
+              {
+                "name": "_0017_as0018",
+                "time": 0.5667
+              },
+              {
+                "name": "_0016_as0019",
+                "time": 0.6
+              },
+              {
+                "name": "_0015_as0020",
+                "time": 0.6333
+              },
+              {
+                "name": "_0014_as0021",
+                "time": 0.6667
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nantiveline.png\nsize: 979,419\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n_0014_as0021\n  rotate: true\n  xy: 282, 7\n  size: 135, 140\n  orig: 146, 147\n  offset: 6, 5\n  index: -1\n_0015_as0020\n  rotate: false\n  xy: 288, 280\n  size: 138, 137\n  orig: 146, 147\n  offset: 1, 7\n  index: -1\n_0016_as0019\n  rotate: true\n  xy: 705, 282\n  size: 135, 134\n  orig: 146, 147\n  offset: 2, 7\n  index: -1\n_0017_as0018\n  rotate: false\n  xy: 139, 2\n  size: 138, 132\n  orig: 146, 147\n  offset: 4, 7\n  index: -1\n_0018_as0017\n  rotate: false\n  xy: 567, 136\n  size: 136, 134\n  orig: 146, 147\n  offset: 6, 10\n  index: -1\n_0019_as0016\n  rotate: false\n  xy: 705, 149\n  size: 137, 131\n  orig: 146, 147\n  offset: 3, 12\n  index: -1\n_0020_as0015\n  rotate: false\n  xy: 2, 5\n  size: 135, 127\n  orig: 146, 147\n  offset: 2, 14\n  index: -1\n_0021_as0014\n  rotate: false\n  xy: 841, 291\n  size: 136, 126\n  orig: 146, 147\n  offset: 0, 13\n  index: -1\n_0022_as0013\n  rotate: false\n  xy: 706, 16\n  size: 133, 131\n  orig: 146, 147\n  offset: 1, 14\n  index: -1\n_0023_as0012\n  rotate: true\n  xy: 424, 4\n  size: 131, 140\n  orig: 146, 147\n  offset: 3, 7\n  index: -1\n_0024_as0011\n  rotate: false\n  xy: 568, 272\n  size: 135, 145\n  orig: 146, 147\n  offset: 6, 0\n  index: -1\n_0025_as0010\n  rotate: false\n  xy: 433, 137\n  size: 132, 141\n  orig: 146, 147\n  offset: 8, 2\n  index: -1\n_0026_as0009\n  rotate: true\n  xy: 566, 3\n  size: 131, 138\n  orig: 146, 147\n  offset: 7, 4\n  index: -1\n_0027_as0008\n  rotate: false\n  xy: 841, 5\n  size: 128, 142\n  orig: 146, 147\n  offset: 8, 5\n  index: -1\n_0028_as0007\n  rotate: false\n  xy: 844, 150\n  size: 126, 139\n  orig: 146, 147\n  offset: 8, 7\n  index: -1\n_0029_as0006\n  rotate: true\n  xy: 288, 144\n  size: 134, 143\n  orig: 146, 147\n  offset: 2, 1\n  index: -1\n_0030_as0005\n  rotate: false\n  xy: 2, 278\n  size: 140, 139\n  orig: 146, 147\n  offset: 3, 2\n  index: -1\n_0031_as0004\n  rotate: true\n  xy: 2, 134\n  size: 142, 135\n  orig: 146, 147\n  offset: 2, 4\n  index: -1\n_0032_as0003\n  rotate: true\n  xy: 144, 136\n  size: 141, 136\n  orig: 146, 147\n  offset: 3, 3\n  index: -1\n_0033_as0002\n  rotate: true\n  xy: 144, 279\n  size: 138, 142\n  orig: 146, 147\n  offset: 5, 4\n  index: -1\n_0034_as0001\n  rotate: true\n  xy: 428, 280\n  size: 137, 138\n  orig: 146, 147\n  offset: 4, 7\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "d07b179d-33c6-472b-a1bf-38f0ccdacad7"
+    }
+  ],
+  "textureNames": [
+    "antiveline.png"
+  ],
+  "scale": 1
+}

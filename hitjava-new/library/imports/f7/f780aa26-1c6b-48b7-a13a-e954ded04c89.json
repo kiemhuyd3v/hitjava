@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab_banca_on",
+    "texture": "cd544640-d6bc-451e-a341-876e1bdd4f32",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      132,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

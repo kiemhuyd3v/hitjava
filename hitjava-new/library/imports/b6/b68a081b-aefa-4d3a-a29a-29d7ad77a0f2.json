@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgnoti",
+    "texture": "c5edc444-cf84-41da-aed1-26694cdabea6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      860,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      860,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

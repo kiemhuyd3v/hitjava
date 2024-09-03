@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loadingMask",
+    "texture": "22417516-dee4-48a2-a70c-e594ceda07f1",
+    "atlas": "",
+    "rect": [
+      0,
+      320,
+      1280,
+      400
+    ],
+    "offset": [
+      0,
+      -160
+    ],
+    "originalSize": [
+      1280,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

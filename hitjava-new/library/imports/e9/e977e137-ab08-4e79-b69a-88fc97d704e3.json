@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnUnknowB",
+    "texture": "b37c0400-0e34-4e95-8fc2-606c02d4007f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

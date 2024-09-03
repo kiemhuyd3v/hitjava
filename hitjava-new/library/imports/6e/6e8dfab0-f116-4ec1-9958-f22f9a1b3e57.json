@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "messageBG",
+    "texture": "bd6fb942-b41c-4ca9-a94c-08635460f96c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      442,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      442,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

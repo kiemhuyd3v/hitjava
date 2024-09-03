@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dan3",
+    "texture": "4c80d477-ffe8-4bc2-96a6-d49aa16f9243",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

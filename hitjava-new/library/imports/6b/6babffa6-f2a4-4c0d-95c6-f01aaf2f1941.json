@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "treasure",
+    "texture": "bed46d17-7bf3-46d2-9af4-4d9f7acf839d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

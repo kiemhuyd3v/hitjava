@@ -1,0 +1,936 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "homBonus",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "pngguru.com copy": {
+          "pngguru.com copy": {
+            "x": -11.9,
+            "width": 546,
+            "y": -3,
+            "height": 484
+          }
+        },
+        "pngguru.com": {
+          "pngguru.com": {
+            "x": -16.7,
+            "width": 582,
+            "y": -1,
+            "height": 445
+          }
+        },
+        "slot": {
+          "1": {
+            "width": 384,
+            "height": 323
+          },
+          "2": {
+            "width": 384,
+            "height": 323
+          },
+          "3": {
+            "width": 384,
+            "height": 323
+          },
+          "4": {
+            "width": 384,
+            "height": 323
+          },
+          "5": {
+            "width": 384,
+            "height": 323
+          },
+          "6": {
+            "width": 384,
+            "height": 323
+          },
+          "7": {
+            "width": 384,
+            "height": 323
+          },
+          "8": {
+            "width": 384,
+            "height": 323
+          },
+          "9": {
+            "width": 384,
+            "height": 323
+          },
+          "10": {
+            "width": 384,
+            "height": 323
+          },
+          "11": {
+            "width": 384,
+            "height": 323
+          },
+          "12": {
+            "width": 384,
+            "height": 323
+          },
+          "13": {
+            "width": 384,
+            "height": 323
+          },
+          "14": {
+            "width": 384,
+            "height": 323
+          },
+          "15": {
+            "width": 384,
+            "height": 323
+          },
+          "16": {
+            "width": 384,
+            "height": 323
+          },
+          "17": {
+            "width": 384,
+            "height": 323
+          },
+          "18": {
+            "width": 384,
+            "height": 323
+          },
+          "19": {
+            "width": 384,
+            "height": 323
+          },
+          "20": {
+            "width": 384,
+            "height": 323
+          },
+          "21": {
+            "width": 384,
+            "height": 323
+          },
+          "22": {
+            "width": 384,
+            "height": 323
+          },
+          "23": {
+            "width": 384,
+            "height": 323
+          },
+          "24": {
+            "width": 384,
+            "height": 323
+          },
+          "25": {
+            "width": 384,
+            "height": 323
+          },
+          "26": {
+            "width": 384,
+            "height": 323
+          },
+          "27": {
+            "width": 384,
+            "height": 323
+          },
+          "28": {
+            "width": 384,
+            "height": 323
+          },
+          "29": {
+            "width": 384,
+            "height": 323
+          },
+          "30": {
+            "width": 384,
+            "height": 323
+          },
+          "31": {
+            "width": 384,
+            "height": 323
+          },
+          "32": {
+            "width": 384,
+            "height": 323
+          },
+          "33": {
+            "width": 384,
+            "height": 323
+          },
+          "34": {
+            "width": 384,
+            "height": 323
+          },
+          "35": {
+            "width": 384,
+            "height": 323
+          },
+          "36": {
+            "width": 384,
+            "height": 323
+          },
+          "37": {
+            "width": 384,
+            "height": 323
+          },
+          "38": {
+            "width": 384,
+            "height": 323
+          },
+          "39": {
+            "width": 384,
+            "height": 323
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 582,
+      "spine": "3.6.53",
+      "hash": "tZqZm2DIP9lp1zNLrEDEMOEdhAw",
+      "height": 484
+    },
+    "slots": [
+      {
+        "attachment": "pngguru.com copy",
+        "name": "pngguru.com copy",
+        "bone": "pngguru.com copy"
+      },
+      {
+        "attachment": "7",
+        "name": "slot",
+        "bone": "homqua"
+      },
+      {
+        "attachment": "pngguru.com",
+        "blend": "additive",
+        "name": "pngguru.com",
+        "bone": "pngguru.com"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "rotation": 90.23,
+        "name": "bone",
+        "length": 185.22,
+        "x": -11.94,
+        "y": -143.43
+      },
+      {
+        "parent": "bone",
+        "rotation": -90.23,
+        "name": "homqua",
+        "x": 143.38,
+        "y": -12.52
+      },
+      {
+        "parent": "root",
+        "name": "pngguru.com",
+        "x": 18.43,
+        "y": -29.41
+      },
+      {
+        "parent": "root",
+        "name": "pngguru.com copy",
+        "x": 15.43,
+        "y": -27.41
+      }
+    ],
+    "animations": {
+      "homthuong": {
+        "slots": {
+          "pngguru.com copy": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.2667
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.4
+              }
+            ]
+          },
+          "pngguru.com": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "time": 0
+              },
+              {
+                "color": "ffffff4e",
+                "time": 0.2
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.4
+              }
+            ]
+          },
+          "slot": {
+            "attachment": [
+              {
+                "name": "15",
+                "time": 0
+              },
+              {
+                "name": "16",
+                "time": 0.0667
+              },
+              {
+                "name": "17",
+                "time": 0.1333
+              },
+              {
+                "name": "16",
+                "time": 0.2
+              },
+              {
+                "name": "15",
+                "time": 0.2667
+              },
+              {
+                "name": "16",
+                "time": 0.3333
+              },
+              {
+                "name": "17",
+                "time": 0.4
+              }
+            ]
+          }
+        },
+        "bones": {
+          "homqua": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.4
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ]
+          },
+          "pngguru.com copy": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": -120,
+                "time": 0.1333
+              },
+              {
+                "angle": 120,
+                "time": 0.2667
+              },
+              {
+                "angle": 0,
+                "time": 0.4
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 0.729,
+                "y": 0.729,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0.729,
+                "y": 0.729,
+                "time": 0.1333
+              },
+              {
+                "x": 0.729,
+                "y": 0.729,
+                "time": 0.4
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ]
+          },
+          "pngguru.com": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 120,
+                "time": 0.1333
+              },
+              {
+                "angle": -120,
+                "time": 0.2667
+              },
+              {
+                "angle": 0,
+                "time": 0.4
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ],
+            "scale": [
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 0.723,
+                "y": 0.723,
+                "time": 0.2
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.4
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0.998,
+                "y": 1,
+                "time": 0.2
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ]
+          }
+        }
+      },
+      "hommo": {
+        "slots": {
+          "pngguru.com copy": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.2667
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.4
+              }
+            ]
+          },
+          "pngguru.com": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.2
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.4
+              }
+            ]
+          },
+          "slot": {
+            "attachment": [
+              {
+                "name": "16",
+                "time": 0
+              },
+              {
+                "name": "17",
+                "time": 0.0333
+              },
+              {
+                "name": "18",
+                "time": 0.0667
+              },
+              {
+                "name": "19",
+                "time": 0.1
+              },
+              {
+                "name": "20",
+                "time": 0.1333
+              },
+              {
+                "name": "21",
+                "time": 0.1667
+              },
+              {
+                "name": "22",
+                "time": 0.2
+              },
+              {
+                "name": "23",
+                "time": 0.2333
+              },
+              {
+                "name": "24",
+                "time": 0.2667
+              },
+              {
+                "name": "25",
+                "time": 0.3
+              },
+              {
+                "name": "26",
+                "time": 0.3333
+              },
+              {
+                "name": "27",
+                "time": 0.3667
+              },
+              {
+                "name": "28",
+                "time": 0.4
+              },
+              {
+                "name": "29",
+                "time": 0.4333
+              },
+              {
+                "name": "30",
+                "time": 0.4667
+              },
+              {
+                "name": "31",
+                "time": 0.5
+              },
+              {
+                "name": "32",
+                "time": 0.5333
+              },
+              {
+                "name": "33",
+                "time": 0.5667
+              },
+              {
+                "name": "34",
+                "time": 0.6
+              },
+              {
+                "name": "35",
+                "time": 0.6333
+              },
+              {
+                "name": "36",
+                "time": 0.6667
+              },
+              {
+                "name": "37",
+                "time": 0.7
+              },
+              {
+                "name": "39",
+                "time": 0.7333
+              },
+              {
+                "name": "38",
+                "time": 0.7667
+              },
+              {
+                "name": "1",
+                "time": 0.8
+              }
+            ]
+          }
+        },
+        "bones": {
+          "homqua": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.4
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "pngguru.com copy": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": -120,
+                "time": 0.1333
+              },
+              {
+                "angle": 120,
+                "time": 0.2667
+              },
+              {
+                "angle": 0,
+                "time": 0.4
+              },
+              {
+                "angle": -120,
+                "time": 0.5333
+              },
+              {
+                "angle": 120,
+                "time": 0.6667
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ]
+          },
+          "pngguru.com": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 120,
+                "time": 0.1333
+              },
+              {
+                "angle": -120,
+                "time": 0.2667
+              },
+              {
+                "angle": 0,
+                "time": 0.4
+              },
+              {
+                "angle": 120,
+                "time": 0.5333
+              },
+              {
+                "angle": -120,
+                "time": 0.6667
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.4
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nhomBonus.png\nsize: 1477,1482\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: true\n  xy: 2, 2\n  size: 381, 323\n  orig: 384, 323\n  offset: 3, 0\n  index: -1\n10\n  rotate: false\n  xy: 606, 411\n  size: 207, 258\n  orig: 384, 323\n  offset: 118, 5\n  index: -1\n11\n  rotate: false\n  xy: 385, 800\n  size: 197, 233\n  orig: 384, 323\n  offset: 109, 5\n  index: -1\n16\n  rotate: false\n  xy: 967, 671\n  size: 219, 210\n  orig: 384, 323\n  offset: 101, 5\n  index: -1\n17\n  rotate: false\n  xy: 1231, 143\n  size: 221, 206\n  orig: 384, 323\n  offset: 100, 5\n  index: -1\n18\n  rotate: false\n  xy: 1231, 351\n  size: 222, 201\n  orig: 384, 323\n  offset: 100, 5\n  index: -1\n2\n  rotate: false\n  xy: 2, 385\n  size: 381, 323\n  orig: 384, 323\n  offset: 3, 0\n  index: -1\n21\n  rotate: false\n  xy: 815, 417\n  size: 215, 252\n  orig: 384, 323\n  offset: 104, 5\n  index: -1\n23\n  rotate: true\n  xy: 648, 40\n  size: 369, 293\n  orig: 384, 323\n  offset: 15, 5\n  index: -1\n24\n  rotate: true\n  xy: 943, 87\n  size: 328, 286\n  orig: 384, 323\n  offset: 56, 5\n  index: -1\n29\n  rotate: false\n  xy: 1134, 883\n  size: 328, 286\n  orig: 384, 323\n  offset: 56, 4\n  index: -1\n3\n  rotate: true\n  xy: 327, 2\n  size: 381, 319\n  orig: 384, 323\n  offset: 3, 0\n  index: -1\n38\n  rotate: true\n  xy: 1188, 554\n  size: 327, 287\n  orig: 384, 323\n  offset: 57, 3\n  index: -1\n4\n  rotate: false\n  xy: 584, 671\n  size: 381, 323\n  orig: 384, 323\n  offset: 3, 0\n  index: -1\n5\n  rotate: false\n  xy: 2, 710\n  size: 381, 323\n  orig: 384, 323\n  offset: 3, 0\n  index: -1\n6\n  rotate: false\n  xy: 1134, 1171\n  size: 337, 309\n  orig: 384, 323\n  offset: 47, 0\n  index: -1\n8\n  rotate: true\n  xy: 385, 581\n  size: 217, 197\n  orig: 384, 323\n  offset: 114, 5\n  index: -1\n9\n  rotate: false\n  xy: 385, 399\n  size: 219, 180\n  orig: 384, 323\n  offset: 127, 4\n  index: -1\npngguru.com\n  rotate: false\n  xy: 2, 1035\n  size: 582, 445\n  orig: 582, 445\n  offset: 0, 0\n  index: -1\npngguru.com copy\n  rotate: false\n  xy: 586, 996\n  size: 546, 484\n  orig: 546, 484\n  offset: 0, 0\n  index: -1\n\nhomBonus2.png\nsize: 1446,1207\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n12\n  rotate: true\n  xy: 1197, 1001\n  size: 204, 221\n  orig: 384, 323\n  offset: 94, 5\n  index: -1\n13\n  rotate: true\n  xy: 1197, 573\n  size: 208, 209\n  orig: 384, 323\n  offset: 82, 4\n  index: -1\n14\n  rotate: true\n  xy: 2, 3\n  size: 212, 209\n  orig: 384, 323\n  offset: 84, 4\n  index: -1\n15\n  rotate: false\n  xy: 433, 2\n  size: 216, 215\n  orig: 384, 323\n  offset: 102, 5\n  index: -1\n19\n  rotate: false\n  xy: 213, 4\n  size: 218, 211\n  orig: 384, 323\n  offset: 101, 5\n  index: -1\n20\n  rotate: false\n  xy: 651, 2\n  size: 216, 217\n  orig: 384, 323\n  offset: 102, 5\n  index: -1\n22\n  rotate: true\n  xy: 2, 877\n  size: 328, 286\n  orig: 384, 323\n  offset: 56, 0\n  index: -1\n25\n  rotate: true\n  xy: 578, 549\n  size: 327, 286\n  orig: 384, 323\n  offset: 57, 5\n  index: -1\n26\n  rotate: true\n  xy: 579, 878\n  size: 327, 285\n  orig: 384, 323\n  offset: 57, 5\n  index: -1\n27\n  rotate: true\n  xy: 2, 217\n  size: 328, 285\n  orig: 384, 323\n  offset: 56, 5\n  index: -1\n28\n  rotate: true\n  xy: 2, 547\n  size: 328, 285\n  orig: 384, 323\n  offset: 56, 5\n  index: -1\n30\n  rotate: false\n  xy: 869, 629\n  size: 326, 287\n  orig: 384, 323\n  offset: 56, 3\n  index: -1\n31\n  rotate: true\n  xy: 1157, 25\n  size: 313, 287\n  orig: 384, 323\n  offset: 56, 3\n  index: -1\n32\n  rotate: true\n  xy: 869, 20\n  size: 318, 286\n  orig: 384, 323\n  offset: 55, 4\n  index: -1\n33\n  rotate: false\n  xy: 869, 340\n  size: 320, 287\n  orig: 384, 323\n  offset: 56, 3\n  index: -1\n34\n  rotate: false\n  xy: 869, 918\n  size: 326, 287\n  orig: 384, 323\n  offset: 56, 3\n  index: -1\n35\n  rotate: true\n  xy: 578, 221\n  size: 326, 287\n  orig: 384, 323\n  offset: 57, 3\n  index: -1\n36\n  rotate: true\n  xy: 289, 219\n  size: 327, 287\n  orig: 384, 323\n  offset: 57, 3\n  index: -1\n37\n  rotate: true\n  xy: 290, 878\n  size: 327, 287\n  orig: 384, 323\n  offset: 57, 3\n  index: -1\n39\n  rotate: true\n  xy: 289, 548\n  size: 327, 287\n  orig: 384, 323\n  offset: 57, 3\n  index: -1\n7\n  rotate: true\n  xy: 1197, 783\n  size: 216, 217\n  orig: 384, 323\n  offset: 102, 5\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "dd0e8a58-672d-4232-9242-1a8f287ea8f0"
+    },
+    {
+      "__uuid__": "50876ee5-eee3-4d09-bd88-d83158b6044b"
+    }
+  ],
+  "textureNames": [
+    "homBonus.png",
+    "homBonus2.png"
+  ],
+  "scale": 1
+}

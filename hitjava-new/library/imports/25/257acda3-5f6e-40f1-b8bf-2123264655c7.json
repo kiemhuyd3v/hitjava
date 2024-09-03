@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "minigame_sun",
+    "texture": "3032e51a-6c0f-4713-899c-cb79d639387d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      137
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      137
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

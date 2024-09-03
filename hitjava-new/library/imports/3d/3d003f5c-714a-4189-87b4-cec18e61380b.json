@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_like_fb",
+    "texture": "98a01a19-2edb-4bb3-b7f7-70b94b790f75",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      275,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      275,
+      117
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

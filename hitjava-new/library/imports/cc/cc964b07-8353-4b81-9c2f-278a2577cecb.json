@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chip_5k_glow",
+    "texture": "9f4f7038-02f2-4623-b733-ac516708af00",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      155,
+      157
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      157
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "activecuadat",
+    "texture": "57ea2e7f-7755-4dd0-abf3-6077a6e6f175",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      313,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      317,
+      139
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

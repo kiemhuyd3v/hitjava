@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnXX2",
+    "texture": "21dde71a-b479-43d7-8cfa-a4cc488a85c6",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      108,
+      19
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      108,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "refesh",
+    "texture": "34934997-ee3f-4dcd-b92c-0e4fe74ff00b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

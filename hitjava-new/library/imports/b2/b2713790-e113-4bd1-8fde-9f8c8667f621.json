@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lineXanhLaCay",
+    "texture": "fd5ba711-bf18-4f35-9968-ba2a09150476",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

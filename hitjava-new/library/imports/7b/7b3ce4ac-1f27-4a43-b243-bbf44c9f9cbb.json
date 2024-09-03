@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "trenduoi",
+    "texture": "4d372a06-391f-41e4-a2b0-d5c944d6bddf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      215,
+      220
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      215,
+      221
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

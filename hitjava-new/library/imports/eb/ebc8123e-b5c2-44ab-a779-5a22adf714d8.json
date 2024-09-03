@@ -1,0 +1,643 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "bgnotilooby",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "bgdd2": {
+          "bgdd2": {
+            "width": 304,
+            "height": 67
+          }
+        },
+        "bgxx2": {
+          "bgxx2": {
+            "width": 303,
+            "height": 70
+          }
+        },
+        "bgdd1": {
+          "bgdd1": {
+            "width": 307,
+            "height": 69
+          }
+        },
+        "bgxx1": {
+          "bgxx1": {
+            "width": 307,
+            "height": 69
+          }
+        },
+        "bgdd3": {
+          "bgdd3": {
+            "width": 304,
+            "height": 67
+          }
+        },
+        "bgxx3": {
+          "bgxx3": {
+            "width": 303,
+            "height": 70
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 307,
+      "spine": "3.6.53",
+      "hash": "8FW58Ip7LCNUUvx9hBGcxOXxX5c",
+      "height": 70
+    },
+    "slots": [
+      {
+        "attachment": "bgxx1",
+        "name": "bgxx1",
+        "bone": "bone"
+      },
+      {
+        "attachment": "bgdd1",
+        "name": "bgdd1",
+        "bone": "bone"
+      },
+      {
+        "attachment": "bgdd2",
+        "blend": "additive",
+        "name": "bgdd2",
+        "bone": "bone2"
+      },
+      {
+        "attachment": "bgdd3",
+        "blend": "additive",
+        "name": "bgdd3",
+        "bone": "bone3"
+      },
+      {
+        "attachment": "bgxx2",
+        "name": "bgxx2",
+        "bone": "bone2"
+      },
+      {
+        "attachment": "bgxx3",
+        "blend": "additive",
+        "name": "bgxx3",
+        "bone": "bone3"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone"
+      },
+      {
+        "parent": "root",
+        "name": "bone2"
+      },
+      {
+        "parent": "root",
+        "name": "bone3"
+      }
+    ],
+    "animations": {
+      "bgdo2": {
+        "slots": {
+          "bgdd2": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.2667
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.5
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.7333
+              },
+              {
+                "color": "ffffffff",
+                "time": 1
+              }
+            ]
+          },
+          "bgxx2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 1
+              }
+            ]
+          },
+          "bgdd1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 1
+              }
+            ]
+          },
+          "bgxx1": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 1
+              }
+            ]
+          },
+          "bgdd3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.2667
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.7333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1
+              }
+            ]
+          },
+          "bgxx3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 1
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          }
+        }
+      },
+      "bgdo": {
+        "slots": {
+          "bgdd2": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.2667
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.5
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.7333
+              },
+              {
+                "color": "ffffffff",
+                "time": 1
+              }
+            ]
+          },
+          "bgxx2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 1
+              }
+            ]
+          },
+          "bgdd1": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 1
+              }
+            ]
+          },
+          "bgxx1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 1
+              }
+            ]
+          },
+          "bgdd3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.2667
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.7333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1
+              }
+            ]
+          },
+          "bgxx3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 1
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nbgnotilooby.png\nsize: 922,144\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbgdd1\n  rotate: false\n  xy: 2, 2\n  size: 306, 69\n  orig: 307, 69\n  offset: 1, 0\n  index: -1\nbgdd2\n  rotate: false\n  xy: 310, 3\n  size: 304, 67\n  orig: 304, 67\n  offset: 0, 0\n  index: -1\nbgdd3\n  rotate: false\n  xy: 616, 3\n  size: 304, 67\n  orig: 304, 67\n  offset: 0, 0\n  index: -1\nbgxx1\n  rotate: false\n  xy: 2, 73\n  size: 307, 69\n  orig: 307, 69\n  offset: 0, 0\n  index: -1\nbgxx2\n  rotate: false\n  xy: 616, 72\n  size: 303, 70\n  orig: 303, 70\n  offset: 0, 0\n  index: -1\nbgxx3\n  rotate: false\n  xy: 311, 72\n  size: 303, 70\n  orig: 303, 70\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "382e58ae-a029-47ae-a248-50cee79f51a9"
+    }
+  ],
+  "textureNames": [
+    "bgnotilooby.png"
+  ],
+  "scale": 1
+}

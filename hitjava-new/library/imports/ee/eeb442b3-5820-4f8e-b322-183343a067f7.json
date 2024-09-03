@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "x2Slot.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ChiemTinh": {
+      "__uuid__": "2353f999-5f7d-40b5-8eb1-17afdfd0c893"
+    },
+    "Euro": {
+      "__uuid__": "dcc23ffb-e2b8-4d64-a6a8-26ff299e73b3"
+    },
+    "ThanTai": {
+      "__uuid__": "2a709438-a3e1-4fb9-a0c1-aef5a0441014"
+    },
+    "agrrybird": {
+      "__uuid__": "09df0075-13ef-47c9-86c9-c9d8edff4dc8"
+    },
+    "bitcoin": {
+      "__uuid__": "37b6cc90-a29c-49a9-89a0-1064d4435846"
+    },
+    "wukong": {
+      "__uuid__": "1af4d492-649a-42c9-8a0b-7715c49a36d3"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thangno",
+    "texture": "27a833d3-5caa-4be1-bc2c-78b86509929b",
+    "atlas": "",
+    "rect": [
+      3,
+      5,
+      1014,
+      817
+    ],
+    "offset": [
+      -4,
+      -1
+    ],
+    "originalSize": [
+      1028,
+      825
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

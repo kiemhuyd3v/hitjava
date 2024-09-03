@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Reg",
+    "texture": "ec84dda4-b832-41b0-b5d8-644990323dcd",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      303,
+      83
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      310,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

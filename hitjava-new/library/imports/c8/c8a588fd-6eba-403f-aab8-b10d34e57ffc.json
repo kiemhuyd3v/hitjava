@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txtDangNhap",
+    "texture": "154200e3-8415-425f-ab30-f7ffdcb0ec74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      173,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

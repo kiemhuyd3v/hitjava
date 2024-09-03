@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn kichhoat",
+    "texture": "ac6f7aa5-92ea-40c1-824b-db208258849c",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      486,
+      120
+    ],
+    "offset": [
+      -10,
+      1
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

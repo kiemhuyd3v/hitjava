@@ -1,0 +1,97 @@
+
+nohu.png
+size: 1465,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: true
+  xy: 2, 276
+  size: 729, 681
+  orig: 729, 681
+  offset: 0, 0
+  index: -1
+as2
+  rotate: true
+  xy: 685, 520
+  size: 485, 473
+  orig: 485, 473
+  offset: 0, 0
+  index: -1
+batgioi
+  rotate: false
+  xy: 886, 24
+  size: 211, 292
+  orig: 211, 292
+  offset: 0, 0
+  index: -1
+co1
+  rotate: true
+  xy: 1305, 556
+  size: 108, 102
+  orig: 108, 102
+  offset: 0, 0
+  index: -1
+co2
+  rotate: false
+  xy: 1305, 666
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+duongtang
+  rotate: true
+  xy: 499, 2
+  size: 272, 385
+  orig: 272, 385
+  offset: 0, 0
+  index: -1
+duongtangmay
+  rotate: false
+  xy: 685, 318
+  size: 438, 200
+  orig: 438, 200
+  offset: 0, 0
+  index: -1
+mayto
+  rotate: false
+  xy: 2, 34
+  size: 495, 240
+  orig: 495, 240
+  offset: 0, 0
+  index: -1
+ngokhong
+  rotate: true
+  xy: 1099, 54
+  size: 209, 331
+  orig: 209, 331
+  offset: 0, 0
+  index: -1
+ngokhongmay
+  rotate: true
+  xy: 1305, 785
+  size: 220, 158
+  orig: 220, 158
+  offset: 0, 0
+  index: -1
+satangmay
+  rotate: true
+  xy: 1305, 785
+  size: 220, 158
+  orig: 220, 158
+  offset: 0, 0
+  index: -1
+satang
+  rotate: true
+  xy: 1125, 265
+  size: 253, 280
+  orig: 253, 280
+  offset: 0, 0
+  index: -1
+txxt
+  rotate: true
+  xy: 1160, 567
+  size: 438, 143
+  orig: 438, 143
+  offset: 0, 0
+  index: -1

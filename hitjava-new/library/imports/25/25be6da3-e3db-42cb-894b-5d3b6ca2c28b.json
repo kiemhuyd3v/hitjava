@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "arrowtaocode",
+    "texture": "eb621a40-c4f7-4016-b2c7-e17f6a3c6e82",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      93,
+      110
+    ],
+    "offset": [
+      -8.5,
+      0
+    ],
+    "originalSize": [
+      114,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

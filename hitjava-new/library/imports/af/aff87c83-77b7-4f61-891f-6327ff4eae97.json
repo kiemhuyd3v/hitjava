@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mobiphone-active",
+    "texture": "08667669-7071-43ca-b60a-d055d59ca813",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": [
+      {
+        "attachments": {
+          "22321ds": {
+            "22321ds": {
+              "scaleX": 0.7849,
+              "scaleY": 0.7849,
+              "x": 0.5,
+              "width": 201,
+              "y": 0.5,
+              "height": 201
+            }
+          },
+          "c": {
+            "c": {
+              "color": "ce3a3a00",
+              "vertices": [
+                -40.6,
+                -44.03,
+                -30.99,
+                -51.6,
+                -18.79,
+                -55.9,
+                -6.13,
+                -59.17,
+                7.2,
+                -58.72,
+                20.88,
+                -55.22,
+                30.59,
+                -50.47,
+                35.19,
+                -47.08,
+                43.77,
+                -39.96,
+                49.42,
+                -32.84,
+                53.94,
+                -23.35,
+                57.67,
+                -14.09,
+                59.59,
+                -3.01,
+                59.14,
+                9.3,
+                57.22,
+                18.34,
+                53.27,
+                27.48,
+                47.39,
+                37.2,
+                40.84,
+                44.88,
+                30.89,
+                53.36,
+                20.38,
+                58.56,
+                9.31,
+                61.5,
+                -1.54,
+                62.63,
+                -17.47,
+                59.8,
+                -29.22,
+                55.28,
+                -40.96,
+                47.29,
+                -48.98,
+                38.25,
+                -54.74,
+                29.78,
+                -59.04,
+                20.51,
+                -60.84,
+                9.78,
+                -61.64,
+                -2.65,
+                -60.39,
+                -12.6,
+                -57.45,
+                -21.75,
+                -52.93,
+                -29.77,
+                -46.95,
+                -38.25
+              ],
+              "end": "l",
+              "type": "clipping",
+              "vertexCount": 34
+            }
+          },
+          "t": {
+            "t": {
+              "scaleX": 0.7673,
+              "scaleY": 0.7673,
+              "x": 11,
+              "width": 169,
+              "y": 8.67,
+              "height": 96
+            }
+          },
+          "231dfsdfx": {
+            "231dfsdfx": {
+              "scaleX": 0.5318,
+              "scaleY": 0.5318,
+              "x": -10.59,
+              "width": 313,
+              "y": 12.2,
+              "height": 259
+            }
+          },
+          "i-2": {
+            "i-2": {
+              "scaleX": 0.8448,
+              "scaleY": 0.8448,
+              "rotation": -63.58,
+              "x": 21.4,
+              "width": 218,
+              "y": 46.48,
+              "height": 109
+            }
+          }
+        },
+        "name": "default"
+      }
+    ],
+    "skeleton": {
+      "images": "",
+      "x": -93.81,
+      "width": 174.43,
+      "y": -66.07,
+      "spine": "3.8.75",
+      "audio": "D:/JOBSpat/studio/ui desing new/rikvip rikwin/asset/box3-style2/1-game-chung",
+      "hash": "TLw6F4cCntKAZC75OIxOlPrLkH8",
+      "height": 157.77
+    },
+    "slots": [
+      {
+        "attachment": "231dfsdfx",
+        "blend": "screen",
+        "name": "231dfsdfx",
+        "bone": "root"
+      },
+      {
+        "color": "ffffffb0",
+        "attachment": "22321ds",
+        "blend": "screen",
+        "name": "22321ds",
+        "bone": "22321ds"
+      },
+      {
+        "name": "4",
+        "bone": "root"
+      },
+      {
+        "name": "3",
+        "bone": "bone"
+      },
+      {
+        "attachment": "c",
+        "name": "c",
+        "bone": "root"
+      },
+      {
+        "blend": "screen",
+        "name": "l",
+        "bone": "l"
+      },
+      {
+        "attachment": "i-2",
+        "name": "i-2",
+        "bone": "bone2"
+      },
+      {
+        "attachment": "t",
+        "name": "t",
+        "bone": "t"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone"
+      },
+      {
+        "scaleX": 1.0431,
+        "parent": "root",
+        "scaleY": 1.0431,
+        "name": "t",
+        "x": -11.84,
+        "y": -18.68
+      },
+      {
+        "parent": "root",
+        "name": "l"
+      },
+      {
+        "parent": "root",
+        "rotation": 56.05,
+        "name": "bone2",
+        "length": 102.98,
+        "x": 79.62,
+        "y": -58.78
+      },
+      {
+        "parent": "root",
+        "name": "22321ds",
+        "x": 1.23,
+        "y": 12.32
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "22321ds": {
+            "color": [
+              {
+                "color": "ffffffb0"
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.1667
+              },
+              {
+                "color": "ffffffb0",
+                "time": 1.6667
+              }
+            ]
+          }
+        },
+        "bones": {
+          "22321ds": {
+            "scale": [
+              {},
+              {
+                "curve": "stepped",
+                "x": 1.162,
+                "y": 1.162,
+                "time": 0.6667
+              },
+              {
+                "x": 1.162,
+                "y": 1.162,
+                "time": 1
+              },
+              {
+                "time": 1.6667
+              }
+            ]
+          },
+          "t": {
+            "scale": [
+              {
+                "x": 0.946,
+                "y": 0.946
+              },
+              {
+                "x": 1.17,
+                "y": 1.17,
+                "time": 0.5
+              },
+              {
+                "time": 1
+              },
+              {
+                "x": 1.17,
+                "y": 1.17,
+                "time": 1.1
+              },
+              {
+                "time": 1.2333
+              },
+              {
+                "x": 1.17,
+                "y": 1.17,
+                "time": 1.3333
+              },
+              {
+                "time": 1.4333
+              },
+              {
+                "x": 1.17,
+                "y": 1.17,
+                "time": 1.5667
+              },
+              {
+                "time": 1.6667
+              }
+            ],
+            "translate": [
+              {
+                "y": -20.6
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "angle": 8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1.022,
+                "y": 1.022
+              },
+              {
+                "x": 1.022,
+                "y": 1.022,
+                "time": 0.4333
+              },
+              {
+                "x": 1.016,
+                "y": 1.016,
+                "time": 0.5
+              },
+              {
+                "x": 1.022,
+                "y": 1.022,
+                "time": 0.5667
+              },
+              {
+                "x": 0.72,
+                "y": 0.72,
+                "time": 0.6333
+              },
+              {
+                "x": 1.022,
+                "y": 1.022,
+                "time": 0.7
+              },
+              {
+                "x": 0.72,
+                "y": 0.72,
+                "time": 0.7667
+              },
+              {
+                "x": 1.022,
+                "y": 1.022,
+                "time": 0.8333
+              }
+            ],
+            "translate": [
+              {
+                "x": -63.7,
+                "y": 22.67
+              }
+            ]
+          },
+          "l": {
+            "translate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1667
+              },
+              {
+                "x": 136.67,
+                "y": -7.94,
+                "time": 1.3667
+              },
+              {
+                "x": 250.56,
+                "time": 1.5333
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nskeleton.png\nsize: 560,317\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n22321ds\n  rotate: false\n  xy: 263, 114\n  size: 201, 201\n  orig: 201, 201\n  offset: 0, 0\n  index: -1\n231dfsdfx\n  rotate: true\n  xy: 2, 2\n  size: 313, 259\n  orig: 313, 259\n  offset: 0, 0\n  index: -1\ni-2\n  rotate: false\n  xy: 263, 3\n  size: 216, 109\n  orig: 218, 109\n  offset: 2, 0\n  index: -1\nt\n  rotate: true\n  xy: 466, 149\n  size: 166, 92\n  orig: 169, 96\n  offset: 2, 2\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "761d2339-b4f5-466f-9be5-b5a1ebc6337e"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png"
+  ],
+  "scale": 1
+}

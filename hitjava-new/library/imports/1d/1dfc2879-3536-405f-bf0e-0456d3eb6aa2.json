@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_euro",
+    "texture": "4f4b0d3d-2ccd-4f06-90b1-64ccfbf14114",
+    "atlas": "",
+    "rect": [
+      9,
+      6,
+      212,
+      219
+    ],
+    "offset": [
+      -1.5,
+      -0.5
+    ],
+    "originalSize": [
+      233,
+      230
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pokerOff",
+    "texture": "f48395b0-67f9-4cb2-a71a-b4995cac21c8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

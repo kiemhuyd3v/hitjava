@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roU",
+    "texture": "5da95290-6a45-4af1-9b20-bb6089c1c1eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      22
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      24,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

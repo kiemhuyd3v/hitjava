@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tinTucICon",
+    "texture": "64b7bd47-696b-44fe-9876-13f0b45deb3e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

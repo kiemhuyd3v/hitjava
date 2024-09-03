@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnMoney",
+    "texture": "7412b065-ab0a-4a68-9130-926ce2cfe971",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

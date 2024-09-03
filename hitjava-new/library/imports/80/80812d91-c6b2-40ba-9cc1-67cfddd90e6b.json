@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kimcuong",
+    "texture": "9fc58c9d-d321-4a0e-bb8e-a061ef3a0b83",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      215,
+      221
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      215,
+      221
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

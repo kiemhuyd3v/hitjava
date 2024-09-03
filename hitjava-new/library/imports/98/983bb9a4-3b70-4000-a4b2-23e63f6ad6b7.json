@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_nganhang_on",
+    "texture": "1cb85b40-f5fe-4640-9275-ef28aa3ed140",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      170,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+
+khibaybay.png
+size: 907,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aochong
+  rotate: true
+  xy: 637, 31
+  size: 97, 34
+  orig: 99, 36
+  offset: 1, 1
+  index: -1
+bongchan1
+  rotate: false
+  xy: 637, 2
+  size: 47, 27
+  orig: 49, 29
+  offset: 1, 1
+  index: -1
+bongchan2
+  rotate: true
+  xy: 732, 48
+  size: 35, 28
+  orig: 37, 30
+  offset: 1, 1
+  index: -1
+chankhi
+  rotate: false
+  xy: 484, 2
+  size: 151, 126
+  orig: 153, 128
+  offset: 1, 1
+  index: -1
+co
+  rotate: false
+  xy: 673, 54
+  size: 57, 29
+  orig: 59, 31
+  offset: 1, 1
+  index: -1
+dailung
+  rotate: true
+  xy: 847, 162
+  size: 86, 51
+  orig: 88, 53
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 677, 85
+  size: 74, 84
+  orig: 76, 86
+  offset: 1, 1
+  index: -1
+dau2
+  rotate: true
+  xy: 754, 162
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+day1
+  rotate: true
+  xy: 868, 254
+  size: 31, 37
+  orig: 33, 39
+  offset: 1, 1
+  index: -1
+day2
+  rotate: false
+  xy: 830, 43
+  size: 22, 47
+  orig: 24, 49
+  offset: 1, 1
+  index: -1
+duoikhi
+  rotate: true
+  xy: 868, 287
+  size: 155, 33
+  orig: 157, 35
+  offset: 1, 1
+  index: -1
+gay
+  rotate: false
+  xy: 484, 276
+  size: 285, 166
+  orig: 287, 168
+  offset: 1, 1
+  index: -1
+khanco
+  rotate: false
+  xy: 854, 61
+  size: 42, 30
+  orig: 44, 32
+  offset: 1, 1
+  index: -1
+lua
+  rotate: false
+  xy: 677, 161
+  size: 75, 113
+  orig: 75, 113
+  offset: 0, 0
+  index: -1
+lua2
+  rotate: false
+  xy: 2, 7
+  size: 480, 435
+  orig: 480, 435
+  offset: 0, 0
+  index: -1
+may
+  rotate: true
+  xy: 771, 250
+  size: 192, 95
+  orig: 194, 97
+  offset: 1, 1
+  index: -1
+taphai
+  rotate: false
+  xy: 673, 35
+  size: 16, 17
+  orig: 18, 19
+  offset: 1, 1
+  index: -1
+tatrai
+  rotate: false
+  xy: 754, 256
+  size: 11, 18
+  orig: 13, 20
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: true
+  xy: 763, 37
+  size: 53, 65
+  orig: 55, 67
+  offset: 1, 1
+  index: -1
+taytrai
+  rotate: false
+  xy: 763, 92
+  size: 71, 68
+  orig: 73, 70
+  offset: 1, 1
+  index: -1
+thanngokhong
+  rotate: false
+  xy: 836, 93
+  size: 60, 67
+  orig: 62, 69
+  offset: 1, 1
+  index: -1
+thanngokhong2
+  rotate: false
+  xy: 484, 130
+  size: 191, 144
+  orig: 191, 144
+  offset: 0, 0
+  index: -1

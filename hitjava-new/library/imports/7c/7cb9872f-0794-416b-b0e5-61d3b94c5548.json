@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maubinh_sun",
+    "texture": "064a3cc3-f98d-4a71-9e30-1481f19e5b87",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      237,
+      202
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      237,
+      202
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

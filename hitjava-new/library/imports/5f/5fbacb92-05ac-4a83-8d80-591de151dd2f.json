@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xteen",
+    "texture": "3bba390d-6d27-4958-ae0a-7599ea59b517",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      724,
+      481
+    ],
+    "offset": [
+      -147,
+      12.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

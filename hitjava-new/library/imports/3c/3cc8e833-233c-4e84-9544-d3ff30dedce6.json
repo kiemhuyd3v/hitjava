@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgsesion",
+    "texture": "bcbfa6ad-2146-4047-aaee-b47a08b44fde",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      678,
+      375
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      678,
+      375
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

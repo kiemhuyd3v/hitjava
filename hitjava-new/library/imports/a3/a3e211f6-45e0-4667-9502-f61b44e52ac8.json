@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "doithuong_2",
+    "texture": "0880dafc-292a-4387-ab2b-ad5ea75ca975",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      148,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

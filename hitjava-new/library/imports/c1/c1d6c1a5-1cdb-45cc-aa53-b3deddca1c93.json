@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angrybirds_font_freespin",
+    "texture": "af6786de-ce9c-4b66-adf0-ee8da3690e0d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      187,
+      254
+    ],
+    "offset": [
+      -34.5,
+      1
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

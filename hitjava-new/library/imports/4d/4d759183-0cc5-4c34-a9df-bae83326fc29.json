@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "tab_game.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "header_03": {
+      "__uuid__": "e7c4a86c-a5b2-4b05-84b5-b74b1ff7d3be"
+    },
+    "header_05": {
+      "__uuid__": "c46b3662-d781-4aec-8daf-22ca0c1ad698"
+    },
+    "header_08": {
+      "__uuid__": "b2cc7c9a-5eab-4ae6-a452-1f4f50fb22f6"
+    },
+    "header_10": {
+      "__uuid__": "453e8db9-c689-4b46-90c8-960303254177"
+    },
+    "header_12": {
+      "__uuid__": "79d3b29d-8055-4a50-9358-d02085254bc6"
+    },
+    "header_14": {
+      "__uuid__": "8edf949e-1eff-4438-b8d2-1b260221df81"
+    },
+    "header_19": {
+      "__uuid__": "7f0e305d-06c5-4072-8636-7d787cd923dc"
+    },
+    "header_20": {
+      "__uuid__": "b9fd55f5-eee1-40e6-826c-1f552e6e3557"
+    },
+    "header_21": {
+      "__uuid__": "894d2a3b-43ed-45fc-a7f7-99cf7045109f"
+    },
+    "header_22": {
+      "__uuid__": "ef7711c8-e3a1-4741-b62c-233d46d4a02d"
+    },
+    "header_23": {
+      "__uuid__": "b1237ba6-a3eb-4483-bd29-ca8458739574"
+    },
+    "txt_allgame_off": {
+      "__uuid__": "9efbce34-6299-43a5-9026-8d088a058a25"
+    },
+    "txt_allgame_on": {
+      "__uuid__": "28d3571b-a8ac-4021-91f7-efea07216333"
+    },
+    "txt_gamebai_off": {
+      "__uuid__": "4104f02e-c2dc-4933-ae57-6fb644e4248c"
+    },
+    "txt_gamebai_on": {
+      "__uuid__": "43f1845f-3cff-4f28-8ace-058c8cdf46be"
+    },
+    "txt_livecasino_off": {
+      "__uuid__": "fa840bb4-4c53-40a4-a251-52b5178e7806"
+    },
+    "txt_livecasino_on": {
+      "__uuid__": "c2365436-8846-46ec-8bc1-be008322cef1"
+    },
+    "txt_minigame_off": {
+      "__uuid__": "7c8ba68e-cfc1-443e-9c1b-f68a7d5428a6"
+    },
+    "txt_minigame_on": {
+      "__uuid__": "463b816c-7ea7-4d68-8db4-8c8d0ce45cd6"
+    },
+    "txt_nohu_off": {
+      "__uuid__": "e75f536e-f026-4231-a1b4-31f6664abbfc"
+    },
+    "txt_nohu_on": {
+      "__uuid__": "a7cd2792-8d10-4441-bf25-cd4e1865fd1d"
+    },
+    "txt_thethao_off": {
+      "__uuid__": "e882f78f-41da-49d3-afc4-d98c1afcc593"
+    },
+    "txt_thethao_on": {
+      "__uuid__": "503b957f-aaad-4ea5-9b01-2e0a6cf8beeb"
+    }
+  }
+}

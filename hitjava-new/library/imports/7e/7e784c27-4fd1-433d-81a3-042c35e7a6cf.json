@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnXepHang",
+    "texture": "af6beba0-8355-440b-81f5-3836d25f3c64",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      56
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      92,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

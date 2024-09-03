@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boder_chua_chip",
+    "texture": "07b51999-c6e2-439a-9522-7fe0b0ae096b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

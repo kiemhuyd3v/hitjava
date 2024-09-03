@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "muc",
+    "texture": "993678b4-e78c-468d-8ee7-f07a5bcf54d5",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2031,
+      504
+    ],
+    "offset": [
+      -6.5,
+      2
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

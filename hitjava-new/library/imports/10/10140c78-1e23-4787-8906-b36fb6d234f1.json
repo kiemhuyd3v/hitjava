@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "comboBox",
+    "texture": "e4207ad0-3714-49c2-9c94-421c4fc02036",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      252,
+      267
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      252,
+      267
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

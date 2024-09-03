@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tép",
+    "texture": "1e6c7b59-9975-4efc-8f69-b8ec4ac04966",
+    "atlas": "bff5c771-8e40-47cc-9cd3-4ba339d8c365",
+    "rect": [
+      446,
+      909,
+      74,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

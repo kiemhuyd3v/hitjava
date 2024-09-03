@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "The-Witcher-Season-2-elle-man-4",
+    "texture": "2c83c83c-f0ec-404b-81f1-441a7808b201",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1084,
+      549
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1084,
+      549
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

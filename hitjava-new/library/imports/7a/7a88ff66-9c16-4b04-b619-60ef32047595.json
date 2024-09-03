@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sthethao",
+    "texture": "2b944a53-8ff4-4aed-8eea-c0eea8681a86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      213,
+      223
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      223
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

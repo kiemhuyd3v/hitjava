@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hopqua",
+    "texture": "a0bfc55c-a6c6-400f-82b3-d800d9b30709",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      403,
+      151
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      403,
+      151
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "othethao",
+    "texture": "f40e1710-c88a-4943-a206-54e93f605027",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      213,
+      219
+    ],
+    "offset": [
+      0.5,
+      2.5
+    ],
+    "originalSize": [
+      216,
+      224
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

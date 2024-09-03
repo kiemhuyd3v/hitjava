@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BaiCao",
+    "texture": "e1225bf2-5722-4a1e-8211-32b60983a097",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      470,
+      247
+    ],
+    "offset": [
+      -20,
+      3.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

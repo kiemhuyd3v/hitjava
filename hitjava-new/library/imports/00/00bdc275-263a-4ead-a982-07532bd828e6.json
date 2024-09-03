@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dangnhap-04",
+    "texture": "86794eec-bf34-4292-a0b4-94b57f2e147e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      268,
+      60
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      269,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

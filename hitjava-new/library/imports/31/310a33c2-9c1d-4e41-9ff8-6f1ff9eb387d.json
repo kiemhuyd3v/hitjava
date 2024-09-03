@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tele",
+    "texture": "b4e548d7-c8e1-4f0f-bd40-f9425365f587",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

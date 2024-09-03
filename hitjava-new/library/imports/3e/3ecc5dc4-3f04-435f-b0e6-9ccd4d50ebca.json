@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_mng_btn_item_9",
+    "texture": "352e1708-a7dc-4bcb-ab5e-e535f65eb519",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      136
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      130,
+      137
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

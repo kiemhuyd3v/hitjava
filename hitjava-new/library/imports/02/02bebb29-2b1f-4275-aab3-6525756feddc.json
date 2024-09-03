@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slotOffCopy",
+    "texture": "4db5c90a-2fbc-4213-8cbe-78ecb47c1f74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

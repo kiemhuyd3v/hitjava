@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_lobby",
+    "texture": "8ea883ef-49a1-4bde-9615-6b5429283f09",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      127
+    ],
+    "offset": [
+      -15.5,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

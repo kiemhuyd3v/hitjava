@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "duaxe_en.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bottom": {
+      "__uuid__": "428b96bb-15e4-48f6-b993-f6104f3d30e5"
+    },
+    "btn_bochon": {
+      "__uuid__": "7b749c84-65fb-4684-9a50-1988e873e9b0"
+    },
+    "btn_bochon_on": {
+      "__uuid__": "1f232e59-cadd-497d-9ced-17d165260617"
+    },
+    "btn_dongchan": {
+      "__uuid__": "09dcde9d-7ab2-4d2f-9634-d5f2356bc103"
+    },
+    "btn_dongchan_on": {
+      "__uuid__": "0d8654a1-91dd-436c-a384-49d86381c1ab"
+    },
+    "btn_dongle": {
+      "__uuid__": "c22d4290-9562-4afd-93e1-7c46ef259747"
+    },
+    "btn_dongle_on": {
+      "__uuid__": "e2a20ac9-15e3-495b-9b82-ba2095515d7f"
+    },
+    "btn_tatca": {
+      "__uuid__": "158cc859-ab2e-4f07-b17b-ba0bd7180c56"
+    },
+    "btn_tatca_on": {
+      "__uuid__": "424e4ddb-dec3-4043-9f8e-d20ef372f3bd"
+    },
+    "data_bangthuong": {
+      "__uuid__": "860e7071-f469-446c-bc9e-311b3254b768"
+    },
+    "fame_hesonhan": {
+      "__uuid__": "9a3bd3e1-ef53-4308-8ced-92504c67116a"
+    },
+    "frame_soluot": {
+      "__uuid__": "3ab98657-b1d9-4a85-95e1-33f887ddef13"
+    },
+    "frame_win": {
+      "__uuid__": "50e3d7a4-37aa-4b8a-bd5e-3c0d7ddf47b4"
+    },
+    "logo": {
+      "__uuid__": "ec2cda2d-bff4-4849-b7b6-e0a0da3c8f92"
+    },
+    "sodu": {
+      "__uuid__": "3888068a-5ce5-4a43-9f20-bbcf7a3698a6"
+    },
+    "title_bangthuong": {
+      "__uuid__": "8c53a89c-0989-4d17-9b26-304cd95505be"
+    },
+    "title_chondong": {
+      "__uuid__": "fdd88282-d4c7-4bf4-9515-4a39de541fb2"
+    },
+    "title_danhsach_lichsu": {
+      "__uuid__": "78c47b57-6fb9-403e-9565-20f73ea40970"
+    },
+    "title_danhsach_vinhdanh": {
+      "__uuid__": "7149f050-f024-41b1-ba92-0b2436368a81"
+    },
+    "title_lichsu": {
+      "__uuid__": "f2e55ce8-b434-4a48-9808-3c9dbbae4332"
+    },
+    "title_thongbao": {
+      "__uuid__": "5cee5447-6bc9-4871-a515-f5f8ada71c98"
+    },
+    "title_vinhdanh": {
+      "__uuid__": "727a166c-56d1-4964-8851-24eb36b086a2"
+    }
+  }
+}

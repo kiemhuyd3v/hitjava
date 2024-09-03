@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khungChinh",
+    "texture": "ce364b57-0705-4f10-88e2-de77f7a1c2c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      834,
+      454
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      834,
+      454
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

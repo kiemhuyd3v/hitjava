@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "help_codepay",
+    "texture": "de984eb3-42ad-4352-b5b9-52c628887a63",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1195,
+      667
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1195,
+      667
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

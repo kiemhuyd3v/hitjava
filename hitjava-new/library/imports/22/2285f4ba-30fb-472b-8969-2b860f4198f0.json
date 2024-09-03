@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nhan_1",
+    "texture": "9bb93bd3-8b7d-4e87-93a0-e327ef159643",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

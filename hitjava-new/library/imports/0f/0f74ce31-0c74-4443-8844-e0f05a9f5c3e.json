@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon-XeDien",
+    "texture": "61115d9b-6c14-4169-a185-44e9d1d0a166",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      492,
+      222
+    ],
+    "offset": [
+      -6,
+      17
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

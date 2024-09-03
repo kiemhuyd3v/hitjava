@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_money_3",
+    "texture": "a709d1a4-fd59-4a4c-bcc8-89216dbabae5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      127
+    ],
+    "offset": [
+      -5.5,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

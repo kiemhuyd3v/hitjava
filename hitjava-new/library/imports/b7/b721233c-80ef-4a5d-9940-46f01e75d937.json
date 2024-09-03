@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Effect-chuTaiXiu",
+    "texture": "18effed9-79ad-4520-949d-01e50cc1709a",
+    "atlas": "",
+    "rect": [
+      5,
+      5,
+      307,
+      191
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      317,
+      201
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quaylai-btn",
+    "texture": "09d40e82-f982-4d47-b7ef-855a5d74d842",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      268,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

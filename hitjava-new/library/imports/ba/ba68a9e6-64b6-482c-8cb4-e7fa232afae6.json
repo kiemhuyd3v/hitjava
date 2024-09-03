@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_lichsu",
+    "texture": "e74b09f8-19b8-40b2-85b7-43fc16f55aad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lixi",
+    "texture": "73dcccce-0449-43d7-b886-88d50df0cf68",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      201,
+      235
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      201,
+      235
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

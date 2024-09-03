@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnAddCoin",
+    "texture": "411896cf-66f2-431e-ac4e-289d0ef34e10",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

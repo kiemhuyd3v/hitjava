@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lineMauDo",
+    "texture": "e3d632b3-97ae-4a36-bd76-bf86609f2039",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

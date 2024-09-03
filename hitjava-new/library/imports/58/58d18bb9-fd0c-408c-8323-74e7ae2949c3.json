@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vongXoayGlow",
+    "texture": "85ee7688-1d52-4e0f-8eb8-30def1bbdba4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

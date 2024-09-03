@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angrybirds_symbol_1_6",
+    "texture": "fd749747-6e88-43ce-893a-244187191e3b",
+    "atlas": "",
+    "rect": [
+      2,
+      22,
+      1012,
+      475
+    ],
+    "offset": [
+      -4,
+      -3.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

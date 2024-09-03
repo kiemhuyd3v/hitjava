@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_BonusG",
+    "texture": "5fc89327-aa75-499e-8976-ee4128728fc7",
+    "atlas": "e4e79a6b-a666-4f1c-a86f-faf53e635bac",
+    "rect": [
+      0,
+      252,
+      116,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

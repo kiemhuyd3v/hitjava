@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icRank",
+    "texture": "355d857f-7507-4c88-81e3-fac9e9984d19",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

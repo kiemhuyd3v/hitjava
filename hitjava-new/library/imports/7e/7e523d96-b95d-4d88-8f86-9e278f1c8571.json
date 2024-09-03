@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "panelMenu",
+    "texture": "de325e37-3a7d-4d09-93bd-8add814610ee",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      150,
+      407
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      411
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

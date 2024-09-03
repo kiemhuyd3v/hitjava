@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bakgroud",
+    "texture": "277bc108-051a-4f4e-8787-614c97f7e6a0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1197,
+      634
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1197,
+      634
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

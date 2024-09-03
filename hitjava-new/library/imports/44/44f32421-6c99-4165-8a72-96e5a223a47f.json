@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "9991_TuLinh_Banner",
+    "texture": "70d637c7-4e12-4567-843b-913d5c7fcce4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

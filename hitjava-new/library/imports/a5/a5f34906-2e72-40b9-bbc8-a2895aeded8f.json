@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab_5k_on",
+    "texture": "336862ad-e666-45f2-aa08-549d2b536bae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      31,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnCreateTable",
+    "texture": "41571480-b260-49b6-8b05-c428cecddfb5",
+    "atlas": "cd6af132-b243-49e2-86bb-8e77a82289e5",
+    "rect": [
+      344,
+      1872,
+      92,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

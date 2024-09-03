@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hopthu",
+    "texture": "70f198d7-3951-45fc-80b8-43818ccf02c3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

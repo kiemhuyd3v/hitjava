@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_chon",
+    "texture": "66c4653f-4df9-4e6a-b19d-9802ca55ad24",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

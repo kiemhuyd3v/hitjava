@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khung_nen_avt",
+    "texture": "8f529659-1085-4c84-a037-fba919889b41",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      626,
+      324
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      626,
+      324
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

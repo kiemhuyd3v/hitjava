@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_chondong.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "9c72ecb8-ca02-4adc-95e8-842c1a2cf271"
+    },
+    "2": {
+      "__uuid__": "4da25c1f-3a49-4b4c-8692-6c5b18b7b6bc"
+    },
+    "3": {
+      "__uuid__": "2e7da258-d691-46b9-9a23-655b1c9e904a"
+    },
+    "4": {
+      "__uuid__": "3d29953d-9ec8-42ad-ad48-3f60b7286509"
+    },
+    "5": {
+      "__uuid__": "bb3fa5c5-e7f2-4a6a-b64d-f986591f707b"
+    },
+    "6": {
+      "__uuid__": "46c8c765-213e-45e3-8b1d-8ff340d67081"
+    },
+    "7": {
+      "__uuid__": "545d781c-cc08-4f66-865d-7eb2e468edb7"
+    },
+    "8": {
+      "__uuid__": "49324e8c-4b6f-4195-a2cd-297824fd45cf"
+    },
+    "9": {
+      "__uuid__": "3f209d6c-ff1c-442e-964a-dba100b47b52"
+    },
+    "10": {
+      "__uuid__": "04158a5c-4590-4599-97dc-7ef66e527070"
+    },
+    "11": {
+      "__uuid__": "3eb4a1d7-5821-48d9-ad7b-134ce1557c99"
+    },
+    "12": {
+      "__uuid__": "7ec5edc8-c4cc-4e19-8f66-8ead62dcd4fa"
+    },
+    "13": {
+      "__uuid__": "bbe6ba65-c027-40d6-9c67-6a3fa627d654"
+    },
+    "14": {
+      "__uuid__": "a6303c43-379b-4acc-baf6-7ce35553fc5b"
+    },
+    "15": {
+      "__uuid__": "3109e9df-1022-4acf-8ee2-00d38bfd9906"
+    },
+    "16": {
+      "__uuid__": "fb2420bf-8260-403c-825e-4edfd3b84f21"
+    },
+    "17": {
+      "__uuid__": "5cf758c8-69c6-4c64-aace-27a37908dd4a"
+    },
+    "18": {
+      "__uuid__": "52e249b5-5d5b-4316-b964-6510c9962e92"
+    },
+    "19": {
+      "__uuid__": "38e88bf2-9b13-4cb7-9e2f-233323dd4960"
+    },
+    "20": {
+      "__uuid__": "d1387463-e19b-4977-8103-9ba674fb3969"
+    },
+    "btn_bochon": {
+      "__uuid__": "df8dd397-7724-4dda-a859-97fd36d9e236"
+    },
+    "btn_bochon_on": {
+      "__uuid__": "1d4c283b-fcf3-42bc-8ebd-d3a10aceaa58"
+    },
+    "btn_chonchan": {
+      "__uuid__": "2ef699b9-eb4f-4ee9-b705-79049410c8b3"
+    },
+    "btn_chonchan_on": {
+      "__uuid__": "92823be3-1052-406f-8248-86b3a2554c9b"
+    },
+    "btn_chonle": {
+      "__uuid__": "e6ffbe41-833a-406d-95d6-1fcdf00f6803"
+    },
+    "btn_chonle_on": {
+      "__uuid__": "a30e782a-4ae5-434a-bb4e-c1b25aa263cd"
+    },
+    "btn_tatca": {
+      "__uuid__": "61778e2f-1db4-4c2e-a766-185937aed4b1"
+    },
+    "btn_tatca_on": {
+      "__uuid__": "c025aca1-f2c5-4f08-8420-13bcea708a6a"
+    },
+    "title": {
+      "__uuid__": "2ebc4536-487e-4e15-b209-8f6d9dc56095"
+    }
+  }
+}

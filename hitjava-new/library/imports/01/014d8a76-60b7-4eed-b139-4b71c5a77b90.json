@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bua_active",
+    "texture": "6d95c201-e0da-4710-a631-87f782baeadf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

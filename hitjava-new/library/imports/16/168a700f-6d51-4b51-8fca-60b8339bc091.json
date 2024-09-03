@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gem_lobby",
+    "texture": "0234a039-e874-453d-a1fc-857ecb5a225b",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      1237,
+      248
+    ],
+    "offset": [
+      -401.5,
+      0
+    ],
+    "originalSize": [
+      2048,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

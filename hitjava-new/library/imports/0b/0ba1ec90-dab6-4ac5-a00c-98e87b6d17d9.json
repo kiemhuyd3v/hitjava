@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnBatDau",
+    "texture": "f7a05e7c-c980-4087-8391-1713d5a7a6c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      199,
+      52
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      199,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

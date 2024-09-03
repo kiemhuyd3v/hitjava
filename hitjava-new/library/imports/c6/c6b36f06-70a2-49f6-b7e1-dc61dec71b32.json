@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "STTT-UI-anim",
+    "texture": "c12c0142-5d8e-410f-97a4-2841c9b0ed89",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      286,
+      1040
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      292,
+      1046
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

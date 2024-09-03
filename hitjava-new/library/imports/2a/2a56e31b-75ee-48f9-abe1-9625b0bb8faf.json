@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_thua",
+    "texture": "2991e268-ddd8-4d22-93f9-f46ccf127d66",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

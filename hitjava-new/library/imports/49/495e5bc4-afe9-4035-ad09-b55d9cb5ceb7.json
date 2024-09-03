@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dong_10",
+    "texture": "57f77c9b-8bf8-4e8d-8351-571c14b5e973",
+    "atlas": "8a685026-2c50-4c7d-9452-58acc4fe1852",
+    "rect": [
+      0,
+      504,
+      142,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      142,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

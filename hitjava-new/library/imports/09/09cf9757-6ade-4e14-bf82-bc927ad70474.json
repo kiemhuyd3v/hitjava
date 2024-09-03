@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "IconTaiXiu",
+    "texture": "68db11cf-3ffe-4f3f-a1ff-dd340f4f7105",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      773,
+      788
+    ],
+    "offset": [
+      -7.5,
+      0
+    ],
+    "originalSize": [
+      792,
+      792
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

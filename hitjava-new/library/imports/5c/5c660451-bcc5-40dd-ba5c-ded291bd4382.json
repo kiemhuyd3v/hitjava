@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnDatCuocOrangeR",
+    "texture": "9bad0672-ff2f-4c53-ad40-7b9fcd977030",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

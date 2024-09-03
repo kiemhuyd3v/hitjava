@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Thang-Coin-1",
+    "texture": "bed62227-b778-4dc4-8d08-4715340ac446",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      890,
+      965
+    ],
+    "offset": [
+      -66,
+      27.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

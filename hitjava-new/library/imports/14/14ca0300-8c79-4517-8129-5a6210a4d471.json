@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "slots_angrybirds_bangthuong.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "angrybirds_bangthuong_1": {
+      "__uuid__": "b30e4d30-8dd9-40d7-b2b3-575fb5414b11"
+    },
+    "angrybirds_bangthuong_2": {
+      "__uuid__": "7bb597c7-bd04-445f-b133-9f774937785e"
+    },
+    "angrybirds_bangthuong_3": {
+      "__uuid__": "8ccd59ac-3ebc-4043-8b7c-fec7cb7bb7b5"
+    },
+    "angrybirds_bangthuong_bg": {
+      "__uuid__": "71d6fea7-4331-4c00-9ea4-a2eced686d36"
+    },
+    "angrybirds_bangthuong_btn_close": {
+      "__uuid__": "23a471e3-1578-44cb-bf45-ce4a29d5a028"
+    },
+    "angrybirds_icon_amthanh": {
+      "__uuid__": "07870017-e546-4ef8-9971-00db6060d92f"
+    },
+    "angrybirds_icon_bangvinhdanh": {
+      "__uuid__": "20674028-082b-406b-b056-ddd19a22b70f"
+    },
+    "angrybirds_icon_lsgd": {
+      "__uuid__": "e38b8e38-cdb8-43bf-a1d6-3862ec5421ab"
+    },
+    "angrybirds_icon_lshu": {
+      "__uuid__": "40e82b8c-2f56-4a9e-9428-ec7f0c49309d"
+    },
+    "angrybirds_setting_bg": {
+      "__uuid__": "487c8235-2192-4c51-8a7a-390cc37265a9"
+    },
+    "angrybirds_setting_btn_close": {
+      "__uuid__": "39e57a30-4c65-4ce3-ae37-06349d28d08b"
+    },
+    "angrybirds_tick": {
+      "__uuid__": "cae76467-daa0-4f64-a6ed-fab3681df078"
+    },
+    "angrybirds_untick": {
+      "__uuid__": "30971c3d-84a7-4f3a-b9a3-cbc61cfe2392"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconTinTucCopy",
+    "texture": "f99c6a48-b482-41a7-a279-da52e11177f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

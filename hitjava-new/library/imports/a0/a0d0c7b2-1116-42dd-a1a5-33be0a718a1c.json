@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "choigame_2",
+    "texture": "f8ea551e-0478-4f5b-a4df-5f089d9da932",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

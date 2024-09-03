@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blackjack1",
+    "texture": "169a237d-90e2-4aaa-9dce-50a2f98546a6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      340
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      259,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

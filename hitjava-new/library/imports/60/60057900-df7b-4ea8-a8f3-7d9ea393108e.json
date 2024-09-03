@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chon phong",
+    "texture": "11a4d513-b64f-4e54-8af8-a3ec093b41fe",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      1008,
+      982
+    ],
+    "offset": [
+      -6,
+      17
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "quabay",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "1": {
+          "1": {
+            "x": -8.26,
+            "width": 98,
+            "y": -16.01,
+            "height": 97
+          },
+          "2": {
+            "x": -15.26,
+            "width": 112,
+            "y": -12.98,
+            "height": 77
+          },
+          "3": {
+            "x": 6,
+            "width": 87,
+            "y": 4.98,
+            "height": 91
+          },
+          "4": {
+            "x": 11.07,
+            "width": 101,
+            "y": 10.14,
+            "height": 101
+          },
+          "a1": {
+            "x": 5.44,
+            "width": 72,
+            "y": -7.22,
+            "height": 66
+          },
+          "a2": {
+            "x": 5.35,
+            "width": 72,
+            "y": -7.41,
+            "height": 66
+          },
+          "a3": {
+            "x": -5.13,
+            "width": 94,
+            "y": 0.85,
+            "height": 83
+          },
+          "a4": {
+            "x": 15.73,
+            "width": 92,
+            "y": 15.98,
+            "height": 113
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "./images/",
+      "width": 94,
+      "spine": "3.2.01",
+      "hash": "48k7cHzFt/FSUDaUJyjyovjmxBI",
+      "height": 83
+    },
+    "slots": [
+      {
+        "attachment": "a3",
+        "name": "1",
+        "bone": "bone"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone",
+        "x": 0.19,
+        "y": 0.13
+      }
+    ],
+    "animations": {
+      "quathuong": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": "1",
+                "time": 0
+              },
+              {
+                "name": "2",
+                "time": 0.0333
+              },
+              {
+                "name": "3",
+                "time": 0.0666
+              },
+              {
+                "name": "4",
+                "time": 0.1
+              },
+              {
+                "name": "1",
+                "time": 0.1333
+              },
+              {
+                "name": "2",
+                "time": 0.1666
+              },
+              {
+                "name": "3",
+                "time": 0.2
+              },
+              {
+                "name": "4",
+                "time": 0.2333
+              },
+              {
+                "name": "1",
+                "time": 0.2666
+              },
+              {
+                "name": "2",
+                "time": 0.3
+              },
+              {
+                "name": "3",
+                "time": 0.3333
+              },
+              {
+                "name": "4",
+                "time": 0.3666
+              },
+              {
+                "name": "1",
+                "time": 0.4
+              },
+              {
+                "name": "2",
+                "time": 0.4333
+              },
+              {
+                "name": "3",
+                "time": 0.4666
+              },
+              {
+                "name": "4",
+                "time": 0.5
+              },
+              {
+                "name": "1",
+                "time": 0.5333
+              },
+              {
+                "name": "2",
+                "time": 0.5666
+              },
+              {
+                "name": "3",
+                "time": 0.6
+              },
+              {
+                "name": "4",
+                "time": 0.6333
+              }
+            ]
+          }
+        }
+      },
+      "quabaylen": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": "a1",
+                "time": 0
+              },
+              {
+                "name": "a2",
+                "time": 0.0333
+              },
+              {
+                "name": "a3",
+                "time": 0.0666
+              },
+              {
+                "name": "a4",
+                "time": 0.1
+              },
+              {
+                "name": "2",
+                "time": 0.1333
+              },
+              {
+                "name": "1",
+                "time": 0.1666
+              },
+              {
+                "name": "3",
+                "time": 0.2
+              },
+              {
+                "name": "4",
+                "time": 0.2333
+              },
+              {
+                "name": "2",
+                "time": 0.2666
+              },
+              {
+                "name": "1",
+                "time": 0.3
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nquabay.png\nsize: 419,185\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: false\n  xy: 117, 7\n  size: 98, 97\n  orig: 98, 97\n  offset: 0, 0\n  index: -1\n2\n  rotate: false\n  xy: 117, 106\n  size: 112, 77\n  orig: 112, 77\n  offset: 0, 0\n  index: -1\n3\n  rotate: true\n  xy: 2, 2\n  size: 87, 91\n  orig: 87, 91\n  offset: 0, 0\n  index: -1\n4\n  rotate: false\n  xy: 231, 82\n  size: 101, 101\n  orig: 101, 101\n  offset: 0, 0\n  index: -1\na1\n  rotate: false\n  xy: 334, 21\n  size: 72, 66\n  orig: 72, 66\n  offset: 0, 0\n  index: -1\na2\n  rotate: false\n  xy: 217, 14\n  size: 72, 66\n  orig: 72, 66\n  offset: 0, 0\n  index: -1\na3\n  rotate: true\n  xy: 334, 89\n  size: 94, 83\n  orig: 94, 83\n  offset: 0, 0\n  index: -1\na4\n  rotate: true\n  xy: 2, 91\n  size: 92, 113\n  orig: 92, 113\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "87b49603-2388-4097-82d7-351e5e4da268"
+    }
+  ],
+  "textureNames": [
+    "quabay.png"
+  ],
+  "scale": 1
+}

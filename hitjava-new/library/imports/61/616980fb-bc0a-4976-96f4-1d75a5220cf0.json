@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnTatTay",
+    "texture": "2bf3da12-c652-4cce-9fbe-13a104653c79",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      157,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      157,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

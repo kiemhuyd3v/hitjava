@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_bochon_on",
+    "texture": "a0dbfe01-7700-436d-9f10-afe6cc22ba28",
+    "atlas": "f31d3a0e-fdbc-4802-9d2b-0e2becad8e80",
+    "rect": [
+      840,
+      858,
+      351,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      351,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

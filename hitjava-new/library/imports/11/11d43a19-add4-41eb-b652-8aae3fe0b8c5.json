@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thumbTip",
+    "texture": "414c83a5-cd3d-46a4-a069-dfe49f2674c3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      227,
+      326
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      227,
+      326
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

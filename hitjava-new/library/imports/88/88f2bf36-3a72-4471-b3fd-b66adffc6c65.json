@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vietNamMobileOff",
+    "texture": "5ddf4172-6d45-4855-a992-c09f9e1f6bab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

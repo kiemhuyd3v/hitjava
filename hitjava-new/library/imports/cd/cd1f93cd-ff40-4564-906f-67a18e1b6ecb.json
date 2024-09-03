@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vietnam",
+    "texture": "21bffece-e75c-4b60-ba0b-759a8771a6d5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      201,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      201,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderSoChi",
+    "texture": "859a36c7-001d-4f7c-9d27-cdf063bab001",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

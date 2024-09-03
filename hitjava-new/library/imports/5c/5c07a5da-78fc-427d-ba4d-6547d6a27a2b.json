@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gainhaylobby",
+    "texture": "cfd00945-d38c-4f3b-85cf-d2d9ce6795d7",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      664,
+      181
+    ],
+    "offset": [
+      -177,
+      34.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

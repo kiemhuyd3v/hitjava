@@ -1,0 +1,547 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "bonus",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "bonus1": {
+          "bonus1": {
+            "x": 2,
+            "width": 688,
+            "y": -0.99,
+            "height": 482
+          }
+        },
+        "bonus2": {
+          "bonus2": {
+            "width": 242,
+            "height": 179
+          }
+        },
+        "bonus5": {
+          "bonus2": {
+            "width": 242,
+            "height": 179
+          }
+        },
+        "bonus6": {
+          "bonus2": {
+            "width": 242,
+            "height": 179
+          }
+        },
+        "bonus3": {
+          "bonus3": {
+            "width": 214,
+            "height": 201
+          }
+        },
+        "bonus4": {
+          "bonus4": {
+            "width": 321,
+            "height": 108
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 688,
+      "spine": "3.2.01",
+      "hash": "3AGSBpbwB3c1CxuNEGRX2Yo42j8",
+      "height": 482
+    },
+    "slots": [
+      {
+        "attachment": "bonus1",
+        "name": "bonus1",
+        "bone": "nensang"
+      },
+      {
+        "attachment": "bonus2",
+        "name": "bonus2",
+        "bone": "lesnag"
+      },
+      {
+        "attachment": "bonus2",
+        "name": "bonus5",
+        "bone": "lesnag2"
+      },
+      {
+        "attachment": "bonus2",
+        "name": "bonus6",
+        "bone": "lesnag3"
+      },
+      {
+        "attachment": "bonus3",
+        "name": "bonus3",
+        "bone": "qua"
+      },
+      {
+        "attachment": "bonus4",
+        "name": "bonus4",
+        "bone": "txtbonus"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "lesnag",
+        "x": 52.99,
+        "y": 71
+      },
+      {
+        "parent": "root",
+        "name": "lesnag2",
+        "x": -69,
+        "y": -28.55
+      },
+      {
+        "parent": "root",
+        "name": "lesnag3",
+        "x": 46.16,
+        "y": -28.55
+      },
+      {
+        "parent": "root",
+        "name": "nensang"
+      },
+      {
+        "parent": "root",
+        "name": "qua"
+      },
+      {
+        "parent": "root",
+        "name": "txtbonus",
+        "y": -60
+      }
+    ],
+    "animations": {
+      "animation": {
+        "bones": {
+          "txtbonus": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.275,
+                  0,
+                  0.62,
+                  0.4
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.63
+                ],
+                "x": 1.3,
+                "y": 1.3,
+                "time": 0.2
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.63
+                ],
+                "x": 1.3,
+                "y": 1.3,
+                "time": 0.6
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "nensang": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.32,
+                  0.28,
+                  0.655,
+                  0.61
+                ],
+                "x": 1.144,
+                "y": 1.144,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.0666
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.63
+                ],
+                "x": 1.3,
+                "y": 1.3,
+                "time": 0.2666
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.4666
+              },
+              {
+                "curve": [
+                  0.29,
+                  0,
+                  0.629,
+                  0.37
+                ],
+                "x": 1.3,
+                "y": 1.3,
+                "time": 0.6666
+              },
+              {
+                "x": 1.144,
+                "y": 1.144,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "lesnag": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 120,
+                "time": 0.2666
+              },
+              {
+                "angle": 240,
+                "time": 0.5333
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.2666
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "lesnag2": {
+            "rotate": [
+              {
+                "angle": -15,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0.0333
+              },
+              {
+                "angle": 120,
+                "time": 0.3
+              },
+              {
+                "angle": 240,
+                "time": 0.5666
+              },
+              {
+                "angle": -15,
+                "time": 0.8
+              }
+            ]
+          },
+          "lesnag3": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 22.13,
+                "time": 0.1333
+              },
+              {
+                "angle": 120,
+                "time": 0.2666
+              },
+              {
+                "angle": 240,
+                "time": 0.5333
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "qua": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.63
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.63
+                ],
+                "x": 1.05,
+                "y": 1.05,
+                "time": 0.2
+              },
+              {
+                "curve": [
+                  0.275,
+                  0,
+                  0.62,
+                  0.4
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.63
+                ],
+                "x": 1.05,
+                "y": 1.05,
+                "time": 0.6
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nbonus.png\nsize: 1005,486\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbonus1\n  rotate: false\n  xy: 2, 2\n  size: 688, 482\n  orig: 688, 482\n  offset: 0, 0\n  index: -1\nbonus2\n  rotate: true\n  xy: 802, 242\n  size: 242, 179\n  orig: 242, 179\n  offset: 0, 0\n  index: -1\nbonus3\n  rotate: true\n  xy: 802, 26\n  size: 214, 201\n  orig: 214, 201\n  offset: 0, 0\n  index: -1\nbonus4\n  rotate: true\n  xy: 692, 163\n  size: 321, 108\n  orig: 321, 108\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "ec5141c6-4fcb-47a7-b2ca-c7b9830452b6"
+    }
+  ],
+  "textureNames": [
+    "bonus.png"
+  ],
+  "scale": 1
+}

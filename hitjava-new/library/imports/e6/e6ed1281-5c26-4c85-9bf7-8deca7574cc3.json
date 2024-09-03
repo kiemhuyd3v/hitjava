@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hujackpot",
+    "texture": "eadfe99d-b6bf-470e-91b0-08934401ff02",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1477,
+      435
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1481,
+      439
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

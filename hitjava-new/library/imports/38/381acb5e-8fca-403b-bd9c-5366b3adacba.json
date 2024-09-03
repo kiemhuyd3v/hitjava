@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "viettelOn2",
+    "texture": "ce57c7e6-5ec5-4ef2-afdd-17d3bf058650",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_lsgd",
+    "texture": "d08c3a15-4d4a-4fc0-9bff-25a7d19942f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

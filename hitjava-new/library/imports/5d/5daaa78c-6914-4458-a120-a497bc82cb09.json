@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bach ngan",
+    "texture": "21b55bcd-86b1-425c-8a54-8784dea5d665",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      465
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      465
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

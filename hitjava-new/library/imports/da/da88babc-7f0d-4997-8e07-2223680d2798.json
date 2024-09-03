@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_hotro",
+    "texture": "0ee0466a-81c1-498b-9bb7-b2ad8faf524b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

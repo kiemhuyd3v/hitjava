@@ -1,0 +1,48 @@
+
+bgnotilooby.png
+size: 922,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgdd1
+  rotate: false
+  xy: 2, 2
+  size: 306, 69
+  orig: 307, 69
+  offset: 1, 0
+  index: -1
+bgdd2
+  rotate: false
+  xy: 310, 3
+  size: 304, 67
+  orig: 304, 67
+  offset: 0, 0
+  index: -1
+bgdd3
+  rotate: false
+  xy: 616, 3
+  size: 304, 67
+  orig: 304, 67
+  offset: 0, 0
+  index: -1
+bgxx1
+  rotate: false
+  xy: 2, 73
+  size: 307, 69
+  orig: 307, 69
+  offset: 0, 0
+  index: -1
+bgxx2
+  rotate: false
+  xy: 616, 72
+  size: 303, 70
+  orig: 303, 70
+  offset: 0, 0
+  index: -1
+bgxx3
+  rotate: false
+  xy: 311, 72
+  size: 303, 70
+  orig: 303, 70
+  offset: 0, 0
+  index: -1

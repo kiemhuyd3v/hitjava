@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banbaucua",
+    "texture": "2c29d5a5-59d3-484c-bc33-f84a987ce867",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1006,
+      490
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1006,
+      490
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

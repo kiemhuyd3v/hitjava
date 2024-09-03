@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Linechay",
+    "texture": "a332ddbd-d38b-468e-9206-54aec7183286",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      1086,
+      683
+    ],
+    "offset": [
+      -3,
+      -1
+    ],
+    "originalSize": [
+      1098,
+      689
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

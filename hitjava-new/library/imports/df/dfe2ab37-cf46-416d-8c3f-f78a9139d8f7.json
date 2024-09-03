@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "b24win",
+    "texture": "f389fb77-9cc2-4405-9e9a-30e8a4671eb3",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      439,
+      226
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      445,
+      232
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

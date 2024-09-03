@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon-RongHo",
+    "texture": "a4d10a93-e187-45b6-9316-73a830d660b9",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1015,
+      506
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

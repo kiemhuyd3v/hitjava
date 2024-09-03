@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_chip@5000",
+    "texture": "506ddf78-70a0-4ad7-95b0-e0a421149120",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "XengFont01_export",
+    "texture": "2581f186-e51c-4afc-b0ce-348e51f10a4b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      475,
+      480
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      475,
+      480
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+
+label3sukien.png
+size: 848,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EVENT
+  rotate: true
+  xy: 797, 54
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+bomtan
+  rotate: false
+  xy: 762, 201
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+duatop
+  rotate: false
+  xy: 762, 182
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+duday
+  rotate: true
+  xy: 797, 94
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+mainstar
+  rotate: true
+  xy: 762, 225
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+sao1
+  rotate: false
+  xy: 2, 154
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+sao10
+  rotate: true
+  xy: 638, 2
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+sao2
+  rotate: false
+  xy: 154, 154
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+sao3
+  rotate: true
+  xy: 2, 2
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+sao4
+  rotate: false
+  xy: 306, 154
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+sao5
+  rotate: true
+  xy: 161, 2
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+sao6
+  rotate: false
+  xy: 458, 154
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+sao7
+  rotate: true
+  xy: 320, 2
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+sao8
+  rotate: false
+  xy: 610, 154
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+sao9
+  rotate: true
+  xy: 479, 2
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+xhu
+  rotate: false
+  xy: 762, 154
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1

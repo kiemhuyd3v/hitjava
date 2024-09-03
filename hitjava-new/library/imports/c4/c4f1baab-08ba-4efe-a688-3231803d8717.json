@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xoc-dia-livestream@2x",
+    "texture": "f78635a8-5fdc-4b32-a3b6-210d760fafea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

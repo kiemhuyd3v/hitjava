@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "binh",
+    "texture": "c7a0890a-8a2f-4271-bfd3-32b69993f5f6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      212,
+      187
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      187
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

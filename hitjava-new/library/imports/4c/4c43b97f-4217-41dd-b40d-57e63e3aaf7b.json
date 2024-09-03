@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-button-hu-xanh",
+    "texture": "bd821861-a283-42a9-87b1-d8f5affe38e0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      32
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      75,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

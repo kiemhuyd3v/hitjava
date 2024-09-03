@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_tienthua-export",
+    "texture": "4b482143-f61b-42c5-bcc3-1c82fb25ef04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      331,
+      342
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      332,
+      343
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

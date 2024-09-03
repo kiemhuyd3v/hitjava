@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "viking",
+    "texture": "dd7b5907-0b2e-4a3e-a33f-7712e52c9e07",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

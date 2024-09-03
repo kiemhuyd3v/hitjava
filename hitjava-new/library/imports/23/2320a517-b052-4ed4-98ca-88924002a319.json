@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chimluaanim",
+    "texture": "715a9a23-3958-458a-b89a-ccc324a0061f",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      894,
+      550
+    ],
+    "offset": [
+      -3,
+      0
+    ],
+    "originalSize": [
+      904,
+      556
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logilikeface",
+    "texture": "829a9448-e11f-45ab-80a7-50a24900a008",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      302,
+      202
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      302,
+      202
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

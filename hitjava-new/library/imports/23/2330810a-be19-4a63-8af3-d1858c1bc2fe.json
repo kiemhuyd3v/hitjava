@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LogoApp2",
+    "texture": "16f9578c-e55b-43f9-ac7c-68167d98aba2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      801,
+      801
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      801,
+      801
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

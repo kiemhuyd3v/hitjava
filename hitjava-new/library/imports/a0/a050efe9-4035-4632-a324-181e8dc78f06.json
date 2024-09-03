@@ -1,0 +1,470 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "khaychaychu",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "Rounded Rectangle 765": {
+          "Rounded Rectangle 765": {
+            "width": 917,
+            "height": 46
+          }
+        },
+        "vuongmien": {
+          "vuongmien": {
+            "rotation": -92.85,
+            "x": 30.05,
+            "width": 77,
+            "y": 3.02,
+            "height": 72
+          }
+        },
+        "Rounded Rectangle 766": {
+          "Rounded Rectangle 765": {
+            "width": 917,
+            "height": 46
+          }
+        },
+        "Rounded Rectangle 765 copy 2": {
+          "Rounded Rectangle 765 copy 2": {
+            "width": 932,
+            "height": 62
+          }
+        },
+        "Rounded Rectangle 765 copy": {
+          "Rounded Rectangle 765 copy": {
+            "width": 931,
+            "height": 62
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 951.54,
+      "spine": "3.6.53",
+      "hash": "HNq2xL7jnuPyi/iFYniF5fhfy+g",
+      "height": 85.1
+    },
+    "slots": [
+      {
+        "attachment": "Rounded Rectangle 765",
+        "name": "Rounded Rectangle 765",
+        "bone": "bone"
+      },
+      {
+        "attachment": "Rounded Rectangle 765",
+        "blend": "additive",
+        "name": "Rounded Rectangle 766",
+        "bone": "bone"
+      },
+      {
+        "attachment": "Rounded Rectangle 765 copy",
+        "blend": "additive",
+        "name": "Rounded Rectangle 765 copy",
+        "bone": "bone2"
+      },
+      {
+        "attachment": "Rounded Rectangle 765 copy 2",
+        "blend": "additive",
+        "name": "Rounded Rectangle 765 copy 2",
+        "bone": "bone3"
+      },
+      {
+        "attachment": "vuongmien",
+        "name": "vuongmien",
+        "bone": "vuongmien"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone"
+      },
+      {
+        "parent": "root",
+        "name": "bone2"
+      },
+      {
+        "parent": "root",
+        "name": "bone3"
+      },
+      {
+        "parent": "root",
+        "rotation": 103.6,
+        "name": "vuongmien",
+        "length": 63.79,
+        "x": -431,
+        "y": -19.5
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "Rounded Rectangle 766": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "time": 0
+              },
+              {
+                "color": "ffffffa0",
+                "time": 0.5
+              },
+              {
+                "color": "ffffff00",
+                "time": 1
+              }
+            ]
+          },
+          "Rounded Rectangle 765 copy 2": {
+            "color": [
+              {
+                "color": "fffffffb",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.2667
+              },
+              {
+                "color": "fffffffb",
+                "time": 0.5
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.7333
+              },
+              {
+                "color": "fffffffb",
+                "time": 1
+              }
+            ]
+          },
+          "Rounded Rectangle 765 copy": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.2667
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.7667
+              },
+              {
+                "color": "ffffff00",
+                "time": 1
+              }
+            ]
+          }
+        },
+        "bones": {
+          "vuongmien": {
+            "rotate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.862,
+                  0.7
+                ],
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.862,
+                  0.7
+                ],
+                "angle": 7.9,
+                "time": 0.2667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.862,
+                  0.7
+                ],
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.862,
+                  0.7
+                ],
+                "angle": -2.9,
+                "time": 0.7333
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.862,
+                  0.7
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.862,
+                  0.7
+                ],
+                "x": 1.18,
+                "y": 1.18,
+                "time": 0.5
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.862,
+                  0.7
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.862,
+                  0.7
+                ],
+                "x": 0,
+                "y": -9,
+                "time": 0.5
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          },
+          "bone3": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nkhaychaychu.png\nsize: 1015,178\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nRounded Rectangle 765\n  rotate: false\n  xy: 2, 2\n  size: 917, 46\n  orig: 917, 46\n  offset: 0, 0\n  index: -1\nRounded Rectangle 765 copy\n  rotate: false\n  xy: 2, 50\n  size: 931, 62\n  orig: 931, 62\n  offset: 0, 0\n  index: -1\nRounded Rectangle 765 copy 2\n  rotate: false\n  xy: 2, 114\n  size: 932, 62\n  orig: 932, 62\n  offset: 0, 0\n  index: -1\nvuongmien\n  rotate: false\n  xy: 936, 104\n  size: 77, 72\n  orig: 77, 72\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "7e8d68df-da8d-4d8e-b867-4253cee557fe"
+    }
+  ],
+  "textureNames": [
+    "khaychaychu.png"
+  ],
+  "scale": 1
+}

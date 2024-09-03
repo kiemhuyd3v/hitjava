@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Nhiemvu",
+    "texture": "e7024a2d-6bf8-434a-82e2-534f355842d3",
+    "atlas": "",
+    "rect": [
+      1,
+      12,
+      99,
+      75
+    ],
+    "offset": [
+      -2.5,
+      -6
+    ],
+    "originalSize": [
+      106,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

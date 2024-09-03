@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rongnho",
+    "texture": "1975b4ae-ab4e-493f-8ccb-3b6b6372936f",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      586,
+      701
+    ],
+    "offset": [
+      -57.5,
+      0
+    ],
+    "originalSize": [
+      705,
+      705
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

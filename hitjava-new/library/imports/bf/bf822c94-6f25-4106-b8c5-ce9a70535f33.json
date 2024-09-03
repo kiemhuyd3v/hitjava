@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TL_Symbol_Turtle_Gold",
+    "texture": "aca206f5-a791-4b9b-92d3-9e3eac7c8e30",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      221,
+      353
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      225,
+      357
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

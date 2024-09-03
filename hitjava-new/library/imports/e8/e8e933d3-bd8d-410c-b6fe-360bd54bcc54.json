@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TW_Kikimora",
+    "texture": "4d6a2a1c-bb89-458e-b10c-7d131781150d",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      503,
+      502
+    ],
+    "offset": [
+      -2.5,
+      2
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

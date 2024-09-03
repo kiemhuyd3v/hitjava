@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ket_qua_hang_ngay",
+    "texture": "ce7f61b3-4089-4a8a-a9ec-47eed05eb532",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

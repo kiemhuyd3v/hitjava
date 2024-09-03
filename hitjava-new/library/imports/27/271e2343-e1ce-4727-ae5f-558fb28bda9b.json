@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tXU",
+    "texture": "d29d545f-eb4c-4f8e-ae59-f00d09ca6a79",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      187,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      187,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

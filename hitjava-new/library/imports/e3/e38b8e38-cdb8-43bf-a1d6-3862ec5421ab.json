@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angrybirds_icon_lsgd",
+    "texture": "377fbdb1-a8cf-461f-a77c-6a0abb2a4f15",
+    "atlas": "14ca0300-8c79-4517-8129-5a6210a4d471",
+    "rect": [
+      1418,
+      522,
+      57,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

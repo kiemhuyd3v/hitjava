@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-phat",
+    "texture": "9c4183e0-7b27-4b9a-9b77-61148a80b502",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

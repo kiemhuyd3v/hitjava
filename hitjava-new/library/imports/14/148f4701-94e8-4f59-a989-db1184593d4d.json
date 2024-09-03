@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderDangKy",
+    "texture": "36fdae26-fc0e-4313-b91d-24861770f067",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      205,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      205,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

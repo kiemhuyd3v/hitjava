@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "KHUNG-03",
+    "texture": "4b562fe1-f3bf-479a-8ed2-7ef24e22f159",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      385,
+      72
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      386,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

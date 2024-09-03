@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Tai_XIu_Effect_Go88",
+    "texture": "2bd3eb6c-88fc-40b0-8608-a8c19c2cca71",
+    "atlas": "",
+    "rect": [
+      3,
+      37,
+      614,
+      579
+    ],
+    "offset": [
+      0,
+      -17.5
+    ],
+    "originalSize": [
+      620,
+      618
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

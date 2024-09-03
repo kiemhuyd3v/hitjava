@@ -1,0 +1,132 @@
+
+activelinean.png
+size: 1177,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc1
+  rotate: false
+  xy: 612, 6
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+cc12
+  rotate: false
+  xy: 676, 6
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+cc2
+  rotate: false
+  xy: 480, 6
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+cc22
+  rotate: false
+  xy: 546, 6
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+cc23
+  rotate: false
+  xy: 772, 7
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+cc24
+  rotate: true
+  xy: 835, 6
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+cc25
+  rotate: false
+  xy: 708, 6
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+cc26
+  rotate: false
+  xy: 579, 6
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+cc3
+  rotate: false
+  xy: 740, 7
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+cc4
+  rotate: true
+  xy: 804, 6
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+cc5
+  rotate: false
+  xy: 644, 6
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+cc6
+  rotate: false
+  xy: 513, 6
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+khay1
+  rotate: true
+  xy: 2, 4
+  size: 236, 247
+  orig: 236, 247
+  offset: 0, 0
+  index: -1
+khay2
+  rotate: true
+  xy: 251, 2
+  size: 238, 227
+  orig: 238, 227
+  offset: 0, 0
+  index: -1
+nenl1
+  rotate: true
+  xy: 856, 81
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+nenl2
+  rotate: false
+  xy: 1016, 82
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 480, 39
+  size: 186, 201
+  orig: 186, 201
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 668, 39
+  size: 186, 201
+  orig: 186, 201
+  offset: 0, 0
+  index: -1

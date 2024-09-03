@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leftBanner",
+    "texture": "ca097e0e-13fc-481e-ba4e-29a65c28659f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      456
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      456
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

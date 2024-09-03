@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angNhap",
+    "texture": "5bd4783f-733a-41be-bb1b-dd782b2b9347",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      325,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      325,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

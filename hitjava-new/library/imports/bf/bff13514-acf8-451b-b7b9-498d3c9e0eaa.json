@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_solo",
+    "texture": "0d117dc7-3958-4ce1-a29f-36a524d46e14",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

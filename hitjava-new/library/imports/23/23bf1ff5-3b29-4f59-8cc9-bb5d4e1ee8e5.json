@@ -1,0 +1,107 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "c54596ac-cf6f-4e55-a0d8-d1276aaf9e2e"
+    },
+    "34": {
+      "__uuid__": "29a2a749-a6ba-4023-8d06-583fc3f209d8"
+    },
+    "0ffca778-7e4b-4ce6-8338-9eb0545bd68b.a979c": {
+      "__uuid__": "2ea68ca2-810f-4118-a993-3c49d2d7fdef"
+    },
+    "banca": {
+      "__uuid__": "90da9933-d793-4aee-85c8-73dc86847bf1"
+    },
+    "baucua": {
+      "__uuid__": "9331a69b-de3e-474c-9e40-32a8e27dc649"
+    },
+    "bcr": {
+      "__uuid__": "00954f1a-b06d-4273-bba3-c2ccf75a4c80"
+    },
+    "bt": {
+      "__uuid__": "aa126db7-a3e6-4f27-8a88-62183b6a8f5e"
+    },
+    "caorua": {
+      "__uuid__": "a252ac38-876a-4803-832f-3aab14b01b89"
+    },
+    "catte": {
+      "__uuid__": "6b5e3074-4270-409c-adc3-8a5ac2a049ff"
+    },
+    "chan": {
+      "__uuid__": "1504bb07-33e1-4ab3-8639-298bae3309b8"
+    },
+    "kc": {
+      "__uuid__": "28688dc4-ee02-426f-8149-0591a028c715"
+    },
+    "keno": {
+      "__uuid__": "90e0ca00-f1e6-4266-bcaf-77936b153d61"
+    },
+    "lieng": {
+      "__uuid__": "f6050f15-ce71-4354-8b40-12b6942d3435"
+    },
+    "livecasino": {
+      "__uuid__": "6ffd651b-645e-4bc0-be5e-b6aa325d4130"
+    },
+    "lode": {
+      "__uuid__": "a0196a48-bbb0-47b5-807d-33f754a5e40e"
+    },
+    "mb": {
+      "__uuid__": "b3b1c9ae-33d7-4c4a-ae02-93c8dd50157f"
+    },
+    "minipk": {
+      "__uuid__": "8b4c4a87-84a0-4568-9d2b-6e02921d51b7"
+    },
+    "number": {
+      "__uuid__": "69027e59-728b-449b-a330-e1e39a9db3d0"
+    },
+    "othethao": {
+      "__uuid__": "e05c16a2-6bde-4bda-82f1-8135c3fd0c1a"
+    },
+    "phom": {
+      "__uuid__": "e43b3bed-0212-41eb-b166-4a31c6f74c31"
+    },
+    "sam": {
+      "__uuid__": "9992f1de-6025-49dc-9117-290d772077c8"
+    },
+    "sicbo": {
+      "__uuid__": "fa5eb96a-bb0f-4377-9792-9fd435e1c75a"
+    },
+    "sthethao": {
+      "__uuid__": "a20b3396-e541-447a-8375-323ec4d2c3a4"
+    },
+    "thantai": {
+      "__uuid__": "7ef5529f-adcf-42e0-946a-a522d0d1dc4c"
+    },
+    "the": {
+      "__uuid__": "e9210c4d-2416-402b-a169-945767423987"
+    },
+    "thethao": {
+      "__uuid__": "7ee58dda-9bf6-4a3c-ba4e-86ac99255cd8"
+    },
+    "tldl": {
+      "__uuid__": "e0f345a1-12ba-4354-a1bc-b18a2a7c9783"
+    },
+    "tlmn": {
+      "__uuid__": "ddc5bf6e-3c3e-4fc0-be17-7d2c02063c3f"
+    },
+    "trenduoi": {
+      "__uuid__": "0a60d4a7-7d88-41f1-b7f9-1434ba0e107d"
+    },
+    "txl": {
+      "__uuid__": "ece0011c-e297-4ea4-8fd0-cef1c5431204"
+    },
+    "xd": {
+      "__uuid__": "5d54121b-ba59-44ca-968e-16bf1a65dd41"
+    },
+    "xidach": {
+      "__uuid__": "bd8ba19c-5e7e-47fb-b258-9a4ce967e0f6"
+    },
+    "xito": {
+      "__uuid__": "aae87c27-d3f8-4c6a-99c8-7db31c6da0d5"
+    }
+  }
+}

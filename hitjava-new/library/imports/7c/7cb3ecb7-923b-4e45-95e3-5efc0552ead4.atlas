@@ -1,0 +1,118 @@
+
+itjackpot.png
+size: 665,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 335, 37
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+nen
+  rotate: true
+  xy: 537, 79
+  size: 110, 113
+  orig: 112, 115
+  offset: 1, 1
+  index: -1
+sen1
+  rotate: false
+  xy: 193, 34
+  size: 140, 155
+  orig: 160, 160
+  offset: 11, 3
+  index: -1
+sen2
+  rotate: false
+  xy: 2, 5
+  size: 189, 184
+  orig: 189, 189
+  offset: 0, 5
+  index: -1
+tayduoibansau
+  rotate: false
+  xy: 489, 42
+  size: 55, 35
+  orig: 57, 37
+  offset: 1, 1
+  index: -1
+tayduoimu
+  rotate: false
+  xy: 474, 3
+  size: 61, 32
+  orig: 63, 34
+  offset: 1, 1
+  index: -1
+tayduoingoncai
+  rotate: false
+  xy: 546, 56
+  size: 51, 21
+  orig: 53, 23
+  offset: 1, 1
+  index: -1
+tayduoingontro
+  rotate: true
+  xy: 586, 6
+  size: 48, 19
+  orig: 50, 21
+  offset: 1, 1
+  index: -1
+taytren2ngon
+  rotate: true
+  xy: 537, 8
+  size: 32, 47
+  orig: 34, 49
+  offset: 1, 1
+  index: -1
+taytrencotay
+  rotate: true
+  xy: 489, 106
+  size: 42, 43
+  orig: 44, 45
+  offset: 1, 1
+  index: -1
+taytrenmu
+  rotate: true
+  xy: 607, 23
+  size: 54, 56
+  orig: 56, 58
+  offset: 1, 1
+  index: -1
+taytrenngoncai
+  rotate: true
+  xy: 489, 150
+  size: 39, 46
+  orig: 41, 48
+  offset: 1, 1
+  index: -1
+taytrenngontdau
+  rotate: false
+  xy: 314, 7
+  size: 33, 25
+  orig: 35, 27
+  offset: 1, 1
+  index: -1
+taytrenngonut
+  rotate: true
+  xy: 489, 85
+  size: 19, 32
+  orig: 21, 34
+  offset: 1, 1
+  index: -1
+txt1
+  rotate: false
+  xy: 193, 4
+  size: 119, 28
+  orig: 121, 30
+  offset: 1, 1
+  index: -1
+txt2
+  rotate: false
+  xy: 349, 2
+  size: 123, 33
+  orig: 125, 35
+  offset: 1, 1
+  index: -1

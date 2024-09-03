@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "You-88-2-fn",
+    "texture": "ea2ae683-472a-4853-bc35-8603b78640d8",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      2042,
+      988
+    ],
+    "offset": [
+      0,
+      16
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

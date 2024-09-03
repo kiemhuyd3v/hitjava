@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ictaydu",
+    "texture": "503b320c-9a90-4857-b726-ff5ebf5974fd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1020,
+      508
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1020,
+      508
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

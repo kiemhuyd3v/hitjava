@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res-CardGame-MauBinh-btn_arrange_bao_binh",
+    "texture": "deaadbe6-33fa-46ae-8a13-a83be78f1b6c",
+    "atlas": "e1400530-0339-4c93-9643-d5769aca5cb8",
+    "rect": [
+      770,
+      891,
+      176,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

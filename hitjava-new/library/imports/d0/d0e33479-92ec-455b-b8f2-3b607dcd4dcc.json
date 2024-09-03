@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LuatDuaTopTaiXiu",
+    "texture": "f96c0a5f-de5c-4bdf-a156-e8ebdb873d74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1195,
+      669
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1195,
+      669
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

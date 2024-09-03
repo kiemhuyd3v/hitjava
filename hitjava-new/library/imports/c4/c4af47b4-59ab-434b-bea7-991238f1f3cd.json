@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fontStar-export_cyrillic",
+    "texture": "f88d02db-799d-4e17-be9d-756c7437b90e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      116
+    ],
+    "offset": [
+      -22.5,
+      6
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

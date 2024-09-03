@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iConBonus",
+    "texture": "5fac7720-3c7e-4e99-b91b-952e33675450",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      52
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      54,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

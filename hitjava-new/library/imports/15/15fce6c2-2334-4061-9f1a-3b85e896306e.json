@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_chu_ban",
+    "texture": "d0f2e2e2-61ce-4e26-94a8-39b3c458db1d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

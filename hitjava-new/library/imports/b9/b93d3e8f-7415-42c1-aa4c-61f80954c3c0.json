@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ketantoan-tab",
+    "texture": "411b87fc-cce5-4d23-b58a-6e596328d696",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

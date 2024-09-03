@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game-bai@2x_off",
+    "texture": "98e07610-c2ba-42ad-ba5c-99f93558233b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

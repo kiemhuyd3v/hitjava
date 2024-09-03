@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iteamwild",
+    "texture": "e32a9213-640c-4125-a482-e57f66a132e1",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      500,
+      181
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      504,
+      185
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

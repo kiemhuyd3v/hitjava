@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tienxu",
+    "texture": "1b375a6c-c00f-4e8b-b7b3-233c53dff005",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      215,
+      216
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      222,
+      222
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

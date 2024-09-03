@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonXanhLa",
+    "texture": "a8d03c1c-9053-4601-9115-ed4d54aaad70",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      165,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      165,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

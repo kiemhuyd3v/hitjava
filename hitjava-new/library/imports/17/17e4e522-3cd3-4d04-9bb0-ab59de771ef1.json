@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caunl",
+    "texture": "df53246f-c120-45ba-a13a-417cbd123c23",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      333,
+      335
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      341,
+      341
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

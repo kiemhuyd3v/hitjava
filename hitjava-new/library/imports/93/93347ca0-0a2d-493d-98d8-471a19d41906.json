@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PSD CHINH CHU",
+    "texture": "c0f681b9-9870-4ae7-9d7a-544e14f7cd99",
+    "atlas": "",
+    "rect": [
+      0,
+      30,
+      1254,
+      1896
+    ],
+    "offset": [
+      -17,
+      2
+    ],
+    "originalSize": [
+      1288,
+      1960
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

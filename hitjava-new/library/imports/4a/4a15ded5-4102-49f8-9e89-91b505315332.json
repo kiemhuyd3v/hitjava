@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "10KClick",
+    "texture": "7fcab4bd-5635-482f-b9f8-1615aff2ad2c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

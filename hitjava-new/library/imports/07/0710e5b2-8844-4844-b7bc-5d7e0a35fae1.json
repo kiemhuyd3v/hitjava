@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Font_Myriad_Number-export",
+    "texture": "00080220-ca8e-4541-b1d1-2d7a866a8c6e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      118
+    ],
+    "offset": [
+      -19,
+      5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

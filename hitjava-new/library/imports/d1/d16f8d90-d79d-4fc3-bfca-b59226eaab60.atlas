@@ -1,0 +1,27 @@
+
+mainbg.png
+size: 1705,924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 1144, 12
+  size: 910, 559
+  orig: 910, 559
+  offset: 0, 0
+  index: -1
+led1
+  rotate: true
+  xy: 2, 2
+  size: 920, 571
+  orig: 920, 571
+  offset: 0, 0
+  index: -1
+led2
+  rotate: true
+  xy: 575, 6
+  size: 916, 567
+  orig: 916, 567
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EffectLogo",
+    "texture": "b7898c7e-04a9-4b6d-ac5e-390b1361c108",
+    "atlas": "",
+    "rect": [
+      2,
+      56,
+      566,
+      717
+    ],
+    "offset": [
+      -103.5,
+      -27
+    ],
+    "originalSize": [
+      777,
+      775
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "1999_BanCa_Banner",
+    "texture": "32b83029-4c7b-4b65-8477-96a8b22d1ccb",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      2026,
+      517
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      2031,
+      523
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gangof3-export",
+    "texture": "ddaae3ca-22d0-4df3-89be-f44e59edd78d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      161
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      152,
+      163
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

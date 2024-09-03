@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cung-hy-phat-tai",
+    "texture": "e7ad734d-60af-47d2-b985-0dda33ef13cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

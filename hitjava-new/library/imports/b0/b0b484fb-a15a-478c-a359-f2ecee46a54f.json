@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnNapTien",
+    "texture": "55d4db4b-c2c8-4184-b956-e4d7b0bd711e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      403,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      403,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

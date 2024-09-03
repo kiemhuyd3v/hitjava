@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chumvang",
+    "texture": "d3f560c9-e435-4c3d-b4a5-1320c40efed0",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      481,
+      191
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      485,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

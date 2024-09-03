@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title-quenmatkhau",
+    "texture": "faac5b97-37dd-421e-90ef-954135d38eb7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      269,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      269,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jackpot",
+    "texture": "bd056c07-e57e-4bf7-939c-bddefba6ec62",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      86,
+      86
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      89,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

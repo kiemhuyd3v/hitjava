@@ -1,0 +1,34 @@
+
+mfreespin.png
+size: 1119,735
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freespin2
+  rotate: false
+  xy: 2, 2
+  size: 776, 731
+  orig: 776, 731
+  offset: 0, 0
+  index: -1
+freespin3
+  rotate: true
+  xy: 932, 198
+  size: 535, 143
+  orig: 536, 143
+  offset: 1, 0
+  index: -1
+freespin4
+  rotate: true
+  xy: 780, 181
+  size: 552, 150
+  orig: 552, 150
+  offset: 0, 0
+  index: -1
+freespinsnow
+  rotate: true
+  xy: 932, 8
+  size: 188, 185
+  orig: 188, 185
+  offset: 0, 0
+  index: -1

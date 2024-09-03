@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AnKheEffect",
+    "texture": "b0915891-0598-4bed-8e0f-3ed30a737cc6",
+    "atlas": "",
+    "rect": [
+      5,
+      21,
+      772,
+      773
+    ],
+    "offset": [
+      -15.5,
+      -1
+    ],
+    "originalSize": [
+      813,
+      813
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

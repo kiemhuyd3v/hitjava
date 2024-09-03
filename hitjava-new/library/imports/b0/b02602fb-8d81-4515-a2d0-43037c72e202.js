@@ -1,0 +1,53 @@
+"use strict";
+cc._RF.push(module, 'b0260L7jYFFFaLQQwN8cuIC', 'Loto.ItemNewBet');
+// Loto/Loto_Script/Loto.ItemNewBet.ts
+
+"use strict";
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = function (d, b) {
+        extendStatics = Object.setPrototypeOf ||
+            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+            function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
+        return extendStatics(d, b);
+    };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+var Utils_1 = require("../../Lobby/LobbyScript/Script/common/Utils");
+var Loto_Cmd_1 = require("./Loto.Cmd");
+var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
+var NewClass = /** @class */ (function (_super) {
+    __extends(NewClass, _super);
+    function NewClass() {
+        return _super !== null && _super.apply(this, arguments) || this;
+    }
+    // LIFE-CYCLE CALLBACKS:
+    // onLoad () {}
+    NewClass.prototype.start = function () {
+    };
+    NewClass.prototype.initItem = function (data) {
+        // <color=#ffcc00>-:</c><color=#ffffff>-</c>
+        this.node.getComponent(cc.RichText).string =
+            "<color=#ffcc00>" + data.nickname + " : </c><color=#ff0000>Đặt cược " + Utils_1.default.formatNumber(data.bet)
+                + " Gold</c><color=#ffffff> Cược đài </c><color=#0036ff>" + Loto_Cmd_1.default.Code.LOTO_CHANNEL_NAME[data.channel]
+                + " </c><color=#ffffff> loại </c><color=#ff0000>" + Loto_Cmd_1.default.Code.LOTO_GAME_MODE_NAME[data.mode] + "</c>"
+                + " <color=#00ff9c>" + data.nums + " </c>";
+    };
+    NewClass = __decorate([
+        ccclass
+    ], NewClass);
+    return NewClass;
+}(cc.Component));
+exports.default = NewClass;
+
+cc._RF.pop();

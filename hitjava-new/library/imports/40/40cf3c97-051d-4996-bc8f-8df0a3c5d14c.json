@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txmd5_btnCopy",
+    "texture": "e5e8818c-bab3-4b73-aec8-d707d1602802",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

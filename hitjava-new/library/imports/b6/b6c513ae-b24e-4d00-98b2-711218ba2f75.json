@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bacay",
+    "texture": "fa22a709-9c22-4cb2-bcf2-de801fe10f40",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      1009,
+      247
+    ],
+    "offset": [
+      -3.5,
+      0.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

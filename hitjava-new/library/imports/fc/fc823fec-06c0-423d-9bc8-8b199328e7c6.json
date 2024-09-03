@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgRemainTime",
+    "texture": "21c4bd06-4cdc-4ccb-95bb-ba12ef38e17a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

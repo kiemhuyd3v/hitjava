@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LSGD",
+    "texture": "60d2c208-8949-434f-a574-bb64a7b6166a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

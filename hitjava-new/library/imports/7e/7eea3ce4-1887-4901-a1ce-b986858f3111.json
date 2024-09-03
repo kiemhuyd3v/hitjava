@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgTraTienCanCua",
+    "texture": "6819af48-e2eb-4d1c-976b-c0532a3e4795",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      860,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      860,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

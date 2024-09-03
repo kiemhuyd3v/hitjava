@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zalo",
+    "texture": "1e0049dc-39e4-4d77-83b0-d2141b457c71",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

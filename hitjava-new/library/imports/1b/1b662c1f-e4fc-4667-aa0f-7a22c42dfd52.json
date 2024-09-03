@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ankhetravang",
+    "texture": "d2f18813-e540-4591-a144-502a1d48abdc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      278,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      278,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

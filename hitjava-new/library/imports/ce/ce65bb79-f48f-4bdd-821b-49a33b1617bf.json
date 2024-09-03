@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "footer",
+    "texture": "365db576-0348-4871-91ca-13399d02f328",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1457,
+      192
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1457,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+
+Loadinglogosm.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 205, 8
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 225, 8
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 227, 36
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 265, 37
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+TT
+  rotate: false
+  xy: 247, 37
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+khay
+  rotate: false
+  xy: 2, 7
+  size: 201, 55
+  orig: 201, 55
+  offset: 0, 0
+  index: -1
+khungquay
+  rotate: false
+  xy: 281, 41
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+loadinglogo copy
+  rotate: false
+  xy: 317, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+thanh
+  rotate: true
+  xy: 2, 2
+  size: 3, 15
+  orig: 3, 15
+  offset: 0, 0
+  index: -1
+tron
+  rotate: false
+  xy: 298, 45
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+u
+  rotate: false
+  xy: 205, 36
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

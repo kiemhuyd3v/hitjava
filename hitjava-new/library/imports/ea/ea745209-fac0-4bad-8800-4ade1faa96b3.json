@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phai",
+    "texture": "312231dd-c4f0-43de-88f5-ec344e09d0be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      39,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

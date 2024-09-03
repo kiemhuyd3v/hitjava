@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iteamfreespin",
+    "texture": "50a0fe5b-89b9-4ba7-b540-a8d49c946b59",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      518,
+      194
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      523,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

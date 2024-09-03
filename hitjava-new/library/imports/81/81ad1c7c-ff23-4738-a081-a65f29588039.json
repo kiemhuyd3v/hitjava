@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xephang",
+    "texture": "794a28ad-d976-41a9-ab2b-61566819ab22",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

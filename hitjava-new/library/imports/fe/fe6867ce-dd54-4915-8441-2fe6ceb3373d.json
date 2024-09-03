@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_danhsach",
+    "texture": "f5032304-8409-462b-9f76-5b00a38356f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1279,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1279,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

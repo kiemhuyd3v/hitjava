@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hotrotructuyen",
+    "texture": "4f1552f7-a4dc-4f9e-bad4-a61a2f29acf0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      216,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      216,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

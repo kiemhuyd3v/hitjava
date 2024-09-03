@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TLMNsolo",
+    "texture": "20eb11d7-032e-4193-bc15-00310f7e2d4d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      261,
+      263
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      261,
+      263
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

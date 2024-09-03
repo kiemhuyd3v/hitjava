@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_homnay_disable",
+    "texture": "3d689635-89e6-4924-95ee-6bc8afb9b7bf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      205,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      205,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

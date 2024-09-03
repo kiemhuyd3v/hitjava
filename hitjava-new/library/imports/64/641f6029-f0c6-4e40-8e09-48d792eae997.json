@@ -1,0 +1,450 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "xunohu",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "_0039_nx40001": {
+          "_0004_nx40036": {
+            "width": 513,
+            "height": 500
+          },
+          "_0012_nx40028": {
+            "width": 513,
+            "height": 500
+          },
+          "_0021_nx40019": {
+            "width": 513,
+            "height": 500
+          },
+          "_0005_nx40035": {
+            "width": 513,
+            "height": 500
+          },
+          "_0013_nx40027": {
+            "width": 513,
+            "height": 500
+          },
+          "_0014_nx40026": {
+            "width": 513,
+            "height": 500
+          },
+          "_0022_nx40018": {
+            "width": 513,
+            "height": 500
+          },
+          "_0006_nx40034": {
+            "width": 513,
+            "height": 500
+          },
+          "_0015_nx40025": {
+            "width": 513,
+            "height": 500
+          },
+          "_0007_nx40033": {
+            "width": 513,
+            "height": 500
+          },
+          "_0001_nx40039": {
+            "width": 513,
+            "height": 500
+          },
+          "_0039_nx40001": {
+            "width": 513,
+            "height": 500
+          },
+          "_0000_nx40040": {
+            "width": 513,
+            "height": 500
+          },
+          "_0002_nx40038": {
+            "width": 513,
+            "height": 500
+          },
+          "_0003_nx40037": {
+            "width": 513,
+            "height": 500
+          },
+          "_0011_nx40029": {
+            "width": 513,
+            "height": 500
+          },
+          "_0019_nx40021": {
+            "width": 513,
+            "height": 500
+          },
+          "_0027_nx40013": {
+            "width": 513,
+            "height": 500
+          },
+          "_0035_nx40005": {
+            "width": 513,
+            "height": 500
+          },
+          "_0028_nx40012": {
+            "width": 513,
+            "height": 500
+          },
+          "_0036_nx40004": {
+            "width": 513,
+            "height": 500
+          },
+          "_0037_nx40003": {
+            "width": 513,
+            "height": 500
+          },
+          "_0029_nx40011": {
+            "width": 513,
+            "height": 500
+          },
+          "_0038_nx40002": {
+            "width": 513,
+            "height": 500
+          },
+          "_0010_nx40030": {
+            "width": 513,
+            "height": 500
+          },
+          "_0023_nx40017": {
+            "width": 513,
+            "height": 500
+          },
+          "_0031_nx40009": {
+            "width": 513,
+            "height": 500
+          },
+          "_0008_nx40032": {
+            "width": 513,
+            "height": 500
+          },
+          "_0016_nx40024": {
+            "width": 513,
+            "height": 500
+          },
+          "_0020_nx40020": {
+            "width": 513,
+            "height": 500
+          },
+          "_0032_nx40008": {
+            "width": 513,
+            "height": 500
+          },
+          "_0024_nx40016": {
+            "width": 513,
+            "height": 500
+          },
+          "_0009_nx40031": {
+            "width": 513,
+            "height": 500
+          },
+          "_0033_nx40007": {
+            "width": 513,
+            "height": 500
+          },
+          "_0017_nx40023": {
+            "width": 513,
+            "height": 500
+          },
+          "_0025_nx40015": {
+            "width": 513,
+            "height": 500
+          },
+          "_0030_nx40010": {
+            "width": 513,
+            "height": 500
+          },
+          "_0026_nx40014": {
+            "width": 513,
+            "height": 500
+          },
+          "_0034_nx40006": {
+            "width": 513,
+            "height": 500
+          },
+          "_0018_nx40022": {
+            "width": 513,
+            "height": 500
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 718.2,
+      "spine": "3.2.01",
+      "hash": "khXNk8/9JlC1iALUvAcnF5jr5Tg",
+      "height": 700
+    },
+    "slots": [
+      {
+        "attachment": "_0039_nx40001",
+        "name": "_0039_nx40001",
+        "bone": "nohucoin"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "scaleX": 1.4,
+        "parent": "root",
+        "scaleY": 1.4,
+        "name": "nohucoin"
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "_0039_nx40001": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.7666
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.9333
+              }
+            ],
+            "attachment": [
+              {
+                "name": "_0039_nx40001",
+                "time": 0
+              },
+              {
+                "name": "_0038_nx40002",
+                "time": 0.0333
+              },
+              {
+                "name": "_0037_nx40003",
+                "time": 0.0666
+              },
+              {
+                "name": "_0036_nx40004",
+                "time": 0.1
+              },
+              {
+                "name": "_0035_nx40005",
+                "time": 0.1333
+              },
+              {
+                "name": "_0034_nx40006",
+                "time": 0.1666
+              },
+              {
+                "name": "_0033_nx40007",
+                "time": 0.2
+              },
+              {
+                "name": "_0032_nx40008",
+                "time": 0.2333
+              },
+              {
+                "name": "_0031_nx40009",
+                "time": 0.2666
+              },
+              {
+                "name": "_0030_nx40010",
+                "time": 0.3
+              },
+              {
+                "name": "_0029_nx40011",
+                "time": 0.3333
+              },
+              {
+                "name": "_0028_nx40012",
+                "time": 0.3666
+              },
+              {
+                "name": "_0027_nx40013",
+                "time": 0.4
+              },
+              {
+                "name": "_0026_nx40014",
+                "time": 0.4333
+              },
+              {
+                "name": "_0025_nx40015",
+                "time": 0.4666
+              },
+              {
+                "name": "_0024_nx40016",
+                "time": 0.5
+              },
+              {
+                "name": "_0023_nx40017",
+                "time": 0.5333
+              },
+              {
+                "name": "_0022_nx40018",
+                "time": 0.5666
+              },
+              {
+                "name": "_0021_nx40019",
+                "time": 0.6
+              },
+              {
+                "name": "_0020_nx40020",
+                "time": 0.6333
+              },
+              {
+                "name": "_0019_nx40021",
+                "time": 0.6666
+              },
+              {
+                "name": "_0018_nx40022",
+                "time": 0.7
+              },
+              {
+                "name": "_0017_nx40023",
+                "time": 0.7333
+              },
+              {
+                "name": "_0016_nx40024",
+                "time": 0.7666
+              },
+              {
+                "name": "_0015_nx40025",
+                "time": 0.8
+              },
+              {
+                "name": "_0014_nx40026",
+                "time": 0.8333
+              },
+              {
+                "name": "_0013_nx40027",
+                "time": 0.8666
+              },
+              {
+                "name": "_0012_nx40028",
+                "time": 0.9
+              },
+              {
+                "name": "_0011_nx40029",
+                "time": 0.9333
+              }
+            ]
+          }
+        },
+        "bones": {
+          "nohucoin": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.9333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.9333
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.262,
+                  0,
+                  0.617,
+                  0.43
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.355,
+                  0.41,
+                  0.756,
+                  1
+                ],
+                "x": 1.3,
+                "y": 1.3,
+                "time": 0.3333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.9333
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.9333
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nxunohu.png\nsize: 1197,1199\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n_0000_nx40040\n  rotate: true\n  xy: 1018, 846\n  size: 351, 173\n  orig: 513, 500\n  offset: 124, 48\n  index: -1\n_0008_nx40032\n  rotate: false\n  xy: 511, 739\n  size: 505, 458\n  orig: 513, 500\n  offset: 0, 0\n  index: -1\n_0009_nx40031\n  rotate: false\n  xy: 2, 736\n  size: 507, 461\n  orig: 513, 500\n  offset: 1, 0\n  index: -1\n_0010_nx40030\n  rotate: false\n  xy: 2, 273\n  size: 503, 461\n  orig: 513, 500\n  offset: 6, 4\n  index: -1\n_0013_nx40027\n  rotate: false\n  xy: 511, 268\n  size: 492, 469\n  orig: 513, 500\n  offset: 5, 0\n  index: -1\n_0034_nx40006\n  rotate: true\n  xy: 2, 2\n  size: 269, 336\n  orig: 513, 500\n  offset: 108, 128\n  index: -1\n_0035_nx40005\n  rotate: true\n  xy: 498, 68\n  size: 198, 310\n  orig: 513, 500\n  offset: 138, 140\n  index: -1\n_0036_nx40004\n  rotate: false\n  xy: 810, 21\n  size: 176, 245\n  orig: 513, 500\n  offset: 141, 185\n  index: -1\n_0037_nx40003\n  rotate: false\n  xy: 340, 73\n  size: 156, 198\n  orig: 513, 500\n  offset: 153, 213\n  index: -1\n_0038_nx40002\n  rotate: true\n  xy: 1018, 718\n  size: 126, 177\n  orig: 513, 500\n  offset: 173, 215\n  index: -1\n_0039_nx40001\n  rotate: false\n  xy: 340, 2\n  size: 44, 69\n  orig: 513, 500\n  offset: 215, 264\n  index: -1\n\nxunohu2.png\nsize: 1178,1028\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n_0001_nx40039\n  rotate: false\n  xy: 2, 727\n  size: 347, 299\n  orig: 513, 500\n  offset: 127, 55\n  index: -1\n_0002_nx40038\n  rotate: false\n  xy: 695, 721\n  size: 342, 305\n  orig: 513, 500\n  offset: 122, 59\n  index: -1\n_0003_nx40037\n  rotate: true\n  xy: 380, 382\n  size: 337, 378\n  orig: 513, 500\n  offset: 120, 63\n  index: -1\n_0004_nx40036\n  rotate: true\n  xy: 760, 378\n  size: 341, 366\n  orig: 513, 500\n  offset: 127, 70\n  index: -1\n_0005_nx40035\n  rotate: true\n  xy: 2, 60\n  size: 342, 359\n  orig: 513, 500\n  offset: 129, 77\n  index: -1\n_0030_nx40010\n  rotate: true\n  xy: 768, 2\n  size: 374, 408\n  orig: 513, 500\n  offset: 50, 78\n  index: -1\n_0031_nx40009\n  rotate: true\n  xy: 363, 27\n  size: 349, 403\n  orig: 513, 500\n  offset: 56, 86\n  index: -1\n_0032_nx40008\n  rotate: true\n  xy: 2, 404\n  size: 316, 376\n  orig: 513, 500\n  offset: 66, 109\n  index: -1\n_0033_nx40007\n  rotate: true\n  xy: 351, 722\n  size: 304, 342\n  orig: 513, 500\n  offset: 80, 134\n  index: -1\n\nxunohu3.png\nsize: 952,976\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n_0012_nx40028\n  rotate: true\n  xy: 477, 2\n  size: 488, 466\n  orig: 513, 500\n  offset: 7, 0\n  index: -1\n_0014_nx40026\n  rotate: true\n  xy: 2, 7\n  size: 483, 473\n  orig: 513, 500\n  offset: 14, 0\n  index: -1\n_0015_nx40025\n  rotate: false\n  xy: 2, 492\n  size: 475, 482\n  orig: 513, 500\n  offset: 20, 0\n  index: -1\n_0016_nx40024\n  rotate: true\n  xy: 479, 497\n  size: 477, 471\n  orig: 513, 500\n  offset: 15, 1\n  index: -1\n\nxunohu4.png\nsize: 957,967\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n_0011_nx40029\n  rotate: true\n  xy: 2, 2\n  size: 489, 456\n  orig: 513, 500\n  offset: 13, 12\n  index: -1\n_0017_nx40023\n  rotate: false\n  xy: 478, 502\n  size: 477, 463\n  orig: 513, 500\n  offset: 12, 5\n  index: -1\n_0018_nx40022\n  rotate: false\n  xy: 2, 493\n  size: 474, 472\n  orig: 513, 500\n  offset: 13, 10\n  index: -1\n_0019_nx40021\n  rotate: false\n  xy: 460, 18\n  size: 463, 473\n  orig: 513, 500\n  offset: 16, 16\n  index: -1\n\nxunohu5.png\nsize: 906,1189\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n_0006_nx40034\n  rotate: true\n  xy: 2, 798\n  size: 389, 446\n  orig: 513, 500\n  offset: 124, 0\n  index: -1\n_0007_nx40033\n  rotate: true\n  xy: 450, 798\n  size: 389, 454\n  orig: 513, 500\n  offset: 123, 0\n  index: -1\n_0027_nx40013\n  rotate: true\n  xy: 404, 400\n  size: 396, 438\n  orig: 513, 500\n  offset: 53, 62\n  index: -1\n_0028_nx40012\n  rotate: true\n  xy: 2, 2\n  size: 396, 416\n  orig: 513, 500\n  offset: 48, 66\n  index: -1\n_0029_nx40011\n  rotate: true\n  xy: 2, 407\n  size: 389, 400\n  orig: 513, 500\n  offset: 46, 72\n  index: -1\n\nxunohu6.png\nsize: 902,926\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n_0020_nx40020\n  rotate: false\n  xy: 2, 462\n  size: 453, 462\n  orig: 513, 500\n  offset: 17, 31\n  index: -1\n_0021_nx40019\n  rotate: false\n  xy: 2, 9\n  size: 453, 451\n  orig: 513, 500\n  offset: 20, 43\n  index: -1\n_0022_nx40018\n  rotate: false\n  xy: 457, 464\n  size: 443, 460\n  orig: 513, 500\n  offset: 30, 37\n  index: -1\n_0023_nx40017\n  rotate: false\n  xy: 457, 2\n  size: 422, 460\n  orig: 513, 500\n  offset: 41, 37\n  index: -1\n\nxunohu7.png\nsize: 838,859\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n_0024_nx40016\n  rotate: true\n  xy: 2, 434\n  size: 423, 434\n  orig: 513, 500\n  offset: 32, 58\n  index: -1\n_0025_nx40015\n  rotate: true\n  xy: 2, 7\n  size: 425, 423\n  orig: 513, 500\n  offset: 30, 70\n  index: -1\n_0026_nx40014\n  rotate: false\n  xy: 427, 2\n  size: 409, 430\n  orig: 513, 500\n  offset: 45, 63\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "b83e4082-6d56-41ff-b2e7-ca6ee78d60d4"
+    },
+    {
+      "__uuid__": "d8428109-cff6-4003-a181-55d7f2f874ce"
+    },
+    {
+      "__uuid__": "8391f5c4-9b84-4bbb-a4ae-3cf887635d93"
+    },
+    {
+      "__uuid__": "698e8470-8272-4b82-b3b7-37de902e9b94"
+    },
+    {
+      "__uuid__": "ed16d301-32ae-4bc9-a812-79b8a398aa58"
+    },
+    {
+      "__uuid__": "62d1217a-4271-4f03-a622-85bc75f331e0"
+    },
+    {
+      "__uuid__": "e1a53d2c-fa20-4c5b-b052-d42a5a276221"
+    }
+  ],
+  "textureNames": [
+    "xunohu.png",
+    "xunohu2.png",
+    "xunohu3.png",
+    "xunohu4.png",
+    "xunohu5.png",
+    "xunohu6.png",
+    "xunohu7.png"
+  ],
+  "scale": 1
+}

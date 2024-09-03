@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_sangtrai",
+    "texture": "74cdd9c5-95cd-43b3-b29d-4bb9ba4e740f",
+    "atlas": "cbaf6e75-1331-49e8-8ce9-9fd7ef99e155",
+    "rect": [
+      1255,
+      1143,
+      54,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

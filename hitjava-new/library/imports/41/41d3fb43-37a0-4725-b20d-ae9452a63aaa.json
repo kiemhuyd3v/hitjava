@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_theo",
+    "texture": "2903fa12-a75e-4c70-bafc-c5f3e73a26dc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      151,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      151,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

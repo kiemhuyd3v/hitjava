@@ -1,0 +1,134 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "TaiXiuMd5.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "tx_man_left": {
+      "__uuid__": "2852c33e-b92f-4ce2-8566-5c45614f2314"
+    },
+    "tx_man_right": {
+      "__uuid__": "64205462-6790-4894-8e4e-8662e7efb9b7"
+    },
+    "tx_md5_aura": {
+      "__uuid__": "786dcb4f-a642-411f-b6cc-81b7f479a884"
+    },
+    "tx_md5_aura_spinner": {
+      "__uuid__": "2f524b6a-1c6b-4bbe-a4d2-5f3e073f56ba"
+    },
+    "tx_md5_bg": {
+      "__uuid__": "0e80a94e-599f-4caf-9490-7315e79f2412"
+    },
+    "tx_md5_bg_cau": {
+      "__uuid__": "70bd56d4-ad48-4dae-ad0b-4994a4ef7ee8"
+    },
+    "tx_md5_bg_string_encrypt": {
+      "__uuid__": "c62592a4-4422-4a29-9a3b-a06c1f9147be"
+    },
+    "tx_md5_bg_tai": {
+      "__uuid__": "ea1dc2e0-5177-4697-8b48-da402918120e"
+    },
+    "tx_md5_bg_xem_hu_loc": {
+      "__uuid__": "ef1ca91d-41b6-4f2d-b865-d3b0f072c173"
+    },
+    "tx_md5_bg_xiu": {
+      "__uuid__": "2e8e8cb1-e8fe-441c-a49f-7018b7642eb0"
+    },
+    "tx_md5_btn_bet_history": {
+      "__uuid__": "f5edb196-4a73-4af0-98ab-bc8c2a98ff61"
+    },
+    "tx_md5_btn_chat": {
+      "__uuid__": "f2901660-39b8-48ce-b7b2-c5be728aa27a"
+    },
+    "tx_md5_btn_close": {
+      "__uuid__": "34782836-2be2-4f3b-b118-8a0ab9233524"
+    },
+    "tx_md5_btn_copy": {
+      "__uuid__": "d9780b22-f860-4cbf-bb0f-277070ea6b09"
+    },
+    "tx_md5_btn_hand": {
+      "__uuid__": "681dc6c2-89c6-46cd-98f1-76d10d97735b"
+    },
+    "tx_md5_btn_hand_disabled": {
+      "__uuid__": "a83aa621-b19d-47a2-a543-9df906499e9e"
+    },
+    "tx_md5_btn_help": {
+      "__uuid__": "dea406a6-aceb-4d40-ae83-8d250ce6f265"
+    },
+    "tx_md5_btn_info": {
+      "__uuid__": "c2204ec0-71c1-4611-85c2-bb88ba0b814b"
+    },
+    "tx_md5_btn_rank": {
+      "__uuid__": "f72916fa-fecd-43ec-8f01-673d9dc4d86d"
+    },
+    "tx_md5_btn_rut_loc": {
+      "__uuid__": "798b2570-16e6-4897-8c7b-bbde5469cc49"
+    },
+    "tx_md5_btn_soi_cau": {
+      "__uuid__": "70a0fe4e-f909-4856-b64f-7c6bfa70af64"
+    },
+    "tx_md5_btn_submit_chat": {
+      "__uuid__": "14b0be2b-1730-479c-887b-ccec12360580"
+    },
+    "tx_md5_btn_tanloc": {
+      "__uuid__": "d7daf31d-b55f-467b-82df-b59e9d0c354d"
+    },
+    "tx_md5_button_bet_tai": {
+      "__uuid__": "fd8e7982-1e19-4fb8-9ddd-65fa22a50b18"
+    },
+    "tx_md5_button_bet_xiu": {
+      "__uuid__": "d4a8471b-7f11-4adc-8352-5a2bedacaebd"
+    },
+    "tx_md5_cau_current": {
+      "__uuid__": "00d27806-4175-419b-80ab-d5a855c465e3"
+    },
+    "tx_md5_chat": {
+      "__uuid__": "0a46abed-e06e-4d53-b974-5034259ed1bf"
+    },
+    "tx_md5_chat_btn_close": {
+      "__uuid__": "e297b468-dc84-4583-8781-5cfefad2007f"
+    },
+    "tx_md5_count_user_betted_tai": {
+      "__uuid__": "55170760-9dff-485e-8705-0d212aef4b14"
+    },
+    "tx_md5_count_user_betted_xiu": {
+      "__uuid__": "57ab1e79-0751-4b57-966d-2db3cfd0a930"
+    },
+    "tx_md5_display_price_bet_tai": {
+      "__uuid__": "2eb34d7a-3223-4101-b1c0-f865b1a35351"
+    },
+    "tx_md5_display_price_bet_xiu": {
+      "__uuid__": "29643384-5f06-4ad1-a568-a595c3d14a3c"
+    },
+    "tx_md5_icon_hu_loc": {
+      "__uuid__": "8420e1f6-976f-40a0-872d-de5452f4e2d5"
+    },
+    "tx_md5_input_bet_tai": {
+      "__uuid__": "01ed8533-f65f-4d4c-bbf8-61a6637153c2"
+    },
+    "tx_md5_input_bet_xiu": {
+      "__uuid__": "a1b13a80-28af-4bda-8fee-c9519c1d3f2e"
+    },
+    "tx_md5_input_bet_xiu_blur": {
+      "__uuid__": "72b906c1-fb20-4c8c-a40d-aac8c342afe0"
+    },
+    "tx_md5_label": {
+      "__uuid__": "92fbbd00-7d23-493c-9571-b5a5a8b6ecc4"
+    },
+    "tx_md5_nan": {
+      "__uuid__": "f74635ec-eab9-4356-8807-5108c732eb0b"
+    },
+    "tx_md5_session_code": {
+      "__uuid__": "7434daa7-ed84-4a41-8a65-068e408952c3"
+    },
+    "tx_md5_time_count_down": {
+      "__uuid__": "a696ab89-8b18-4506-bc9c-d54ddab0c04d"
+    },
+    "tx_md5_time_end": {
+      "__uuid__": "35378840-a814-4351-8d79-c666a135f422"
+    },
+    "tx_md5_title": {
+      "__uuid__": "2ed0fa3e-2e51-4dd8-a115-6d0bfbe7d50a"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dropbox_bg",
+    "texture": "94b89f0c-1d89-4934-b649-bdba819d9961",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      326,
+      365
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      326,
+      365
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

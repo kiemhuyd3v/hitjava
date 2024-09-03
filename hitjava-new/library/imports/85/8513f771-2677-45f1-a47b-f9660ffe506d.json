@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Xoso",
+    "texture": "b528e90d-eb7f-404a-a9c4-32ed07efe86a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      288,
+      441
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      288,
+      441
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

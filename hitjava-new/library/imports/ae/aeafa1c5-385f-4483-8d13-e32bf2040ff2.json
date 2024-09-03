@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "numbergame",
+    "texture": "6a23b830-c330-4178-8fd4-6121408092b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      215,
+      220
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      215,
+      221
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

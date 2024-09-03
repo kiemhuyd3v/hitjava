@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bau-cua-rank-time-bg",
+    "texture": "d6e77e37-b0ef-4d1c-8c54-e9f18b9139a7",
+    "atlas": "cd10a35c-9ad3-4531-984a-032518706941",
+    "rect": [
+      433,
+      49,
+      332,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      332,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

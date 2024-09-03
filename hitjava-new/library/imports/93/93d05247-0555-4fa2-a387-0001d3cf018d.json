@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Baccarat_Dealer",
+    "texture": "762484d7-bb36-41d0-b63c-8bba9217fd79",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      516,
+      252
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      520,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

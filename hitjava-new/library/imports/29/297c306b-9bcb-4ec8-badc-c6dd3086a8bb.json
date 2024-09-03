@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lineChanNgang",
+    "texture": "8bd264f0-28d8-4ac4-9682-fb45ec661242",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      164,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

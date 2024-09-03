@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai",
+    "texture": "54191273-7693-4c8f-b94c-1919d3b1b94c",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      288,
+      440
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      294,
+      441
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

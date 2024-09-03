@@ -1,0 +1,163 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "icvip1",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "root": {
+          "Rank2": {
+            "width": 60,
+            "height": 59
+          }
+        },
+        "Rank": {
+          "Rank": {
+            "width": 60,
+            "height": 59
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 60,
+      "spine": "3.6.53",
+      "hash": "VK8l1EN0yKh7AbXAKeLFS+y62yo",
+      "height": 59
+    },
+    "slots": [
+      {
+        "attachment": "Rank",
+        "name": "Rank",
+        "bone": "bone"
+      },
+      {
+        "attachment": "Rank2",
+        "name": "root",
+        "bone": "bone"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone"
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "root": {
+            "color": [
+              {
+                "color": "ffffffd3",
+                "curve": [
+                  0.552,
+                  0.01,
+                  0.504,
+                  1.8
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "curve": [
+                  0.552,
+                  0.01,
+                  0.504,
+                  1.8
+                ],
+                "time": 0.1333
+              },
+              {
+                "color": "ffffffd3",
+                "time": 0.2667
+              }
+            ]
+          },
+          "Rank": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.2667
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.2667
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.2667
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.2667
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.2667
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nicvip1.png\nsize: 124,62\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nRank\n  rotate: false\n  xy: 2, 2\n  size: 59, 58\n  orig: 60, 59\n  offset: 0, 1\n  index: -1\nRank2\n  rotate: false\n  xy: 63, 2\n  size: 59, 58\n  orig: 60, 59\n  offset: 0, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "56a8ff76-a273-471c-b669-41aae44cac92"
+    }
+  ],
+  "textureNames": [
+    "icvip1.png"
+  ],
+  "scale": 1
+}

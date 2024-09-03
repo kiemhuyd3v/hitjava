@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tx_md5_chat_btn_close",
+    "texture": "8c4f6cae-b7fa-4207-ab7d-a6eb082425d9",
+    "atlas": "391051a3-0869-47cd-acb8-7a857de1c0be",
+    "rect": [
+      970,
+      0,
+      100,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

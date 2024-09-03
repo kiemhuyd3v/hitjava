@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bonusfreespin",
+    "texture": "72161ba9-6b80-44c7-bffe-c73d0aa57cf3",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1147,
+      895
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      1153,
+      899
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

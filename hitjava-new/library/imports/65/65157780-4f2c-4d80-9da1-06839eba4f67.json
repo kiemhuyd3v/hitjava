@@ -1,0 +1,11 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "loading.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Layer": {
+      "__uuid__": "d8b1b63a-c88d-4bdd-a43b-7d5ffd6b8160"
+    }
+  }
+}

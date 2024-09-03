@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab_topwin",
+    "texture": "44a5924d-5e6a-4477-bc0e-167d3616afae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

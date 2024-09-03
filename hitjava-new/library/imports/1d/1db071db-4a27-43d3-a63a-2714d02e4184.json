@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnLam",
+    "texture": "577ee1fc-d579-4fc9-9646-1a105c358783",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

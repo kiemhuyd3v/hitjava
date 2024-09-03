@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mang_vietteli_press",
+    "texture": "22d2e505-9294-41bb-8770-6b6a64dd8e75",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

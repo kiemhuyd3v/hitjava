@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mini_poker.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Cù lũ": {
+      "__uuid__": "c767d45c-fdd1-4a85-b1ed-7e5fe283d5aa"
+    },
+    "Group 18": {
+      "__uuid__": "6d5e061e-eda5-4a5a-8545-6bb93b2b5af7"
+    },
+    "Group 19": {
+      "__uuid__": "9286be6c-f389-4873-a05e-43116ebdc15a"
+    },
+    "Group 20": {
+      "__uuid__": "056d0839-4812-4f23-86fe-0d706009373d"
+    },
+    "Hai Đôi": {
+      "__uuid__": "e80d4686-13f6-4548-a147-526e114449ea"
+    },
+    "Jackpot": {
+      "__uuid__": "43624491-bd6d-4d39-9140-294f1d622a90"
+    },
+    "Sám Cô": {
+      "__uuid__": "cbd2cf36-791d-41b9-97ec-64d8e6cb2831"
+    },
+    "Sảnh": {
+      "__uuid__": "762051ac-83a9-4a28-8ba2-0be3bad032d2"
+    },
+    "Thùng phá sảnh": {
+      "__uuid__": "2e105d55-9e96-46e2-b7ed-be44132612a4"
+    },
+    "Thùng": {
+      "__uuid__": "c8afab3a-5623-448f-afad-ea375f8215cf"
+    },
+    "Tứ Quý": {
+      "__uuid__": "4764d558-51a7-47ea-bb88-95e94bce0db0"
+    },
+    "btnSpin0": {
+      "__uuid__": "c1e383ac-4560-4c5f-9bff-6f5a87ad257b"
+    },
+    "btnSpin1": {
+      "__uuid__": "d62c1269-01d7-41d7-8620-a3171688c454"
+    },
+    "btn_history": {
+      "__uuid__": "5cc9dbe0-7c45-479e-bb15-1359ba3c7061"
+    },
+    "btn_rank": {
+      "__uuid__": "5736e485-2d57-4822-85fe-64c774bf8c32"
+    },
+    "btn_tutorial": {
+      "__uuid__": "d7964147-45ed-4140-8e63-56e39a5ecbd7"
+    },
+    "circle": {
+      "__uuid__": "b1179620-4ebe-4956-9829-5375ab35d783"
+    },
+    "close": {
+      "__uuid__": "bdc4e324-2037-46c1-8bf5-66bea43c895c"
+    },
+    "khung": {
+      "__uuid__": "a7fda30c-4534-41a2-a46e-20b7a0c0ee4c"
+    },
+    "mini": {
+      "__uuid__": "174f5d3c-9874-48cc-be4f-14f6d0d7c9f8"
+    },
+    "tick": {
+      "__uuid__": "74893b28-1779-4cfc-8137-73af05e94c63"
+    },
+    "Đôi J+": {
+      "__uuid__": "0360bfc9-9972-490f-9aa5-2800d74699bc"
+    }
+  }
+}

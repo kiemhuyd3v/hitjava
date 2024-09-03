@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icontrenduoiCopy",
+    "texture": "44eea9d2-ae31-45df-8a74-4f2e37d8374d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "oantuti",
+    "texture": "1c08d541-b3f9-4809-8dcd-be69fc6b5cd8",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      480,
+      245
+    ],
+    "offset": [
+      -13,
+      2.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

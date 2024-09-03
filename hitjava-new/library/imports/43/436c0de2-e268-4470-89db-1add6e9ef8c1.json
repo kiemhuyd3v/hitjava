@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "VQMM",
+    "texture": "e0c7f63a-7654-417b-a1ac-b7ce8986790b",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      485,
+      248
+    ],
+    "offset": [
+      -10.5,
+      1
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

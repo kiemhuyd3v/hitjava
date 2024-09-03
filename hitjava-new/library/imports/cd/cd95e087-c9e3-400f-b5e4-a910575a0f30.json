@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xhuPumkin",
+    "texture": "e9d00a9a-a812-4772-bc56-2b3f283ae150",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      517,
+      158
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      521,
+      162
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

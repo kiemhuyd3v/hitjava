@@ -1,0 +1,152 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "PlistBanChoi.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "res-CardGame-CommonResource-BanChoi-bao1a": {
+      "__uuid__": "ec74f363-2cd4-46c0-be6d-aa2736053d3f"
+    },
+    "res-CardGame-CommonResource-BanChoi-bao1b": {
+      "__uuid__": "8a7d2993-01fa-4c58-91a8-59852a94b265"
+    },
+    "res-CardGame-CommonResource-BanChoi-bg_shape_shadow": {
+      "__uuid__": "160d4fad-7bda-4027-a327-89671d79a888"
+    },
+    "res-CardGame-CommonResource-BanChoi-bgName": {
+      "__uuid__": "47cc7b39-7abc-4571-9d20-61c37e5b9c49"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_back_gamebai": {
+      "__uuid__": "1e24ac62-b845-49f0-b71f-640d9689d5d9"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_baosam": {
+      "__uuid__": "0a12e6fb-6493-4a53-a68b-579838aec468"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_boluot_xeng": {
+      "__uuid__": "d86150d4-f744-44c1-9b2e-2e2fe0835676"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_cash_gamebai": {
+      "__uuid__": "667e25a7-8785-4232-b6ec-484e7114cdde"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_chat_gamebai": {
+      "__uuid__": "0ff44ba1-c686-43ca-a850-2db032a27802"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_danhbai_xeng": {
+      "__uuid__": "e43765ae-ee3e-4b20-9510-f3fa914bc8b7"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_exit_room": {
+      "__uuid__": "fb1226fc-ffd0-42e5-a0c6-549e4c06828a"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_faq_gamebai": {
+      "__uuid__": "2f748981-220a-4b82-9dc0-e94bb7dc866b"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_huybao_sam": {
+      "__uuid__": "06ef2d24-6a38-4157-9f2f-4005580675dc"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_toi_trang": {
+      "__uuid__": "17fcee2c-441e-427e-8883-e8adcbe450a9"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_xacnhan_endgame": {
+      "__uuid__": "77861389-cf71-431d-95a5-1c22e125f742"
+    },
+    "res-CardGame-CommonResource-BanChoi-btn_xepbai_xeng": {
+      "__uuid__": "2de733aa-fe7c-4b4d-9275-aee89f527bbe"
+    },
+    "res-CardGame-CommonResource-BanChoi-effectTimePoker": {
+      "__uuid__": "6ea81739-4cda-4a6e-aded-4f0a2ce018d4"
+    },
+    "res-CardGame-CommonResource-BanChoi-icon_bao_sam": {
+      "__uuid__": "5c232c73-f1ea-4f45-945f-543accb5099c"
+    },
+    "res-CardGame-CommonResource-BanChoi-icon_huy_bao_sam": {
+      "__uuid__": "73dd3139-e2bc-42ed-b36c-4d043a0f8bd2"
+    },
+    "res-CardGame-CommonResource-BanChoi-khung_bao_binh": {
+      "__uuid__": "e9c0cb33-f892-4ceb-9c48-54e95005d69b"
+    },
+    "res-CardGame-CommonResource-BanChoi-khung_bao_blue": {
+      "__uuid__": "2c384275-b6b9-4380-9140-57fe1de7d64f"
+    },
+    "res-CardGame-CommonResource-BanChoi-khung_bao_gold": {
+      "__uuid__": "0e0b107e-6d94-4396-a285-8f82d959b5d6"
+    },
+    "res-CardGame-CommonResource-BanChoi-khung_sap_thuong": {
+      "__uuid__": "48d0155b-f5b8-4c0f-b095-2b3bfa7e34a6"
+    },
+    "res-CardGame-CommonResource-BanChoi-labai_xeng52": {
+      "__uuid__": "3ee21043-4c9d-4f92-97f8-9a4b5ccc282e"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_bacay": {
+      "__uuid__": "62ab80e5-feb1-43b7-9c08-3f42d7287598"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_baicao": {
+      "__uuid__": "cb07ddb2-98fa-4c47-86ee-82c606fb843c"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_lieng": {
+      "__uuid__": "3b32fe44-4c89-4ed1-b4c0-294bf5ec1195"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_maubinh": {
+      "__uuid__": "6e1e8b70-03b1-4111-a349-b92dc17f2321"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_maubinha": {
+      "__uuid__": "7d272b83-26c9-46e7-ad96-11c2ed728dea"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_poker": {
+      "__uuid__": "2dd20c9a-101a-4399-870a-23c92dde60d9"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_sam_loc": {
+      "__uuid__": "a0f986ac-0cd2-4b67-98e1-8694a6939a69"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_sam_solo": {
+      "__uuid__": "384f7ec2-2c8b-48da-9722-c164258807e6"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_tlmn": {
+      "__uuid__": "171da6ff-ff71-4699-8fb6-2edfb17e1df8"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_tlmn_solo": {
+      "__uuid__": "14817318-ce01-43f4-bf00-5b480a968867"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_xidzach": {
+      "__uuid__": "5fb318f4-9c5f-4052-822b-949794be3615"
+    },
+    "res-CardGame-CommonResource-BanChoi-logo_xocxoc": {
+      "__uuid__": "573f4842-d611-4dc1-99bf-80ae2c2b0a1e"
+    },
+    "res-CardGame-CommonResource-BanChoi-muiten_banchoi": {
+      "__uuid__": "1b139f4a-36c1-42f4-9d85-ed08dc68da40"
+    },
+    "res-CardGame-CommonResource-BanChoi-nen_so_bai": {
+      "__uuid__": "7d813724-3bd0-4e27-882d-8ab15a9ff43d"
+    },
+    "res-CardGame-CommonResource-BanChoi-ping_0": {
+      "__uuid__": "60c30392-5ada-4454-93a2-25d40e61ece7"
+    },
+    "res-CardGame-CommonResource-BanChoi-ping_1": {
+      "__uuid__": "2f8e4a44-5b83-4394-bf37-9b4758bea478"
+    },
+    "res-CardGame-CommonResource-BanChoi-ping_2": {
+      "__uuid__": "3e04f663-daa3-4f10-84b1-1e531cd8619f"
+    },
+    "res-CardGame-CommonResource-BanChoi-ping_3": {
+      "__uuid__": "fdfa3f90-08e0-4b46-ae72-6b3bd6e5500d"
+    },
+    "res-CardGame-CommonResource-BanChoi-process_baosam": {
+      "__uuid__": "69dd482c-5972-49ef-bd5a-9117740215dc"
+    },
+    "res-CardGame-CommonResource-BanChoi-process_nen_baosam": {
+      "__uuid__": "ce54c8da-83e0-45ea-b692-0b280a41d119"
+    },
+    "res-CardGame-CommonResource-BanChoi-viewing": {
+      "__uuid__": "16ec97ef-9dab-4da5-bc59-40e1dd508bcb"
+    },
+    "res-CardGame-CommonResource-BanChoi-x_bao_sam": {
+      "__uuid__": "dbd79ace-d9e4-48bf-9a34-84b712f6a396"
+    },
+    "res-CardGame-CommonResource-BanChoi-chicken_table": {
+      "__uuid__": "2ef78438-f6af-4d07-aa04-55fd3f03f8e3"
+    },
+    "res-CardGame-CommonResource-BanChoi-khung_nen_avatar": {
+      "__uuid__": "c6861cba-39ba-4af9-8b3e-6a0a6da94dd1"
+    }
+  }
+}

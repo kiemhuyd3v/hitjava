@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mobiOn2",
+    "texture": "3e1765c5-ff95-447a-96d7-5996dedf3d39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      115,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

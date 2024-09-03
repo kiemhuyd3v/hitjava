@@ -1,0 +1,110 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_game_euro.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btn_back": {
+      "__uuid__": "64dc2a22-e8dc-4666-82ef-549da7fbc0c4"
+    },
+    "btn_huongdan": {
+      "__uuid__": "b9725aba-c751-4d8d-a176-82b8b24e91ea"
+    },
+    "btn_lichsu": {
+      "__uuid__": "9bf6b193-5e51-4f62-b8aa-c5576e7d240f"
+    },
+    "btn_menu": {
+      "__uuid__": "bf62caa5-9889-4e94-9bdc-daee809f05a8"
+    },
+    "btn_music": {
+      "__uuid__": "e16ac8f7-68ce-4f43-920e-a50006227b3f"
+    },
+    "btn_music_off": {
+      "__uuid__": "02b4c05d-6b30-4b9d-8875-c30f5a53c099"
+    },
+    "btn_quay": {
+      "__uuid__": "91eef598-5cf3-45f6-8bc5-5a7a3f6aaa20"
+    },
+    "btn_sieutoc": {
+      "__uuid__": "a9094ec6-8b8e-4004-802b-d157567aeb0c"
+    },
+    "btn_sieutoc_on": {
+      "__uuid__": "ed1954e3-9e41-43df-969b-a1c337d3e918"
+    },
+    "btn_sound": {
+      "__uuid__": "824ecd3d-30ea-4432-9893-41c0fa795bf9"
+    },
+    "btn_sound_off": {
+      "__uuid__": "b1a87b2d-aead-46f3-aae2-ba6946678a02"
+    },
+    "btn_tudong": {
+      "__uuid__": "6eb310f2-e635-4905-8484-46cf117dd2a5"
+    },
+    "btn_tudong_on": {
+      "__uuid__": "2825666f-3733-43ba-852d-286dddcc3e2a"
+    },
+    "btn_vinhdanh": {
+      "__uuid__": "57e0839f-454e-4af3-b2e8-bfe71195feec"
+    },
+    "dong": {
+      "__uuid__": "24cf0af5-eaea-4150-956c-b7fd464c3b97"
+    },
+    "item_1": {
+      "__uuid__": "2a9c5993-52aa-416a-8ae8-1e05e5548a80"
+    },
+    "item_1_blur": {
+      "__uuid__": "69108f08-94c5-4748-8a15-778d755c458f"
+    },
+    "item_2": {
+      "__uuid__": "65af07df-19e1-42ec-bebc-2b54854e1b40"
+    },
+    "item_2_blur": {
+      "__uuid__": "ff805d9e-1e54-4eb0-b815-6db957aae09f"
+    },
+    "item_3": {
+      "__uuid__": "90278082-af45-43b5-aa2d-1a13471e4263"
+    },
+    "item_3_blur": {
+      "__uuid__": "9c1f173c-9705-4ca5-a3bf-800ebd0f01ab"
+    },
+    "item_4": {
+      "__uuid__": "5b13f150-4edc-43fc-b157-d46c1cd201d6"
+    },
+    "item_4_blur": {
+      "__uuid__": "e72ad98a-e035-418f-b227-f190907f6e57"
+    },
+    "item_5": {
+      "__uuid__": "5cb54e00-dc41-4b37-a3de-521a7a04659f"
+    },
+    "item_5_blur": {
+      "__uuid__": "3f859707-5503-4e45-b99d-b0b47ea13868"
+    },
+    "item_6": {
+      "__uuid__": "4773e45e-a296-46a6-918a-b5654e9fc976"
+    },
+    "item_6_blur": {
+      "__uuid__": "4aab38df-bc1e-4671-9538-18b847c91fd9"
+    },
+    "item_7": {
+      "__uuid__": "3fce3506-46be-44d4-aec2-54aa083a8344"
+    },
+    "item_7_blur": {
+      "__uuid__": "5d3b1276-a1f1-46ba-9c94-b1bb5fe7a2b0"
+    },
+    "item_8": {
+      "__uuid__": "a4a4a8ed-a20e-4b59-9f7c-bd2f5da3b2e8"
+    },
+    "item_8_blur": {
+      "__uuid__": "8cc4dcc1-6f2b-4e5f-b5c0-be86b5161d9f"
+    },
+    "item_9": {
+      "__uuid__": "29c0dacb-c96e-4b46-8002-4ee3540a53ea"
+    },
+    "item_9_blur": {
+      "__uuid__": "af707044-5984-49a9-bc08-a71299012d89"
+    },
+    "muccuoc": {
+      "__uuid__": "41bcefe9-3460-4549-b81e-0794fc498a8c"
+    }
+  }
+}

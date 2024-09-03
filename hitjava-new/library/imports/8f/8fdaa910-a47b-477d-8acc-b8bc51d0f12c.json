@@ -1,0 +1,276 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "aslinean",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "s2_0014_Group-2": {
+          "s2_0004_Group-11": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0007_Group-8": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0001_Group-14": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0012_Group-3": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0008_Group-7": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0009_Group-6": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0014_Group-1": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0013_Group-2": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0003_Group-12": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0005_Group-10": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0011_Group-4": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0002_Group-13": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0010_Group-5": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0006_Group-9": {
+            "width": 220,
+            "height": 192
+          }
+        },
+        "s2_0014_Group-1": {
+          "s2_0004_Group-11": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0007_Group-8": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0001_Group-14": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0012_Group-3": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0008_Group-7": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0009_Group-6": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0014_Group-1": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0013_Group-2": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0003_Group-12": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0005_Group-10": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0011_Group-4": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0002_Group-13": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0010_Group-5": {
+            "width": 220,
+            "height": 192
+          },
+          "s2_0006_Group-9": {
+            "width": 220,
+            "height": 192
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 220,
+      "spine": "3.6.53",
+      "hash": "Kip67ykuuKEQtjhg4qo5vYUmeyE",
+      "height": 192
+    },
+    "slots": [
+      {
+        "attachment": "s2_0014_Group-1",
+        "blend": "additive",
+        "name": "s2_0014_Group-1",
+        "bone": "asline"
+      },
+      {
+        "attachment": "s2_0014_Group-1",
+        "blend": "additive",
+        "name": "s2_0014_Group-2",
+        "bone": "asline2"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "asline"
+      },
+      {
+        "scaleX": -1,
+        "parent": "root",
+        "scaleY": -1,
+        "name": "asline2"
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "s2_0014_Group-2": {
+            "attachment": [
+              {
+                "name": "s2_0014_Group-1",
+                "time": 0
+              },
+              {
+                "name": "s2_0013_Group-2",
+                "time": 0.0333
+              },
+              {
+                "name": "s2_0012_Group-3",
+                "time": 0.0667
+              },
+              {
+                "name": "s2_0011_Group-4",
+                "time": 0.1
+              },
+              {
+                "name": "s2_0010_Group-5",
+                "time": 0.1333
+              },
+              {
+                "name": "s2_0009_Group-6",
+                "time": 0.1667
+              },
+              {
+                "name": "s2_0008_Group-7",
+                "time": 0.2
+              },
+              {
+                "name": "s2_0007_Group-8",
+                "time": 0.2333
+              },
+              {
+                "name": "s2_0006_Group-9",
+                "time": 0.2667
+              },
+              {
+                "name": "s2_0005_Group-10",
+                "time": 0.3
+              },
+              {
+                "name": "s2_0004_Group-11",
+                "time": 0.3333
+              }
+            ]
+          },
+          "s2_0014_Group-1": {
+            "attachment": [
+              {
+                "name": "s2_0014_Group-1",
+                "time": 0
+              },
+              {
+                "name": "s2_0013_Group-2",
+                "time": 0.0333
+              },
+              {
+                "name": "s2_0012_Group-3",
+                "time": 0.0667
+              },
+              {
+                "name": "s2_0011_Group-4",
+                "time": 0.1
+              },
+              {
+                "name": "s2_0010_Group-5",
+                "time": 0.1333
+              },
+              {
+                "name": "s2_0009_Group-6",
+                "time": 0.1667
+              },
+              {
+                "name": "s2_0008_Group-7",
+                "time": 0.2
+              },
+              {
+                "name": "s2_0007_Group-8",
+                "time": 0.2333
+              },
+              {
+                "name": "s2_0006_Group-9",
+                "time": 0.2667
+              },
+              {
+                "name": "s2_0005_Group-10",
+                "time": 0.3
+              },
+              {
+                "name": "s2_0004_Group-11",
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\naslinean.png\nsize: 1361,340\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ns2_0001_Group-14\n  rotate: false\n  xy: 2, 157\n  size: 195, 181\n  orig: 220, 192\n  offset: 23, 0\n  index: -1\ns2_0002_Group-13\n  rotate: false\n  xy: 199, 159\n  size: 196, 179\n  orig: 220, 192\n  offset: 23, 1\n  index: -1\ns2_0003_Group-12\n  rotate: false\n  xy: 397, 162\n  size: 196, 176\n  orig: 220, 192\n  offset: 24, 4\n  index: -1\ns2_0004_Group-11\n  rotate: false\n  xy: 595, 162\n  size: 194, 176\n  orig: 220, 192\n  offset: 25, 6\n  index: -1\ns2_0005_Group-10\n  rotate: false\n  xy: 791, 162\n  size: 190, 176\n  orig: 220, 192\n  offset: 26, 8\n  index: -1\ns2_0006_Group-9\n  rotate: false\n  xy: 619, 3\n  size: 190, 157\n  orig: 220, 192\n  offset: 23, 29\n  index: -1\ns2_0007_Group-8\n  rotate: false\n  xy: 414, 8\n  size: 203, 152\n  orig: 220, 192\n  offset: 7, 36\n  index: -1\ns2_0008_Group-7\n  rotate: false\n  xy: 2, 2\n  size: 204, 153\n  orig: 220, 192\n  offset: 5, 37\n  index: -1\ns2_0009_Group-6\n  rotate: false\n  xy: 208, 2\n  size: 204, 155\n  orig: 220, 192\n  offset: 3, 37\n  index: -1\ns2_0010_Group-5\n  rotate: false\n  xy: 983, 184\n  size: 205, 154\n  orig: 220, 192\n  offset: 2, 37\n  index: -1\ns2_0011_Group-4\n  rotate: false\n  xy: 811, 6\n  size: 183, 154\n  orig: 220, 192\n  offset: 0, 38\n  index: -1\ns2_0012_Group-3\n  rotate: false\n  xy: 996, 30\n  size: 182, 152\n  orig: 220, 192\n  offset: 1, 39\n  index: -1\ns2_0013_Group-2\n  rotate: false\n  xy: 1180, 20\n  size: 179, 140\n  orig: 220, 192\n  offset: 4, 50\n  index: -1\ns2_0014_Group-1\n  rotate: true\n  xy: 1190, 162\n  size: 176, 142\n  orig: 220, 192\n  offset: 6, 45\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "0d779eb8-fb61-459b-acc2-288d83a87642"
+    }
+  ],
+  "textureNames": [
+    "aslinean.png"
+  ],
+  "scale": 1
+}

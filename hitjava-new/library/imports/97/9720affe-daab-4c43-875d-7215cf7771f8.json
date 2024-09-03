@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconpoupkhobautl",
+    "texture": "83aa8d6b-209a-4d47-ac95-000c241f0d67",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

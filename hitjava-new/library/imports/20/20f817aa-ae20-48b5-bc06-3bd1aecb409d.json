@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_drop",
+    "texture": "cb985807-3978-4077-ae06-c4d53ed171da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      222,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      222,
+      53
+    ],
+    "capInsets": [
+      22,
+      12,
+      22,
+      16
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab_vay_on",
+    "texture": "3c430e82-56df-43d8-ae41-6c7f2399da2d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      110,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      110,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

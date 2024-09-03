@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "STTT2020_Freegame_Transition",
+    "texture": "393623b4-e84e-42d7-8c45-6fab520bad4b",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1012,
+      1019
+    ],
+    "offset": [
+      -4,
+      -0.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

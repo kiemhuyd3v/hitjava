@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hEADE",
+    "texture": "be26bb53-9d7b-4e18-af00-b367175e3db4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      808,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      808,
+      79
+    ],
+    "capInsets": [
+      120,
+      34,
+      123,
+      35
+    ]
+  }
+}

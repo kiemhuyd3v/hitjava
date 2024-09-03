@@ -1,0 +1,173 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "tayduky.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "BGspin": {
+      "__uuid__": "06d40651-8b3c-44ff-a364-a1fa334a3ce3"
+    },
+    "Vi": {
+      "__uuid__": "5c25ac57-83c7-48e6-8f93-8338cdd5414a"
+    },
+    "box_money": {
+      "__uuid__": "fe9a7747-17f2-4c7a-82dd-94dcf122bd82"
+    },
+    "boxthongbao0": {
+      "__uuid__": "07afa633-511a-432c-910d-9de608eb79e9"
+    },
+    "button_caidat": {
+      "__uuid__": "95ac74bb-005b-4179-bd6d-487fe5787ee2"
+    },
+    "button_info": {
+      "__uuid__": "b7f5c256-e1af-499d-b90b-f1b38027ec4b"
+    },
+    "button_quaylai": {
+      "__uuid__": "61fd16cb-2cbd-42f8-95b4-e25a03d9ab81"
+    },
+    "buttondung": {
+      "__uuid__": "125edbf4-cae0-4e68-ac9a-bcb6ba94bea7"
+    },
+    "buttonquay": {
+      "__uuid__": "da201ace-3d41-4b40-b8d7-9e645f2ef16a"
+    },
+    "buttonsieutoc": {
+      "__uuid__": "53c21b46-0656-438e-82eb-579ac8155e3b"
+    },
+    "buttonsieutoc_disable": {
+      "__uuid__": "8e7df2c7-e455-4769-b8ad-ee75a677e53d"
+    },
+    "free": {
+      "__uuid__": "6a6632a4-de5e-42b6-9d13-74a5ecabb843"
+    },
+    "ketthucsau": {
+      "__uuid__": "c4ce3369-31cf-449f-8730-a5b8a9328e29"
+    },
+    "khung_jackpot": {
+      "__uuid__": "a5f45134-f94c-409d-a6d0-36376f4b28c5"
+    },
+    "khungspin_bot": {
+      "__uuid__": "6c849b4a-46b2-46ac-9467-a92c472a04ac"
+    },
+    "khungspin_left": {
+      "__uuid__": "0086ef91-e164-4408-b2dc-1c8706cd9b1c"
+    },
+    "khungspin_top": {
+      "__uuid__": "a28c3851-6621-4876-8436-92bf071c3a12"
+    },
+    "maingame10": {
+      "__uuid__": "8127da25-5c90-4b27-9a6b-e57e00d665e0"
+    },
+    "maingame14": {
+      "__uuid__": "154a008a-7f10-4225-bf6f-e51260354bcb"
+    },
+    "maingame15": {
+      "__uuid__": "9b82f185-4e7c-4dd5-8f81-16a7eae06e08"
+    },
+    "maingame9": {
+      "__uuid__": "efcadd47-ffbe-4c6d-b3a6-3f8e02146d26"
+    },
+    "maingame_BG": {
+      "__uuid__": "358e6e54-73fb-40e4-8aad-772998cd9941"
+    },
+    "otienthang": {
+      "__uuid__": "69f2b0a6-c741-45f0-973a-d5db64dc9776"
+    },
+    "symbol_1_0": {
+      "__uuid__": "4e477e44-c50f-404f-946b-d2e8b1f39bf6"
+    },
+    "symbol_1_1": {
+      "__uuid__": "ce75aaef-66ff-47f7-bbe8-0c676753c521"
+    },
+    "symbol_1_10": {
+      "__uuid__": "ebff859e-7457-4700-80ff-36413ddc0bd9"
+    },
+    "symbol_1_11": {
+      "__uuid__": "35d8dbeb-6ff2-4b6d-bcc2-b0eb340d02e3"
+    },
+    "symbol_1_12": {
+      "__uuid__": "05f7f264-b4cb-45db-853a-b31b00be1444"
+    },
+    "symbol_1_13": {
+      "__uuid__": "32262fb0-3eb8-4a16-929f-93148ef3c0ec"
+    },
+    "symbol_1_14": {
+      "__uuid__": "f1b1fb3b-fdd1-434c-8f82-8580b115ebdf"
+    },
+    "symbol_1_2": {
+      "__uuid__": "93969678-2568-4c13-ac14-30b6b25172af"
+    },
+    "symbol_1_3": {
+      "__uuid__": "3d113909-9805-4399-9bdd-7a3f19726b0e"
+    },
+    "symbol_1_4": {
+      "__uuid__": "9ce79aea-223c-4442-8e03-0881dd8a34fc"
+    },
+    "symbol_1_5": {
+      "__uuid__": "cf0b7c1e-3e45-4258-8ed8-2c7ce96d02fe"
+    },
+    "symbol_1_6": {
+      "__uuid__": "63be81a3-5281-4db1-a0f9-d52dc4ad3920"
+    },
+    "symbol_1_7": {
+      "__uuid__": "e7bf97dd-16c8-4995-8506-8b6464156a32"
+    },
+    "symbol_1_8": {
+      "__uuid__": "f40924f5-373f-4e02-870e-3fb09c6302e1"
+    },
+    "symbol_1_9": {
+      "__uuid__": "9212ae27-ebf5-4004-8eb5-f0470075aea7"
+    },
+    "symbol_blur_1_0": {
+      "__uuid__": "e444a234-892b-4c17-9f64-908a442c246d"
+    },
+    "symbol_blur_1_1": {
+      "__uuid__": "137baafa-3527-490b-9eab-2e043369e285"
+    },
+    "symbol_blur_1_10": {
+      "__uuid__": "67a741fc-1d89-41a5-84d8-19fb7e0bdb57"
+    },
+    "symbol_blur_1_11": {
+      "__uuid__": "b1516ac9-40e4-40ce-89b0-0b009393c342"
+    },
+    "symbol_blur_1_12": {
+      "__uuid__": "31b983d6-2e39-44a7-a534-f17b7c839537"
+    },
+    "symbol_blur_1_13": {
+      "__uuid__": "6b8ae9e8-57fb-432c-9e65-945098814fd4"
+    },
+    "symbol_blur_1_14": {
+      "__uuid__": "5d708cff-4b51-47a5-90ae-116dbe9b957e"
+    },
+    "symbol_blur_1_2": {
+      "__uuid__": "8e2c15f1-e4ed-4437-948e-769af7133e25"
+    },
+    "symbol_blur_1_3": {
+      "__uuid__": "db6344e4-221d-4034-b733-17003a6ed783"
+    },
+    "symbol_blur_1_4": {
+      "__uuid__": "dd86ee1d-f04e-4261-ad89-9a72da226049"
+    },
+    "symbol_blur_1_5": {
+      "__uuid__": "43c11b13-d752-4846-b00b-a2a2aba8bbad"
+    },
+    "symbol_blur_1_6": {
+      "__uuid__": "38dfdc22-6f5d-483d-a098-2497eda85d7f"
+    },
+    "symbol_blur_1_7": {
+      "__uuid__": "5ca85853-f43b-43c5-91a5-4d4877448130"
+    },
+    "symbol_blur_1_8": {
+      "__uuid__": "53cbb8df-4d52-44e6-ade0-edb02143e03c"
+    },
+    "symbol_blur_1_9": {
+      "__uuid__": "07405c20-db20-42ba-9629-82276514e0c4"
+    },
+    "tayduky_bonusgame_BG0": {
+      "__uuid__": "d4883d84-2c59-4451-9e13-16d379d294e5"
+    },
+    "thanhchiacot": {
+      "__uuid__": "7f962052-2fa7-48e7-865c-702630be556f"
+    }
+  }
+}

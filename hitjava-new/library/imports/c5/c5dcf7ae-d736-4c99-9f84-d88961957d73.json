@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ava",
+    "texture": "54998299-84f1-4b17-8d9b-28fac6d91fd6",
+    "atlas": "f633bf70-e585-4451-9b7c-2a34b8fd5255",
+    "rect": [
+      719,
+      1821,
+      171,
+      172
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      172
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

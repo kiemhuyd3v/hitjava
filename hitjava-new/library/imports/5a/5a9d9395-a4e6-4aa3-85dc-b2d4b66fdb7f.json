@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "panel_chat_sun",
+    "texture": "317f52b8-2cb0-487d-b6db-ed20235203d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      441,
+      551
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      441,
+      551
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

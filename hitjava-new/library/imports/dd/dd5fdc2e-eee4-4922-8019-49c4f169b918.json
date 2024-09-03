@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "viettelpay_guide",
+    "texture": "5113508b-34ac-427b-83e2-bead09073631",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      577,
+      496
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      577,
+      496
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

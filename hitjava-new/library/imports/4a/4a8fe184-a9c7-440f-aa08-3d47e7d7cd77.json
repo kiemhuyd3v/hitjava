@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Panel_Info_half",
+    "texture": "4347484d-134e-4d96-9037-ece56d38a544",
+    "atlas": "ffb49e35-22a4-43d7-a603-e3587038c260",
+    "rect": [
+      616,
+      176,
+      580,
+      602
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      580,
+      602
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

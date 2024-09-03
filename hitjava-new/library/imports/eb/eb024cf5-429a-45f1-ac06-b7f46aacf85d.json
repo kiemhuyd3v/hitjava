@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgButtonBet",
+    "texture": "e9cbf6f0-ea66-4e2f-b4db-e77b02888714",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1042,
+      233
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1042,
+      233
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

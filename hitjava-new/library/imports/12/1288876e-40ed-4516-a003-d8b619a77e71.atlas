@@ -1,0 +1,90 @@
+
+micxeng.png
+size: 446,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+71
+  rotate: false
+  xy: 201, 114
+  size: 87, 113
+  orig: 89, 115
+  offset: 1, 1
+  index: -1
+72
+  rotate: true
+  xy: 290, 119
+  size: 40, 53
+  orig: 42, 55
+  offset: 1, 1
+  index: -1
+73
+  rotate: true
+  xy: 290, 119
+  size: 40, 53
+  orig: 42, 55
+  offset: 1, 1
+  index: -1
+777
+  rotate: false
+  xy: 294, 11
+  size: 81, 50
+  orig: 83, 52
+  offset: 1, 1
+  index: -1
+Group 136
+  rotate: true
+  xy: 2, 12
+  size: 215, 197
+  orig: 217, 199
+  offset: 1, 1
+  index: -1
+as
+  rotate: true
+  xy: 290, 161
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+cam
+  rotate: true
+  xy: 316, 64
+  size: 53, 60
+  orig: 55, 62
+  offset: 1, 1
+  index: -1
+chuong
+  rotate: false
+  xy: 377, 161
+  size: 67, 66
+  orig: 69, 68
+  offset: 1, 1
+  index: -1
+hoaqua
+  rotate: true
+  xy: 377, 2
+  size: 60, 58
+  orig: 62, 60
+  offset: 1, 1
+  index: -1
+icbar
+  rotate: false
+  xy: 201, 12
+  size: 91, 49
+  orig: 93, 51
+  offset: 1, 1
+  index: -1
+sao
+  rotate: true
+  xy: 378, 105
+  size: 54, 55
+  orig: 56, 57
+  offset: 1, 1
+  index: -1
+xeng
+  rotate: false
+  xy: 201, 63
+  size: 113, 49
+  orig: 115, 51
+  offset: 1, 1
+  index: -1

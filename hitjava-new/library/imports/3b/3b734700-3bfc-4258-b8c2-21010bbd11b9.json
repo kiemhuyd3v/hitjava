@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mang_mobi_normal",
+    "texture": "b5d8da3c-ccbe-46cf-8a88-d3992f1ea939",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

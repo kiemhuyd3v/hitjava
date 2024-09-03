@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_item_refund",
+    "texture": "e6b1ea13-c828-48ad-8086-cd6ae03aae0c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      192,
+      265
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      192,
+      265
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

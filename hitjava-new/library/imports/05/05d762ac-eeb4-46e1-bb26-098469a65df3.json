@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "questbar",
+    "texture": "b7e64125-189c-49be-b4c4-37ab08bf5b3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1070,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1070,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

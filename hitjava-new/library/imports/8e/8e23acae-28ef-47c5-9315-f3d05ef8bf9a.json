@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banner_lodenew",
+    "texture": "1eb9f250-ec86-4371-8854-0e55ceb0ecfa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      398
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      255,
+      398
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

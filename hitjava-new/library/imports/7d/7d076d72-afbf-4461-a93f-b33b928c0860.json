@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "datcuoc_bg_sun_phai",
+    "texture": "d9a5ed9f-643e-4bcb-8625-07c3b754a232",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      191,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      191,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

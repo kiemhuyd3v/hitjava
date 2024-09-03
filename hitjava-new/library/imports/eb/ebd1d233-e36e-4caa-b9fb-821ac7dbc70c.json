@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "than-tai-hu",
+    "texture": "eade69a7-abe9-4335-8cfa-1c955e99148e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      92
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      80,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

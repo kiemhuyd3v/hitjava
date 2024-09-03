@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khotangngulong",
+    "texture": "d45f33f5-e3f9-4969-8f04-6e64493814c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      278,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      278,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rouletteOffCopy",
+    "texture": "57e1d8b0-8ef2-4b12-81f9-79e97815ac52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

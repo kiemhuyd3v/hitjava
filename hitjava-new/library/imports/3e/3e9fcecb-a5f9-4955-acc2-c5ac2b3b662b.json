@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phabomPopup1_fnt",
+    "texture": "a870e4ee-8d5e-4294-9a3d-ae505110c3f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      126
+    ],
+    "offset": [
+      -2.5,
+      2.5
+    ],
+    "originalSize": [
+      123,
+      131
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

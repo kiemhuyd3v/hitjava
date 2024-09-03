@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bikini",
+    "texture": "649ae8a6-1f24-497c-bd3b-55178ff0108e",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      2038,
+      996
+    ],
+    "offset": [
+      -1,
+      10
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

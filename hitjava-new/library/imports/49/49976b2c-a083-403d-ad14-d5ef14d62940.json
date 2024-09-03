@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boxTittleCopy",
+    "texture": "e4db334c-61c8-40fe-9820-079ed37ba896",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      480,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      480,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "flashLight.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "flashLight0": {
+      "__uuid__": "891ff130-db89-48ad-bb73-306a03390ef9"
+    },
+    "flashLight1": {
+      "__uuid__": "543288fa-2e80-4ec9-9a6d-f7ca69600ba9"
+    },
+    "flashLight2": {
+      "__uuid__": "f94ba324-01e6-4bcf-b457-235906439e67"
+    },
+    "flashLight3": {
+      "__uuid__": "8b00b241-bdd9-47c3-8ece-9d3f4cae7f2c"
+    },
+    "flashLight4": {
+      "__uuid__": "d975b3a2-b5aa-45c7-a835-58b766a49ba3"
+    }
+  }
+}

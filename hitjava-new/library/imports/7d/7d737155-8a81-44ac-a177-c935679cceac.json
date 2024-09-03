@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonXiNgau3Off",
+    "texture": "7ee8bb6b-540c-4e7c-980b-33c93a79c657",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      138,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

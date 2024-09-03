@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "BG_BottomUI_half": {
+      "__uuid__": "50d98f4a-2818-4fbe-bbab-12d90f55ab83"
+    },
+    "BoardG_70_half": {
+      "__uuid__": "7c39e376-8315-42ef-9aab-1921331c6552"
+    },
+    "Btn_BetCoin_normal": {
+      "__uuid__": "41c07d48-44c7-4887-9586-fadaa17326f1"
+    },
+    "Btn_BetCoin_pressed": {
+      "__uuid__": "6a111cda-c0e6-49a5-85ed-45598b052dc5"
+    },
+    "Btn_Home_hover": {
+      "__uuid__": "20bfd645-8484-4d84-8278-18c401513a58"
+    },
+    "Btn_Info_hover": {
+      "__uuid__": "70f113c3-16d2-4788-a3a4-f6d31de30da7"
+    },
+    "Btn_Minus_Normal": {
+      "__uuid__": "24cd7aee-3872-4cb6-afdf-139a8330c38b"
+    },
+    "Btn_Plus_Hover": {
+      "__uuid__": "bbf239c3-77a7-4ba4-a0f7-073940d9e05e"
+    },
+    "Btn_Setting_hover": {
+      "__uuid__": "d1d2daa8-417a-4243-8638-53b100c304b7"
+    },
+    "Btn_Turbo_off": {
+      "__uuid__": "d99f2171-fd9f-46f8-8e5d-5d94c48bab80"
+    },
+    "Btn_Turbo_on": {
+      "__uuid__": "b5c1d506-9888-4050-8d94-dea8f1cda3ff"
+    },
+    "Frame_JPWinGrand": {
+      "__uuid__": "afa75855-273f-40ba-b2c1-2d7a23b06044"
+    },
+    "Frame_JPWinMajor": {
+      "__uuid__": "7b4a1699-b7f8-4b0a-a995-63e823359748"
+    },
+    "Frame_TotalWin_half": {
+      "__uuid__": "a42b966a-bcb0-4d28-bcfc-a3850b222bb4"
+    },
+    "Frame_Wallet": {
+      "__uuid__": "fcfacb95-1869-4a1e-892f-1cf615f83ee3"
+    },
+    "Pedestal": {
+      "__uuid__": "2aba150f-d8c9-4e52-a161-f298859a68e1"
+    },
+    "Roof_half": {
+      "__uuid__": "aa2d49dd-73f6-460a-9985-fe0f79b7d1c5"
+    }
+  }
+}

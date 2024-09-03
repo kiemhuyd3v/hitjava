@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TL_Symbol_Wind",
+    "texture": "923617c5-ffb8-484f-b358-9d10f5de6f51",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      964,
+      254
+    ],
+    "offset": [
+      -2.5,
+      -0.5
+    ],
+    "originalSize": [
+      973,
+      259
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

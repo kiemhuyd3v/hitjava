@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Small_Icon_kimcuong",
+    "texture": "597679c3-db66-4052-bd9c-c9c96d801f8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

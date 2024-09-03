@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Lobby\\LobbyScript\\LogUtils.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["\n\ndeclare namespace LogUtils {\n    class log {\n        static logGame(msg):string;\n    }\n}\n"]}

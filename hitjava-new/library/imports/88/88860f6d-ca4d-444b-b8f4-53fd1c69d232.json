@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BGspin",
+    "texture": "9d8cb2e3-5bb6-4809-84be-f11fa73ba1a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      39,
+      488
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      488
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgLobby",
+    "texture": "030b2709-d1fd-41f4-b6d2-8d76dfcb1b08",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1561,
+      738
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1561,
+      738
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

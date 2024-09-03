@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_disable",
+    "texture": "30911be5-28b4-4abf-86e7-255ef12d54b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      231,
+      212
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      231,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

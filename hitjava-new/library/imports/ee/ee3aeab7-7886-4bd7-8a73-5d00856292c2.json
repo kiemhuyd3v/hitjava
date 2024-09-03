@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "silver_text-export",
+    "texture": "efbd1ca2-213b-4916-b75a-61aa1a12d233",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      462,
+      511
+    ],
+    "offset": [
+      -25,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

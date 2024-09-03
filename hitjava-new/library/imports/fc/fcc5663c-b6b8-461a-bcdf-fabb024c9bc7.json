@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconnextpage",
+    "texture": "87ddc7b8-75de-463a-9886-275b9d9582af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      13,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      13,
+      15
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

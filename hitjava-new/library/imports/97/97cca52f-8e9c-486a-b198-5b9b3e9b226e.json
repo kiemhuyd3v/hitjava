@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_taoban3",
+    "texture": "133d74ba-ee4e-4fb4-9685-20fb7042bc61",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      165,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      165,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

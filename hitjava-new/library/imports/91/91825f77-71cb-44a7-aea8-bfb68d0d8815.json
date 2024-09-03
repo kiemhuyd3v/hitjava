@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "XocDia_Room.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "GAME BÀI BA CÂY": {
+      "__uuid__": "8d5fcaf7-4212-446f-8487-79d12a1ad2e7"
+    },
+    "Icon_User": {
+      "__uuid__": "9cbbcbcb-55a8-4855-b6ef-d8255f2abd98"
+    },
+    "bar_process": {
+      "__uuid__": "328417b9-2e88-413e-aee6-3a0acdf3f481"
+    },
+    "bar_process_full": {
+      "__uuid__": "7ef7be60-731e-4d14-ad8b-97a2fdfb4970"
+    },
+    "bar_thongtin": {
+      "__uuid__": "02af1d7e-bad3-4ba4-b5ef-d77d7cf18ad5"
+    },
+    "bg": {
+      "__uuid__": "0d96e298-94ca-4100-ba27-b6040428cb8d"
+    },
+    "bg_game_name": {
+      "__uuid__": "5be931f2-c85e-45e9-a846-b208e18634ac"
+    },
+    "bottom_bar": {
+      "__uuid__": "72206118-6480-4bf5-885c-52384290d162"
+    },
+    "dot_disable": {
+      "__uuid__": "219aeef7-e47a-407d-acf0-deba70ec6795"
+    },
+    "dot_on": {
+      "__uuid__": "f9fa1c41-4aa7-4c3e-a472-0cd24b5d1678"
+    },
+    "ic_$": {
+      "__uuid__": "87cd35b4-00eb-428f-83d5-9f700530d4f4"
+    },
+    "ic_back": {
+      "__uuid__": "876d1c16-7cc9-4041-b22c-bcbe001a2d83"
+    },
+    "ic_money": {
+      "__uuid__": "889e5bdc-a3c4-498d-a2b3-dcd29dcb5ad1"
+    },
+    "ic_taoban": {
+      "__uuid__": "6a7fcfc5-1d25-4f3f-9f0d-a8b72e73dd19"
+    },
+    "ic_tien": {
+      "__uuid__": "fcc40720-a831-4ac6-bbc7-f8a371205531"
+    },
+    "ic_timkiem": {
+      "__uuid__": "5a16812c-1dda-4f9f-bcdf-5de6b6bd5789"
+    },
+    "text_box_nhapid": {
+      "__uuid__": "9f179275-c264-4dca-89be-5bce511eedeb"
+    },
+    "title_bar": {
+      "__uuid__": "c145f06e-f9cd-4aa7-b9ff-aeec615e313c"
+    },
+    "top_bar": {
+      "__uuid__": "c83256b1-4010-4894-afd5-3f3baa3b59fa"
+    }
+  }
+}

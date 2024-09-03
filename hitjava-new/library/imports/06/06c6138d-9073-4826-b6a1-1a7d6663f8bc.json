@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nap lan dau",
+    "texture": "eae31cb5-3246-4224-a1db-f1c6a16ab1db",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      718,
+      373
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      718,
+      373
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

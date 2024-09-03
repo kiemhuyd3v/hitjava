@@ -1,0 +1,617 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "nohu",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "no": {
+          "no": {
+            "x": -1.99,
+            "width": 224,
+            "height": 150
+          }
+        },
+        "lua": {
+          "lua": {
+            "width": 657,
+            "height": 653
+          }
+        },
+        "sangxoay": {
+          "sangxoay": {
+            "width": 620,
+            "height": 621
+          }
+        },
+        "tialua": {
+          "tialua": {
+            "width": 713,
+            "height": 351
+          }
+        },
+        "hu": {
+          "hu": {
+            "x": -6,
+            "width": 213,
+            "y": -13.99,
+            "height": 123
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 713,
+      "spine": "3.2.01",
+      "hash": "7+nycmmghQA8Q2MA/GnXEVlnqoQ",
+      "height": 653
+    },
+    "slots": [
+      {
+        "attachment": "tialua",
+        "name": "tialua",
+        "bone": "tialua"
+      },
+      {
+        "attachment": "sangxoay",
+        "name": "sangxoay",
+        "bone": "xoay"
+      },
+      {
+        "attachment": "lua",
+        "name": "lua",
+        "bone": "lua"
+      },
+      {
+        "attachment": "no",
+        "name": "no",
+        "bone": "no"
+      },
+      {
+        "attachment": "hu",
+        "name": "hu",
+        "bone": "hu"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "nohu"
+      },
+      {
+        "parent": "nohu",
+        "name": "hu",
+        "x": 105.99
+      },
+      {
+        "parent": "root",
+        "name": "lua"
+      },
+      {
+        "parent": "nohu",
+        "name": "no",
+        "x": -111
+      },
+      {
+        "parent": "root",
+        "name": "tialua"
+      },
+      {
+        "parent": "root",
+        "name": "xoay"
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "no": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0.1666
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.8333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.0666
+              }
+            ]
+          },
+          "lua": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": [
+                  0.307,
+                  0.23,
+                  0.756,
+                  1
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0.2
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.8333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.0666
+              }
+            ]
+          },
+          "tialua": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.3
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.5
+              }
+            ]
+          },
+          "hu": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": [
+                  0.292,
+                  0,
+                  0.63,
+                  0.37
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0.1666
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.307,
+                  0.23,
+                  0.756,
+                  1
+                ],
+                "time": 0.8333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.0666
+              }
+            ],
+            "attachment": [
+              {
+                "name": "hu",
+                "time": 0
+              }
+            ]
+          }
+        },
+        "bones": {
+          "no": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.5333
+              },
+              {
+                "angle": 0,
+                "time": 1.0666
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.0666
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1.0666
+              }
+            ],
+            "translate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.646,
+                  1.34
+                ],
+                "x": -348.99,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.1666
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0.8333
+              },
+              {
+                "x": -348.99,
+                "y": 0,
+                "time": 1.0666
+              }
+            ]
+          },
+          "xoay": {
+            "rotate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 120,
+                "time": 0.2666
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 240,
+                "time": 0.5333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0.8
+              },
+              {
+                "angle": 120,
+                "time": 1.0666
+              }
+            ]
+          },
+          "lua": {
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.991,
+                  2.22
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.2
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.0666
+              }
+            ]
+          },
+          "tialua": {
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.991,
+                  2.22
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.3
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.8666
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.0666
+              }
+            ]
+          },
+          "nohu": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1.0666
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.0666
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1.0666
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.0666
+              }
+            ]
+          },
+          "hu": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.5333
+              },
+              {
+                "angle": 0,
+                "time": 1.0666
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.0666
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1.0666
+              }
+            ],
+            "translate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.615,
+                  1.31
+                ],
+                "x": 379.99,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.1666
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0.8333
+              },
+              {
+                "x": 379.99,
+                "y": 0,
+                "time": 1.0666
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nnohu.png\nsize: 1784,717\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nhu\n  rotate: true\n  xy: 1632, 276\n  size: 213, 123\n  orig: 213, 123\n  offset: 0, 0\n  index: -1\nlua\n  rotate: true\n  xy: 355, 58\n  size: 657, 653\n  orig: 657, 653\n  offset: 0, 0\n  index: -1\nno\n  rotate: true\n  xy: 1632, 491\n  size: 224, 150\n  orig: 224, 150\n  offset: 0, 0\n  index: -1\nsangxoay\n  rotate: false\n  xy: 1010, 94\n  size: 620, 621\n  orig: 620, 621\n  offset: 0, 0\n  index: -1\ntialua\n  rotate: true\n  xy: 2, 2\n  size: 713, 351\n  orig: 713, 351\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "bd61ae78-1af6-49ed-a622-2bf4f5373096"
+    }
+  ],
+  "textureNames": [
+    "nohu.png"
+  ],
+  "scale": 1
+}

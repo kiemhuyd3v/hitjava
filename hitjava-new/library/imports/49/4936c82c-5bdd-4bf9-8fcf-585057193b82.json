@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boder_ga_dung_tien",
+    "texture": "8507dd1d-8f8f-410e-92b3-8f75e7d96776",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      229,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      229,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

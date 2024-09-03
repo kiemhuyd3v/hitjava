@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mobang-btn-popup",
+    "texture": "b50f920b-70ba-4444-98c1-9e4c5ebf4abc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      268,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tittle_xiu_md5",
+    "texture": "c3e0b899-f6fc-407d-a0c2-80f008da7c4a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      138,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

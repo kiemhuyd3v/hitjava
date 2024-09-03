@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "kc.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "borderDiamondBoard": {
+      "__uuid__": "1851787a-af31-4471-9215-3ede2eb25e05"
+    },
+    "borderMoneyJackpot": {
+      "__uuid__": "ce6841c9-bdd4-4a13-932b-0708b53147bb"
+    },
+    "borderTable": {
+      "__uuid__": "ad0a47c8-d2ae-459d-9bfe-c6ab1bb0a505"
+    },
+    "btn100": {
+      "__uuid__": "82f23bef-498e-4b03-a0c4-46729c44a4dd"
+    },
+    "btn100Sellect": {
+      "__uuid__": "0031783b-b94a-40e6-ac57-46b16e5667fb"
+    },
+    "btn10K": {
+      "__uuid__": "9d3dd4ac-6d5e-4a60-b97d-46b2ba86ed69"
+    },
+    "btn10KSellect": {
+      "__uuid__": "5e13d45d-0525-47e6-b6ee-c88e579f6e91"
+    },
+    "btn1K": {
+      "__uuid__": "3cfdb21b-ea2d-4d55-a52a-6d48cf4fdda5"
+    },
+    "btn1KSellect": {
+      "__uuid__": "ef9d94bf-da3e-47a3-93de-cb8d0781cd98"
+    },
+    "btnQuay": {
+      "__uuid__": "31a9d57e-96bc-4051-8294-c6e932b2ea0b"
+    },
+    "btnSet20Dong": {
+      "__uuid__": "05ea102d-4ea5-4bc1-8acc-796cf2472f58"
+    },
+    "btnSieutoc": {
+      "__uuid__": "59ef42cf-50fd-4c75-afea-11b37b02e387"
+    },
+    "btnSieutocSellect": {
+      "__uuid__": "00292008-085a-4d35-9d5a-cf3742784503"
+    },
+    "btnTuquay": {
+      "__uuid__": "754133d5-fbd2-4fea-b533-f83e985fa7dd"
+    },
+    "btnTuquaySellect": {
+      "__uuid__": "de35f8f7-73c0-4605-bd13-bcdee665fc0c"
+    },
+    "icBxh": {
+      "__uuid__": "e604a0fd-2268-438d-9adf-11c71ee5d37d"
+    },
+    "icClose": {
+      "__uuid__": "b9b1401f-0fda-41b3-9f59-bfc103fb4a71"
+    },
+    "icHoidap": {
+      "__uuid__": "d1465948-d218-43b7-a68a-f2bb5d68be81"
+    },
+    "icI": {
+      "__uuid__": "cae1466e-770d-4181-9ecd-e5fe15104b89"
+    },
+    "icon1": {
+      "__uuid__": "224857cd-7dc0-42fe-8f60-cee8535c2b87"
+    },
+    "icon1_blur": {
+      "__uuid__": "8257677c-ff04-484f-a370-37ba6660d24d"
+    },
+    "icon2": {
+      "__uuid__": "2b0549fa-2280-4552-82c0-cf4acd3a31d1"
+    },
+    "icon2_blur": {
+      "__uuid__": "cec779d0-89c4-4ef4-8432-bb4699b2a116"
+    },
+    "icon3": {
+      "__uuid__": "c8738659-6656-4b81-b9a4-60a5da1f4c87"
+    },
+    "icon3_blur": {
+      "__uuid__": "fc195978-d7b2-4ae2-a9a8-3ecdd0236a49"
+    },
+    "icon4": {
+      "__uuid__": "929bfdce-5a0c-4d70-81f8-cb873801c15f"
+    },
+    "icon4_blur": {
+      "__uuid__": "958e6052-1ac4-4029-9282-74abc322bfa5"
+    },
+    "icon5": {
+      "__uuid__": "67fb1718-ba0a-4e66-821b-9e18b8c5fdad"
+    },
+    "icon5_blur": {
+      "__uuid__": "ed098587-a86b-4fd8-901c-88d4d7b3919b"
+    },
+    "icon6": {
+      "__uuid__": "eafe8c6e-92c9-4a42-b039-9917b6f710e5"
+    },
+    "icon6_blur": {
+      "__uuid__": "81da9456-f76e-4e4b-bb10-1631f8f129d5"
+    }
+  }
+}

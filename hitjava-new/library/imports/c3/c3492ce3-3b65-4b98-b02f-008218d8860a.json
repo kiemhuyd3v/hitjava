@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "an-khe-nha-vang",
+    "texture": "abb79e36-1b37-4439-a8c4-4f457570c86e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

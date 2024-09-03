@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Panel_Popup - Sao chép",
+    "texture": "f0da1dd8-ced9-4fe6-b8e7-d63df0c46908",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      480,
+      385
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      480,
+      385
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

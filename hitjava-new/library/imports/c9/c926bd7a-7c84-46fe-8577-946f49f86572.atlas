@@ -1,0 +1,48 @@
+
+xhuodin.png
+size: 491,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 574
+  rotate: true
+  xy: 206, 5
+  size: 165, 118
+  orig: 165, 118
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 2, 12
+  size: 202, 158
+  orig: 202, 158
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 418, 100
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 326, 3
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 326, 93
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+x6
+  rotate: true
+  xy: 406, 2
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1

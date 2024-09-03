@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderNhapcodeSmall",
+    "texture": "71bf5c0c-385b-4c8e-9984-ff8871f961ed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      259,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

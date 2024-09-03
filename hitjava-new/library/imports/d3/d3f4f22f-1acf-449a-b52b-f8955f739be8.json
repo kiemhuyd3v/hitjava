@@ -1,0 +1,257 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "iteam2",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "iteam2nen": {
+          "iteam2nen": {
+            "width": 132,
+            "height": 115
+          }
+        },
+        "iteam10": {
+          "iteam24": {
+            "width": 116,
+            "height": 115
+          },
+          "iteam21": {
+            "width": 116,
+            "height": 115
+          },
+          "iteam20": {
+            "width": 116,
+            "height": 115
+          },
+          "iteam23": {
+            "width": 116,
+            "height": 115
+          },
+          "iteam22": {
+            "width": 116,
+            "height": 115
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 132,
+      "spine": "3.2.01",
+      "hash": "vpqdmfGN3J9ZuyDohmMr6Zz+e/A",
+      "height": 115
+    },
+    "slots": [
+      {
+        "attachment": "iteam2nen",
+        "name": "iteam2nen",
+        "bone": "root"
+      },
+      {
+        "attachment": "iteam24",
+        "name": "iteam10",
+        "bone": "iteam"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "iteam",
+        "x": 0.99
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "iteam10": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "time": 0
+              }
+            ],
+            "attachment": [
+              {
+                "name": "iteam20",
+                "time": 0
+              },
+              {
+                "name": "iteam20",
+                "time": 0.1666
+              },
+              {
+                "name": "iteam21",
+                "time": 0.2
+              },
+              {
+                "name": "iteam22",
+                "time": 0.2333
+              },
+              {
+                "name": "iteam23",
+                "time": 0.2666
+              },
+              {
+                "name": "iteam24",
+                "time": 0.3
+              },
+              {
+                "name": "iteam23",
+                "time": 0.3333
+              },
+              {
+                "name": "iteam22",
+                "time": 0.3666
+              },
+              {
+                "name": "iteam21",
+                "time": 0.4
+              },
+              {
+                "name": "iteam20",
+                "time": 0.4333
+              }
+            ]
+          }
+        },
+        "bones": {
+          "root": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.6666
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.6666
+              }
+            ],
+            "scale": [
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.6666
+              }
+            ]
+          },
+          "iteam": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.6666
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.6666
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.243,
+                  0,
+                  0.648,
+                  0.6
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.1666
+              },
+              {
+                "curve": [
+                  0.382,
+                  0.57,
+                  0.735,
+                  1
+                ],
+                "x": 0.9,
+                "y": 0.9,
+                "time": 0.2333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.3
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.6666
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\niteam2.png\nsize: 726,119\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\niteam20\n  rotate: false\n  xy: 136, 2\n  size: 116, 115\n  orig: 116, 115\n  offset: 0, 0\n  index: -1\niteam21\n  rotate: false\n  xy: 254, 2\n  size: 116, 115\n  orig: 116, 115\n  offset: 0, 0\n  index: -1\niteam22\n  rotate: false\n  xy: 372, 2\n  size: 116, 115\n  orig: 116, 115\n  offset: 0, 0\n  index: -1\niteam23\n  rotate: false\n  xy: 490, 2\n  size: 116, 115\n  orig: 116, 115\n  offset: 0, 0\n  index: -1\niteam24\n  rotate: false\n  xy: 608, 2\n  size: 116, 115\n  orig: 116, 115\n  offset: 0, 0\n  index: -1\niteam2nen\n  rotate: false\n  xy: 2, 2\n  size: 132, 115\n  orig: 132, 115\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "4009fb43-aa7d-431f-a1ea-52105d8ea56d"
+    }
+  ],
+  "textureNames": [
+    "iteam2.png"
+  ],
+  "scale": 1
+}

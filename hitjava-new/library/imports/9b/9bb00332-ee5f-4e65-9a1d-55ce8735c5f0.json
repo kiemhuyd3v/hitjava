@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coinbankk",
+    "texture": "3c0efe5b-c919-4717-8fd4-bb30ce9820d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      224,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

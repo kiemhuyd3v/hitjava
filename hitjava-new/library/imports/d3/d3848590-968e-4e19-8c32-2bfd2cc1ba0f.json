@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoTelegram",
+    "texture": "f41ce2eb-93c0-4a1f-b882-53e873b21d8c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      322,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      322,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

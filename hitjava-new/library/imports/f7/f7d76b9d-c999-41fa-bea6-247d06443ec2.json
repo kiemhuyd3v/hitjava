@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bottomBar",
+    "texture": "02b2501f-39af-4fa1-9e5b-7c5c21012518",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1562,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1562,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icMasterroom",
+    "texture": "ca0371b8-b233-4999-ab34-7f056f99c4e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

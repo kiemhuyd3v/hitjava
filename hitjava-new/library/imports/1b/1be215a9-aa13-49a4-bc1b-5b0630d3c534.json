@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TL_Fire_Spin",
+    "texture": "e386df0a-77d9-4e03-857b-33d7b49e55ad",
+    "atlas": "",
+    "rect": [
+      7,
+      2,
+      900,
+      454
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      914,
+      458
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iclivechat",
+    "texture": "3fcb28db-b49d-4309-aee4-fcaf227ff4ec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      71,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

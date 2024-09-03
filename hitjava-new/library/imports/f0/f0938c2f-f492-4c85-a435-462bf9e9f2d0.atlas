@@ -1,0 +1,48 @@
+
+xhuwukong.png
+size: 348,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 2, 86
+  size: 202, 158
+  orig: 202, 158
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 275, 10
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+huikhi
+  rotate: false
+  xy: 206, 82
+  size: 139, 162
+  orig: 139, 162
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 185, 2
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 2, 7
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 94, 7
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Go_IconLode",
+    "texture": "ffe1d4a2-30ea-4087-bd5a-1d7cdf8da398",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1157,
+      1157
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1161,
+      1161
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "momo",
+    "texture": "7424861e-cbe0-419a-b4bd-a1d7b0c46bc6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      421,
+      421
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      421,
+      421
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

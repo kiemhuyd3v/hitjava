@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roof_half",
+    "texture": "9da8f0f5-ae31-41a5-b2a9-8e1a8226d6d3",
+    "atlas": "67da4d91-c5cb-4380-a54e-fc84943e7c47",
+    "rect": [
+      0,
+      0,
+      569,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      569,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

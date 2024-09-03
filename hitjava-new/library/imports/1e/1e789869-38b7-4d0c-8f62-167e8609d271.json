@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "than-tai@2x",
+    "texture": "3855b085-5656-48a1-a261-9b4fa525764c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

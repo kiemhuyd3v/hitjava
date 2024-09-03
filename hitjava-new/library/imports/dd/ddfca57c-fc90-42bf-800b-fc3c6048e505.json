@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_thua_hoa_quac",
+    "texture": "6f009838-53c9-47c2-825b-0c5e7e957a06",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

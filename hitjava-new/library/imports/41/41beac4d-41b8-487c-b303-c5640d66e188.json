@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bai up2",
+    "texture": "0bb02072-cab2-40a1-97ee-d2478acdf376",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tet_theme_packed",
+    "texture": "bae8f597-ab3d-48e4-9577-0f9bdb59c694",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1511,
+      401
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      1513,
+      401
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

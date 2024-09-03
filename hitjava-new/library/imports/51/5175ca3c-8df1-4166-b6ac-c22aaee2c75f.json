@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bannerThongBao",
+    "texture": "5923f1c4-8bcc-4112-acf6-f4865a871840",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      610,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      610,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

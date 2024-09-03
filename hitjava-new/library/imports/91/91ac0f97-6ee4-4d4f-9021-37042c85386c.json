@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Shape 6 copy",
+    "texture": "51e88156-802c-4a74-a267-527a238d7467",
+    "atlas": "c8470d08-f55f-42f7-beef-8391f83f6ba0",
+    "rect": [
+      764,
+      649,
+      127,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

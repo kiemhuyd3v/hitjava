@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EffectMiniGame",
+    "texture": "0db81078-3029-4eea-a715-9e081a13b6f5",
+    "atlas": "",
+    "rect": [
+      2,
+      29,
+      285,
+      256
+    ],
+    "offset": [
+      0,
+      -13.5
+    ],
+    "originalSize": [
+      289,
+      287
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

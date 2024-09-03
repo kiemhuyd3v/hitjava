@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blue_text-export",
+    "texture": "15d15220-8082-4e22-a09c-25b5bbd4091d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      462,
+      511
+    ],
+    "offset": [
+      -25,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

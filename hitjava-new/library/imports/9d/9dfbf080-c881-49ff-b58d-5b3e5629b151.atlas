@@ -1,0 +1,48 @@
+
+itngua.png
+size: 377,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+co
+  rotate: false
+  xy: 268, 22
+  size: 56, 26
+  orig: 58, 28
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 268, 50
+  size: 107, 104
+  orig: 109, 106
+  offset: 1, 1
+  index: -1
+lightxanh
+  rotate: false
+  xy: 2, 2
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+nen
+  rotate: false
+  xy: 156, 41
+  size: 110, 113
+  orig: 112, 115
+  offset: 1, 1
+  index: -1
+rauphai
+  rotate: false
+  xy: 156, 12
+  size: 72, 27
+  orig: 74, 29
+  offset: 1, 1
+  index: -1
+rautrai
+  rotate: true
+  xy: 326, 25
+  size: 23, 46
+  orig: 25, 48
+  offset: 1, 1
+  index: -1

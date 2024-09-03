@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mpoker",
+    "texture": "cab3873e-b7cc-479b-94e5-bdbfa9d1bf51",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      510,
+      215
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      516,
+      220
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

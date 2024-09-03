@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderNhoCopy",
+    "texture": "334bf6b7-37a0-44a6-88cc-fdedfbb01d85",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

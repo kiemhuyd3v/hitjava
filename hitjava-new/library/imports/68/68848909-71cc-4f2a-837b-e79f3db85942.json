@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoViber",
+    "texture": "9aa0e3fa-59e7-4413-9b6c-24d97dbfdbd2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnHuyOn",
+    "texture": "75a5f3fb-592f-4779-b9cf-1161d93433bf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

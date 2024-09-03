@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoInbox",
+    "texture": "440e9081-381d-49d8-8e62-9211b2714b59",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

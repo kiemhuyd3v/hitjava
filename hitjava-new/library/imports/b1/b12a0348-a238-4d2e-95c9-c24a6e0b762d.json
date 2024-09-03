@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fonttienthang1_font",
+    "texture": "7d9a51f0-55fb-4417-9ed6-2a1af0254591",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      144
+    ],
+    "offset": [
+      -5,
+      5
+    ],
+    "originalSize": [
+      140,
+      154
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

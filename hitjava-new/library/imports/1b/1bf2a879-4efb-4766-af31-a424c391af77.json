@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnTrang",
+    "texture": "ebab2f34-e64e-48f2-be1a-a78898a89c7f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

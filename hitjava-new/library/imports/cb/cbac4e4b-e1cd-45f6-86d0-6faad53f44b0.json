@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "casinoOffCopy2",
+    "texture": "7bf59333-4fd7-402c-8fd5-a2e5f90778df",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

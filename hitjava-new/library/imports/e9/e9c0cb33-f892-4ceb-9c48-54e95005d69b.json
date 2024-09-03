@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res-CardGame-CommonResource-BanChoi-khung_bao_binh",
+    "texture": "26d19636-e7cd-439f-9788-fbcfc63ae47f",
+    "atlas": "f259cb1e-b40b-4c73-a7e7-47b26ff1a40d",
+    "rect": [
+      1,
+      1,
+      560,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      560,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

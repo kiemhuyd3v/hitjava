@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "particle_texture",
+    "texture": "fd356b04-1218-441a-93e7-73b5f0d86c5f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      113
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      113
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

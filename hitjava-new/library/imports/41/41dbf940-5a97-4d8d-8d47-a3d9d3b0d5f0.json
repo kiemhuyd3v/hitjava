@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tlmn_sun",
+    "texture": "f59a90fe-2136-46a5-8a10-746c6cc6afbe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      237,
+      202
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      237,
+      202
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

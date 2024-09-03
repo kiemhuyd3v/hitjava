@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lineMauTIm",
+    "texture": "af7f799c-12d7-4b6d-89b9-a8052c948a2a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Group 26",
+    "texture": "51e88156-802c-4a74-a267-527a238d7467",
+    "atlas": "c8470d08-f55f-42f7-beef-8391f83f6ba0",
+    "rect": [
+      0,
+      595,
+      271,
+      366
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      271,
+      366
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

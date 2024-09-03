@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cunghiphattai",
+    "texture": "aa2b9dac-dce4-4963-9301-ff2458db2c27",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      278,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      278,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_money_toolTip",
+    "texture": "74d20cbc-9e99-439c-944c-bbbe933d6737",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

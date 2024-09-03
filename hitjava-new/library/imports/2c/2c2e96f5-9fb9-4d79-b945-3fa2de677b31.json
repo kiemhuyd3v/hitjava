@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "STTT2_VuaHung",
+    "texture": "5570e0c8-629f-49da-9976-68a53109ab97",
+    "atlas": "",
+    "rect": [
+      24,
+      6,
+      561,
+      215
+    ],
+    "offset": [
+      9.5,
+      -1
+    ],
+    "originalSize": [
+      590,
+      225
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

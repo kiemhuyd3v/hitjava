@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn-Infor",
+    "texture": "43eb51bd-9a3c-4378-af5c-d20ce3cb4b38",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

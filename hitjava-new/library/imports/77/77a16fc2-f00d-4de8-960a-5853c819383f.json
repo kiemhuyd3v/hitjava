@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_lock",
+    "texture": "50fed283-2fd7-41ef-8996-d2d8a5e0c977",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

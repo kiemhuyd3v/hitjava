@@ -1,0 +1,27 @@
+
+iteamxit.png
+size: 405,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dau
+  rotate: true
+  xy: 313, 24
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 2, 23
+  size: 111, 166
+  orig: 111, 166
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 170, 2
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1

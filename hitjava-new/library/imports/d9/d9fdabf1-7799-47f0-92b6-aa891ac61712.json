@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thongtin-tab-active",
+    "texture": "a5ccaa1d-29c7-4fdd-b53e-d6cb021344c7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab_quayhu",
+    "texture": "ddd96715-8c30-4fab-ac18-44b6db09c69f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

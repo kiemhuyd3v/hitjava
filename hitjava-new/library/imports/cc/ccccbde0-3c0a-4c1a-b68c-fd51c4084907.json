@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_momo_on",
+    "texture": "5760249a-4256-4f59-8d33-e5895d944506",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      170,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

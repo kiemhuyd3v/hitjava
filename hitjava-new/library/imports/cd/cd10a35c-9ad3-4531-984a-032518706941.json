@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mini-game-baucua.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bai-cua-bg-4": {
+      "__uuid__": "bd6acfc5-fe26-4451-833d-9e9434ecaa4b"
+    },
+    "bau-cua-bg-3": {
+      "__uuid__": "4047364d-7d5e-4314-a7bf-691a7ae63804"
+    },
+    "bau-cua-bg-jackpot": {
+      "__uuid__": "12bc509a-3fcc-4a95-982a-4d361d4ec6e5"
+    },
+    "bau-cua-bg": {
+      "__uuid__": "a9e3534f-bd7f-4971-afe0-37f5eae39d36"
+    },
+    "bau-cua-button-san-hu": {
+      "__uuid__": "cb6f59cb-7d23-4972-99b4-cd48bf137037"
+    },
+    "bau-cua-form-jackpot": {
+      "__uuid__": "dcb0f467-9142-4cfb-b234-8a70f62bafca"
+    },
+    "bau-cua-item-1": {
+      "__uuid__": "910fba64-0a59-45e9-9540-65dba6fa386b"
+    },
+    "bau-cua-item-2": {
+      "__uuid__": "608ce9cc-96ec-41d2-9b38-1d2bcf360e94"
+    },
+    "bau-cua-item-3": {
+      "__uuid__": "8bf9bd8b-73cf-48e0-9a91-e6ab4fafdda2"
+    },
+    "bau-cua-item-4": {
+      "__uuid__": "97f12027-a1dd-45c1-8749-bc309ed1c141"
+    },
+    "bau-cua-item-5": {
+      "__uuid__": "44b7a931-7a77-4326-b2bd-b844b5ac737b"
+    },
+    "bau-cua-item-6": {
+      "__uuid__": "2a77bc8b-e5ff-4d09-8fdb-a320e2fa3093"
+    },
+    "bau-cua-item-bet-1-bg": {
+      "__uuid__": "91f408a9-730b-43e4-a76d-3ee0ee34932e"
+    },
+    "bau-cua-item-bet-bg": {
+      "__uuid__": "30a491c7-c6db-448f-b553-632e48dde8ca"
+    },
+    "bau-cua-item-bg": {
+      "__uuid__": "5797e550-8b45-43ff-8381-d45159138d07"
+    },
+    "bau-cua-item-mini-1": {
+      "__uuid__": "44d4373b-8758-4126-bf2d-50243d1e284f"
+    },
+    "bau-cua-item-mini-2": {
+      "__uuid__": "1e45643b-e508-4b29-add9-d2dc18eec23d"
+    },
+    "bau-cua-item-mini-3": {
+      "__uuid__": "9f4724a1-6507-4cc3-b50d-5aa0d7489a86"
+    },
+    "bau-cua-item-mini-4": {
+      "__uuid__": "0faa3353-adad-45e6-86ae-56f478bd857b"
+    },
+    "bau-cua-item-mini-5": {
+      "__uuid__": "93c567ae-e3bd-40c9-baa4-a2f9fca4864e"
+    },
+    "bau-cua-item-mini-6": {
+      "__uuid__": "4a3aa679-e6d0-417c-9945-d5942e96307e"
+    },
+    "bau-cua-item-selected": {
+      "__uuid__": "233204d6-fdd3-4bd7-aad6-2b74d138103e"
+    },
+    "bau-cua-item-small-1": {
+      "__uuid__": "4991e658-1a6f-4f76-9a23-9b3104a6448a"
+    },
+    "bau-cua-item-small-2": {
+      "__uuid__": "826c2304-5041-4816-b6a9-2c3b56ff193b"
+    },
+    "bau-cua-item-small-3": {
+      "__uuid__": "dcf91924-cd5c-430d-ad8c-c9b9ec7cbb5e"
+    },
+    "bau-cua-item-small-4": {
+      "__uuid__": "844278a4-a3e6-4f3b-a786-795283f007ba"
+    },
+    "bau-cua-item-small-5": {
+      "__uuid__": "ff73b632-39a7-454d-bcee-eb6449556f75"
+    },
+    "bau-cua-item-small-6": {
+      "__uuid__": "961e5b87-f0cf-447a-9cbf-e7a1867e885c"
+    },
+    "bau-cua-jackpot-bg": {
+      "__uuid__": "2cff0fcb-7243-46a1-ad81-af9f6a7ee3e7"
+    },
+    "bau-cua-rank-time-bg": {
+      "__uuid__": "8105c9b2-04b5-408a-b919-f9acdf125f4d"
+    },
+    "bau-cua-rank-time-title": {
+      "__uuid__": "d4faa5cd-6163-4875-b513-fe8716ab4dfe"
+    },
+    "bau-cua-title": {
+      "__uuid__": "19586ee4-689d-42e3-b638-63f6d7e22844"
+    }
+  }
+}

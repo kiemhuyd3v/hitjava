@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank_eximbank",
+    "texture": "4011c47f-9f16-4a6e-941d-880bd136a904",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      238,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      238,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

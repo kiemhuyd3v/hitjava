@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mang_vina_normal",
+    "texture": "c8585527-6ac1-4c03-8829-2f7ad3cbe25e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

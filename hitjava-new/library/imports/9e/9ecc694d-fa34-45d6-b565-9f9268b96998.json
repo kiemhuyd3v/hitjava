@@ -1,0 +1,726 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "btnquay",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "diaquay": {
+          "diaquay": {
+            "x": 0.03,
+            "width": 127,
+            "y": 0.59,
+            "height": 127
+          }
+        },
+        "nenbtn": {
+          "nenbtn": {
+            "width": 176,
+            "height": 205
+          }
+        },
+        "txtquay": {
+          "txtquay": {
+            "width": 118,
+            "height": 47
+          }
+        },
+        "muitenquay": {
+          "muitenquay": {
+            "x": 5,
+            "width": 110,
+            "y": 1.99,
+            "height": 99
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 178.52,
+      "spine": "3.2.01",
+      "hash": "IlMmBbKV5JGP2WBMBoZ2G7Xdqvw",
+      "height": 205
+    },
+    "slots": [
+      {
+        "attachment": "nenbtn",
+        "name": "nenbtn",
+        "bone": "nenbtn"
+      },
+      {
+        "attachment": "diaquay",
+        "name": "diaquay",
+        "bone": "diaquay"
+      },
+      {
+        "attachment": "muitenquay",
+        "name": "muitenquay",
+        "bone": "muitenquay"
+      },
+      {
+        "attachment": "txtquay",
+        "name": "txtquay",
+        "bone": "txtquay"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "rotation": -54.65,
+        "name": "diaquay",
+        "x": -2.5,
+        "y": 1.59
+      },
+      {
+        "parent": "root",
+        "rotation": -165.58,
+        "name": "muitenquay",
+        "x": -2.92,
+        "y": 0.56
+      },
+      {
+        "parent": "root",
+        "name": "nenbtn"
+      },
+      {
+        "parent": "root",
+        "name": "txtquay",
+        "x": -2.95
+      }
+    ],
+    "animations": {
+      "thuong": {
+        "bones": {
+          "diaquay": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "nenbtn": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "txtquay": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.282,
+                  0,
+                  0.624,
+                  0.38
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.322,
+                  0.29,
+                  0.757,
+                  1
+                ],
+                "x": 1.2,
+                "y": 1.2,
+                "time": 0.1
+              },
+              {
+                "curve": [
+                  0.282,
+                  0,
+                  0.624,
+                  0.38
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.1666
+              },
+              {
+                "curve": [
+                  0.322,
+                  0.29,
+                  0.757,
+                  1
+                ],
+                "x": 1.2,
+                "y": 1.2,
+                "time": 0.2333
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.3
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "muitenquay": {
+            "rotate": [
+              {
+                "curve": [
+                  0.275,
+                  0,
+                  0.62,
+                  0.4
+                ],
+                "angle": 165.58,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.63
+                ],
+                "angle": 485.58,
+                "time": 0.4
+              },
+              {
+                "angle": 165.58,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          }
+        }
+      },
+      "quay": {
+        "bones": {
+          "diaquay": {
+            "rotate": [
+              {
+                "angle": 54.65,
+                "time": 0
+              },
+              {
+                "angle": 174.65,
+                "time": 0.2666
+              },
+              {
+                "angle": 294.65,
+                "time": 0.5333
+              },
+              {
+                "angle": 54.65,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "nenbtn": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.315,
+                  0,
+                  0.649,
+                  0.34
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.318,
+                  0.23,
+                  0.652,
+                  0.56
+                ],
+                "x": 0.95,
+                "y": 0.95,
+                "time": 0.0666
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.1333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "txtquay": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.299,
+                  0,
+                  0.635,
+                  0.36
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1.05,
+                "y": 1.05,
+                "time": 0.1
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.63
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.2
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1.05,
+                "y": 1.05,
+                "time": 0.3
+              },
+              {
+                "curve": [
+                  0.342,
+                  0.36,
+                  0.685,
+                  0.72
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1.05,
+                "y": 1.05,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.379,
+                  0.6,
+                  0.724,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.6
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1.05,
+                "y": 1.05,
+                "time": 0.7
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "muitenquay": {
+            "rotate": [
+              {
+                "angle": 165.58,
+                "time": 0
+              },
+              {
+                "angle": 405.58,
+                "time": 0.2666
+              },
+              {
+                "angle": 285.58,
+                "time": 0.5333
+              },
+              {
+                "angle": 165.58,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 0.8,
+                "y": 0.8,
+                "time": 0.4
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nbtnquay.png\nsize: 450,180\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ndiaquay\n  rotate: false\n  xy: 209, 51\n  size: 127, 127\n  orig: 127, 127\n  offset: 0, 0\n  index: -1\nmuitenquay\n  rotate: false\n  xy: 338, 79\n  size: 110, 99\n  orig: 110, 99\n  offset: 0, 0\n  index: -1\nnenbtn\n  rotate: true\n  xy: 2, 2\n  size: 176, 205\n  orig: 176, 205\n  offset: 0, 0\n  index: -1\ntxtquay\n  rotate: false\n  xy: 209, 2\n  size: 118, 47\n  orig: 118, 47\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "4dba58af-3e0c-4850-94f8-2c0efed58707"
+    }
+  ],
+  "textureNames": [
+    "btnquay.png"
+  ],
+  "scale": 1
+}

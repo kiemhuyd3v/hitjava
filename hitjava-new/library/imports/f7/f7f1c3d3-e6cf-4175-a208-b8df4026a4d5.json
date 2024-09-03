@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_popup.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "blue": {
+      "__uuid__": "0647bcca-3934-4025-92c5-805f14b7935b"
+    },
+    "box_check": {
+      "__uuid__": "9d33d350-a63e-48dd-b703-3e44c72ccea8"
+    },
+    "btn_left": {
+      "__uuid__": "353287ca-ee21-4c8f-9b01-dedc9d9e73bd"
+    },
+    "btn_left_on": {
+      "__uuid__": "d8e48f94-3a85-49ce-a70d-8926f27499b2"
+    },
+    "btn_mid_": {
+      "__uuid__": "dc87522c-e598-4e71-bbae-063e60c8c98a"
+    },
+    "btn_mid_on": {
+      "__uuid__": "4d4fd93e-6c6f-4edd-bd03-075dc98e7848"
+    },
+    "btn_right": {
+      "__uuid__": "b7584ec7-b9f7-4ba6-b135-00193af50461"
+    },
+    "btn_right_on": {
+      "__uuid__": "12d51981-7cb1-445a-8337-f9a7a3af8c23"
+    },
+    "btn_tab_off": {
+      "__uuid__": "d57ed07e-0dad-421e-8269-a261f51b86f8"
+    },
+    "btn_tab_on": {
+      "__uuid__": "2efab9ea-e4fd-4c82-ade3-df23ce176b63"
+    },
+    "frame_nap": {
+      "__uuid__": "54b0e6af-7223-45cf-b2ad-667f07d3097e"
+    },
+    "frame_rut": {
+      "__uuid__": "9714f0c6-afeb-49c5-ab5d-e74708fcdd92"
+    },
+    "gray": {
+      "__uuid__": "381a9b8c-6d9a-49ac-9187-6272d1a2d665"
+    },
+    "green": {
+      "__uuid__": "42f1b2b1-ad78-44f3-b36d-0d58f76304cb"
+    },
+    "ic_check": {
+      "__uuid__": "65a85dc0-d478-4c69-83f1-7bfd6528c260"
+    },
+    "ic_close": {
+      "__uuid__": "348e6435-1a99-45d7-9721-35413e0ce27b"
+    },
+    "ic_dangxuat": {
+      "__uuid__": "038df0fb-bc44-4b84-ba68-08a6cbda437b"
+    },
+    "purple": {
+      "__uuid__": "435d6ec0-dced-4f2f-8ee4-53bceba17c26"
+    },
+    "red": {
+      "__uuid__": "e0ff2efe-0c21-448c-a626-051af810a9e4"
+    },
+    "toggle_off": {
+      "__uuid__": "acb31b9e-690a-47f2-ae70-f2b34c6588a2"
+    },
+    "toggle_on": {
+      "__uuid__": "78d7d27e-9beb-41d7-b978-9618e4530069"
+    },
+    "yellow": {
+      "__uuid__": "34a7e935-133b-4f74-a33f-b5b961434fc8"
+    }
+  }
+}

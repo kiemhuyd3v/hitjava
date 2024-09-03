@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tien_user-export",
+    "texture": "c321b210-54fb-4bcf-811f-fb9fb9163cd8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      180
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      183,
+      181
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

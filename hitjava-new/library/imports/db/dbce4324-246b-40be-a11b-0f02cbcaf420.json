@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_ga",
+    "texture": "8374d325-9539-4bd1-b4f6-0b8e2dc78056",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      117
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

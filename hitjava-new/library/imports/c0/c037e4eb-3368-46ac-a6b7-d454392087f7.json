@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bikini_line2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "13": {
+      "__uuid__": "d4c1dea4-eace-4315-b79d-31ad1cb79fed"
+    },
+    "14": {
+      "__uuid__": "3dce3846-7ab9-45fa-8b57-87ec64f26786"
+    },
+    "15": {
+      "__uuid__": "c1c89554-423e-4b4b-87e1-3f69cac6bade"
+    },
+    "16": {
+      "__uuid__": "5a302124-e413-412e-9adf-e6b467b27039"
+    },
+    "17": {
+      "__uuid__": "e2e3fbc5-6d77-4653-a4d1-c50d80657e42"
+    },
+    "18": {
+      "__uuid__": "f96f93f6-3271-4fba-93ee-43e3999ac892"
+    },
+    "19": {
+      "__uuid__": "a322462e-d8de-46f4-b46d-4084f1fc0ff8"
+    },
+    "20": {
+      "__uuid__": "29ff8360-ed3d-4b57-9ef2-f33420bf8b1b"
+    },
+    "21": {
+      "__uuid__": "38a88663-33ef-4ae3-99a7-86d106c3acb6"
+    },
+    "22": {
+      "__uuid__": "c1920bf7-11df-4e52-abbd-6e2fd7175dfb"
+    },
+    "23": {
+      "__uuid__": "206232ad-8d9a-4fb4-ae09-dbfd81e47527"
+    },
+    "24": {
+      "__uuid__": "1e964fdb-4fd6-444f-a304-1119c68d2fd1"
+    },
+    "25": {
+      "__uuid__": "1ae1a193-277a-4527-855a-e606773e9d09"
+    }
+  }
+}

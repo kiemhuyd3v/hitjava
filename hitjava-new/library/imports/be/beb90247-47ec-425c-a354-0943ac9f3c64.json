@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuyen_2",
+    "texture": "764c605b-49f4-4608-b7a4-85c367fb316f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

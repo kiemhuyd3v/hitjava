@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnGapDoi",
+    "texture": "dd2b60a3-fd37-4d55-b81f-8dc374b21b58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      183,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

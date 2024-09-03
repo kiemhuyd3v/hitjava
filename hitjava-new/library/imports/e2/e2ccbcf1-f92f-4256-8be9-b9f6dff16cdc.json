@@ -1,0 +1,344 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "moquantai",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "1": {
+          "1": {
+            "width": 152,
+            "y": 108.99,
+            "height": 290
+          }
+        },
+        "2": {
+          "2": {
+            "x": 0.99,
+            "width": 188,
+            "y": 117,
+            "height": 309
+          }
+        },
+        "3": {
+          "3": {
+            "width": 152,
+            "y": 108.99,
+            "height": 290
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 188,
+      "spine": "3.2.01",
+      "hash": "9Yi7GSbIdJRIXHfNJmjQHGWDBKA",
+      "height": 309
+    },
+    "slots": [
+      {
+        "attachment": "1",
+        "name": "1",
+        "bone": "quantai"
+      },
+      {
+        "color": "ffffff00",
+        "attachment": "2",
+        "name": "2",
+        "bone": "quantai"
+      },
+      {
+        "color": "ffffff00",
+        "attachment": "3",
+        "name": "3",
+        "bone": "quantai"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "quantai",
+        "y": -108.99
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "1": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.2333
+              }
+            ]
+          },
+          "2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "time": 0.2333
+              },
+              {
+                "color": "ffffff4a",
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "time": 0.2666
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.243,
+                  0,
+                  0.648,
+                  0.6
+                ],
+                "time": 0.3
+              },
+              {
+                "color": "ffffff58",
+                "curve": [
+                  0.382,
+                  0.57,
+                  0.735,
+                  1
+                ],
+                "time": 0.3666
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.4
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.6666
+              }
+            ]
+          },
+          "3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "time": 0.4
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.6666
+              }
+            ]
+          }
+        },
+        "bones": {
+          "quantai": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.351,
+                  0.39,
+                  0.689,
+                  0.74
+                ],
+                "angle": 0,
+                "time": 0.1333
+              },
+              {
+                "curve": [
+                  0.37,
+                  0.62,
+                  0.709,
+                  1
+                ],
+                "angle": 1.48,
+                "time": 0.1666
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "angle": 0,
+                "time": 0.2
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "angle": -2.28,
+                "time": 0.2333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "angle": 0,
+                "time": 0.2666
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "angle": 1.22,
+                "time": 0.3
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "angle": 0,
+                "time": 0.3333
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "angle": -2.61,
+                "time": 0.3666
+              },
+              {
+                "angle": 0,
+                "time": 0.4
+              }
+            ],
+            "shear": [
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.257,
+                  0,
+                  0.618,
+                  0.45
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.33,
+                  0.32,
+                  0.669,
+                  0.67
+                ],
+                "x": 1,
+                "y": 0.983,
+                "time": 0.0666
+              },
+              {
+                "curve": [
+                  0.381,
+                  0.54,
+                  0.742,
+                  1
+                ],
+                "x": 1,
+                "y": 1.06,
+                "time": 0.1
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              },
+              {
+                "x": 0.4,
+                "y": 0.4,
+                "time": 0.6666
+              }
+            ],
+            "translate": [
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nmoquantai.png\nsize: 484,313\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: true\n  xy: 192, 159\n  size: 152, 290\n  orig: 152, 290\n  offset: 0, 0\n  index: -1\n2\n  rotate: false\n  xy: 2, 2\n  size: 188, 309\n  orig: 188, 309\n  offset: 0, 0\n  index: -1\n3\n  rotate: true\n  xy: 192, 5\n  size: 152, 290\n  orig: 152, 290\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "c5f632e5-7634-4e2a-ae39-093a0b9b202f"
+    }
+  ],
+  "textureNames": [
+    "moquantai.png"
+  ],
+  "scale": 1
+}

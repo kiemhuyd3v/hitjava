@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icontrenduoi",
+    "texture": "d6354560-3d7c-4817-839e-1611506ed855",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      58
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      111,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

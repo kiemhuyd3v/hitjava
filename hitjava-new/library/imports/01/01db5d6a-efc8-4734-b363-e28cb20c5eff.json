@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_backGame",
+    "texture": "54998299-84f1-4b17-8d9b-28fac6d91fd6",
+    "atlas": "f633bf70-e585-4451-9b7c-2a34b8fd5255",
+    "rect": [
+      1055,
+      1948,
+      79,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

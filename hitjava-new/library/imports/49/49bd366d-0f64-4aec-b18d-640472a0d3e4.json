@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chungchidangnhap",
+    "texture": "63a6b8fc-4a95-41cf-9044-f7440cce086e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      680,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      680,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

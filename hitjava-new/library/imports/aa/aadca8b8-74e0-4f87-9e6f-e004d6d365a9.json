@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_input",
+    "texture": "82a88d0c-1339-4cf2-9247-e9e51ff124a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      183,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      58
+    ],
+    "capInsets": [
+      60,
+      21,
+      60,
+      23
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khunghu",
+    "texture": "95a04e15-a334-43ee-8015-f64c40d8a412",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      243,
+      402
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      243,
+      402
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

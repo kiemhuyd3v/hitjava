@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "son-tinh-thuy-tinh",
+    "texture": "1fa2493c-73e0-4eed-b670-0dc5f8e4d464",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      93,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_thang",
+    "texture": "a9f74942-4981-4931-92a5-4e9a140ebbf7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

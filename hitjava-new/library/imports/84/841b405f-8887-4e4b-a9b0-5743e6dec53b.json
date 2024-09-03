@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "neniteamwild",
+    "texture": "e479de9d-cb1a-4017-9fe2-1fadc34d97df",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      703,
+      170
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      707,
+      174
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+
+Loadinglogo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 24, 22
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 44, 22
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+B
+  rotate: true
+  xy: 2, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+E
+  rotate: true
+  xy: 855, 109
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+TT
+  rotate: true
+  xy: 30, 4
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 521, 97
+  size: 173, 155
+  orig: 173, 155
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 855, 125
+  size: 165, 127
+  orig: 165, 127
+  offset: 0, 0
+  index: -1
+khay
+  rotate: false
+  xy: 2, 50
+  size: 201, 55
+  orig: 201, 55
+  offset: 0, 0
+  index: -1
+khungquay
+  rotate: false
+  xy: 63, 27
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+loadinglogo copy
+  rotate: false
+  xy: 264, 108
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+mainlogo
+  rotate: false
+  xy: 2, 107
+  size: 260, 145
+  orig: 260, 145
+  offset: 0, 0
+  index: -1
+mainlogobg
+  rotate: false
+  xy: 264, 118
+  size: 255, 134
+  orig: 255, 134
+  offset: 0, 0
+  index: -1
+thanh
+  rotate: true
+  xy: 696, 103
+  size: 3, 15
+  orig: 3, 15
+  offset: 0, 0
+  index: -1
+topas
+  rotate: false
+  xy: 205, 40
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+tron
+  rotate: false
+  xy: 80, 31
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+u
+  rotate: false
+  xy: 2, 22
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+xeng
+  rotate: false
+  xy: 696, 108
+  size: 157, 144
+  orig: 157, 144
+  offset: 0, 0
+  index: -1

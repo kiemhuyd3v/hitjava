@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chip_falling",
+    "texture": "fb636df7-6f66-4619-a2e2-9689a8ccac8a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      764,
+      922
+    ],
+    "offset": [
+      -128,
+      49
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

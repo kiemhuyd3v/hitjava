@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "oHienThiMd5",
+    "texture": "c600725c-d292-407a-abe4-8b27e282c5b9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      559,
+      40
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      559,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

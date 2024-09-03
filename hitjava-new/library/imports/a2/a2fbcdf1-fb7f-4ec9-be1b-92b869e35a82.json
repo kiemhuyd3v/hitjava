@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angrybirds_symbol_blur_3_5",
+    "texture": "029327da-5e27-4918-a28d-bac8de6fda44",
+    "atlas": "96883f9c-f2f4-4705-8f9c-cb155eae929f",
+    "rect": [
+      544,
+      138,
+      138,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

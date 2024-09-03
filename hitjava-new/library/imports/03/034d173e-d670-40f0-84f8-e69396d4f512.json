@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "suKienIcon",
+    "texture": "8f99ce50-bb4e-46e3-b828-00240d699504",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_chiemtinh",
+    "texture": "d8333da1-d4b3-4bd9-ab83-155e9b224347",
+    "atlas": "",
+    "rect": [
+      19,
+      9,
+      315,
+      330
+    ],
+    "offset": [
+      1.5,
+      -1.5
+    ],
+    "originalSize": [
+      350,
+      345
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

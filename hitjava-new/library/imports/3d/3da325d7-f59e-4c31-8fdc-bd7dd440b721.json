@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Plus_normal",
+    "texture": "4347484d-134e-4d96-9037-ece56d38a544",
+    "atlas": "ffb49e35-22a4-43d7-a603-e3587038c260",
+    "rect": [
+      298,
+      0,
+      80,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

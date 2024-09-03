@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iConXepHang",
+    "texture": "51e13d82-fb07-4233-be11-55c149bf8c70",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      115,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

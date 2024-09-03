@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_menhgia",
+    "texture": "38dd9d7f-aa58-4f03-ab45-f13283bcf1b0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      304,
+      355
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      304,
+      355
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

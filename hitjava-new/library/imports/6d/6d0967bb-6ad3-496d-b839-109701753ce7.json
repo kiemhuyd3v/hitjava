@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "UI_main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "BG_PanelS_half": {
+      "__uuid__": "7f90f703-addb-49b0-989c-575177644850"
+    },
+    "BoardG_70": {
+      "__uuid__": "afefc5e5-bdc7-4cf9-a6b0-56f6b011ed2e"
+    },
+    "Btn_Home_hover": {
+      "__uuid__": "63379a1b-b9fe-41c2-ac15-5d65007cc783"
+    },
+    "Btn_Info_normal": {
+      "__uuid__": "5d9f36ca-6561-42d3-a7ca-e882db01f796"
+    },
+    "Btn_Minus_Normal": {
+      "__uuid__": "e9de9729-a792-4903-9e55-71ac0ed2cd03"
+    },
+    "Btn_Plus_Hover": {
+      "__uuid__": "8fe8f52e-adde-4107-990e-330d48324121"
+    },
+    "Btn_Setting_normal": {
+      "__uuid__": "0bf29dfe-4e9e-4b14-a2c1-448ec4d76ecc"
+    },
+    "Btn_Turbo_off": {
+      "__uuid__": "318e131f-28ea-4028-90fc-3c6da29c7f15"
+    },
+    "Btn_Turbo_on": {
+      "__uuid__": "34927374-7ff8-4242-abad-b69a5f788b06"
+    },
+    "Frame_JP_Major": {
+      "__uuid__": "5d12cecc-0b06-45f5-bbc8-ef076688da7a"
+    },
+    "Frame_JP_Mini": {
+      "__uuid__": "fe14725e-b447-4f7e-9055-f45253e13ddc"
+    },
+    "Frame_Money": {
+      "__uuid__": "f9c1b8f4-6fa0-4d27-b40e-1e4758ebf455"
+    },
+    "Frame_Title_half": {
+      "__uuid__": "29e131f8-3fac-45a7-ae51-16e6c8777123"
+    },
+    "Frame_TotalWin_half": {
+      "__uuid__": "7b6fddb0-e28a-48b8-849e-3daa1edc8d85"
+    },
+    "Frame_Wallet": {
+      "__uuid__": "de570f84-e03a-419a-80dc-85c9be1299b1"
+    },
+    "JP_Grand": {
+      "__uuid__": "707cafd4-fe5c-4531-b5cb-ac1b6a21b4ce"
+    },
+    "JP_Minor": {
+      "__uuid__": "dec46b90-0393-47b7-927d-ba5aded9c46f"
+    }
+  }
+}

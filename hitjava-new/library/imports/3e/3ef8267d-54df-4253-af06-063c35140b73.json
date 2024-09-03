@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TWFreeGameRedBarFull",
+    "texture": "b40c8df8-6f68-4e5e-abd9-bb522915102f",
+    "atlas": "",
+    "rect": [
+      218,
+      118,
+      477,
+      228
+    ],
+    "offset": [
+      108,
+      27
+    ],
+    "originalSize": [
+      697,
+      518
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

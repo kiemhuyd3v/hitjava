@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Voi-Ga-Ngua",
+    "texture": "5f443944-7d2d-44af-b193-6f9bcfe463f0",
+    "atlas": "",
+    "rect": [
+      5,
+      6,
+      146,
+      1011
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      157,
+      1022
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

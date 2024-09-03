@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BOTTOMA_BAR",
+    "texture": "39e6a917-7d3b-4152-8389-2a2da03b5e79",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1744,
+      273
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      1752,
+      280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

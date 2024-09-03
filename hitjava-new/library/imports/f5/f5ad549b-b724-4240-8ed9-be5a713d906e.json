@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EMOJ",
+    "texture": "5cb21b50-b53b-4ae0-9429-c912a574c840",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2048,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

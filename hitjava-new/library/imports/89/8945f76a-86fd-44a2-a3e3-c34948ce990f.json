@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vinaOn2",
+    "texture": "3102626a-3939-4fbe-ae77-5a181f95b7d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icPhone",
+    "texture": "67db6068-70a8-4992-b690-7a9547223be0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

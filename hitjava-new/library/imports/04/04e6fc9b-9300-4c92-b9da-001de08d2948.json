@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoAvatar",
+    "texture": "89f3f7db-8958-4261-88af-21b987a90a3a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

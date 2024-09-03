@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_ketqua",
+    "texture": "59604f0a-6fde-462c-b338-c56dfb85adee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

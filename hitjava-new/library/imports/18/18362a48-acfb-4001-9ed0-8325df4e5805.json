@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank_viettinbank",
+    "texture": "c8d0cfec-a111-467f-97b9-29fab5c9bfef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      212,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

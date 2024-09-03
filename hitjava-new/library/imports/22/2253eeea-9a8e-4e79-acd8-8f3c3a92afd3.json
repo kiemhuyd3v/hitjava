@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "item.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bonus": {
+      "__uuid__": "ceaea3e4-6ea2-41e7-8be0-d96360121d5e"
+    },
+    "freespin": {
+      "__uuid__": "a3775377-b7fb-4de7-b89e-932bd452794b"
+    },
+    "item_1": {
+      "__uuid__": "6e606e16-ba24-45f3-92ef-aaa996f77397"
+    },
+    "item_2": {
+      "__uuid__": "eea12704-3fa8-47c1-b9e0-1f75834b6ce0"
+    },
+    "item_3": {
+      "__uuid__": "ce687454-3c3e-4fd5-bb73-fcd8bb402ebf"
+    },
+    "item_4": {
+      "__uuid__": "b9407b53-1bec-4ba9-97ec-19d042fe126b"
+    },
+    "jackpot": {
+      "__uuid__": "b987c017-d7f3-4238-b609-06ca6041af83"
+    }
+  }
+}

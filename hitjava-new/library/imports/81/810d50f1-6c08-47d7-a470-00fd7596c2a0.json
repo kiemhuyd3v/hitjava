@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_reward_duatop_0",
+    "texture": "adf7b029-612f-4b12-896e-ddd5fda2a222",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

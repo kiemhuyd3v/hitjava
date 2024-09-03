@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconCoinFish",
+    "texture": "30c12bfa-f94a-4384-806e-9610829aff27",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

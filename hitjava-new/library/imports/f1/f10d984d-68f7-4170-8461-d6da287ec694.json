@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taiOn",
+    "texture": "2a805ecd-3f24-4b59-8482-f1513ea1b433",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      208,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      208,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

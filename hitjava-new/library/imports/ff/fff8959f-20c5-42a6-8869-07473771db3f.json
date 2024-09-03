@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zotp",
+    "texture": "a8270b33-c286-44ab-9853-4ca67fb7d97c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      55,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_focus",
+    "texture": "4206f1d3-8995-452e-acca-6af38a496381",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

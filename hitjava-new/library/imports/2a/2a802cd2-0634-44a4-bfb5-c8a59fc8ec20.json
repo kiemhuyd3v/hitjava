@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res-CardGame-CommonResource-EndGame-nen_effect_vang",
+    "texture": "6c5d165c-0c74-46ff-bb58-ed8cf5814449",
+    "atlas": "dc266df6-3fd4-48c8-be16-69add82f9dc6",
+    "rect": [
+      1,
+      1,
+      806,
+      378
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      806,
+      378
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

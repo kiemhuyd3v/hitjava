@@ -1,0 +1,2882 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "iteamsatang",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "miphai": {
+          "miphai": {
+            "rotation": 70.02,
+            "x": 3.6,
+            "width": 19,
+            "y": 1.16,
+            "height": 15
+          }
+        },
+        "mui": {
+          "mui": {
+            "rotation": 88.53,
+            "x": 5.44,
+            "width": 21,
+            "y": 1.62,
+            "height": 26
+          }
+        },
+        "mat": {
+          "mat": {
+            "x": 5.01,
+            "width": 78,
+            "y": 4.05,
+            "height": 63
+          }
+        },
+        "maytrai": {
+          "maytrai": {
+            "rotation": 175.49,
+            "x": 11.35,
+            "width": 36,
+            "y": -6.72,
+            "height": 19
+          }
+        },
+        "rau": {
+          "rau": {
+            "rotation": 71.78,
+            "x": 12.03,
+            "width": 103,
+            "y": -0.03,
+            "height": 73
+          }
+        },
+        "momcuoi": {
+          "momcuoi": {
+            "x": -2.87,
+            "width": 35,
+            "y": 1.82,
+            "height": 25
+          }
+        },
+        "nen2": {
+          "nen": {
+            "x": -1.49,
+            "width": 112,
+            "y": -3.04,
+            "height": 112
+          }
+        },
+        "anhsangxoay": {
+          "as": {
+            "width": 152,
+            "height": 152
+          }
+        },
+        "mayphai": {
+          "mayphai": {
+            "rotation": -24.44,
+            "x": 9.05,
+            "width": 25,
+            "y": 4.89,
+            "height": 25
+          }
+        },
+        "nen": {
+          "nen": {
+            "x": -1.49,
+            "width": 112,
+            "y": -3.04,
+            "height": 112
+          }
+        },
+        "mom12": {
+          "mom12": {
+            "x": 0.47,
+            "width": 37,
+            "y": 2.74,
+            "height": 28
+          }
+        },
+        "dau": {
+          "dau": {
+            "x": 0.59,
+            "width": 58,
+            "y": -0.7,
+            "height": 20
+          }
+        },
+        "mitrai": {
+          "mitrai": {
+            "rotation": 88.94,
+            "x": 4.03,
+            "width": 26,
+            "y": -0.7,
+            "height": 17
+          }
+        },
+        "xeng": {
+          "xeng": {
+            "rotation": -104.42,
+            "x": 7.17,
+            "width": 34,
+            "y": 0.87,
+            "height": 24
+          }
+        },
+        "mom11": {
+          "mom11": {
+            "x": -1.07,
+            "width": 38,
+            "y": 2.63,
+            "height": 22
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "./images/",
+      "width": 130.72,
+      "spine": "3.6.53",
+      "hash": "pYDaFcvnTV3njh4DKfpfpp9D+OA",
+      "height": 130.72
+    },
+    "slots": [
+      {
+        "attachment": "nen",
+        "name": "nen",
+        "bone": "nen"
+      },
+      {
+        "color": "ffffff1c",
+        "attachment": "nen",
+        "blend": "additive",
+        "name": "nen2",
+        "bone": "nen"
+      },
+      {
+        "attachment": "mat",
+        "name": "mat",
+        "bone": "mat"
+      },
+      {
+        "attachment": "rau",
+        "name": "rau",
+        "bone": "rau"
+      },
+      {
+        "attachment": "momcuoi",
+        "name": "momcuoi",
+        "bone": "momcuoi"
+      },
+      {
+        "color": "ffffff00",
+        "attachment": "mitrai",
+        "name": "mitrai",
+        "bone": "mitrai"
+      },
+      {
+        "attachment": "mui",
+        "name": "mui",
+        "bone": "mui"
+      },
+      {
+        "attachment": "dau",
+        "name": "dau",
+        "bone": "dau"
+      },
+      {
+        "attachment": "xeng",
+        "name": "xeng",
+        "bone": "xeng"
+      },
+      {
+        "color": "ffffff00",
+        "attachment": "miphai",
+        "name": "miphai",
+        "bone": "miphai"
+      },
+      {
+        "attachment": "mayphai",
+        "name": "mayphai",
+        "bone": "mayphai"
+      },
+      {
+        "attachment": "maytrai",
+        "name": "maytrai",
+        "bone": "maytrai"
+      },
+      {
+        "color": "ffffff00",
+        "attachment": "mom11",
+        "name": "mom11",
+        "bone": "mom11"
+      },
+      {
+        "color": "ffffff00",
+        "attachment": "mom12",
+        "name": "mom12",
+        "bone": "mom13"
+      },
+      {
+        "attachment": "as",
+        "blend": "additive",
+        "name": "anhsangxoay",
+        "bone": "bone"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "scaleX": 0.86,
+        "parent": "root",
+        "scaleY": 0.86,
+        "name": "bone",
+        "x": 55.59,
+        "y": -55.96
+      },
+      {
+        "parent": "root",
+        "name": "mat",
+        "x": 49.99,
+        "y": -46.55
+      },
+      {
+        "parent": "mat",
+        "name": "dau",
+        "x": -2.58,
+        "y": 26.25
+      },
+      {
+        "parent": "mat",
+        "rotation": 24.44,
+        "name": "mayphai",
+        "length": 15.77,
+        "x": 6.3,
+        "y": 16.85
+      },
+      {
+        "parent": "mat",
+        "rotation": -175.49,
+        "name": "maytrai",
+        "length": 9.95,
+        "x": -10.14,
+        "y": 14.24
+      },
+      {
+        "parent": "mat",
+        "rotation": -70.02,
+        "name": "miphai",
+        "length": 6.88,
+        "x": 10.19,
+        "y": 16.03
+      },
+      {
+        "parent": "mat",
+        "rotation": -88.94,
+        "name": "mitrai",
+        "length": 7.94,
+        "x": -14.36,
+        "y": 13.09
+      },
+      {
+        "parent": "mat",
+        "name": "mom11",
+        "x": 2.08,
+        "y": -15.08
+      },
+      {
+        "parent": "mom11",
+        "name": "mom13",
+        "x": -2.03,
+        "y": -2.11
+      },
+      {
+        "parent": "mat",
+        "name": "momcuoi",
+        "x": 4.38,
+        "y": -17.77
+      },
+      {
+        "parent": "mat",
+        "rotation": -88.53,
+        "name": "mui",
+        "length": 14.08,
+        "x": -3.25,
+        "y": 7.94
+      },
+      {
+        "parent": "root",
+        "name": "nen",
+        "x": 56.49,
+        "y": -51.96
+      },
+      {
+        "parent": "mat",
+        "rotation": -71.78,
+        "name": "rau",
+        "length": 30.02,
+        "x": 5.78,
+        "y": -15.52
+      },
+      {
+        "parent": "dau",
+        "rotation": 104.42,
+        "name": "xeng",
+        "length": 9.43,
+        "x": -0.78,
+        "y": 1.57
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "miphai": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.4667
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.8333
+              },
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0.8667
+              },
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 1
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.1333
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 1.1667
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.8333
+              },
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 1.8667
+              },
+              {
+                "color": "ffffff00",
+                "time": 2
+              }
+            ]
+          },
+          "mom12": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.5667
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.6333
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.7
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.7667
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.8333
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.9
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.9667
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.0333
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.1
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.1667
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.2333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.3
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.3667
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.4333
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.5
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.5667
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.6333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.7
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.7667
+              },
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 1.8333
+              },
+              {
+                "color": "ffffff00",
+                "time": 2
+              }
+            ]
+          },
+          "momcuoi": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.4667
+              },
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0.5
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.8333
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 1.8667
+              },
+              {
+                "color": "ffffffff",
+                "time": 2
+              }
+            ]
+          },
+          "nen2": {
+            "color": [
+              {
+                "color": "ffffff1c",
+                "time": 0
+              },
+              {
+                "color": "ffffffaa",
+                "curve": "stepped",
+                "time": 0.5
+              },
+              {
+                "color": "ffffffaa",
+                "time": 1.8333
+              },
+              {
+                "color": "ffffff1c",
+                "time": 2
+              }
+            ]
+          },
+          "mitrai": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.4667
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.1667
+              },
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 1.2
+              },
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 1.3333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.4667
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 1.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.8333
+              },
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 1.8667
+              },
+              {
+                "color": "ffffff00",
+                "time": 2
+              }
+            ]
+          },
+          "anhsangxoay": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "curve": "stepped",
+                "time": 0.1667
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.8333
+              },
+              {
+                "color": "ffffff00",
+                "time": 2
+              }
+            ]
+          },
+          "mom11": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.4667
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.5
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.5667
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.6333
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.7
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.7667
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.8333
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.9
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.9667
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.0333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.1
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.1667
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.2333
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.3
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.3667
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.4333
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.5667
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.6333
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.7
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.7667
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.8333
+              },
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 1.8667
+              },
+              {
+                "color": "ffffff00",
+                "time": 2
+              }
+            ]
+          }
+        },
+        "bones": {
+          "mui": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "miphai": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "mat": {
+            "rotate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": -1.84,
+                "time": 0.3667
+              },
+              {
+                "curve": [
+                  0.276,
+                  0,
+                  0.621,
+                  0.4
+                ],
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.64
+                ],
+                "angle": -1.22,
+                "time": 0.8333
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.64
+                ],
+                "angle": -1.22,
+                "time": 1.5
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1.017,
+                "y": 1.017,
+                "time": 0.3667
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.276,
+                  0,
+                  0.621,
+                  0.4
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.64
+                ],
+                "x": 0,
+                "y": 0.7,
+                "time": 0.8333
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.64
+                ],
+                "x": 0,
+                "y": 0.7,
+                "time": 1.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "rau": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.8333
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.8333
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1.027,
+                "y": 1,
+                "time": 0.6667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.8333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1.027,
+                "y": 1,
+                "time": 1
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 1.1667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1.027,
+                "y": 1,
+                "time": 1.3333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 1.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1.027,
+                "y": 1,
+                "time": 1.6667
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.8333
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "maytrai": {
+            "rotate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 11.76,
+                "time": 0.3667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 354.64,
+                "time": 0.6667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0.8333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 354.64,
+                "time": 1
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 354.64,
+                "time": 1.3333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 1.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 354.64,
+                "time": 1.6667
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.8333
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.8333
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 1.05,
+                "time": 0.6667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0.8333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 1.05,
+                "time": 1
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 1.05,
+                "time": 1.3333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 1.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 1.05,
+                "time": 1.6667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "momcuoi": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": -1.43,
+                "time": 0.1333
+              },
+              {
+                "angle": 0,
+                "time": 0.2667
+              },
+              {
+                "angle": -2.81,
+                "time": 0.4
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.2667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 0.996,
+                "y": 1.091,
+                "time": 0.1333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.2667
+              },
+              {
+                "x": 0.996,
+                "y": 1.091,
+                "time": 0.4
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.2667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 120,
+                "time": 0.6667
+              },
+              {
+                "angle": -120,
+                "time": 1.3333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "mayphai": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": -8.82,
+                "time": 0.3667
+              },
+              {
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "angle": 4.37,
+                "time": 0.6667
+              },
+              {
+                "angle": 0,
+                "time": 0.8333
+              },
+              {
+                "angle": 4.37,
+                "time": 1
+              },
+              {
+                "angle": 0,
+                "time": 1.1667
+              },
+              {
+                "angle": 4.37,
+                "time": 1.3333
+              },
+              {
+                "angle": 0,
+                "time": 1.5
+              },
+              {
+                "angle": 4.37,
+                "time": 1.6667
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.8333
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.8333
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "x": 0,
+                "y": 1.05,
+                "time": 0.6667
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8333
+              },
+              {
+                "x": 0,
+                "y": 1.05,
+                "time": 1
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "x": 0,
+                "y": 1.05,
+                "time": 1.3333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.5
+              },
+              {
+                "x": 0,
+                "y": 1.05,
+                "time": 1.6667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "nen": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.3333
+              },
+              {
+                "x": 0.96,
+                "y": 0.96,
+                "time": 0.4
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.4667
+              },
+              {
+                "x": 0.96,
+                "y": 0.96,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5333
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "mom13": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "dau": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "mitrai": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "xeng": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": -10.1,
+                "time": 0.8333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 15.7,
+                "time": 1.5
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "mom11": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": -2.43,
+                "time": 0.6667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 0.8333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": -2.43,
+                "time": 1
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": -2.43,
+                "time": 1.3333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": 0,
+                "time": 1.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "angle": -2.43,
+                "time": 1.6667
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 1.8333
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.8333
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0.925,
+                "y": 0.925,
+                "time": 0.6667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.8333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0.925,
+                "y": 0.925,
+                "time": 1
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 1.1667
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0.925,
+                "y": 0.925,
+                "time": 1.3333
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 1.5
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 0.925,
+                "y": 0.925,
+                "time": 1.6667
+              },
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 1.8333
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.8333
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.5
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1.8333
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\niteamsatang.png\nsize: 374,164\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nas\n  rotate: false\n  xy: 2, 10\n  size: 152, 152\n  orig: 152, 152\n  offset: 0, 0\n  index: -1\ndau\n  rotate: false\n  xy: 156, 32\n  size: 56, 18\n  orig: 58, 20\n  offset: 1, 1\n  index: -1\nmat\n  rotate: false\n  xy: 268, 28\n  size: 76, 61\n  orig: 78, 63\n  offset: 1, 1\n  index: -1\nmayphai\n  rotate: false\n  xy: 194, 7\n  size: 23, 23\n  orig: 25, 25\n  offset: 1, 1\n  index: -1\nmaytrai\n  rotate: false\n  xy: 214, 33\n  size: 34, 17\n  orig: 36, 19\n  offset: 1, 1\n  index: -1\nmiphai\n  rotate: true\n  xy: 250, 33\n  size: 17, 13\n  orig: 19, 15\n  offset: 1, 1\n  index: -1\nmitrai\n  rotate: true\n  xy: 274, 2\n  size: 24, 15\n  orig: 26, 17\n  offset: 1, 1\n  index: -1\nmom11\n  rotate: false\n  xy: 156, 10\n  size: 36, 20\n  orig: 38, 22\n  offset: 1, 1\n  index: -1\nmom12\n  rotate: true\n  xy: 346, 54\n  size: 35, 26\n  orig: 37, 28\n  offset: 1, 1\n  index: -1\nmomcuoi\n  rotate: true\n  xy: 346, 19\n  size: 33, 23\n  orig: 35, 25\n  offset: 1, 1\n  index: -1\nmui\n  rotate: false\n  xy: 253, 2\n  size: 19, 24\n  orig: 21, 26\n  offset: 1, 1\n  index: -1\nnen\n  rotate: false\n  xy: 156, 52\n  size: 110, 110\n  orig: 112, 112\n  offset: 1, 1\n  index: -1\nrau\n  rotate: false\n  xy: 268, 91\n  size: 101, 71\n  orig: 103, 73\n  offset: 1, 1\n  index: -1\nxeng\n  rotate: false\n  xy: 219, 9\n  size: 32, 22\n  orig: 34, 24\n  offset: 1, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "8e863d32-1fb1-4b16-bdcf-613f029b5a28"
+    }
+  ],
+  "textureNames": [
+    "iteamsatang.png"
+  ],
+  "scale": 1
+}

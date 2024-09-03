@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoMiniGame",
+    "texture": "6373a3e7-656f-45a5-ac99-15320f34b4ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

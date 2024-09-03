@@ -1,0 +1,187 @@
+
+hu4hu.png
+size: 1789,1796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 129, 9
+  size: 78, 81
+  orig: 867, 517
+  offset: 443, 40
+  index: -1
+10
+  rotate: false
+  xy: 898, 1375
+  size: 850, 419
+  orig: 867, 517
+  offset: 3, 69
+  index: -1
+11
+  rotate: false
+  xy: 2, 923
+  size: 834, 417
+  orig: 867, 517
+  offset: 12, 87
+  index: -1
+12
+  rotate: true
+  xy: 2, 92
+  size: 829, 419
+  orig: 867, 517
+  offset: 0, 87
+  index: -1
+13
+  rotate: true
+  xy: 423, 153
+  size: 768, 252
+  orig: 867, 517
+  offset: 0, 254
+  index: -1
+14
+  rotate: false
+  xy: 828, 2
+  size: 622, 163
+  orig: 867, 517
+  offset: 0, 354
+  index: -1
+15
+  rotate: false
+  xy: 1452, 39
+  size: 221, 138
+  orig: 867, 517
+  offset: 6, 367
+  index: -1
+2
+  rotate: true
+  xy: 1031, 167
+  size: 97, 116
+  orig: 867, 517
+  offset: 435, 34
+  index: -1
+3
+  rotate: false
+  xy: 2, 7
+  size: 125, 83
+  orig: 867, 517
+  offset: 452, 39
+  index: -1
+8
+  rotate: true
+  xy: 1031, 266
+  size: 659, 405
+  orig: 867, 517
+  offset: 208, 59
+  index: -1
+9
+  rotate: false
+  xy: 898, 927
+  size: 838, 446
+  orig: 867, 517
+  offset: 17, 30
+  index: -1
+husieulon
+  rotate: false
+  xy: 423, 13
+  size: 403, 138
+  orig: 440, 174
+  offset: 17, 21
+  index: -1
+itemhulon
+  rotate: true
+  xy: 677, 167
+  size: 754, 352
+  orig: 765, 352
+  offset: 0, 0
+  index: -1
+itemhusieulon
+  rotate: false
+  xy: 2, 1342
+  size: 894, 452
+  orig: 922, 452
+  offset: 0, 0
+  index: -1
+itemhuvua
+  rotate: true
+  xy: 1452, 179
+  size: 746, 335
+  orig: 746, 335
+  offset: 0, 0
+  index: -1
+
+hu4hu2.png
+size: 1624,750
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 1283, 225
+  size: 334, 253
+  orig: 867, 517
+  offset: 452, 5
+  index: -1
+5
+  rotate: false
+  xy: 521, 14
+  size: 439, 258
+  orig: 867, 517
+  offset: 346, 16
+  index: -1
+6
+  rotate: false
+  xy: 729, 468
+  size: 495, 280
+  orig: 867, 517
+  offset: 338, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 7
+  size: 517, 404
+  orig: 867, 517
+  offset: 343, 17
+  index: -1
+backlight
+  rotate: false
+  xy: 1226, 480
+  size: 396, 268
+  orig: 400, 268
+  offset: 2, 0
+  index: -1
+hulon
+  rotate: false
+  xy: 962, 2
+  size: 279, 134
+  orig: 316, 168
+  offset: 17, 19
+  index: -1
+hunho
+  rotate: false
+  xy: 1251, 88
+  size: 272, 135
+  orig: 308, 168
+  offset: 17, 19
+  index: -1
+huvua
+  rotate: false
+  xy: 962, 138
+  size: 287, 134
+  orig: 324, 168
+  offset: 17, 19
+  index: -1
+itemhunho
+  rotate: false
+  xy: 2, 413
+  size: 725, 335
+  orig: 725, 335
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: false
+  xy: 729, 274
+  size: 552, 192
+  orig: 552, 192
+  offset: 0, 0
+  index: -1

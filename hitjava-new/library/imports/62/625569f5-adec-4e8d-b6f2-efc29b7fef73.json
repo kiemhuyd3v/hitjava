@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res-CardGame-MauBinh-maubinh_chi_bg",
+    "texture": "c94f6d7c-9549-4b53-bb71-52c43740a476",
+    "atlas": "2344c841-f7a0-460c-85ae-85f713c3dd67",
+    "rect": [
+      1,
+      970,
+      307,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      307,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xoTom",
+    "texture": "d9a8d997-894d-438b-beba-59a227a2126d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      275,
+      192
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      275,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

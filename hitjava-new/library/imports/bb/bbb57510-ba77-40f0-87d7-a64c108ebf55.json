@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EffectHeader202",
+    "texture": "005631b7-d1c3-4b9b-a451-4d4c63cfc7b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      467,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      467,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

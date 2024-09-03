@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "traukai",
+    "texture": "ae4ef652-be0e-4d27-b672-1b8d3be92771",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      477,
+      356
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      485,
+      360
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

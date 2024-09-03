@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banner_napiw6",
+    "texture": "d3a0a840-1471-436f-8537-6d2531694b38",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      243,
+      380
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      243,
+      380
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

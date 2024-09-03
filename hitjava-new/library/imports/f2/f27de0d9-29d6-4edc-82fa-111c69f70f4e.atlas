@@ -1,0 +1,48 @@
+
+caothap.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DUOI
+  rotate: false
+  xy: 328, 141
+  size: 57, 78
+  orig: 58, 80
+  offset: 0, 1
+  index: -1
+TREN
+  rotate: false
+  xy: 269, 139
+  size: 57, 80
+  orig: 59, 80
+  offset: 1, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 54
+  size: 164, 165
+  orig: 164, 165
+  offset: 0, 0
+  index: -1
+cao
+  rotate: false
+  xy: 168, 61
+  size: 82, 43
+  orig: 84, 45
+  offset: 1, 1
+  index: -1
+chip
+  rotate: false
+  xy: 168, 106
+  size: 99, 113
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+thap
+  rotate: false
+  xy: 2, 2
+  size: 97, 50
+  orig: 99, 51
+  offset: 1, 0
+  index: -1

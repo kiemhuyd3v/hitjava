@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icontophu.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Small_Icon_5dragon": {
+      "__uuid__": "9f0758cd-400b-465d-bf24-e0685a221b49"
+    },
+    "Small_Icon_ankhe": {
+      "__uuid__": "e4529832-a768-40ac-b116-e574eaf053e8"
+    },
+    "Small_Icon_cunghy": {
+      "__uuid__": "ac71e654-050e-4518-bef2-7a950a2a63f5"
+    },
+    "Small_Icon_khobautulinh": {
+      "__uuid__": "3e018b90-2660-488e-8083-52b0b1d90b1b"
+    },
+    "Small_Icon_kimcuong": {
+      "__uuid__": "d58b9aec-7b8f-4301-8640-52d3cf5ca923"
+    },
+    "Small_Icon_minipoker": {
+      "__uuid__": "5a69f6ec-6cf8-4565-ae28-4f1654270be8"
+    },
+    "Small_Icon_sontinhthuytinh": {
+      "__uuid__": "2bc23b95-0e36-4a84-b8df-47bd373082b8"
+    },
+    "Small_Icon_taixiu": {
+      "__uuid__": "0944c9f1-88c9-4f9c-bbc7-b31544c788e0"
+    },
+    "Small_Icon_tayduky": {
+      "__uuid__": "2b41c515-63d8-4243-a6b4-6f9403b335b7"
+    },
+    "Small_Icon_thantai": {
+      "__uuid__": "f3c42246-ad5d-44a4-a275-f6462381c14d"
+    },
+    "Small_Icon_trenduoi": {
+      "__uuid__": "95c1c6f1-7995-46a8-a30e-4d3ab274976a"
+    },
+    "Small_Icon_witcher": {
+      "__uuid__": "91fec54c-28d9-4c0a-b149-b772f3feed57"
+    }
+  }
+}

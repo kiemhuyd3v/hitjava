@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effectSangDuoi",
+    "texture": "c5d5056d-528b-4a63-a687-be5a357fa322",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      341,
+      341
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      341,
+      341
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

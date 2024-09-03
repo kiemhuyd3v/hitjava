@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kiemtien",
+    "texture": "f148d4e5-784b-4705-bfcc-201939369e6b",
+    "atlas": "",
+    "rect": [
+      22,
+      17,
+      725,
+      487
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      771,
+      521
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

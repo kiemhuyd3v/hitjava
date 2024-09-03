@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderCopy",
+    "texture": "b4b835e1-a977-4872-8126-32cf9ce41961",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      404,
+      494
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      404,
+      494
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_cuoc-export",
+    "texture": "ffdf6217-7957-433b-bc8f-6cd96c4ceb31",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      259
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      257,
+      260
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

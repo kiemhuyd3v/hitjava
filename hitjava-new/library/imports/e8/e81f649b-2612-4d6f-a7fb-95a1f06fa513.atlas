@@ -1,0 +1,62 @@
+
+activelinean.png
+size: 1146,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line03
+  rotate: false
+  xy: 288, 5
+  size: 141, 161
+  orig: 141, 161
+  offset: 0, 0
+  index: -1
+line05
+  rotate: false
+  xy: 431, 5
+  size: 141, 161
+  orig: 141, 161
+  offset: 0, 0
+  index: -1
+line06
+  rotate: false
+  xy: 574, 5
+  size: 141, 161
+  orig: 141, 161
+  offset: 0, 0
+  index: -1
+line08
+  rotate: false
+  xy: 717, 5
+  size: 141, 161
+  orig: 141, 161
+  offset: 0, 0
+  index: -1
+line10
+  rotate: false
+  xy: 860, 5
+  size: 141, 161
+  orig: 141, 161
+  offset: 0, 0
+  index: -1
+line12
+  rotate: false
+  xy: 1003, 5
+  size: 141, 161
+  orig: 141, 161
+  offset: 0, 0
+  index: -1
+line14
+  rotate: false
+  xy: 2, 2
+  size: 141, 164
+  orig: 141, 164
+  offset: 0, 0
+  index: -1
+line16
+  rotate: false
+  xy: 145, 5
+  size: 141, 161
+  orig: 141, 161
+  offset: 0, 0
+  index: -1

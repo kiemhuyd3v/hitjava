@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice_lobby_sun",
+    "texture": "a98e900b-908f-4c18-8dd4-10629b6ee3ff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      665,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      665,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

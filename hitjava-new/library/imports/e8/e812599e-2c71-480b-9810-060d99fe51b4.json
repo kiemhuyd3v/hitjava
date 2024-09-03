@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thewwitcher",
+    "texture": "81830375-7552-43e7-be6d-567a485439f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      278,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      278,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

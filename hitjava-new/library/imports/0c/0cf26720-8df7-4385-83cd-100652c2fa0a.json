@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_tl_rong_than",
+    "texture": "917624e7-5bd7-4aab-8400-dda75d011ac9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      891,
+      885
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      891,
+      885
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

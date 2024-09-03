@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "IconMyNu",
+    "texture": "fe95c801-7a5b-4832-8637-c5ab520a718c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      995,
+      509
+    ],
+    "offset": [
+      -13.5,
+      0.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

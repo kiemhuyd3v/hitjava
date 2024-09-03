@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lineBoder2",
+    "texture": "eae22009-4267-469a-a45b-09ef0226bb91",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1039,
+      163
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1039,
+      163
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

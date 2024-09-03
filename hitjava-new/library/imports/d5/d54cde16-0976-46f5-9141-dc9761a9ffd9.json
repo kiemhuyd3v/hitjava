@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "circle_icon_mini",
+    "texture": "fbc8bd38-444e-4e32-b2b8-388fddff07e1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      570,
+      572
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      570,
+      572
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

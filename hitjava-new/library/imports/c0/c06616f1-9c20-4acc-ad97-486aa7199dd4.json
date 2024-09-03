@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_bg_slots_fg",
+    "texture": "20a665c9-fced-48b3-a8f5-539731547c63",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      921,
+      482
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      921,
+      482
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

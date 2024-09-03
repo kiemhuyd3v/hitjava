@@ -1,0 +1,27 @@
+
+iteamfreespin.png
+size: 345,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freespin1
+  rotate: false
+  xy: 2, 5
+  size: 165, 158
+  orig: 165, 158
+  offset: 0, 0
+  index: -1
+freespin2
+  rotate: true
+  xy: 169, 2
+  size: 161, 128
+  orig: 161, 128
+  offset: 0, 0
+  index: -1
+freespin3
+  rotate: true
+  xy: 299, 24
+  size: 139, 44
+  orig: 139, 44
+  offset: 0, 0
+  index: -1

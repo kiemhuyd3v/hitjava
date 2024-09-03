@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "noTai",
+    "texture": "bbf072f1-6bbb-47be-acc7-36ccce50c1dc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      38
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      120,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiengame",
+    "texture": "ca470874-c624-4ce3-bcc2-c4e3cf9242f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      112,
+      59
+    ],
+    "offset": [
+      -8,
+      2.5
+    ],
+    "originalSize": [
+      128,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

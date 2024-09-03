@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hotrotxt",
+    "texture": "b3045e29-b12d-4f63-acf5-994bcbd0b9e0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

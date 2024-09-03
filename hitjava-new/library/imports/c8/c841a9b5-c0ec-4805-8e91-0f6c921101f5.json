@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_hoaqua",
+    "texture": "70a7aa92-28c1-4562-8fbb-9022ae81257a",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1010,
+      493
+    ],
+    "offset": [
+      -6,
+      8.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_back_lobby",
+    "texture": "1e080486-33fa-4e1f-b7b4-0898fc53e7dd",
+    "atlas": "c94899d5-4ffb-4216-873b-521417e21f9c",
+    "rect": [
+      871,
+      880,
+      94,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

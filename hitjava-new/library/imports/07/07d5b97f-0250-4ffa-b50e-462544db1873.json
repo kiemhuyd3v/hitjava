@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "photo_2022-05-26_14-28-58",
+    "texture": "18082bfb-1a76-4850-92e3-e22399e7b8df",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1280,
+      564
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      564
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

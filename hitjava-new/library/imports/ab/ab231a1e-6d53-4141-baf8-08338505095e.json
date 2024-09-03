@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TheTheoIBC",
+    "texture": "c0a9c509-5201-4be0-aebe-d50f2628e513",
+    "atlas": "",
+    "rect": [
+      1,
+      17,
+      504,
+      838
+    ],
+    "offset": [
+      -3,
+      76
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

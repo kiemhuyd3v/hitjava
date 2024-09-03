@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_trove",
+    "texture": "08c6e36c-3c9a-47d7-8d0a-8cbcc60f0729",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

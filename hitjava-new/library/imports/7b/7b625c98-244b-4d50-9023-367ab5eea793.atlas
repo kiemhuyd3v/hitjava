@@ -1,0 +1,41 @@
+
+btnx2x3.png
+size: 374,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnsieutoc
+  rotate: true
+  xy: 2, 4
+  size: 167, 181
+  orig: 167, 181
+  offset: 0, 0
+  index: -1
+btnx2
+  rotate: false
+  xy: 185, 2
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+btnx3
+  rotate: false
+  xy: 270, 2
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+dia
+  rotate: false
+  xy: 185, 64
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+txtsieutoc
+  rotate: true
+  xy: 293, 85
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1

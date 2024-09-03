@@ -1,0 +1,48 @@
+
+xhuiecy.png
+size: 486,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as - Copy
+  rotate: false
+  xy: 2, 4
+  size: 202, 158
+  orig: 202, 158
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 405, 2
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+huicy
+  rotate: false
+  xy: 206, 55
+  size: 106, 107
+  orig: 140, 109
+  offset: 17, 1
+  index: -1
+x2
+  rotate: true
+  xy: 406, 74
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 314, 85
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 314, 6
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1

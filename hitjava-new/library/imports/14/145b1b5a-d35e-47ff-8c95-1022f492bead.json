@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank_teckcombank",
+    "texture": "41143935-ffe2-4002-a834-6e8371224c1d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      247,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      247,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

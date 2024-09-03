@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderCuoc",
+    "texture": "4116aa14-02f7-495d-a7ab-fc50c2809f0a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      142,
+      38
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      142,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

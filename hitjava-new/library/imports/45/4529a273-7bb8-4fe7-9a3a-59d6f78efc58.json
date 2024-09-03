@@ -1,0 +1,98 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "taydu.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "20winline": {
+      "__uuid__": "8483de8e-bbf2-4aeb-b4c8-856f519e0ee7"
+    },
+    "INFO4": {
+      "__uuid__": "7eb6f774-d380-4a59-88f3-e56a657c6289"
+    },
+    "Vi": {
+      "__uuid__": "fc81d63e-eae3-4aa6-9f0b-dd4367c2331a"
+    },
+    "box_money": {
+      "__uuid__": "e6604a9b-6a3d-46af-bbae-1b9b49018d0a"
+    },
+    "button_caidat": {
+      "__uuid__": "4aee5386-d40f-4940-9e9e-90c5fdecbe49"
+    },
+    "button_info": {
+      "__uuid__": "6105568b-13b4-4367-bc42-1ebd7391db8b"
+    },
+    "button_quaylai": {
+      "__uuid__": "f5df2fce-5568-4596-b998-7b985138894c"
+    },
+    "buttondung": {
+      "__uuid__": "d1d914b9-9a5e-49f9-ad09-8c6309ca50ff"
+    },
+    "buttonquay": {
+      "__uuid__": "cf3ac064-9527-45e0-a91f-e3c2a5b57743"
+    },
+    "buttonquaylai": {
+      "__uuid__": "b954a7bb-55f4-447d-b921-41911ecbc695"
+    },
+    "buttonsieutoc": {
+      "__uuid__": "0327cfd8-0d42-4bd4-9fca-255e9f4b0941"
+    },
+    "buttonsieutoc_disable": {
+      "__uuid__": "387946f2-57de-4a62-9b0f-7ad4d5718a9a"
+    },
+    "caidat1": {
+      "__uuid__": "4dfd7fda-f009-4ae8-a8e0-646c92655a83"
+    },
+    "choithu": {
+      "__uuid__": "fed301e8-e377-4655-87ff-976e8dd5abb2"
+    },
+    "free": {
+      "__uuid__": "3b78fb97-6b10-490e-8c08-5035b311d1a6"
+    },
+    "khung_jackpot": {
+      "__uuid__": "1129dbb7-70a7-4834-9a5a-7ba4c3d2f96d"
+    },
+    "khungspin_bot": {
+      "__uuid__": "7ca42012-37bc-44af-92c6-b378e5850ec8"
+    },
+    "khungspin_left": {
+      "__uuid__": "12e23bd3-368e-491c-b4e7-dc0ca5e5a7ab"
+    },
+    "khungspin_right": {
+      "__uuid__": "7a2d7959-a2d7-486f-a458-bfa35b9510c4"
+    },
+    "khungspin_top - Copy": {
+      "__uuid__": "0bc5c53e-c9b5-4cca-a336-0a327f69e21b"
+    },
+    "khungspin_top": {
+      "__uuid__": "02c04421-c878-4138-857e-5d802ed7c89c"
+    },
+    "khungspin_top2": {
+      "__uuid__": "7edc0cb9-902b-4fc7-b159-ca112ccfa87b"
+    },
+    "maingame10": {
+      "__uuid__": "4c532757-ffcf-47a8-ac36-85c82e8d3feb"
+    },
+    "maingame14": {
+      "__uuid__": "0c78bb87-0411-4584-b87b-a0a395d374f5"
+    },
+    "maingame15": {
+      "__uuid__": "764b5a9d-08bb-48d8-a28d-4a6dcab2bd74"
+    },
+    "otienthang": {
+      "__uuid__": "67df4f12-4cf1-480b-a171-87098693e013"
+    },
+    "symbol_1_2": {
+      "__uuid__": "0642c926-1331-41d4-9a2b-45a69889b62f"
+    },
+    "symbol_1_3": {
+      "__uuid__": "1251bfa7-2507-4a6a-9d5f-a395b622a23e"
+    },
+    "symbol_1_7": {
+      "__uuid__": "0ab15779-f0d8-4a02-84bf-e90e9d006715"
+    },
+    "thanhchiacot": {
+      "__uuid__": "476a8f4e-3d7d-434b-873a-59a0bef1f4c6"
+    }
+  }
+}

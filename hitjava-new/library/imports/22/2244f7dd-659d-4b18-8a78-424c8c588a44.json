@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TWSymbolYenneferWild",
+    "texture": "9af10000-d8b8-4382-abaf-d3fb8e124f98",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      507,
+      501
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      511,
+      507
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

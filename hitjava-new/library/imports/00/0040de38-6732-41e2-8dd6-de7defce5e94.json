@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnPrevPage",
+    "texture": "070dfbe4-a038-47a0-8fab-db0ba5a61433",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      29,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      29,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

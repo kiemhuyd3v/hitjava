@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logoMo",
+    "texture": "51028e7f-23ef-4a6e-a964-254613e90f54",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      460,
+      413
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      460,
+      413
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

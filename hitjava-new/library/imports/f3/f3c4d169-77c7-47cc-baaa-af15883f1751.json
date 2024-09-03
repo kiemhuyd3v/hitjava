@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_sieuxe",
+    "texture": "e0c3963d-bd3c-43aa-96d3-5f265275273b",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      2042,
+      472
+    ],
+    "offset": [
+      1,
+      18
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

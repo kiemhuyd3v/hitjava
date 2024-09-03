@@ -1,0 +1,207 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "fontnumber-export",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "6ce403f4-6612-435e-ac60-32b5ac3a5922"
+  },
+  "fontSize": 32,
+  "_fntConfig": {
+    "commonHeight": 39,
+    "fontSize": 32,
+    "atlasName": "fontnumber-export.png",
+    "fontDefDictionary": {
+      "9": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 160
+      },
+      "32": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 20
+      },
+      "35": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 59,
+          "height": 72
+        },
+        "xOffset": 0,
+        "yOffset": -33,
+        "xAdvance": 60
+      },
+      "43": {
+        "rect": {
+          "x": 0,
+          "y": 73,
+          "width": 59,
+          "height": 60
+        },
+        "xOffset": 0,
+        "yOffset": -21,
+        "xAdvance": 60
+      },
+      "44": {
+        "rect": {
+          "x": 35,
+          "y": 207,
+          "width": 25,
+          "height": 32
+        },
+        "xOffset": 0,
+        "yOffset": 20,
+        "xAdvance": 26
+      },
+      "45": {
+        "rect": {
+          "x": 0,
+          "y": 220,
+          "width": 34,
+          "height": 18
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 35
+      },
+      "46": {
+        "rect": {
+          "x": 60,
+          "y": 73,
+          "width": 19,
+          "height": 18
+        },
+        "xOffset": 0,
+        "yOffset": 21,
+        "xAdvance": 20
+      },
+      "48": {
+        "rect": {
+          "x": 60,
+          "y": 0,
+          "width": 51,
+          "height": 72
+        },
+        "xOffset": 4,
+        "yOffset": -33,
+        "xAdvance": 52
+      },
+      "49": {
+        "rect": {
+          "x": 206,
+          "y": 146,
+          "width": 34,
+          "height": 73
+        },
+        "xOffset": 8,
+        "yOffset": -34,
+        "xAdvance": 35
+      },
+      "50": {
+        "rect": {
+          "x": 163,
+          "y": 0,
+          "width": 46,
+          "height": 72
+        },
+        "xOffset": 6,
+        "yOffset": -33,
+        "xAdvance": 47
+      },
+      "51": {
+        "rect": {
+          "x": 157,
+          "y": 73,
+          "width": 49,
+          "height": 72
+        },
+        "xOffset": 5,
+        "yOffset": -33,
+        "xAdvance": 50
+      },
+      "52": {
+        "rect": {
+          "x": 0,
+          "y": 134,
+          "width": 53,
+          "height": 72
+        },
+        "xOffset": 3,
+        "yOffset": -33,
+        "xAdvance": 54
+      },
+      "53": {
+        "rect": {
+          "x": 157,
+          "y": 146,
+          "width": 48,
+          "height": 72
+        },
+        "xOffset": 5,
+        "yOffset": -33,
+        "xAdvance": 49
+      },
+      "54": {
+        "rect": {
+          "x": 106,
+          "y": 146,
+          "width": 50,
+          "height": 72
+        },
+        "xOffset": 4,
+        "yOffset": -33,
+        "xAdvance": 51
+      },
+      "55": {
+        "rect": {
+          "x": 106,
+          "y": 73,
+          "width": 50,
+          "height": 72
+        },
+        "xOffset": 4,
+        "yOffset": -33,
+        "xAdvance": 51
+      },
+      "56": {
+        "rect": {
+          "x": 54,
+          "y": 134,
+          "width": 51,
+          "height": 72
+        },
+        "xOffset": 4,
+        "yOffset": -33,
+        "xAdvance": 52
+      },
+      "57": {
+        "rect": {
+          "x": 112,
+          "y": 0,
+          "width": 50,
+          "height": 72
+        },
+        "xOffset": 4,
+        "yOffset": -33,
+        "xAdvance": 51
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

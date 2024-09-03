@@ -1,0 +1,146 @@
+
+iteambatgioi.png
+size: 432,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 69
+  rotate: true
+  xy: 231, 9
+  size: 38, 30
+  orig: 40, 32
+  offset: 1, 1
+  index: -1
+bang1
+  rotate: true
+  xy: 294, 9
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+bang2
+  rotate: false
+  xy: 404, 75
+  size: 23, 15
+  orig: 25, 17
+  offset: 1, 1
+  index: -1
+daulon
+  rotate: false
+  xy: 268, 79
+  size: 86, 83
+  orig: 88, 85
+  offset: 1, 1
+  index: -1
+khanchoang
+  rotate: true
+  xy: 356, 72
+  size: 90, 46
+  orig: 92, 48
+  offset: 1, 1
+  index: -1
+lightxanh
+  rotate: false
+  xy: 2, 10
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+matphai
+  rotate: false
+  xy: 185, 4
+  size: 15, 10
+  orig: 17, 12
+  offset: 1, 1
+  index: -1
+matphainham
+  rotate: false
+  xy: 404, 60
+  size: 23, 13
+  orig: 25, 15
+  offset: 1, 1
+  index: -1
+mattrai
+  rotate: false
+  xy: 319, 15
+  size: 18, 13
+  orig: 20, 15
+  offset: 1, 1
+  index: -1
+mattrainham
+  rotate: false
+  xy: 263, 7
+  size: 29, 21
+  orig: 31, 23
+  offset: 1, 1
+  index: -1
+mayphai
+  rotate: false
+  xy: 294, 2
+  size: 10, 5
+  orig: 12, 7
+  offset: 1, 1
+  index: -1
+maytrai
+  rotate: false
+  xy: 339, 72
+  size: 13, 5
+  orig: 15, 7
+  offset: 1, 1
+  index: -1
+momlon
+  rotate: true
+  xy: 156, 2
+  size: 45, 27
+  orig: 47, 29
+  offset: 1, 1
+  index: -1
+mu
+  rotate: false
+  xy: 185, 16
+  size: 44, 31
+  orig: 46, 33
+  offset: 1, 1
+  index: -1
+muilon
+  rotate: true
+  xy: 404, 92
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+nen
+  rotate: false
+  xy: 156, 49
+  size: 110, 113
+  orig: 112, 115
+  offset: 1, 1
+  index: -1
+nutthat
+  rotate: false
+  xy: 403, 43
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+taitrai
+  rotate: true
+  xy: 404, 118
+  size: 44, 26
+  orig: 46, 28
+  offset: 1, 1
+  index: -1
+tayche
+  rotate: true
+  xy: 339, 11
+  size: 59, 62
+  orig: 61, 64
+  offset: 1, 1
+  index: -1
+taychebong
+  rotate: true
+  xy: 268, 30
+  size: 47, 69
+  orig: 49, 71
+  offset: 1, 1
+  index: -1

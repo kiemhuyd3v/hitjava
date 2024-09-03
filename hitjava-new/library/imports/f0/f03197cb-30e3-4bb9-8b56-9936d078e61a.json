@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baucua",
+    "texture": "c146239b-203b-43ee-9a2e-a0a8d14fecfd",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      288,
+      438
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      294,
+      438
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

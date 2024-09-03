@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderDangNhap",
+    "texture": "1a4b80b7-bd4b-4b34-9629-576884506b5d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      206,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      206,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+
+iteambonus.png
+size: 374,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgbonus
+  rotate: true
+  xy: 2, 4
+  size: 161, 160
+  orig: 161, 160
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: true
+  xy: 318, 35
+  size: 130, 54
+  orig: 130, 54
+  offset: 0, 0
+  index: -1
+pot
+  rotate: false
+  xy: 164, 2
+  size: 152, 163
+  orig: 170, 185
+  offset: 7, 17
+  index: -1

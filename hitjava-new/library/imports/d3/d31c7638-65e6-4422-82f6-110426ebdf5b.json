@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icMoney",
+    "texture": "83cead6d-9817-4ae0-a4f0-36135c5eaf5e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

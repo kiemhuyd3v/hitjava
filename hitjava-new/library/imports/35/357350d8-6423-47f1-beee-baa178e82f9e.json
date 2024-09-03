@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xuthanglon4",
+    "texture": "467f7f10-dad1-41e8-8911-e87456159044",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      1168,
+      1184
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      1172,
+      1190
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

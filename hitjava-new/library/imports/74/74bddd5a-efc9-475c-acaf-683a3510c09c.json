@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_gender",
+    "texture": "1ebd192a-c773-4b9f-b078-2ef1a4db905b",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      50,
+      51
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      51,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

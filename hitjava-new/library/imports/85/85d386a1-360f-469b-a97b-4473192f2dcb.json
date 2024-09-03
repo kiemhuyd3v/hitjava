@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xeng_sun",
+    "texture": "4548c871-828d-4baf-b368-6fd53cc59e66",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      828,
+      507
+    ],
+    "offset": [
+      -97,
+      1.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

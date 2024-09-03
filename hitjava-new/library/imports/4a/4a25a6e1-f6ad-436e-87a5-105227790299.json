@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taget-icon",
+    "texture": "837a0771-9215-4a51-9c9f-c59a983b6d84",
+    "atlas": "",
+    "rect": [
+      0,
+      12,
+      208,
+      103
+    ],
+    "offset": [
+      -24,
+      0.5
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

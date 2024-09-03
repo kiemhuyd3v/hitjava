@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_Transition",
+    "texture": "52f7a536-3ea2-4ace-b36f-34bb38b9c545",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2024,
+      960
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2024,
+      960
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

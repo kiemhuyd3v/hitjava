@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mohom",
+    "texture": "5d5719e6-e8c2-4db2-83fc-94143a08e591",
+    "atlas": "",
+    "rect": [
+      5,
+      3,
+      624,
+      300
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      632,
+      306
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

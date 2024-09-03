@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_tao_ban",
+    "texture": "14563bcf-b504-4d0f-9479-7d105ad19dec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

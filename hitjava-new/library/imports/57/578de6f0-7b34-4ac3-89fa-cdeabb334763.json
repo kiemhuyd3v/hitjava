@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_giftcode",
+    "texture": "6b2966d5-7aa0-4c55-88ea-f9cd7f6bd303",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

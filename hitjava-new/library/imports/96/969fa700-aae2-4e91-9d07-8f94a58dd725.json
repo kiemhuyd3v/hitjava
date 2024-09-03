@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "go88-logo",
+    "texture": "3b81dc62-532e-41a9-aa7f-829ef86ea4cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      420,
+      187
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      420,
+      187
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

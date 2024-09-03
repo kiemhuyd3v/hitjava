@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonDongYCopy",
+    "texture": "07a8a679-1e3f-45b2-b743-92190339f10a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      138,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

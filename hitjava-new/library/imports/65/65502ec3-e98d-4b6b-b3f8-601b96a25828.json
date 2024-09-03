@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tabOn",
+    "texture": "1c376413-c7d6-4874-97f7-c1886fc99aae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

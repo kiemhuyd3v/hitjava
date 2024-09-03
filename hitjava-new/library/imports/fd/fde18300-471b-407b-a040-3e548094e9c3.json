@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shelf_normal",
+    "texture": "3ac777cd-8c23-43b3-bb82-1a2a01d4cfb6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      435,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      435,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

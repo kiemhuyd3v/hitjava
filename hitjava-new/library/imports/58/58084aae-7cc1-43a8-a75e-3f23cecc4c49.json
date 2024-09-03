@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TW_AnimTransition",
+    "texture": "5d4d0859-b4f1-49ae-a87c-9584b7dc4d30",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      508,
+      507
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

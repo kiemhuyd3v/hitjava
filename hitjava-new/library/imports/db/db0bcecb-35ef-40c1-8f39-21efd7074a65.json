@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_hotro",
+    "texture": "4cc651fe-43d2-45b0-b2ec-1099aec3e785",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

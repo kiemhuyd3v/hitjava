@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_YellowApricot",
+    "texture": "582e5e68-c6ac-4c1e-8597-6408022b965c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      605,
+      452
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      605,
+      452
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "round_cuoc",
+    "texture": "96c2e232-d3eb-4eec-b721-830f6c5ae48b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      210,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

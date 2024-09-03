@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup_to_sun",
+    "texture": "651f5807-31bf-49a9-987b-33a1f5d6396b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      682,
+      490
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      682,
+      490
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

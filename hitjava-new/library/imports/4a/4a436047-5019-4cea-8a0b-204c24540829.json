@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quaySoOffCopy",
+    "texture": "ead538c5-da21-47c2-9a99-600160277ac0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

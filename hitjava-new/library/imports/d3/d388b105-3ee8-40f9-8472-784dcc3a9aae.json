@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiNgau6",
+    "texture": "07878f0c-fcc0-4c7b-b779-da1b2d1b0627",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      74,
+      78
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      76,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

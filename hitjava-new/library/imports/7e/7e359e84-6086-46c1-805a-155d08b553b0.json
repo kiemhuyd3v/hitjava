@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ketSat",
+    "texture": "2ca01c01-fdeb-45be-ad1e-f5d1e3c5ecdc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

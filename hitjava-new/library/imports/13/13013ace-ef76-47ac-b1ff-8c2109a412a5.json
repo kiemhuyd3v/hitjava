@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_pikachu_en.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "10": {
+      "__uuid__": "64ea3ca8-2c7d-4225-ace4-992e56de1c06"
+    },
+    "20": {
+      "__uuid__": "51892a2f-e0d0-434c-a2fc-6a27a6e4a39f"
+    },
+    "100": {
+      "__uuid__": "64cf8ec8-2581-43bf-90cf-9ba6fb0b2f5e"
+    },
+    "10-off": {
+      "__uuid__": "394bfdcf-61ec-480a-a1c4-f45cce47f5c5"
+    },
+    "100-off": {
+      "__uuid__": "366b0e04-096b-4249-9148-b1bde8250388"
+    },
+    "1k-off": {
+      "__uuid__": "06e31b38-dd99-4f66-97d6-720e6a3e80a5"
+    },
+    "1k": {
+      "__uuid__": "d1c8299e-1152-4264-88e2-6072bb19d756"
+    },
+    "bonus table": {
+      "__uuid__": "10454c89-a75a-4bce-ab5f-1bfb8864b2df"
+    },
+    "bỏ": {
+      "__uuid__": "b90063fd-817d-4771-a592-396379d58510"
+    },
+    "chẵn": {
+      "__uuid__": "8d7a1243-9c96-4bc3-a23a-c69d23cf561f"
+    },
+    "dung": {
+      "__uuid__": "73ac73bd-d3ec-4f10-9788-5243c27098ec"
+    },
+    "history": {
+      "__uuid__": "f61312de-2d9e-4b8f-a3f2-f24a9f0f9e7b"
+    },
+    "lẻ": {
+      "__uuid__": "18a13866-ec35-40b6-a71b-a25c95497075"
+    },
+    "paytable": {
+      "__uuid__": "09791a75-e686-4eec-9653-6acc69d6569a"
+    },
+    "quay": {
+      "__uuid__": "c6131a18-840d-4472-8cb9-a52187bd2dac"
+    },
+    "rule": {
+      "__uuid__": "e5f1b855-8a33-4917-ada8-87eaf348ebe7"
+    },
+    "sieu toc": {
+      "__uuid__": "4dc5cb40-5926-4c80-8e6a-5bae437c553a"
+    },
+    "top": {
+      "__uuid__": "8b001c8f-2c7d-4901-887b-4d0ca2dce85b"
+    },
+    "tu quay": {
+      "__uuid__": "18eb7bd9-10be-4cf6-b214-0c4944e1f305"
+    },
+    "tát cả": {
+      "__uuid__": "6db48500-26db-4ce4-9990-70cb2d1c72c3"
+    }
+  }
+}

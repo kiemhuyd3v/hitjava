@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "md5 box",
+    "texture": "4ede9e04-7844-4909-a22d-e81fc638a3ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      605,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      605,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

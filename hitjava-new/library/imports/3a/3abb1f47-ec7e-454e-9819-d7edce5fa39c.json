@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "live_chat",
+    "texture": "bd35dfa0-1487-44a1-8992-be5239194cc6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

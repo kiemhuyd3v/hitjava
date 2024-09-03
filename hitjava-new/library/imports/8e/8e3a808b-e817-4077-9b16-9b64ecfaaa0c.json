@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "duaxe_item.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "0": {
+      "__uuid__": "8c525805-fbfd-405b-b0ae-fd9b7911ed1d"
+    },
+    "1": {
+      "__uuid__": "6c7d11ab-b84e-47dd-aed0-60d591a6eb8e"
+    },
+    "2": {
+      "__uuid__": "67ffc8dd-ea7b-4425-8e80-9e73cb1ac410"
+    },
+    "3": {
+      "__uuid__": "439f77af-a178-40aa-9e96-85f3aa6524aa"
+    },
+    "4": {
+      "__uuid__": "ae000d47-d838-43ce-9e51-d2426b558df3"
+    },
+    "5": {
+      "__uuid__": "f18a2989-367e-4524-9ced-7a12c6f46b01"
+    },
+    "6": {
+      "__uuid__": "6ad4059b-fe26-4649-a048-d68362a320d4"
+    },
+    "blur_0": {
+      "__uuid__": "715718fd-b249-4450-a309-a7f95a33c41d"
+    },
+    "blur_1": {
+      "__uuid__": "54e56ac6-dbcb-4e34-95fa-9501888c5438"
+    },
+    "blur_2": {
+      "__uuid__": "931c7e75-adc8-41fa-b04f-751ca9b1fefd"
+    },
+    "blur_3": {
+      "__uuid__": "805fe2f0-0eb1-4e29-bd58-a961e78b9351"
+    },
+    "blur_4": {
+      "__uuid__": "93e25177-50ae-4869-984a-6231774c921c"
+    },
+    "blur_5": {
+      "__uuid__": "c773f354-153d-42bf-bbe1-612e51405253"
+    },
+    "blur_6": {
+      "__uuid__": "0a5a385b-b38f-4b47-aaf9-cf868e4e6e1a"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xunohu2",
+    "texture": "d8428109-cff6-4003-a181-55d7f2f874ce",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1174,
+      1024
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1178,
+      1028
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

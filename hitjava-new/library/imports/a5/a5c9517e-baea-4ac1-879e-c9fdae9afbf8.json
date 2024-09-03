@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "label3sukien",
+    "texture": "084b8c20-307a-4ff2-b714-1aee7d9c5d49",
+    "atlas": "",
+    "rect": [
+      32,
+      10,
+      813,
+      301
+    ],
+    "offset": [
+      14.5,
+      -4
+    ],
+    "originalSize": [
+      848,
+      313
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

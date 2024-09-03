@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "telegram",
+    "texture": "2dd3dbec-3e1b-40c1-830e-cc67370c6731",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      323
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      323
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

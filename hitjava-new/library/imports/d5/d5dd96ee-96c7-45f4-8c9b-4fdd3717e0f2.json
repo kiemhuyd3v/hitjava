@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_cam",
+    "texture": "dd1be681-d9fe-4d79-9352-a3c64558fcd5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      655,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      655,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

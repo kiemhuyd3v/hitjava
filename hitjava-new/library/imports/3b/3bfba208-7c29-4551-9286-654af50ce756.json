@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "borderPass",
+    "texture": "2764540e-d8e3-4ee9-b780-52620b27d57d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      316,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      316,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

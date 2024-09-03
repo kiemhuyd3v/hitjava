@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnLichSuCuoc",
+    "texture": "788b0540-e415-4bc0-9959-ac91408e8cca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

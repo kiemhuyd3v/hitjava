@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xi dach",
+    "texture": "475bbe99-02dc-443d-a286-dbac188280a8",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      262,
+      393
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      263,
+      399
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

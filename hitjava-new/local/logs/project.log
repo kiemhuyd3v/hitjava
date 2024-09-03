@@ -1,0 +1,81 @@
+2024-03-19T16:20:41.775Z - success: protocol editor-framework registered
+2024-03-19T16:20:41.776Z - success: protocol app registered
+2024-03-19T16:20:41.776Z - success: protocol theme registered
+2024-03-19T16:20:41.776Z - success: protocol packages registered
+2024-03-19T16:20:41.794Z - normal: Load ~/.CocosCreator/settings.json
+2024-03-19T16:20:41.827Z - success: protocol uuid registerred
+2024-03-19T16:20:41.827Z - success: protocol db registerred
+2024-03-19T16:20:41.827Z - success: protocol thumbnail registerred
+2024-03-19T16:20:41.860Z - normal: Initializing Asset Database
+2024-03-19T16:20:41.875Z - normal: checking language setting...
+2024-03-19T16:20:41.876Z - normal: Language: en
+2024-03-19T16:20:41.878Z - success: protocol unpack registerred
+2024-03-19T16:20:41.878Z - success: protocol disable-commonjs registerred
+2024-03-19T16:20:45.733Z - normal: failed to connect login server due to request timeout
+2024-03-19T16:20:45.733Z - normal: Check project C:\file client JAVA\hitnew\hitjava
+2024-03-19T16:20:45.734Z - normal: Initializing project C:\file client JAVA\hitnew\hitjava
+2024-03-19T16:20:45.925Z - success: adapters loaded
+2024-03-19T16:20:45.927Z - success: asset-db-debugger loaded
+2024-03-19T16:20:45.995Z - success: fb-audience-network loaded
+2024-03-19T16:20:46.034Z - success: fb-live-stream loaded
+2024-03-19T16:20:46.037Z - success: google-play-instant loaded
+2024-03-19T16:20:46.037Z - success: jsb-adapter loaded
+2024-03-19T16:20:46.040Z - success: package-manager loaded
+2024-03-19T16:20:46.040Z - success: runtime-adapters loaded
+2024-03-19T16:20:46.043Z - success: runtime-dev-tools loaded
+2024-03-19T16:20:46.045Z - success: ui-kit-preview-extra loaded
+2024-03-19T16:20:46.047Z - success: ui-kit-preview loaded
+2024-03-19T16:20:46.110Z - success: alipay-minigame loaded
+2024-03-19T16:20:46.116Z - success: assets loaded
+2024-03-19T16:20:46.118Z - success: baidugame-opendata loaded
+2024-03-19T16:20:46.120Z - success: baidugame loaded
+2024-03-19T16:20:46.123Z - success: builder loaded
+2024-03-19T16:20:46.125Z - success: bytedance-opendata loaded
+2024-03-19T16:20:46.127Z - success: bytedance loaded
+2024-03-19T16:20:46.130Z - success: channel-upload-tools loaded
+2024-03-19T16:20:46.261Z - success: cloud-function loaded
+2024-03-19T16:20:46.467Z - success: cocos-services loaded
+2024-03-19T16:20:46.471Z - success: console loaded
+2024-03-19T16:20:46.475Z - success: curve-editor loaded
+2024-03-19T16:20:46.488Z - success: fb-instant-games loaded
+2024-03-19T16:20:46.490Z - success: game-window loaded
+2024-03-19T16:20:46.492Z - success: google-instant-games loaded
+2024-03-19T16:20:46.497Z - success: hierarchy loaded
+2024-03-19T16:20:46.500Z - success: huawei-agc loaded
+2024-03-19T16:20:46.504Z - success: huawei-runtime loaded
+2024-03-19T16:20:46.508Z - success: inspector loaded
+2024-03-19T16:20:46.533Z - success: cpk-publish loaded
+2024-03-19T16:20:46.535Z - success: keystore loaded
+2024-03-19T16:20:46.553Z - success: link-sure-runtime loaded
+2024-03-19T16:20:46.562Z - success: node-library loaded
+2024-03-19T16:20:46.564Z - success: open-recent-items loaded
+2024-03-19T16:20:46.567Z - success: oppo-runtime loaded
+2024-03-19T16:20:46.570Z - success: package-asset loaded
+2024-03-19T16:20:46.571Z - success: preferences loaded
+2024-03-19T16:20:46.573Z - success: project-importer loaded
+2024-03-19T16:20:46.575Z - success: project-settings loaded
+2024-03-19T16:20:46.591Z - success: qtt-runtime loaded
+2024-03-19T16:20:46.594Z - success: scene loaded
+2024-03-19T16:20:46.596Z - success: simulator-debugger loaded
+2024-03-19T16:20:46.596Z - success: sprite-editor loaded
+2024-03-19T16:20:46.669Z - success: store loaded
+2024-03-19T16:20:46.672Z - success: timeline loaded
+2024-03-19T16:20:46.678Z - success: vivo-runtime loaded
+2024-03-19T16:20:46.681Z - success: wechatgame-opendata loaded
+2024-03-19T16:20:46.685Z - success: wechatgame loaded
+2024-03-19T16:20:46.690Z - success: xiaomi-runtime loaded
+2024-03-19T16:20:46.761Z - success: im-plugin loaded
+2024-03-19T16:20:46.768Z - success: hot-update loaded
+2024-03-19T16:20:46.771Z - success: sdkbox loaded
+2024-03-19T16:20:46.772Z - warn: Invalid package name: test: do not contains uppercase characters.
+2024-03-19T16:20:46.774Z - success: test loaded
+2024-03-19T16:20:46.776Z - warn: The current '7456' preview port is already occupied, the port is automatically incremented
+2024-03-19T16:20:46.778Z - success: preview server running at http://localhost:7457
+2024-03-19T16:20:48.542Z - normal: Initializing Cocos2d
+2024-03-19T16:20:49.182Z - normal: Initializing engine extends
+2024-03-19T16:20:49.695Z - info: Cocos Service load base data!
+2024-03-19T16:21:20.603Z - normal: Loading packages
+2024-03-19T16:21:20.607Z - normal: Watching packages
+2024-03-19T16:21:21.184Z - normal: Run Application
+2024-03-19T16:21:27.704Z - success: cloud-function unloaded
+2024-03-19T16:59:48.089Z - info: shutdown preview server

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lichSuNap",
+    "texture": "34dd20a2-acb4-4c9f-905d-ab5926b68baa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

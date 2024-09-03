@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnTatTayClick",
+    "texture": "4e2fe2c2-9bac-4643-892d-46561caef6e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      157,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      157,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

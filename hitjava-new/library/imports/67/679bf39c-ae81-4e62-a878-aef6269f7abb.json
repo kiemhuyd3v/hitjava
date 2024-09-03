@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lieng_sun",
+    "texture": "901e9ac5-cae6-4e06-bee5-fd939e7aa5bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      237,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      237,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

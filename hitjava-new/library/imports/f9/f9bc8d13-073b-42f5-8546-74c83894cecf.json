@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "livecasino",
+    "texture": "cca2e137-530d-461f-8f65-5890de160552",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      288,
+      441
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      295,
+      442
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

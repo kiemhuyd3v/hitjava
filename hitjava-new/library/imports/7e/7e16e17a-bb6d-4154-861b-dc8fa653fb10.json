@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cryto_20",
+    "texture": "ed475875-ebb9-46a6-83c6-8628b21bae9f",
+    "atlas": "cf8d6e0a-d171-4e56-becb-a45fb2e90471",
+    "rect": [
+      1014,
+      1199,
+      162,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

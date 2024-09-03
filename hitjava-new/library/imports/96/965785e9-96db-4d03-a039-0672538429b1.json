@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lsgiaodich",
+    "texture": "90cb74d1-e356-4367-91e4-e342e676052a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      172,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

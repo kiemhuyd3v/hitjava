@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "PlistLobby.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "banner_image_default": {
+      "__uuid__": "669ed6fd-0af5-4936-8dfa-c0b7cb1af256"
+    },
+    "banner_overlay": {
+      "__uuid__": "34d1f050-b4f2-48b8-a6c3-c89909749856"
+    },
+    "bg_banner_text": {
+      "__uuid__": "453e512a-9b5b-4c09-8746-34c8179e60e4"
+    },
+    "bg_checkbox": {
+      "__uuid__": "42a364cd-ce0e-424e-a9f0-3ff7ed72a396"
+    },
+    "bg_toast": {
+      "__uuid__": "65e9e30c-4767-475a-9165-e1010ff22401"
+    },
+    "btnSettings": {
+      "__uuid__": "2b2613d3-dc23-48fa-9735-f01ef97f6195"
+    },
+    "btn_back_lobby": {
+      "__uuid__": "c4d23592-7496-40d7-9018-c9acea704218"
+    },
+    "btn_bao_mat": {
+      "__uuid__": "cbc977fa-9785-4649-83ff-4e2a39aa135c"
+    },
+    "btn_camera": {
+      "__uuid__": "21c4fd35-cf26-418d-a72b-2acd2e028eb9"
+    },
+    "btn_giftcode": {
+      "__uuid__": "18d468c4-1b32-449b-bb8d-df32b5ac74f5"
+    },
+    "btn_hotline": {
+      "__uuid__": "5291f629-d56a-446b-9539-24e7c09d61e0"
+    },
+    "btn_ket_sat": {
+      "__uuid__": "b0e351a6-ab93-4304-a13b-e44c47e1b80f"
+    },
+    "btn_kingwin_label": {
+      "__uuid__": "0a81e09e-f30a-4976-8dc3-e002bcc0818f"
+    },
+    "btn_login": {
+      "__uuid__": "f7a1684f-bc23-4a25-8000-716c17472993"
+    },
+    "btn_nap_rut": {
+      "__uuid__": "62d885ba-c71d-42ed-84f6-8fc799875fac"
+    },
+    "btn_nap_rut_label": {
+      "__uuid__": "4e6934a5-7c81-44bf-bf86-7a6925570aab"
+    },
+    "btn_payin": {
+      "__uuid__": "ff5c6e84-005d-4523-bd37-04c65c154fe2"
+    },
+    "btn_quydinh": {
+      "__uuid__": "c81ea523-735b-4043-af76-207e9db21e7f"
+    },
+    "btn_register": {
+      "__uuid__": "202e1e85-d698-418d-91d7-12ddb8a637ae"
+    },
+    "btn_transaction_history": {
+      "__uuid__": "9f80da3c-aec6-4ea7-8be9-ace1510dd978"
+    },
+    "btn_vqmm": {
+      "__uuid__": "42e23991-f952-40fe-ab4b-c7a35159bcad"
+    },
+    "cirle_avatar": {
+      "__uuid__": "2f88fe04-3b45-4cac-9a73-6aca729e64f8"
+    },
+    "footer_background": {
+      "__uuid__": "1c3ff77e-28de-4449-ba7c-9cfd1717ed95"
+    },
+    "footer_divider": {
+      "__uuid__": "cb13478c-47b7-4702-a859-1170b3bf77e6"
+    },
+    "header_background": {
+      "__uuid__": "c75a6e32-cfac-45ff-8442-7231bb27850a"
+    },
+    "header_background_center": {
+      "__uuid__": "f5ddcaf9-9a89-44eb-8dac-7be69aeaad5d"
+    },
+    "header_background_left": {
+      "__uuid__": "76d99ab3-cc28-4f1a-82b7-58c2e5173fad"
+    },
+    "header_background_right": {
+      "__uuid__": "fd32d97b-96a7-4392-b580-ebf311d79839"
+    },
+    "header_btn_hop_thu": {
+      "__uuid__": "b92e7cdf-206d-4a37-b76a-30bf8a87998a"
+    },
+    "header_divider": {
+      "__uuid__": "2c03adee-5d39-4e4b-8158-806005ea3522"
+    },
+    "light_tour_white": {
+      "__uuid__": "46b5ecaa-16f4-46c0-978f-2c9b2b7ac55e"
+    },
+    "light_tour_yellow": {
+      "__uuid__": "afe3b9e5-d71a-42c5-8926-1d9e685140f2"
+    },
+    "load_level": {
+      "__uuid__": "d3bace33-b194-4da7-abd8-96a569a30314"
+    },
+    "loading_logo": {
+      "__uuid__": "5620a540-4592-4636-a10e-89ad4aae25b9"
+    },
+    "loading_spin": {
+      "__uuid__": "ce3dc63f-3a6b-4cfe-8964-7d51a16c7f44"
+    },
+    "lobby_navi_active": {
+      "__uuid__": "4a49160f-cd99-4401-91df-aea2705c24e4"
+    },
+    "lobby_navi_bg": {
+      "__uuid__": "70bb640f-5e2a-467c-b2d8-d7b728ae9596"
+    },
+    "lobby_navi_default_120": {
+      "__uuid__": "347411f7-f8f9-4172-90ab-f11e0a0e0644"
+    },
+    "lobby_navi_default_150": {
+      "__uuid__": "155f6fdf-ed6e-4489-a38d-5d2524621738"
+    },
+    "lobby_navi_default_160": {
+      "__uuid__": "0508c33b-33aa-4f98-8c73-65ecffff683c"
+    },
+    "logo": {
+      "__uuid__": "e4fea863-ebd9-451b-bd71-fc5946c135c8"
+    },
+    "logo256x256": {
+      "__uuid__": "a31d83d2-5b77-49b6-b279-bf3b89bb9c13"
+    },
+    "mobiphone": {
+      "__uuid__": "75e98756-8458-4c5b-b754-955d4721bada"
+    },
+    "nodecheckbox": {
+      "__uuid__": "0aa8ad0e-c236-4d43-b142-62ee76ee63f9"
+    },
+    "quangsang": {
+      "__uuid__": "420d7c67-2f5d-4158-be17-bdc9ff4ba854"
+    },
+    "sp_vin": {
+      "__uuid__": "b5311fd7-b194-479c-9d8d-8a3bd387dc69"
+    },
+    "sp_xu": {
+      "__uuid__": "91c6b298-0458-44d8-aba3-a099457bf7ac"
+    },
+    "thanhExp": {
+      "__uuid__": "ac118d62-7ed9-438c-9291-e9646568ce41"
+    },
+    "viettel": {
+      "__uuid__": "261dfecd-5c43-4564-a6b5-324b12be78ad"
+    },
+    "vinaphone": {
+      "__uuid__": "4fcfb5ea-4b07-40fe-93d4-e1c61e9747d2"
+    }
+  }
+}

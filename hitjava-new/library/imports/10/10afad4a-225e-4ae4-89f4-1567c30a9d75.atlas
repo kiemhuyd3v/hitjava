@@ -1,0 +1,48 @@
+
+iteamlooby.png
+size: 719,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mn1
+  rotate: false
+  xy: 439, 13
+  size: 118, 204
+  orig: 118, 204
+  offset: 0, 0
+  index: -1
+mn2
+  rotate: true
+  xy: 559, 127
+  size: 90, 124
+  orig: 90, 124
+  offset: 0, 0
+  index: -1
+mn3
+  rotate: false
+  xy: 2, 8
+  size: 236, 209
+  orig: 236, 209
+  offset: 0, 0
+  index: -1
+nen2 copy
+  rotate: true
+  xy: 240, 2
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+txt1
+  rotate: false
+  xy: 559, 14
+  size: 147, 43
+  orig: 147, 43
+  offset: 0, 0
+  index: -1
+txt2
+  rotate: false
+  xy: 559, 59
+  size: 158, 66
+  orig: 158, 66
+  offset: 0, 0
+  index: -1

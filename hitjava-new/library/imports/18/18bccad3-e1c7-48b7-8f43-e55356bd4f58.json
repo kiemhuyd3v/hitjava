@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "GameLogo.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "3cay_bg": {
+      "__uuid__": "401ce4e1-494f-4558-8156-899abff503b0"
+    },
+    "TLMNsolo_bg": {
+      "__uuid__": "5a98a3ca-f081-4ac1-abed-7c36b8c9b770"
+    },
+    "avenger": {
+      "__uuid__": "e794e00b-82fc-4cfc-9d4c-fe23bd96f87b"
+    },
+    "baicao_bg": {
+      "__uuid__": "b3e150ff-59bd-4909-b8f6-d102327d2d4a"
+    },
+    "baucua_bg": {
+      "__uuid__": "71b75194-cf62-4ccc-a235-61114399871d"
+    },
+    "cocaro_bg": {
+      "__uuid__": "7e07a9bf-3883-485e-adf4-62a58e449b16"
+    },
+    "cotuong_bg": {
+      "__uuid__": "cb5c6d37-14ad-44ee-9fe1-f333b80dcd59"
+    },
+    "coup_bg": {
+      "__uuid__": "b76bf2b2-3f10-4876-b5cd-5cb1bf8cde8e"
+    },
+    "game_label_coming_soon": {
+      "__uuid__": "ae72ccf0-d5b9-4c8e-9b89-88b814f2b10f"
+    },
+    "keno_game_bg": {
+      "__uuid__": "fd7cf51a-01fe-4db1-bfd1-23e6c0b02550"
+    },
+    "kho_bau": {
+      "__uuid__": "b9d7f940-93f6-4bae-b0f8-687ec0d6a140"
+    },
+    "khobau": {
+      "__uuid__": "1b0cf507-ccf7-4ecc-bc4e-c18251f88826"
+    },
+    "kimcuong_bg": {
+      "__uuid__": "3b3287a9-dc48-4413-8fd3-8005949afa1f"
+    },
+    "lieng_bg": {
+      "__uuid__": "500e29d3-b057-48f9-b52a-8b7ff003c8ba"
+    },
+    "maubinh_bg": {
+      "__uuid__": "1f5a65eb-17cb-4bf9-b3ad-e8c8eea04b12"
+    },
+    "maubinhat_bg": {
+      "__uuid__": "42a301e4-fd90-4d47-bb5f-11e5acc9fce5"
+    },
+    "minipoker_bg": {
+      "__uuid__": "b024178c-ca55-4721-ad55-747b8c1c1064"
+    },
+    "nu_diep_vien": {
+      "__uuid__": "0073423c-9dc3-4229-8127-6c3d9f541a0f"
+    },
+    "nudiepvien": {
+      "__uuid__": "789fdbea-8c62-4858-b928-1f1649f5d9cf"
+    },
+    "number_game_bg": {
+      "__uuid__": "60f843ef-8b1c-4b82-b9b2-6d1bcaf4393d"
+    },
+    "poker_bg": {
+      "__uuid__": "14898e41-80cd-4bc2-bf69-4ed734169490"
+    },
+    "samloc_bg": {
+      "__uuid__": "0b422441-20de-4c1b-9d68-e9ecce411d43"
+    },
+    "samsolo_bg": {
+      "__uuid__": "c5c638df-e141-4489-8720-50d6007fbac9"
+    },
+    "sieu_anh_hung": {
+      "__uuid__": "c83463cc-82cf-4a32-bf85-bbe3857052c0"
+    },
+    "tai_xiu_bg": {
+      "__uuid__": "6e2da07a-eecf-4cc0-801a-8b39b041a498"
+    },
+    "tai_xiu_md5_bg": {
+      "__uuid__": "741d066b-340f-4825-b2c6-8d9bc651df49"
+    },
+    "trenduoi_bg": {
+      "__uuid__": "49bcb341-3ca9-4b50-b468-5f7a2952f1d7"
+    },
+    "vuong_quoc_vin": {
+      "__uuid__": "a3187f25-4c11-462f-9825-a5ae205a6746"
+    },
+    "vuongquocvin": {
+      "__uuid__": "d5c51739-6a64-448c-acc6-5baee5b141db"
+    },
+    "xito": {
+      "__uuid__": "ae77a755-b590-4d81-a2e1-985d615f7ded"
+    },
+    "xizach_bg": {
+      "__uuid__": "bb0d4b88-861e-43cc-a434-5edbadc21019"
+    },
+    "xocdia_bg": {
+      "__uuid__": "bfccb9cc-a7ad-4318-ad9d-8a6ba5f16f18"
+    }
+  }
+}

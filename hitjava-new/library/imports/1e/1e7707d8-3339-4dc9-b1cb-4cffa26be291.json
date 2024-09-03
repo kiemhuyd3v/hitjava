@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thanhquay",
+    "texture": "96cf464c-2d87-4f2e-9bf9-edd46623bac2",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      352,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      358,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_mask_popup",
+    "texture": "d6c17440-6a42-4a81-9813-10c8d6471048",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      478,
+      181
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      478,
+      181
+    ],
+    "capInsets": [
+      133,
+      50,
+      133,
+      50
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoHotline",
+    "texture": "ef8ff438-eda6-4f9d-a82a-f82ab0b6e8e0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

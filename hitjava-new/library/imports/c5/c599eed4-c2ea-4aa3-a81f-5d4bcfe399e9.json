@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_doicau",
+    "texture": "d4bb189e-113f-4536-a0fa-39e65db747c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      174,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      174,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

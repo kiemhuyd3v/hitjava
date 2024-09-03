@@ -1,0 +1,132 @@
+
+iteamjackpot.png
+size: 560,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chammatphai
+  rotate: false
+  xy: 392, 3
+  size: 5, 8
+  orig: 7, 10
+  offset: 1, 1
+  index: -1
+chammatrai
+  rotate: false
+  xy: 382, 3
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+chanphai
+  rotate: false
+  xy: 417, 9
+  size: 22, 24
+  orig: 24, 26
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: false
+  xy: 348, 2
+  size: 32, 31
+  orig: 34, 33
+  offset: 1, 1
+  index: -1
+duoi
+  rotate: false
+  xy: 538, 40
+  size: 12, 21
+  orig: 14, 23
+  offset: 1, 1
+  index: -1
+khay
+  rotate: false
+  xy: 2, 6
+  size: 171, 156
+  orig: 173, 158
+  offset: 1, 1
+  index: -1
+longdau
+  rotate: false
+  xy: 441, 8
+  size: 18, 25
+  orig: 20, 27
+  offset: 1, 1
+  index: -1
+luoi
+  rotate: true
+  xy: 538, 63
+  size: 25, 17
+  orig: 27, 19
+  offset: 1, 1
+  index: -1
+matphai
+  rotate: false
+  xy: 533, 12
+  size: 11, 12
+  orig: 13, 14
+  offset: 1, 1
+  index: -1
+mattrai
+  rotate: true
+  xy: 533, 26
+  size: 12, 14
+  orig: 14, 16
+  offset: 1, 1
+  index: -1
+miphai
+  rotate: false
+  xy: 382, 13
+  size: 33, 20
+  orig: 35, 22
+  offset: 1, 1
+  index: -1
+mitrai
+  rotate: false
+  xy: 497, 22
+  size: 34, 32
+  orig: 36, 34
+  offset: 1, 1
+  index: -1
+mom
+  rotate: true
+  xy: 497, 125
+  size: 37, 61
+  orig: 39, 63
+  offset: 1, 1
+  index: -1
+nen
+  rotate: false
+  xy: 175, 6
+  size: 171, 156
+  orig: 173, 158
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: true
+  xy: 497, 56
+  size: 32, 39
+  orig: 35, 41
+  offset: 2, 1
+  index: -1
+taytrai
+  rotate: true
+  xy: 497, 90
+  size: 33, 54
+  orig: 45, 56
+  offset: 11, 1
+  index: -1
+thanchim
+  rotate: false
+  xy: 348, 35
+  size: 107, 127
+  orig: 109, 129
+  offset: 1, 1
+  index: -1
+txt
+  rotate: true
+  xy: 461, 9
+  size: 153, 34
+  orig: 155, 36
+  offset: 1, 1
+  index: -1

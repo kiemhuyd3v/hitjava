@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khungChat",
+    "texture": "c9af1b9c-5301-4a0f-ac44-728da192b002",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      426,
+      564
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      426,
+      564
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

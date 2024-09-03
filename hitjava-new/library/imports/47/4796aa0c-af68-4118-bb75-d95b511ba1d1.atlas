@@ -1,0 +1,41 @@
+
+animhombonus.png
+size: 729,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: true
+  xy: 673, 130
+  size: 131, 54
+  orig: 131, 54
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 480, 70
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+homkhongnau
+  rotate: false
+  xy: 2, 2
+  size: 237, 259
+  orig: 237, 259
+  offset: 0, 0
+  index: -1
+homnau
+  rotate: false
+  xy: 241, 2
+  size: 237, 259
+  orig: 237, 259
+  offset: 0, 0
+  index: -1
+nap
+  rotate: false
+  xy: 480, 16
+  size: 144, 52
+  orig: 144, 52
+  offset: 0, 0
+  index: -1

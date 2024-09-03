@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim aladin2",
+    "texture": "cdaa3d40-38fd-4eab-af34-acd2506b1ba5",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1996,
+      1017
+    ],
+    "offset": [
+      -23,
+      0.5
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

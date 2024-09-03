@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Agrybird",
+    "texture": "b403d66e-b271-4c23-a1bd-1d181aa082f9",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      871,
+      436
+    ],
+    "offset": [
+      -75.5,
+      37
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "viettel-active",
+    "texture": "b637a4f9-eed5-403f-8991-118768285ba0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res-CardGame-MauBinh-soloMauBinhTinhAt",
+    "texture": "c94f6d7c-9549-4b53-bb71-52c43740a476",
+    "atlas": "2344c841-f7a0-460c-85ae-85f713c3dd67",
+    "rect": [
+      498,
+      198,
+      257,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      257,
+      119
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

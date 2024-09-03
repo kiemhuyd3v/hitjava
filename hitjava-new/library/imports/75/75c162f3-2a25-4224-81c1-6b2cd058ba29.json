@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pokerOn",
+    "texture": "b12f0755-2fb5-41b7-a3d4-578e01d6ff4a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

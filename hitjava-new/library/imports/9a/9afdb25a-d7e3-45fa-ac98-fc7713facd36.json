@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "lobby.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nlobby.png\nsize: 256,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n0_naptien\n  rotate: false\n  xy: 2, 2\n  size: 200, 80\n  orig: 200, 80\n  offset: 0, 0\n  index: -1\n"
+}

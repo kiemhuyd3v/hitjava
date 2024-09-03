@@ -1,0 +1,119 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "btn kichhoat",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "Kích Hoạt Nhận": {
+          "Kích Hoạt Nhận": {
+            "x": -2.51,
+            "width": 215,
+            "y": 0.03,
+            "height": 42
+          }
+        },
+        "2000 VND": {
+          "2000 VND": {
+            "x": 0.91,
+            "width": 69,
+            "y": -0.31,
+            "height": 34
+          }
+        },
+        "Rounded Rectangle 1": {
+          "Rounded Rectangle 1": {
+            "x": -2.91,
+            "width": 271,
+            "y": 2.05,
+            "height": 86
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "./images/",
+      "width": 271,
+      "spine": "3.7.94",
+      "audio": "E:/OUTSOURCE GAME/ACE update/OTHER/Anim other-go88/btn kichhoat",
+      "hash": "IaRnTZcLMKSp/Bme4DcbvW5oOYY",
+      "height": 86
+    },
+    "slots": [
+      {
+        "attachment": "Rounded Rectangle 1",
+        "name": "Rounded Rectangle 1",
+        "bone": "Rounded Rectangle 1"
+      },
+      {
+        "attachment": "Kích Hoạt Nhận",
+        "name": "Kích Hoạt Nhận",
+        "bone": "Kích Hoạt Nhận"
+      },
+      {
+        "attachment": "2000 VND",
+        "name": "2000 VND",
+        "bone": "2000 VND"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "Rounded Rectangle 1",
+        "x": 0.62,
+        "y": 10.56
+      },
+      {
+        "parent": "Rounded Rectangle 1",
+        "name": "Kích Hoạt Nhận",
+        "x": 3.1,
+        "y": 14.02
+      },
+      {
+        "parent": "Rounded Rectangle 1",
+        "name": "2000 VND",
+        "x": -0.33,
+        "y": -16.14
+      }
+    ],
+    "animations": {
+      "animation": {
+        "bones": {
+          "Rounded Rectangle 1": {
+            "scale": [
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1.06,
+                "y": 1.06,
+                "time": 0.1667
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nbtn kichhoat.png\r\nsize: 512,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n2000 VND\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 69, 34\r\n  orig: 69, 34\r\n  offset: 0, 0\r\n  index: -1\r\nKích Hoạt Nhận\r\n  rotate: false\r\n  xy: 275, 82\r\n  size: 215, 42\r\n  orig: 215, 42\r\n  offset: 0, 0\r\n  index: -1\r\nRounded Rectangle 1\r\n  rotate: false\r\n  xy: 2, 38\r\n  size: 271, 86\r\n  orig: 271, 86\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "c45adfc4-75fb-4f62-90cc-d788f492d3b3"
+    }
+  ],
+  "textureNames": [
+    "btn kichhoat.png"
+  ],
+  "scale": 1
+}

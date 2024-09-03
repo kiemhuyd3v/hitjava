@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnCloseChat",
+    "texture": "06ffc452-525d-4360-a6a5-7e5e68c6ce08",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cauhu",
+    "texture": "c3608e3f-b184-42df-90b8-a983a2d2367c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      196,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

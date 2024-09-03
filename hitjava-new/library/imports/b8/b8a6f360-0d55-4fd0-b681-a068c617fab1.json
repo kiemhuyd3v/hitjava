@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pokerBoard",
+    "texture": "d038d14d-bcff-4a6d-b838-d346b2de2d81",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      692,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      692,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

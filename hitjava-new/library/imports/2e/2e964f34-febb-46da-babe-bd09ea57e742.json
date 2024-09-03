@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bmRoboto-Bold",
+    "texture": "769f9353-35fd-460c-a41c-6cdbcaf5f4ba",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      696,
+      633
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      704,
+      640
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

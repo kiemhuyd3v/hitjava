@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_napthe_on",
+    "texture": "ee46971d-2afb-471b-8f41-f30d7e6eec8b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      170,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

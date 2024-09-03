@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tableNap",
+    "texture": "ed75e875-956d-49b2-98ac-715d30bec442",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1120,
+      559
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1120,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

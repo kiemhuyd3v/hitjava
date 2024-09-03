@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dropdown_shop",
+    "texture": "44615e37-42ed-4e50-b90c-9749181cbea8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      347,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      347,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

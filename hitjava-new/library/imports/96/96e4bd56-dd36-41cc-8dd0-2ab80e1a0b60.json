@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgTPKLine",
+    "texture": "87d1011d-5e1b-449b-adb2-dd2d575d6255",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      964,
+      192
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      964,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "tienlen_ingame.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Group 8": {
+      "__uuid__": "cada8b1a-f726-4d07-97c9-c79a4d42b759"
+    },
+    "Layer 175 copy": {
+      "__uuid__": "5eaef845-defa-4851-b92d-502ebbababf6"
+    },
+    "Layer 177": {
+      "__uuid__": "c2e968b0-97d4-4c10-834b-c9405c33434e"
+    },
+    "Layer 179": {
+      "__uuid__": "3c99173a-cc02-410c-82a7-a4581f34243a"
+    },
+    "ava": {
+      "__uuid__": "ac3285fc-11eb-47a3-8d59-5d4f5ca50af8"
+    },
+    "avaboder": {
+      "__uuid__": "617193b1-5610-41c9-91d6-7557674ed475"
+    },
+    "bg_Noti": {
+      "__uuid__": "c9002783-f95b-4d5b-b602-d2b40d488fd6"
+    },
+    "bg_info_player": {
+      "__uuid__": "4b6f6f9b-fcf6-4273-9abc-0e95f3462d5b"
+    },
+    "bg_item_result": {
+      "__uuid__": "abc6f4cd-5371-4ffc-972d-e10ca586d1a5"
+    },
+    "bg_table": {
+      "__uuid__": "94534d80-2957-4783-8ceb-fef0f1eb7321"
+    },
+    "btn_chat": {
+      "__uuid__": "9de7ee89-2137-4270-803b-96b8e9bf7c90"
+    },
+    "btn_infomation": {
+      "__uuid__": "8e5cf327-07f6-4ec4-b444-10a55d2a0ff9"
+    },
+    "gold": {
+      "__uuid__": "7467826f-aeca-4043-9281-fbf6e9beab88"
+    },
+    "ic_back": {
+      "__uuid__": "0796b289-f316-4c65-b82e-e7bfccf12eb7"
+    },
+    "ic_backGame": {
+      "__uuid__": "8d2025e2-b67a-44b0-b6f1-d84db2e38750"
+    },
+    "ic_chu_ban": {
+      "__uuid__": "c97827e6-6e67-47a1-a1e2-ffc5ca186f7a"
+    },
+    "ic_dongho": {
+      "__uuid__": "629c7909-abf7-4115-ae5e-ff2ce3d92c1a"
+    },
+    "ic_send": {
+      "__uuid__": "f7cca540-7cbd-4558-b88f-0d9e175aecd3"
+    },
+    "line": {
+      "__uuid__": "5b5fc57c-db2c-4753-b33f-3298be08d6e2"
+    },
+    "text_lose": {
+      "__uuid__": "f2e69b12-0c83-4254-abd7-1a75bf09be88"
+    },
+    "txt_win": {
+      "__uuid__": "b70fb7e8-7ab8-40c5-ba21-0d89251bf70f"
+    },
+    "xep": {
+      "__uuid__": "90fa8b71-bcb2-4389-8634-8ba390418339"
+    }
+  }
+}

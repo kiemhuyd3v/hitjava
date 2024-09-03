@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "slots_angrybirds_linechooser.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "angrybirds_btn1_line_1": {
+      "__uuid__": "2a8ff60a-a56c-4627-8775-b68c4855d0e3"
+    },
+    "angrybirds_btn1_line_10": {
+      "__uuid__": "d7347db3-0b3b-44e0-9dd3-a734017c6379"
+    },
+    "angrybirds_btn1_line_11": {
+      "__uuid__": "4bd53ccc-4a33-4b68-b336-d6375345907d"
+    },
+    "angrybirds_btn1_line_12": {
+      "__uuid__": "a44bb47c-3ec9-4d76-af42-d8fc8f65e15c"
+    },
+    "angrybirds_btn1_line_13": {
+      "__uuid__": "e5e71465-0b64-492c-846c-acfa677becb0"
+    },
+    "angrybirds_btn1_line_14": {
+      "__uuid__": "7cfe843c-6d5e-4ac7-9132-6ca59b9bbc1d"
+    },
+    "angrybirds_btn1_line_15": {
+      "__uuid__": "c24b6c46-f7bf-46f5-9edb-5406356276fc"
+    },
+    "angrybirds_btn1_line_16": {
+      "__uuid__": "e8349392-6bba-4f7e-9b5b-2bd7e923f26e"
+    },
+    "angrybirds_btn1_line_17": {
+      "__uuid__": "994103a5-79cc-4a72-98ba-ca746a734559"
+    },
+    "angrybirds_btn1_line_18": {
+      "__uuid__": "db11f518-db96-47e0-b708-091244434d89"
+    },
+    "angrybirds_btn1_line_19": {
+      "__uuid__": "77150650-fbf4-43ed-a410-6246271261a0"
+    },
+    "angrybirds_btn1_line_2": {
+      "__uuid__": "02cd3cfd-d265-4b2e-91be-7f0a3f1623a0"
+    },
+    "angrybirds_btn1_line_20": {
+      "__uuid__": "c9f8f93f-e941-4b81-830d-711d92006767"
+    },
+    "angrybirds_btn1_line_3": {
+      "__uuid__": "8b205a71-1763-41e2-8da0-01b086503612"
+    },
+    "angrybirds_btn1_line_4": {
+      "__uuid__": "b51bd9ee-16fc-4de3-983f-8d710476b0f9"
+    },
+    "angrybirds_btn1_line_5": {
+      "__uuid__": "d97e7514-9164-418a-8b49-25176e56cbdc"
+    },
+    "angrybirds_btn1_line_6": {
+      "__uuid__": "9a236b28-4253-4169-a85c-bb0d1aeabae9"
+    },
+    "angrybirds_btn1_line_7": {
+      "__uuid__": "717302cf-490d-4737-bdc9-b712c975880f"
+    },
+    "angrybirds_btn1_line_8": {
+      "__uuid__": "12a0fff4-9164-4a81-8fb9-bf6abd3d417a"
+    },
+    "angrybirds_btn1_line_9": {
+      "__uuid__": "ead850be-586c-4c7c-b8e2-31c7b6f2cd11"
+    },
+    "angrybirds_btn2_line_1": {
+      "__uuid__": "a196b714-2ba1-47f7-9d74-d01fb16600c9"
+    },
+    "angrybirds_btn2_line_10": {
+      "__uuid__": "5646c819-737a-4d7d-874d-5ac0cfed7b81"
+    },
+    "angrybirds_btn2_line_11": {
+      "__uuid__": "b74c123f-d1a2-42c0-b823-8d75049c03c7"
+    },
+    "angrybirds_btn2_line_12": {
+      "__uuid__": "0ae6db72-6993-4570-aa77-8b6a7dacc647"
+    },
+    "angrybirds_btn2_line_13": {
+      "__uuid__": "e8097ac7-67c8-4ffb-b71f-a98c9d8746ec"
+    },
+    "angrybirds_btn2_line_14": {
+      "__uuid__": "8715c0ab-0946-41fc-9661-2d199a6e829a"
+    },
+    "angrybirds_btn2_line_15": {
+      "__uuid__": "61b7246e-c595-45c0-936f-642efe7897d4"
+    },
+    "angrybirds_btn2_line_16": {
+      "__uuid__": "57800efd-7c01-4ce6-b4c2-da8dbcc1227a"
+    },
+    "angrybirds_btn2_line_17": {
+      "__uuid__": "149a9173-cb16-4b24-be3b-e1ef8f75c97f"
+    },
+    "angrybirds_btn2_line_18": {
+      "__uuid__": "096deff2-4884-40bf-a82d-52cece99bc77"
+    },
+    "angrybirds_btn2_line_19": {
+      "__uuid__": "4203c831-4fb0-4168-b191-e484f92886a8"
+    },
+    "angrybirds_btn2_line_2": {
+      "__uuid__": "871251e6-72bd-43af-85a4-560afdf7d614"
+    },
+    "angrybirds_btn2_line_20": {
+      "__uuid__": "76f8a072-b616-4c47-8fbb-c929b09a9982"
+    },
+    "angrybirds_btn2_line_3": {
+      "__uuid__": "45c37ae9-763b-4166-8e45-fee1390da3ea"
+    },
+    "angrybirds_btn2_line_4": {
+      "__uuid__": "2e0a11c1-cf18-4504-9837-4dcb0c22cf69"
+    },
+    "angrybirds_btn2_line_5": {
+      "__uuid__": "bfc5092f-9572-4e36-894f-567fac2b8e87"
+    },
+    "angrybirds_btn2_line_6": {
+      "__uuid__": "8bd23c60-9392-4238-a43a-5ad358ef8d40"
+    },
+    "angrybirds_btn2_line_7": {
+      "__uuid__": "306d6aeb-a9c4-4995-9cd1-1420f66d7b64"
+    },
+    "angrybirds_btn2_line_8": {
+      "__uuid__": "bec97e97-1945-48b1-b31e-61e9375173a9"
+    },
+    "angrybirds_btn2_line_9": {
+      "__uuid__": "0dc9c863-47c6-4b50-a633-cbea9739eb99"
+    },
+    "angrybirds_line_chooser_bg": {
+      "__uuid__": "f6be1d75-3500-4c4b-917b-888bdb54eb0d"
+    },
+    "angrybirds_line_chooser_btn_bochon": {
+      "__uuid__": "974a59db-f6a9-4897-9757-c7f5630b645d"
+    },
+    "angrybirds_line_chooser_btn_bochon2": {
+      "__uuid__": "068a560f-d659-437d-974a-a95809a30b5e"
+    },
+    "angrybirds_line_chooser_btn_dongchan": {
+      "__uuid__": "4c1e2194-2ccd-4bac-ae46-e72b106d79db"
+    },
+    "angrybirds_line_chooser_btn_dongchan2": {
+      "__uuid__": "555eb109-30ba-4424-bc2f-c3ede96bbef9"
+    },
+    "angrybirds_line_chooser_btn_dongle": {
+      "__uuid__": "15c7af0a-8980-4ae5-8f62-dec80c4cd5ab"
+    },
+    "angrybirds_line_chooser_btn_dongle2": {
+      "__uuid__": "f1300f23-281e-4a4e-a44a-dcbf5780e1f2"
+    },
+    "angrybirds_line_chooser_btn_tatca": {
+      "__uuid__": "06e3bd95-958e-49ec-8253-f684b993fa2a"
+    },
+    "angrybirds_line_chooser_btn_tatca2": {
+      "__uuid__": "6af7b854-ba2a-4193-972c-b660843e9e8b"
+    },
+    "angrybirds_line_chooser_close_btn": {
+      "__uuid__": "1f4fc52d-83a8-41fc-9608-3fdf2ae9f40c"
+    }
+  }
+}

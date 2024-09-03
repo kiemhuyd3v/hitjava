@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "B52_IConGameLobby",
+    "texture": "84e880a8-b8fe-4ebe-8bf7-9bce55c0a558",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      984,
+      436
+    ],
+    "offset": [
+      -19,
+      37
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

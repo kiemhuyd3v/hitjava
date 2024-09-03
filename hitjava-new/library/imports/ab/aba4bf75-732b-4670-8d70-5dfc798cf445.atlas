@@ -1,0 +1,307 @@
+
+thanden.png
+size: 1314,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+astren
+  rotate: true
+  xy: 958, 40
+  size: 48, 52
+  orig: 50, 54
+  offset: 1, 1
+  index: -1
+bantayphai
+  rotate: false
+  xy: 656, 8
+  size: 108, 95
+  orig: 110, 97
+  offset: 1, 1
+  index: -1
+bantaytrai
+  rotate: false
+  xy: 958, 90
+  size: 130, 89
+  orig: 132, 91
+  offset: 1, 1
+  index: -1
+baotayphai
+  rotate: false
+  xy: 1090, 7
+  size: 82, 83
+  orig: 84, 85
+  offset: 1, 1
+  index: -1
+baotaytrai
+  rotate: false
+  xy: 479, 5
+  size: 102, 93
+  orig: 104, 95
+  offset: 1, 1
+  index: -1
+bongdau
+  rotate: true
+  xy: 830, 62
+  size: 117, 126
+  orig: 119, 128
+  offset: 1, 1
+  index: -1
+bongden
+  rotate: true
+  xy: 1244, 21
+  size: 52, 25
+  orig: 54, 27
+  offset: 1, 1
+  index: -1
+bongmui
+  rotate: false
+  xy: 1174, 39
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+cam
+  rotate: false
+  xy: 583, 3
+  size: 70, 95
+  orig: 72, 97
+  offset: 1, 1
+  index: -1
+canhtaytrai
+  rotate: true
+  xy: 479, 100
+  size: 167, 175
+  orig: 169, 177
+  offset: 1, 1
+  index: -1
+conmat
+  rotate: true
+  xy: 1174, 6
+  size: 31, 20
+  orig: 33, 22
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 303, 2
+  size: 91, 118
+  orig: 93, 120
+  offset: 1, 1
+  index: -1
+duoithanden
+  rotate: false
+  xy: 303, 95
+  size: 174, 172
+  orig: 176, 174
+  offset: 1, 1
+  index: -1
+hoatai
+  rotate: false
+  xy: 464, 20
+  size: 13, 18
+  orig: 15, 20
+  offset: 1, 1
+  index: -1
+maphai
+  rotate: true
+  xy: 1059, 55
+  size: 33, 27
+  orig: 35, 29
+  offset: 1, 1
+  index: -1
+matrai
+  rotate: true
+  xy: 1210, 14
+  size: 31, 25
+  orig: 33, 27
+  offset: 1, 1
+  index: -1
+maykhoi
+  rotate: true
+  xy: 1090, 92
+  size: 87, 82
+  orig: 89, 84
+  offset: 1, 1
+  index: -1
+mayphai
+  rotate: false
+  xy: 937, 41
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+maytrai
+  rotate: true
+  xy: 817, 85
+  size: 18, 11
+  orig: 20, 13
+  offset: 1, 1
+  index: -1
+miphai
+  rotate: true
+  xy: 937, 18
+  size: 21, 18
+  orig: 23, 20
+  offset: 1, 1
+  index: -1
+mitrai
+  rotate: false
+  xy: 857, 3
+  size: 24, 17
+  orig: 26, 19
+  offset: 1, 1
+  index: -1
+moitren
+  rotate: true
+  xy: 1271, 27
+  size: 46, 24
+  orig: 48, 26
+  offset: 1, 1
+  index: -1
+mui
+  rotate: false
+  xy: 914, 5
+  size: 21, 55
+  orig: 23, 57
+  offset: 1, 1
+  index: -1
+musau
+  rotate: false
+  xy: 817, 22
+  size: 54, 38
+  orig: 56, 40
+  offset: 1, 1
+  index: -1
+mutdrn
+  rotate: true
+  xy: 1200, 143
+  size: 124, 112
+  orig: 126, 114
+  offset: 1, 1
+  index: -1
+napden
+  rotate: false
+  xy: 873, 22
+  size: 39, 38
+  orig: 41, 40
+  offset: 1, 1
+  index: -1
+nenmom
+  rotate: false
+  xy: 957, 3
+  size: 53, 35
+  orig: 55, 37
+  offset: 1, 1
+  index: -1
+ngoc
+  rotate: true
+  xy: 1271, 2
+  size: 23, 27
+  orig: 25, 29
+  offset: 1, 1
+  index: -1
+ngonphai1
+  rotate: false
+  xy: 423, 40
+  size: 52, 53
+  orig: 54, 55
+  offset: 1, 1
+  index: -1
+ngonphai2
+  rotate: false
+  xy: 1012, 37
+  size: 45, 51
+  orig: 47, 53
+  offset: 1, 1
+  index: -1
+ngonphai3
+  rotate: false
+  xy: 423, 2
+  size: 39, 36
+  orig: 41, 38
+  offset: 1, 1
+  index: -1
+ngontrai1
+  rotate: false
+  xy: 1210, 47
+  size: 32, 26
+  orig: 34, 28
+  offset: 1, 1
+  index: -1
+ngontrai2
+  rotate: false
+  xy: 766, 4
+  size: 45, 35
+  orig: 47, 37
+  offset: 1, 1
+  index: -1
+ngontrai3
+  rotate: false
+  xy: 766, 41
+  size: 49, 62
+  orig: 51, 64
+  offset: 1, 1
+  index: -1
+rangduoi
+  rotate: false
+  xy: 813, 2
+  size: 42, 18
+  orig: 44, 20
+  offset: 1, 1
+  index: -1
+rangtren
+  rotate: true
+  xy: 1174, 143
+  size: 36, 24
+  orig: 38, 26
+  offset: 1, 1
+  index: -1
+rauphai
+  rotate: false
+  xy: 883, 6
+  size: 28, 14
+  orig: 30, 16
+  offset: 1, 1
+  index: -1
+rautrai
+  rotate: true
+  xy: 1059, 7
+  size: 46, 26
+  orig: 48, 28
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: true
+  xy: 656, 105
+  size: 162, 172
+  orig: 164, 174
+  offset: 1, 1
+  index: -1
+thambay
+  rotate: false
+  xy: 830, 181
+  size: 368, 86
+  orig: 370, 88
+  offset: 1, 1
+  index: -1
+than
+  rotate: false
+  xy: 2, 16
+  size: 299, 251
+  orig: 301, 253
+  offset: 1, 1
+  index: -1
+thanden
+  rotate: false
+  xy: 1174, 75
+  size: 128, 66
+  orig: 130, 68
+  offset: 1, 1
+  index: -1
+trongmat
+  rotate: false
+  xy: 1012, 3
+  size: 40, 32
+  orig: 42, 34
+  offset: 1, 1
+  index: -1

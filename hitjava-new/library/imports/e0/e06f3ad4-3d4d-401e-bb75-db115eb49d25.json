@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banner_xocdia",
+    "texture": "628cbd9c-271f-41be-9726-053f19481d03",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      399
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      255,
+      399
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

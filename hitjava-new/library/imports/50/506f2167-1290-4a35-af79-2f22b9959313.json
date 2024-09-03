@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tai_xiu",
+    "texture": "32ad48f7-bed1-4d15-8507-b97d6665e44b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      647,
+      465
+    ],
+    "offset": [
+      -187.5,
+      22.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

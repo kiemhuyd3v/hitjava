@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dragon_fire",
+    "texture": "54048d30-ba1f-4dd1-8dc4-5fc5222bae29",
+    "atlas": "",
+    "rect": [
+      1,
+      118,
+      1900,
+      1894
+    ],
+    "offset": [
+      -73,
+      -41
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

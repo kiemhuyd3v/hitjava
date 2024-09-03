@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xhuminipoker",
+    "texture": "f5bd588e-9d12-4c32-bd9a-3524114f9be0",
+    "atlas": "",
+    "rect": [
+      6,
+      3,
+      627,
+      157
+    ],
+    "offset": [
+      2,
+      -0.5
+    ],
+    "originalSize": [
+      635,
+      162
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_bg_cuoc",
+    "texture": "109caf89-253d-4580-8f41-0342343649a0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

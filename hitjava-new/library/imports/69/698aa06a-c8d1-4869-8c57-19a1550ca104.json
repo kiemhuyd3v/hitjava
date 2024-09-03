@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bauHolo",
+    "texture": "b6c6fc19-4e54-4d33-bc18-ab54f60e8911",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      93,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_NormalG",
+    "texture": "225805e1-13e9-4e36-b1ea-78417863ce11",
+    "atlas": "09f04106-8643-4edb-be5b-903bdd7868df",
+    "rect": [
+      747,
+      0,
+      100,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lonuocthanminiggame",
+    "texture": "b96ab521-ab84-46a7-abaf-8104df6c5ce6",
+    "atlas": "",
+    "rect": [
+      17,
+      12,
+      317,
+      318
+    ],
+    "offset": [
+      0.5,
+      1.5
+    ],
+    "originalSize": [
+      350,
+      345
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phan cach",
+    "texture": "cbca2e1f-a6c3-4010-80f5-68305d13ec67",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      11,
+      358
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      11,
+      359
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

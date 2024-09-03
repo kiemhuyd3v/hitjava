@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_Vcoin",
+    "texture": "62e5a394-53b5-40e2-80f7-2fcc631ea342",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

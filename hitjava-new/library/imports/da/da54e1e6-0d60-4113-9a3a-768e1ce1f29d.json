@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_9_bluur",
+    "texture": "88c94f3a-9371-44d2-b1c6-2f01a0c0b532",
+    "atlas": "e00dd47b-9c54-473f-859d-b8ab034c0918",
+    "rect": [
+      105,
+      91,
+      105,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

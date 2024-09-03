@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nutquay",
+    "texture": "75faa2aa-af30-4f6c-bb44-582784fda1b6",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      150,
+      613
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      154,
+      618
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "homnhiemvu",
+    "texture": "dc4b1ea1-fc37-4458-a7df-678ba0022fae",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      278,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      282,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderLichSu",
+    "texture": "bd17886a-8b74-4c0e-bbd3-87c6643a2a9e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      360,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      360,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

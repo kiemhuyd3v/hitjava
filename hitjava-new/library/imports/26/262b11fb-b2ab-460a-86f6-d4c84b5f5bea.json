@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xhuaicap",
+    "texture": "1ffe3fe0-c9b7-4b85-9057-b334e7873809",
+    "atlas": "",
+    "rect": [
+      7,
+      2,
+      494,
+      161
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      504,
+      165
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_napcode",
+    "texture": "7faf8f49-168e-41b9-9b18-1c4163176ed6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

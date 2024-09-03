@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_thoat",
+    "texture": "f1feeab4-55ba-45d8-aafb-36265cf63249",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

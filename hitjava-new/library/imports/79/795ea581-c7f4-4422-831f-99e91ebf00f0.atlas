@@ -1,0 +1,55 @@
+
+miniavtive.png
+size: 393,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as1
+  rotate: true
+  xy: 2, 20
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+as2
+  rotate: true
+  xy: 100, 22
+  size: 96, 94
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+dao
+  rotate: false
+  xy: 329, 2
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+nen1
+  rotate: false
+  xy: 329, 57
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+nen2
+  rotate: true
+  xy: 266, 56
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+quat
+  rotate: true
+  xy: 196, 45
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 196, 14
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1

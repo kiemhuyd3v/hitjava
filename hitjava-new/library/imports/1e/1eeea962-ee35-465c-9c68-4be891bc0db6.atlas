@@ -1,0 +1,41 @@
+
+EffectLogo.png
+size: 998,451
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 466, 38
+  size: 394, 203
+  orig: 394, 203
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 466, 243
+  size: 394, 206
+  orig: 394, 206
+  offset: 0, 0
+  index: -1
+Blur
+  rotate: true
+  xy: 862, 271
+  size: 178, 134
+  orig: 178, 134
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 862, 149
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+efWin
+  rotate: false
+  xy: 2, 2
+  size: 462, 447
+  orig: 462, 447
+  offset: 0, 0
+  index: -1

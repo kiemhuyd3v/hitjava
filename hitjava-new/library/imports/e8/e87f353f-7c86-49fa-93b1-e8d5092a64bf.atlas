@@ -1,0 +1,48 @@
+
+b24win.png
+size: 445,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 5 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 224, 228
+  orig: 226, 230
+  offset: 1, 1
+  index: -1
+Layer 732 copy
+  rotate: true
+  xy: 228, 9
+  size: 221, 96
+  orig: 223, 98
+  offset: 1, 1
+  index: -1
+NYL_MaiSui
+  rotate: false
+  xy: 386, 2
+  size: 57, 89
+  orig: 59, 91
+  offset: 1, 1
+  index: -1
+NYL_MaiSui copy
+  rotate: false
+  xy: 326, 2
+  size: 58, 89
+  orig: 60, 91
+  offset: 1, 1
+  index: -1
+Thắng
+  rotate: true
+  xy: 326, 93
+  size: 137, 66
+  orig: 139, 68
+  offset: 1, 1
+  index: -1
+coin
+  rotate: true
+  xy: 394, 186
+  size: 44, 49
+  orig: 46, 51
+  offset: 1, 1
+  index: -1

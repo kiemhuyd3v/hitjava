@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn-cuoc+",
+    "texture": "712bb122-5a68-47e3-922b-873d5566203f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

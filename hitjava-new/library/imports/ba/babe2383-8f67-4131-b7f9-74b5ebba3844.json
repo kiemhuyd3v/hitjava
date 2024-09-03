@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Crypocopy6",
+    "texture": "e8836d9f-92d3-4535-9b0a-35c206df1068",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      533,
+      1022
+    ],
+    "offset": [
+      -244.5,
+      0
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

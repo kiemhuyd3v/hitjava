@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ictaixiu",
+    "texture": "e46452da-a99c-481b-bd6b-8bff250d37c9",
+    "atlas": "",
+    "rect": [
+      2,
+      8,
+      962,
+      395
+    ],
+    "offset": [
+      -2,
+      -2.5
+    ],
+    "originalSize": [
+      970,
+      406
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

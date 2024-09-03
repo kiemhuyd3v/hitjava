@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TL_Symbol_Phoenix_Gold",
+    "texture": "5b247bef-2482-4ee9-af1c-b8f277d060f6",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      475,
+      427
+    ],
+    "offset": [
+      -1.5,
+      -0.5
+    ],
+    "originalSize": [
+      482,
+      432
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

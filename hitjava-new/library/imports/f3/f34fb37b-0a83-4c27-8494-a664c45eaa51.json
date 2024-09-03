@@ -1,0 +1,167 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cards.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "labai_00": {
+      "__uuid__": "a7e7bc6e-087e-4d03-8c56-461df751f0c8"
+    },
+    "labai_01": {
+      "__uuid__": "e469c426-ce78-4e21-9357-2f21cb84a195"
+    },
+    "labai_02": {
+      "__uuid__": "3017ca82-22a0-4a60-a0ba-d9232e55bb6d"
+    },
+    "labai_03": {
+      "__uuid__": "ffcbe580-8229-44ad-9f93-c824706cfaf3"
+    },
+    "labai_04": {
+      "__uuid__": "32dab5d1-fad2-44ec-8e1d-39f26b57bbe5"
+    },
+    "labai_05": {
+      "__uuid__": "4f87c23b-54eb-4d6d-bafd-3e81854406d3"
+    },
+    "labai_06": {
+      "__uuid__": "7f2facbb-8326-48f2-9941-52cef49dfccd"
+    },
+    "labai_07": {
+      "__uuid__": "a289fc3e-9624-45a6-8265-a3ae01b4ff24"
+    },
+    "labai_08": {
+      "__uuid__": "f754c437-cb32-4f38-acce-5e62b1144ade"
+    },
+    "labai_09": {
+      "__uuid__": "5dcd6394-5985-459f-a435-41b89bc0b5dd"
+    },
+    "labai_10": {
+      "__uuid__": "bc5645fe-acd1-4798-8a44-3265d5ad5747"
+    },
+    "labai_11": {
+      "__uuid__": "c90bbb4f-d937-43e8-9cb3-0c0af16d4221"
+    },
+    "labai_12": {
+      "__uuid__": "3440949d-2477-4165-8939-aa7aaca9dabc"
+    },
+    "labai_13": {
+      "__uuid__": "b73919e3-33bc-4023-86fc-bc117c153089"
+    },
+    "labai_14": {
+      "__uuid__": "886aebb4-8f7d-43be-9c8f-2618cd7d4fc9"
+    },
+    "labai_15": {
+      "__uuid__": "2b6f1f65-9778-49cc-86fa-63b1e225b2e1"
+    },
+    "labai_16": {
+      "__uuid__": "fca45622-7e6c-45f2-870d-32028c24a7e9"
+    },
+    "labai_17": {
+      "__uuid__": "bae2cfb5-d9ba-4aff-a209-89e3f3370485"
+    },
+    "labai_19": {
+      "__uuid__": "3e1a348e-1dd3-43be-82b0-cd453a81e51f"
+    },
+    "labai_18": {
+      "__uuid__": "64237df5-94f6-4c00-acd0-0f8603d48e69"
+    },
+    "labai_20": {
+      "__uuid__": "2344785f-c60a-4bd1-9c6b-0d966577a518"
+    },
+    "labai_21": {
+      "__uuid__": "9aeba296-7c89-448c-aa5f-b49c359b14df"
+    },
+    "labai_22": {
+      "__uuid__": "f4641a2b-f060-4fd1-8827-97aab1c7560f"
+    },
+    "labai_23": {
+      "__uuid__": "347a5988-9e15-4719-a7c1-78ca6d824de2"
+    },
+    "labai_24": {
+      "__uuid__": "50bc1d9b-b8b1-4f59-aa07-d7733565ded0"
+    },
+    "labai_25": {
+      "__uuid__": "0d6a3334-4a90-40fa-af14-9a12f8ba0b78"
+    },
+    "labai_26": {
+      "__uuid__": "ed12fbc7-439a-4b6d-a1a0-7efb29f976ff"
+    },
+    "labai_27": {
+      "__uuid__": "8d7688f5-782b-4220-99ef-e4e716c4afa8"
+    },
+    "labai_28": {
+      "__uuid__": "29638e48-9433-4b64-adc3-fcb7bfa198da"
+    },
+    "labai_29": {
+      "__uuid__": "c6e31bb9-ce0e-4265-8c6f-95267c0be444"
+    },
+    "labai_30": {
+      "__uuid__": "c52d951f-ef39-4143-acfe-e042fd571dce"
+    },
+    "labai_31": {
+      "__uuid__": "c60ced82-808d-4346-90dd-39d9084b8a80"
+    },
+    "labai_32": {
+      "__uuid__": "82952b5c-d10d-43a7-93ed-0ac20aa2daa3"
+    },
+    "labai_33": {
+      "__uuid__": "9f0a7085-38de-497a-8d4b-3971065879c6"
+    },
+    "labai_34": {
+      "__uuid__": "68aabb94-64ee-40ac-9a7b-5b5af75e0198"
+    },
+    "labai_35": {
+      "__uuid__": "8122d625-59be-4c38-a765-7fed20224286"
+    },
+    "labai_36": {
+      "__uuid__": "4d00331d-f832-49c1-a1ac-3cc063b1daa4"
+    },
+    "labai_37": {
+      "__uuid__": "7a7b9a53-3072-48c8-9868-0bf11402e17c"
+    },
+    "labai_38": {
+      "__uuid__": "dfbabb74-82be-41cc-9286-3969f393fb58"
+    },
+    "labai_39": {
+      "__uuid__": "af021b52-3c60-43a4-8090-9dee2838c5ea"
+    },
+    "labai_40": {
+      "__uuid__": "d5c0fbce-3be9-497c-b497-21ccd570b9f3"
+    },
+    "labai_41": {
+      "__uuid__": "72acf084-248d-4bc6-afc0-6fc177a87038"
+    },
+    "labai_42": {
+      "__uuid__": "6c20e732-7dea-4b66-9229-6bceda4f36b8"
+    },
+    "labai_43": {
+      "__uuid__": "f1250e2e-3ad6-45a8-acb9-1800e3c65369"
+    },
+    "labai_44": {
+      "__uuid__": "d1dbac10-b2c3-4242-af49-577358c99e83"
+    },
+    "labai_45": {
+      "__uuid__": "b4db8802-acb7-4109-a8e1-2d7bff424290"
+    },
+    "labai_46": {
+      "__uuid__": "ffdaa70e-8b92-4d23-9ff3-d14033a2dfde"
+    },
+    "labai_47": {
+      "__uuid__": "ffa448bc-3b72-433a-95cf-be62ffc136a0"
+    },
+    "labai_48": {
+      "__uuid__": "14469f0c-4864-4743-aa31-735873e0e0b7"
+    },
+    "labai_49": {
+      "__uuid__": "1b3d902e-edaa-4f43-9815-41bd52543368"
+    },
+    "labai_50": {
+      "__uuid__": "9f8d23d3-54dd-4720-82f5-dd04a0766132"
+    },
+    "labai_51": {
+      "__uuid__": "5478a465-0511-43ea-8ec8-6fb70ed8a9d5"
+    },
+    "labai_52": {
+      "__uuid__": "9827255b-bc11-46bf-8fe1-4d9a34b0fb46"
+    }
+  }
+}

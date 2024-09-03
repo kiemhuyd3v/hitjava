@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon  rol coin 3-01",
+    "texture": "83d6fc38-75bf-4abb-87a8-50ccd119032a",
+    "atlas": "",
+    "rect": [
+      10,
+      10,
+      80,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

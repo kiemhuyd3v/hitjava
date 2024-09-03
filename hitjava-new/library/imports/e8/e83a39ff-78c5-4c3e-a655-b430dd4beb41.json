@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_money",
+    "texture": "305169ab-88b3-49c5-b11d-3242354cab8c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      66
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      173,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

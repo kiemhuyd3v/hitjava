@@ -1,0 +1,111 @@
+
+thangieulon.png
+size: 1245,1123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aochoang
+  rotate: true
+  xy: 484, 3
+  size: 509, 319
+  orig: 509, 319
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 892, 494
+  size: 351, 345
+  orig: 351, 345
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 1074, 2
+  size: 124, 147
+  orig: 124, 147
+  offset: 0, 0
+  index: -1
+gay
+  rotate: true
+  xy: 2, 458
+  size: 663, 276
+  orig: 663, 276
+  offset: 0, 0
+  index: -1
+khanchoang
+  rotate: true
+  xy: 805, 409
+  size: 119, 76
+  orig: 119, 76
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 397, 514
+  size: 607, 107
+  orig: 607, 107
+  offset: 0, 0
+  index: -1
+lua2
+  rotate: false
+  xy: 2, 21
+  size: 480, 435
+  orig: 480, 435
+  offset: 0, 0
+  index: -1
+luagay
+  rotate: true
+  xy: 805, 28
+  size: 205, 267
+  orig: 205, 267
+  offset: 0, 0
+  index: -1
+may
+  rotate: false
+  xy: 506, 530
+  size: 384, 210
+  orig: 384, 210
+  offset: 0, 0
+  index: -1
+rau1
+  rotate: false
+  xy: 805, 841
+  size: 403, 280
+  orig: 403, 280
+  offset: 0, 0
+  index: -1
+rau2
+  rotate: false
+  xy: 883, 235
+  size: 268, 257
+  orig: 268, 257
+  offset: 0, 0
+  index: -1
+taysau
+  rotate: false
+  xy: 795, 750
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+taytruoc
+  rotate: false
+  xy: 1074, 128
+  size: 168, 105
+  orig: 168, 105
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 506, 742
+  size: 287, 379
+  orig: 287, 379
+  offset: 0, 0
+  index: -1
+txttcl
+  rotate: true
+  xy: 280, 458
+  size: 663, 115
+  orig: 663, 115
+  offset: 0, 0
+  index: -1

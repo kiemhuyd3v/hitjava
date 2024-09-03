@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "JackpotIcon_Animation",
+    "texture": "fc12ff11-38a0-49bd-8802-f17be0fc06ab",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      233,
+      233
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      237,
+      237
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

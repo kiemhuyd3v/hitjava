@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daga",
+    "texture": "9bbed4ef-ecbd-487d-95d8-87f540fcdfd5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      295,
+      441
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      295,
+      441
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

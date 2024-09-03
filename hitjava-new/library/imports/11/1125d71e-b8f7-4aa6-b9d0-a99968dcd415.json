@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgTopHu",
+    "texture": "b6482414-42df-4a6f-bf63-def4575d90cc",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1063,
+      633
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      1066,
+      635
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

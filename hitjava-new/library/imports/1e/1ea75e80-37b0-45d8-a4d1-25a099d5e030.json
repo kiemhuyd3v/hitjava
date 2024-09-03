@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bat",
+    "texture": "306423c3-54ff-467f-b410-9a2be405b1de",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      238,
+      223
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      238,
+      223
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

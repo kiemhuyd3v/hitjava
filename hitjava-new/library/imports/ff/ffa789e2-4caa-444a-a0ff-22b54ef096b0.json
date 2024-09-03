@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caiDatICon",
+    "texture": "2136034f-683b-406e-8b3e-dd19acce0d72",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      54
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      136,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

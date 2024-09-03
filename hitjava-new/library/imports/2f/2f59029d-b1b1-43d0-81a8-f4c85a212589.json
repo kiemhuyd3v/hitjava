@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cayhu",
+    "texture": "655d1723-d8bd-4f16-ba72-e4b0d2b3d289",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      196
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      196
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "keno",
+    "texture": "a98fc08b-1dbe-4b1f-8d0c-e17bc543bceb",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      213,
+      220
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      217,
+      221
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

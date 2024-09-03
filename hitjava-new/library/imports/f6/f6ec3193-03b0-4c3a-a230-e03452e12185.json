@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avaboder",
+    "texture": "40e1ff45-0570-46e8-9508-d4a95e6b626a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      163,
+      163
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      163,
+      163
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "STTT-Anim-BonusItem",
+    "texture": "535da8f9-026e-478d-aa38-ec3a425497ed",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      171,
+      517
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      178,
+      523
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

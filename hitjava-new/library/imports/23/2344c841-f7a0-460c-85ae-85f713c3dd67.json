@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "PlistMauBinh.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "res-CardGame-MauBinh-arranging_text": {
+      "__uuid__": "e877851d-666f-4193-8e6f-8d667328df7c"
+    },
+    "res-CardGame-MauBinh-bat_sap_lang": {
+      "__uuid__": "db8624c0-21e0-4029-a0ed-9a8e416ea872"
+    },
+    "res-CardGame-MauBinh-bi_sap_lang": {
+      "__uuid__": "244e5cc6-b6f6-4eb3-9a1f-d203cdb99c2e"
+    },
+    "res-CardGame-MauBinh-btn_arrange_again": {
+      "__uuid__": "afb356cf-9c29-4eff-8563-ad9ae419d601"
+    },
+    "res-CardGame-MauBinh-btn_arrange_bao_binh": {
+      "__uuid__": "70b6cbf0-9aae-4877-b982-d8edbef266f5"
+    },
+    "res-CardGame-MauBinh-btn_arrange_so_chi": {
+      "__uuid__": "9a01c0e0-b7d5-48c7-90aa-ecf1ee5904da"
+    },
+    "res-CardGame-MauBinh-kind_of_chi_slot": {
+      "__uuid__": "d70efd38-abd6-453e-925a-d182f40279a6"
+    },
+    "res-CardGame-MauBinh-maubinh_bg": {
+      "__uuid__": "92f3244d-8d03-409d-85c2-b2b4f2fe85d0"
+    },
+    "res-CardGame-MauBinh-maubinh_chi_bg": {
+      "__uuid__": "625569f5-adec-4e8d-b6f2-efc29b7fef73"
+    },
+    "res-CardGame-MauBinh-maubinh_type_7": {
+      "__uuid__": "fba55a18-119d-47d7-80f6-76f0872e6d68"
+    },
+    "res-CardGame-MauBinh-mb_bg_name": {
+      "__uuid__": "d650c103-6964-4e8e-972e-90fe1a688e9b"
+    },
+    "res-CardGame-MauBinh-player_slot_2": {
+      "__uuid__": "afd290d0-23e6-420d-922f-2ebfea2e0087"
+    },
+    "res-CardGame-MauBinh-rs_culu": {
+      "__uuid__": "9d9b21d7-f1b3-488e-97f0-eba155bc5cf7"
+    },
+    "res-CardGame-MauBinh-rs_doi": {
+      "__uuid__": "e0dbe5e4-83a6-43f1-bdcc-6f51126a3cd4"
+    },
+    "res-CardGame-MauBinh-rs_mauthau": {
+      "__uuid__": "59a8aad6-d13f-4762-bb86-1bdff23554d7"
+    },
+    "res-CardGame-MauBinh-rs_sam": {
+      "__uuid__": "b992fc0f-702e-4d63-b6b4-7f18bce1de03"
+    },
+    "res-CardGame-MauBinh-rs_sanh": {
+      "__uuid__": "6e2c907a-6c1f-4983-b1c4-e89a3d57b264"
+    },
+    "res-CardGame-MauBinh-rs_thu": {
+      "__uuid__": "fa5e1356-1e32-4a79-b2bf-3b5a64538a5a"
+    },
+    "res-CardGame-MauBinh-rs_thung": {
+      "__uuid__": "7eb1b745-51a3-45ca-ae8a-1358d50cb2e1"
+    },
+    "res-CardGame-MauBinh-rs_thungphasanh": {
+      "__uuid__": "405c05a0-9e11-4d55-9ef0-204a8c808c72"
+    },
+    "res-CardGame-MauBinh-rs_tuqui": {
+      "__uuid__": "18f75a51-54a6-42cc-a2bf-c4de6fc95ec4"
+    },
+    "res-CardGame-MauBinh-sap_3_chi": {
+      "__uuid__": "b4c293d0-0c8c-40f8-8fd6-2644891385b6"
+    },
+    "res-CardGame-MauBinh-selectCard": {
+      "__uuid__": "24dae055-6ed9-4590-a2fd-677fda3f78a6"
+    },
+    "res-CardGame-MauBinh-So_At": {
+      "__uuid__": "553e2957-7155-4a70-95c5-5b8de31e4ccd"
+    },
+    "res-CardGame-MauBinh-soloMauBinhTinhAt": {
+      "__uuid__": "3ab14cc7-567f-49fa-a112-77319c590f66"
+    },
+    "res-CardGame-MauBinh-sp_violet": {
+      "__uuid__": "cc5d3865-7332-4b6e-a71d-b854c5ba130b"
+    }
+  }
+}

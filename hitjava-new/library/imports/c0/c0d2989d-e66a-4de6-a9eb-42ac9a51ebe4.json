@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vong",
+    "texture": "190075cc-497f-4b07-ad30-f6be75277207",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      558,
+      572
+    ],
+    "offset": [
+      -8,
+      1
+    ],
+    "originalSize": [
+      580,
+      580
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon lobby",
+    "texture": "0038dca7-4ac3-4413-9614-287f4ca67907",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1508,
+      1508
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1512,
+      1512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angrybirds_bonus",
+    "texture": "f3975119-a040-41c3-ac3a-133b0bd39ab5",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      996,
+      1009
+    ],
+    "offset": [
+      -12,
+      5.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

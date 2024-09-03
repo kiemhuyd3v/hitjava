@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnMinus",
+    "texture": "29fe2238-6fed-4a3f-973a-899896bcaf01",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

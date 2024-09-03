@@ -1,0 +1,97 @@
+
+iteamfreespin.png
+size: 478,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+khay
+  rotate: true
+  xy: 160, 6
+  size: 168, 154
+  orig: 170, 156
+  offset: 1, 1
+  index: -1
+matphai
+  rotate: false
+  xy: 431, 33
+  size: 15, 14
+  orig: 17, 16
+  offset: 1, 1
+  index: -1
+matphai1
+  rotate: true
+  xy: 467, 168
+  size: 6, 7
+  orig: 8, 9
+  offset: 1, 1
+  index: -1
+mattrai1
+  rotate: true
+  xy: 467, 168
+  size: 6, 7
+  orig: 8, 9
+  offset: 1, 1
+  index: -1
+mattrai
+  rotate: false
+  xy: 448, 2
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+mom
+  rotate: true
+  xy: 369, 11
+  size: 48, 42
+  orig: 50, 44
+  offset: 1, 1
+  index: -1
+nen
+  rotate: true
+  xy: 2, 3
+  size: 171, 156
+  orig: 173, 158
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 316, 61
+  size: 113, 115
+  orig: 115, 118
+  offset: 1, 1
+  index: -1
+txt
+  rotate: true
+  xy: 433, 49
+  size: 125, 32
+  orig: 127, 34
+  offset: 1, 1
+  index: -1
+vayduoi
+  rotate: false
+  xy: 316, 7
+  size: 51, 52
+  orig: 53, 54
+  offset: 1, 1
+  index: -1
+vaylung
+  rotate: false
+  xy: 448, 17
+  size: 28, 30
+  orig: 30, 32
+  offset: 1, 1
+  index: -1
+vayphai
+  rotate: false
+  xy: 413, 27
+  size: 16, 32
+  orig: 18, 34
+  offset: 1, 1
+  index: -1
+vaytrai
+  rotate: true
+  xy: 413, 5
+  size: 20, 33
+  orig: 22, 35
+  offset: 1, 1
+  index: -1

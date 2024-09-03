@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bau",
+    "texture": "c64d6e0e-f1ea-4b17-aeb8-3753e684a5fb",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      238,
+      244
+    ],
+    "offset": [
+      -6,
+      3
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

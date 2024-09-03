@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_chat_buble",
+    "texture": "a17102c0-cdf9-46d2-b0b9-43e83704ff45",
+    "atlas": "",
+    "rect": [
+      5,
+      7,
+      479,
+      388
+    ],
+    "offset": [
+      -0.5,
+      -3.5
+    ],
+    "originalSize": [
+      490,
+      395
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

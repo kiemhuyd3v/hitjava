@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loadingonline",
+    "texture": "ae921504-de32-4ffd-b3b1-2c5f66d6f0e7",
+    "atlas": "f3ae58e5-2ebd-4c18-b1d5-1eba2592dbf4",
+    "rect": [
+      1559,
+      105,
+      212,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      43
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

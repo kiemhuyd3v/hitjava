@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daDatCuocOn221Copy2",
+    "texture": "14bf2d76-c11e-495d-b3a8-76d015e9c78c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      147,
+      30
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      147,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderDanhSo",
+    "texture": "36a1bf4f-fa60-4560-b3b3-dd6686365097",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      26
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      102,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

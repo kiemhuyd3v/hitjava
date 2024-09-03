@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_mail",
+    "texture": "d45faf11-5a53-41cc-b193-4f386ca0e55e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

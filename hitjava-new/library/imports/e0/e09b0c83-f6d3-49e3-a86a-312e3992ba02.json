@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnSoKhac",
+    "texture": "9cabb4b3-9bb3-4906-88d9-e42bf2f8110b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      183,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

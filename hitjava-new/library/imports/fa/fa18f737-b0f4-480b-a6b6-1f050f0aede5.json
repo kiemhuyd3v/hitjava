@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "duaxe_line10.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "6e192dd4-aada-44f4-a6b3-2ef01771a819"
+    },
+    "2": {
+      "__uuid__": "ded9c6d7-8261-48e9-8700-cb16b4b664cd"
+    },
+    "3": {
+      "__uuid__": "de184903-eabc-4300-8f81-595a2b6acd36"
+    },
+    "4": {
+      "__uuid__": "d6fa1745-db32-495a-b475-0b061429b120"
+    },
+    "5": {
+      "__uuid__": "b052a8f8-1111-427f-9b63-d4d67934e40f"
+    },
+    "6": {
+      "__uuid__": "f4d1fefd-b467-4978-a139-f2807d658755"
+    },
+    "7": {
+      "__uuid__": "b6c69a1b-cbfa-4bb8-b28e-be26d292ba08"
+    },
+    "8": {
+      "__uuid__": "c7058822-7f13-46d6-ac2d-a9c2c3fc08aa"
+    },
+    "9": {
+      "__uuid__": "ba804b65-68d9-49c2-bc9d-aaa2baf651be"
+    },
+    "10": {
+      "__uuid__": "45c47f66-18b9-4601-9e6e-fd55b2313412"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EffectTheWitcher",
+    "texture": "b7f6f5d8-d8ab-4159-b1d2-39e606c87a9e",
+    "atlas": "",
+    "rect": [
+      2,
+      17,
+      595,
+      578
+    ],
+    "offset": [
+      0,
+      -7.5
+    ],
+    "originalSize": [
+      599,
+      597
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

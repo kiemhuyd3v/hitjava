@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "may xeng",
+    "texture": "8b414128-657b-441a-8428-2066292e6ebc",
+    "atlas": "",
+    "rect": [
+      4,
+      18,
+      1013,
+      996
+    ],
+    "offset": [
+      -1.5,
+      -4
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

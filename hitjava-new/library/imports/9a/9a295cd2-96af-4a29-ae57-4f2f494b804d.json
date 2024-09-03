@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnDownOn",
+    "texture": "7255c00c-8030-44e3-8aab-ce66c8101ee9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      58
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      74,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

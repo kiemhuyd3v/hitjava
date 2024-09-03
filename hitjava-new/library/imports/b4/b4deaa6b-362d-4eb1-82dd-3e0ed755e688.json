@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kho-bau-tu-linh",
+    "texture": "d187f0b6-2397-48b0-9511-16d0eb8bd760",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

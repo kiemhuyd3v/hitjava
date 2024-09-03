@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dauBang",
+    "texture": "83fd7d32-c559-44f6-9e64-22d48943e136",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

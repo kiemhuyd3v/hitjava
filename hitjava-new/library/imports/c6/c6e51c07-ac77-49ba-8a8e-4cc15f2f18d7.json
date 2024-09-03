@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_title_popup",
+    "texture": "1bcb91b0-2816-4a36-9b70-9a3cef316361",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      349,
+      351
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      350,
+      352
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

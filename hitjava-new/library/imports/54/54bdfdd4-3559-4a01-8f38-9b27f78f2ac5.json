@@ -1,0 +1,275 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "traukai",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "KaiistheCollectorfromKungFuPanda3": {
+          "KaiistheCollectorfromKungFuPanda3": {
+            "rotation": -88.21,
+            "x": 155.11,
+            "width": 304,
+            "y": -1.16,
+            "height": 334
+          }
+        },
+        "Layer 1": {
+          "Layer 1": {
+            "rotation": -75.65,
+            "x": 97.42,
+            "width": 175,
+            "y": 14.6,
+            "height": 356
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 309.5,
+      "spine": "3.6.53",
+      "hash": "ZAz7xnihsrgHczMBcdwQTyE5WLs",
+      "height": 521
+    },
+    "slots": [
+      {
+        "attachment": "KaiistheCollectorfromKungFuPanda3",
+        "name": "KaiistheCollectorfromKungFuPanda3",
+        "bone": "KaiistheCollectorfromKungFuPanda3"
+      },
+      {
+        "attachment": "Layer 1",
+        "name": "Layer 1",
+        "bone": "Layer 1"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "rotation": 88.21,
+        "name": "KaiistheCollectorfromKungFuPanda3",
+        "length": 96.05,
+        "x": -6,
+        "y": -155
+      },
+      {
+        "parent": "KaiistheCollectorfromKungFuPanda3",
+        "rotation": -12.56,
+        "name": "Layer 1",
+        "length": 44.38,
+        "x": 234.95,
+        "y": -58.69
+      }
+    ],
+    "animations": {
+      "animation": {
+        "bones": {
+          "KaiistheCollectorfromKungFuPanda3": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 0.98,
+                "y": 1,
+                "time": 1
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 2,
+                "y": 0,
+                "time": 1
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          },
+          "Layer 1": {
+            "rotate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "angle": -1.7,
+                "time": 1
+              },
+              {
+                "angle": 0,
+                "time": 2
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 1
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 1.032,
+                "y": 1,
+                "time": 1
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 2
+              }
+            ],
+            "translate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 9.18,
+                "y": 0.28,
+                "time": 1
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 2
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ntraukai.png\nsize: 485,360\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nKaiistheCollectorfromKungFuPanda3\n  rotate: false\n  xy: 2, 24\n  size: 304, 334\n  orig: 304, 334\n  offset: 0, 0\n  index: -1\nLayer 1\n  rotate: false\n  xy: 308, 2\n  size: 175, 356\n  orig: 175, 356\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "ae4ef652-be0e-4d27-b672-1b8d3be92771"
+    }
+  ],
+  "textureNames": [
+    "traukai.png"
+  ],
+  "scale": 1
+}

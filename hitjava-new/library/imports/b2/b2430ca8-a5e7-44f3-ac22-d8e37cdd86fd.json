@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txtDangKy",
+    "texture": "566b0753-356c-4282-bcd7-692cb42321b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      135,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_giftCode",
+    "texture": "73879cb6-f0b8-4d78-8443-eddf3e9529fe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res-CardGame-MauBinh-mb_bg_name",
+    "texture": "deaadbe6-33fa-46ae-8a13-a83be78f1b6c",
+    "atlas": "e1400530-0339-4c93-9643-d5769aca5cb8",
+    "rect": [
+      770,
+      717,
+      172,
+      166
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      166
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnNextPage",
+    "texture": "423210b7-89ae-47bb-9234-6263c7ac619f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      29,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      29,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

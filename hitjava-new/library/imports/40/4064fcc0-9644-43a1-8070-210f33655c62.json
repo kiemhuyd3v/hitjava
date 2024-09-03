@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Tài xỉu",
+    "texture": "6cd30e47-3e52-497a-a0fc-fb6a723f5945",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1974,
+      475
+    ],
+    "offset": [
+      -35,
+      15.5
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

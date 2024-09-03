@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-hide",
+    "texture": "947c0470-a36c-48e4-9240-5f4112d4b807",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      460,
+      412
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      460,
+      413
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

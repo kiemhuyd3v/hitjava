@@ -1,0 +1,41 @@
+
+mohombonus.png
+size: 995,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+astop
+  rotate: false
+  xy: 2, 4
+  size: 476, 454
+  orig: 476, 454
+  offset: 0, 0
+  index: -1
+astop2
+  rotate: false
+  xy: 733, 231
+  size: 260, 227
+  orig: 260, 227
+  offset: 0, 0
+  index: -1
+astop3
+  rotate: false
+  xy: 733, 2
+  size: 243, 227
+  orig: 243, 227
+  offset: 0, 0
+  index: -1
+homdong
+  rotate: false
+  xy: 480, 4
+  size: 245, 205
+  orig: 245, 205
+  offset: 0, 0
+  index: -1
+hommo
+  rotate: false
+  xy: 480, 211
+  size: 251, 247
+  orig: 251, 247
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "crypto",
+    "texture": "fc65a8b5-c67e-48bf-8488-f4ca34a9e909",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      2043,
+      492
+    ],
+    "offset": [
+      -0.5,
+      7
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

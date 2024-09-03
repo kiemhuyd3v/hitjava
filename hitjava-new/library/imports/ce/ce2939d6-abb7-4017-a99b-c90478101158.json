@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dauhoi",
+    "texture": "49c5591f-6964-4abf-bf3d-8924ef988979",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

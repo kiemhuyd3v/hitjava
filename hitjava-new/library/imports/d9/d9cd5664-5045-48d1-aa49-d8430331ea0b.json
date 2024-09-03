@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NoHu-JackPot-2",
+    "texture": "b2a4408e-fb96-4260-8f19-1abe4db0eeb7",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      4090,
+      4071
+    ],
+    "offset": [
+      -2,
+      10.5
+    ],
+    "originalSize": [
+      4096,
+      4096
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

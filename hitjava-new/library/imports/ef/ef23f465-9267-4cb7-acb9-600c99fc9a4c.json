@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sunwin",
+    "texture": "77ee59e4-84f9-450e-a776-7f37b02ae48c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      517,
+      487
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      517,
+      487
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BtnRut",
+    "texture": "057f3699-6feb-49d9-b678-6128ffa9cac5",
+    "atlas": "",
+    "rect": [
+      27,
+      0,
+      400,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      454,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

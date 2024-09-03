@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shelf_press",
+    "texture": "d04a3ccb-b303-4aab-9aeb-83bfb2d70859",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      435,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      435,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

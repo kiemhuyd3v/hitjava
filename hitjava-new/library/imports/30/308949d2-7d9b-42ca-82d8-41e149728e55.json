@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tabOff",
+    "texture": "72ee2d08-3e2c-479f-b902-5c1b0be29875",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

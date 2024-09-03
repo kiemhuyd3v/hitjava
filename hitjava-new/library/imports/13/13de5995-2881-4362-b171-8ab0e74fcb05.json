@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Samloc",
+    "texture": "e1605b36-bc2f-4495-bb3a-d5aad5cf6c81",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      261,
+      250
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      261,
+      250
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

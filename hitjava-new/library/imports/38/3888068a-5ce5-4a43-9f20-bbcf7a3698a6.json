@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sodu",
+    "texture": "418ba5d0-5925-4f09-927a-b2bac880012a",
+    "atlas": "076fd29e-5e50-41ab-8c80-5b6d6bce01dc",
+    "rect": [
+      0,
+      1448,
+      502,
+      153
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      502,
+      153
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

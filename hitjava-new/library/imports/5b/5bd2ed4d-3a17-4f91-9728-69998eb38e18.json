@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "tantai_item.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "thantai_symbol_1_5": {
+      "__uuid__": "3077e914-858c-46ee-bdb7-ec13452a7659"
+    },
+    "thantai_symbol_1_6": {
+      "__uuid__": "701b2a8c-00ce-4de4-ac38-2e519df55b25"
+    },
+    "thantai_symbol_2_0": {
+      "__uuid__": "a4c07726-680a-414c-a726-04d09f7853a4"
+    },
+    "thantai_symbol_2_1": {
+      "__uuid__": "525202e6-4b15-4513-a17b-8ae7b6fbbe03"
+    },
+    "thantai_symbol_2_9": {
+      "__uuid__": "fad8973b-6cb5-4911-b735-d59dc51e3bde"
+    },
+    "thantai_symbol_3_10": {
+      "__uuid__": "6c129fcc-8d93-4269-9ccd-c030f4a2247c"
+    },
+    "thantai_symbol_3_4": {
+      "__uuid__": "f97b32e0-29d9-425c-87bc-3277fcda5d1f"
+    }
+  }
+}

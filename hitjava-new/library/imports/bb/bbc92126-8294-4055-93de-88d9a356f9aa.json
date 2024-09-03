@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_tien",
+    "texture": "0a4b3b96-706b-4c77-bd3c-effa457af705",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      43
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      29,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

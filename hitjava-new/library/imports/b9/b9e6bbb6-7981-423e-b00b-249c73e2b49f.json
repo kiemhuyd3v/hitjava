@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BanCa-KhungTien",
+    "texture": "0b7d50b7-bd66-4e5a-9cac-c0092632dabe",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      243,
+      125
+    ],
+    "offset": [
+      -3.5,
+      -0.5
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

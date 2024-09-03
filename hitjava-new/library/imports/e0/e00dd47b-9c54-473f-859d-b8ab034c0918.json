@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ngukhung.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "item_1": {
+      "__uuid__": "95f8b6d8-dec2-4e94-8dc9-78e7445e6df0"
+    },
+    "item_10": {
+      "__uuid__": "c2387966-b9a5-46af-be5d-462d639aac9c"
+    },
+    "item_10_blur": {
+      "__uuid__": "02d5a072-6b47-4e1c-a4c5-f8844782df7b"
+    },
+    "item_11": {
+      "__uuid__": "39e7ae0f-acef-44ab-80a9-7350deda3ea7"
+    },
+    "item_11_blur": {
+      "__uuid__": "3e8dd2da-881d-4735-a355-7313022468c2"
+    },
+    "item_12": {
+      "__uuid__": "b03daf60-6b3d-4f4a-89be-656bc0aadf4f"
+    },
+    "item_12_blur": {
+      "__uuid__": "4c4e0aec-9a95-4c13-80ad-eda08934283e"
+    },
+    "item_1_blur": {
+      "__uuid__": "8ad6cd32-9852-4fd2-8ae4-bfa1a3cb58f6"
+    },
+    "item_2": {
+      "__uuid__": "1f14727c-9185-4580-96aa-be42c7bdb1ec"
+    },
+    "item_2_blur": {
+      "__uuid__": "c45220f4-becf-4869-8830-5b8e980b8310"
+    },
+    "item_3": {
+      "__uuid__": "a0e1f0a3-68b6-40e2-8c1a-7047544cc7ca"
+    },
+    "item_3_blur": {
+      "__uuid__": "f2f99c7c-d403-49d8-aa67-d8ca58e8a3eb"
+    },
+    "item_4": {
+      "__uuid__": "6988aa0d-3ecb-4a4d-acc7-5ae87522e94b"
+    },
+    "item_4_blur": {
+      "__uuid__": "a4d31d19-edf9-4e1c-ae72-a0741fc79b91"
+    },
+    "item_5": {
+      "__uuid__": "2486f4ed-e188-4ec2-8b41-e449ba91ce47"
+    },
+    "item_5_blur": {
+      "__uuid__": "e005c21d-adbd-400e-b65e-477bdc09fb67"
+    },
+    "item_6": {
+      "__uuid__": "b4a903d6-ef4c-4ba2-9bb4-fcc45e7f1f15"
+    },
+    "item_6_blur": {
+      "__uuid__": "50a0a53c-ff70-40d7-bc83-db8e2f0ca99f"
+    },
+    "item_7": {
+      "__uuid__": "bc5bc253-f870-49a6-8ed9-a92b508bcbca"
+    },
+    "item_7_blur": {
+      "__uuid__": "4a361c46-60e9-47d1-a54c-179f77e7bb7c"
+    },
+    "item_8": {
+      "__uuid__": "876b5f4c-46f1-4f50-af2f-442bb6189ae8"
+    },
+    "item_8_blur": {
+      "__uuid__": "4a2feded-cb52-4d1c-b206-bbe6c5cda83c"
+    },
+    "item_9": {
+      "__uuid__": "3448970f-a96d-4885-93fa-04322ed10c52"
+    },
+    "item_9_bluur": {
+      "__uuid__": "da54e1e6-0d60-4113-9a3a-768e1ce1f29d"
+    }
+  }
+}

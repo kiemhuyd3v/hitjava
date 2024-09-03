@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tamquoc2",
+    "texture": "534fa869-0043-4e4e-a1b7-48a1e97c9cfa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

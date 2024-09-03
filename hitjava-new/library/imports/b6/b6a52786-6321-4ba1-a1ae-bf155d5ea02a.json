@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_gui_sms",
+    "texture": "b68d4048-2d23-464f-a648-65af456f853f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      409,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      409,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

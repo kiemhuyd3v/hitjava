@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icExit",
+    "texture": "ecdc7baf-e951-4818-9125-5cd32894890e",
+    "atlas": "39a96015-46e8-41ac-9381-522225ea6698",
+    "rect": [
+      190,
+      861,
+      45,
+      49
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      45,
+      50
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

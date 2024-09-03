@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table-dalily-chuyenkhoan-line",
+    "texture": "60e9f298-a783-4592-ac22-b57284706cc0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      614,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      614,
+      1
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

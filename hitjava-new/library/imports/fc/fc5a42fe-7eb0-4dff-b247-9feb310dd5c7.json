@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linemauxanhDUong",
+    "texture": "f00fba69-54d8-408f-9fcd-61deabd93fad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

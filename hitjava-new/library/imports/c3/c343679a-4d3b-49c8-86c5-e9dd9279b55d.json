@@ -1,0 +1,152 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bonus": {
+      "__uuid__": "98bdd0a1-1c9f-4288-8238-4744667be52a"
+    },
+    "bonus_blur": {
+      "__uuid__": "e5dc1934-85b9-4bc3-aff2-304d850614ab"
+    },
+    "box_free": {
+      "__uuid__": "5d6b1d25-4720-4f02-a44a-d5707d614029"
+    },
+    "btn_choithat": {
+      "__uuid__": "f4295ce0-16ad-4dd8-8fbb-6d551c757ce0"
+    },
+    "btn_choithu": {
+      "__uuid__": "0d22d838-a295-4446-8aef-d2506479f1f8"
+    },
+    "btn_giam": {
+      "__uuid__": "31961329-1c6e-43b8-bb39-d730062b0dfd"
+    },
+    "btn_quay": {
+      "__uuid__": "75d8482a-2d53-47a9-999a-ac5d3a8d1740"
+    },
+    "btn_quaynhanh": {
+      "__uuid__": "3226d039-7f70-43a1-b736-fc57c4dcc35b"
+    },
+    "btn_quaynhanh_on": {
+      "__uuid__": "7473c55c-1a0a-4e12-9d19-7456c04f9095"
+    },
+    "btn_tang": {
+      "__uuid__": "68c1601d-fac9-4c06-a9f5-0c0ccc7d5f34"
+    },
+    "btn_tudong": {
+      "__uuid__": "e08500ee-6fcd-44e0-8aa6-155b993648c8"
+    },
+    "btn_tudong_on": {
+      "__uuid__": "766a739c-1249-4db9-a1d8-f33b12baa49a"
+    },
+    "dong": {
+      "__uuid__": "4483f056-4172-4001-9431-b3b51e699f41"
+    },
+    "ic_back": {
+      "__uuid__": "f5d3cc10-9ef1-486f-924b-22991fb2a7b7"
+    },
+    "ic_close": {
+      "__uuid__": "43d6c456-1199-4ce1-af82-ab090059bad9"
+    },
+    "ic_huongdan": {
+      "__uuid__": "a690b57a-9ed9-48aa-8dc0-79bb35e30826"
+    },
+    "ic_lichsu": {
+      "__uuid__": "76f78271-c3a4-437e-ac92-63c83cbbd72d"
+    },
+    "ic_music": {
+      "__uuid__": "707b74e9-77c2-47ad-a5f7-0b0cc659ca18"
+    },
+    "ic_music_off": {
+      "__uuid__": "89f0b440-1df3-4fd3-b105-62d47b5d0218"
+    },
+    "ic_sound": {
+      "__uuid__": "fe483fa9-d96c-42ed-9759-7dbf11c3fd0a"
+    },
+    "ic_sound_off": {
+      "__uuid__": "a01c1ce3-f149-4b92-9af9-81daab77c8fb"
+    },
+    "ic_vinhdanh": {
+      "__uuid__": "6d3f5d6b-2d66-49e0-a12e-98d60056d1e1"
+    },
+    "item_1": {
+      "__uuid__": "5f489c6c-0317-420e-b686-971def735088"
+    },
+    "item_1_blur": {
+      "__uuid__": "d2e88eee-821e-46ea-b6d3-f7ef04ea139e"
+    },
+    "item_2": {
+      "__uuid__": "d9ce9dab-0275-4bc2-8d76-d2235fdb3aac"
+    },
+    "item_2_blur": {
+      "__uuid__": "4199acf9-c267-4f64-bffa-cf0542d5a026"
+    },
+    "item_3": {
+      "__uuid__": "0e29f93f-dc3a-45b7-a0e7-8f0379cb6e3d"
+    },
+    "item_3_blur": {
+      "__uuid__": "84777ae2-c4f3-4b0a-b9d6-8b11a570ff7c"
+    },
+    "item_4": {
+      "__uuid__": "5980c085-7c35-4d92-80a0-ce141cbd2692"
+    },
+    "item_4_blur": {
+      "__uuid__": "844ea626-11d6-461e-af92-d06f1fb4056f"
+    },
+    "item_5": {
+      "__uuid__": "d6fa82e3-0490-417c-831b-3d3273a1535b"
+    },
+    "item_5_blur": {
+      "__uuid__": "7d86d940-e86c-4a30-95d2-f8f0d21e7fb1"
+    },
+    "item_6": {
+      "__uuid__": "e72c39cb-a32c-430e-a626-3204f45cb81e"
+    },
+    "item_6_blur": {
+      "__uuid__": "2b643abc-7d03-49a5-9728-5a936dc67a7d"
+    },
+    "item_7": {
+      "__uuid__": "677190cc-851f-4516-8c62-16473ca28eb8"
+    },
+    "item_7_blur": {
+      "__uuid__": "c7b8e5eb-f9a3-4500-a6ae-5fd858ee55f8"
+    },
+    "jackpot": {
+      "__uuid__": "67230250-d96b-41ea-97a9-a80f8795c05d"
+    },
+    "jackpot_blur": {
+      "__uuid__": "ca2a4150-4f96-4055-b122-42dbec12bfa5"
+    },
+    "muccuoc": {
+      "__uuid__": "9b1c3e3b-6d60-4d2a-bfe0-bc7ddd906a68"
+    },
+    "scatter": {
+      "__uuid__": "8aeca514-f0f1-4d42-b389-d440fe8579fa"
+    },
+    "scatter_blur": {
+      "__uuid__": "8aee01af-8808-418f-898e-4d39a4d6e851"
+    },
+    "title": {
+      "__uuid__": "c1dd3ad8-4603-429e-b8ca-b33807f90b3d"
+    },
+    "title1": {
+      "__uuid__": "7613b003-9558-474c-a29a-58c553af3a84"
+    },
+    "title2": {
+      "__uuid__": "1509e1b4-62f8-49c6-ba84-ca5c8a01b29e"
+    },
+    "title3": {
+      "__uuid__": "a9f56682-9a27-41c1-a997-746b48edcbda"
+    },
+    "tongcuoc": {
+      "__uuid__": "be0177ed-d01c-4e49-aabc-1d0ed4c27c95"
+    },
+    "tongthang": {
+      "__uuid__": "a77f1d91-9410-4b88-80e7-8631bdd16115"
+    },
+    "wild": {
+      "__uuid__": "1fd935e0-e154-468e-8904-59f2d8b155b5"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Poker",
+    "texture": "80eb9954-ba97-4bd3-bbae-c7b0db34e8c5",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      477,
+      247
+    ],
+    "offset": [
+      -16.5,
+      3.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

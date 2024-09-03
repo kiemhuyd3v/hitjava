@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "messenger",
+    "texture": "4b7c6463-d1d6-4de6-b907-cab7c0971f18",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      176,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

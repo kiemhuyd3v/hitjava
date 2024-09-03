@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-san-hu",
+    "texture": "7c432dcb-c65d-433a-bab2-7be8d73e0d78",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      271,
+      415
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      271,
+      415
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

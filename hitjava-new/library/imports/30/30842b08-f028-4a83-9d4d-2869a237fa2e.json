@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab_tophu_off",
+    "texture": "47b95468-5298-4cc9-8028-53c6ff058347",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

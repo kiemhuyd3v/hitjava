@@ -1,0 +1,55 @@
+
+btnauto.png
+size: 436,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2 copy 5
+  rotate: false
+  xy: 2, 47
+  size: 161, 180
+  orig: 161, 180
+  offset: 0, 0
+  index: -1
+btntuquay1
+  rotate: true
+  xy: 2, 229
+  size: 194, 196
+  orig: 196, 197
+  offset: 1, 1
+  index: -1
+btntuquay1-2
+  rotate: false
+  xy: 200, 227
+  size: 194, 196
+  orig: 196, 197
+  offset: 1, 1
+  index: -1
+btntuquay2
+  rotate: true
+  xy: 303, 91
+  size: 134, 131
+  orig: 134, 131
+  offset: 0, 0
+  index: -1
+btntuquay2-2
+  rotate: true
+  xy: 165, 90
+  size: 135, 136
+  orig: 136, 136
+  offset: 1, 0
+  index: -1
+btntuquay3
+  rotate: false
+  xy: 303, 2
+  size: 108, 87
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+btntuquay3-2
+  rotate: false
+  xy: 165, 13
+  size: 119, 75
+  orig: 119, 76
+  offset: 0, 1
+  index: -1

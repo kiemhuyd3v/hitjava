@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mainodin",
+    "texture": "10ce8b4c-f2ea-4c74-b65a-b0d436d3c0cf",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1871,
+      319
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1877,
+      325
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

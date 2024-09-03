@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khung_title_popup",
+    "texture": "c364d72e-9fed-49bc-b109-743e97ba8ed5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      426,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      426,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

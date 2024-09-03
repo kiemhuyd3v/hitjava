@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BoardG_Border_half",
+    "texture": "b858cf63-9526-4f2a-84a9-b054a7f7d237",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      531,
+      552
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      532,
+      553
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

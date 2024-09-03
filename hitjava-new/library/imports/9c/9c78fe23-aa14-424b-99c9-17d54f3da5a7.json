@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title-thongtincanhan",
+    "texture": "84852c5e-e733-4191-a825-bb2b0d286a64",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      318,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      318,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

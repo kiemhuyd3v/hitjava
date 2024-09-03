@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lobby789WebExport",
+    "texture": "4e8e7479-f4fe-4492-b577-234c7c81c1df",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2043,
+      1034
+    ],
+    "offset": [
+      -0.5,
+      505
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

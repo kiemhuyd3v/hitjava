@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_JPWin",
+    "texture": "ab439b7a-2a88-4017-8b57-9e01a4ed75cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2024,
+      1200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2024,
+      1200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

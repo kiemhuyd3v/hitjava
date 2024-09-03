@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderChat2",
+    "texture": "60a40fe4-1b21-42ce-8eba-774acf5eb2e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      274,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

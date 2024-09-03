@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bantay",
+    "texture": "9408fee7-97e3-493d-b570-e7116f911cbf",
+    "atlas": "",
+    "rect": [
+      5,
+      3,
+      200,
+      208
+    ],
+    "offset": [
+      -23,
+      21
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

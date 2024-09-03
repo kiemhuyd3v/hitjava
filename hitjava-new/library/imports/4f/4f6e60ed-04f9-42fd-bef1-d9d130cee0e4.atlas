@@ -1,0 +1,41 @@
+
+Bonusfree.png
+size: 1282,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus
+  rotate: false
+  xy: 1053, 17
+  size: 227, 122
+  orig: 227, 122
+  offset: 0, 0
+  index: -1
+Group 47
+  rotate: true
+  xy: 1053, 141
+  size: 335, 122
+  orig: 335, 122
+  offset: 0, 0
+  index: -1
+as1
+  rotate: true
+  xy: 624, 18
+  size: 458, 427
+  orig: 458, 427
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 2, 2
+  size: 620, 474
+  orig: 620, 474
+  offset: 0, 0
+  index: -1
+game
+  rotate: true
+  xy: 1177, 272
+  size: 204, 102
+  orig: 204, 102
+  offset: 0, 0
+  index: -1

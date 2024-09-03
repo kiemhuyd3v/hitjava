@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toast_slot10",
+    "texture": "09c284f9-9b7a-4b49-b3a5-0fd8f9a059af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      597,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      597,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

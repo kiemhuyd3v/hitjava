@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Small_Icon_5dragon",
+    "texture": "5e99c84a-101c-41c7-ba81-49ff99a67901",
+    "atlas": "10f878a7-f88e-4f74-885d-ada8c93e8a60",
+    "rect": [
+      338,
+      82,
+      91,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "tienlen_lobby.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg": {
+      "__uuid__": "8f7736bb-01f8-42f1-bd51-befc03f1cf5a"
+    },
+    "bg_chip": {
+      "__uuid__": "b959e5e6-fb59-4ab9-b671-de83ff862e94"
+    },
+    "bottom_bar": {
+      "__uuid__": "bb4e304c-0c48-4c09-9ff4-c7fc7cbc5dad"
+    },
+    "btnBack": {
+      "__uuid__": "f5dbcd21-938a-4af2-b079-13a2310f01af"
+    },
+    "btnCreateTable": {
+      "__uuid__": "ff9af4fa-5cab-48b7-96b0-ae6987b07927"
+    },
+    "btnQuickPlay": {
+      "__uuid__": "30967cc5-338e-4042-83ab-9fa7b206755f"
+    },
+    "btn_choingay": {
+      "__uuid__": "c080af5f-0b73-4780-8f44-aa2e4a6b80f3"
+    },
+    "btn_plus": {
+      "__uuid__": "cbe056fe-d465-4325-aa41-00d27d6e5d08"
+    },
+    "btn_refersh": {
+      "__uuid__": "014a45a1-f0b1-4053-9bcf-401f48347885"
+    },
+    "canhbao": {
+      "__uuid__": "7b88ec2c-ef4e-4741-b00b-1a9789445a71"
+    },
+    "icon_refesh": {
+      "__uuid__": "b480d33d-83b5-4d7b-82d0-5f6f04c8c11a"
+    },
+    "item_coins": {
+      "__uuid__": "7da3c783-1ecc-4947-9db8-15fdc631b557"
+    },
+    "text_chonggianlantuyetdoi": {
+      "__uuid__": "60d60b29-5a8d-4631-8489-6ad0f2545843"
+    },
+    "top_bar": {
+      "__uuid__": "de8e25f6-e98f-4403-89cd-44f3d22c4cba"
+    },
+    "txt_tienlen": {
+      "__uuid__": "6e952872-79c8-4eb3-8f3e-1b4e73236d61"
+    }
+  }
+}

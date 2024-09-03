@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nhan-btn-disable",
+    "texture": "6b3dc59a-f051-4c63-92fb-ef78264ce54a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

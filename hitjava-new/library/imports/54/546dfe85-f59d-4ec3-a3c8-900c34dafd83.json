@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thangsieulon",
+    "texture": "d7d35050-bd46-4481-8e0f-ec0a5043f9e6",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      775,
+      847
+    ],
+    "offset": [
+      -121.5,
+      85.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "682ad206-fdc6-4d9a-a9c5-e6b6da47e740"
+    },
+    "2": {
+      "__uuid__": "39d15b64-4350-45ec-a76a-c989a85e53cd"
+    },
+    "3": {
+      "__uuid__": "5f7eff5e-b697-49b8-96c2-754b6a74e132"
+    },
+    "4": {
+      "__uuid__": "70abdd31-d6b6-4e87-a231-b84e57459c04"
+    },
+    "5": {
+      "__uuid__": "dfcf6aa6-e69b-4381-ad41-41f276102ba5"
+    },
+    "6": {
+      "__uuid__": "fd97cae0-6cd4-4ed4-881f-e6d67ae043ef"
+    },
+    "7": {
+      "__uuid__": "2d32393c-10a5-4d5f-a715-8d6444be4bec"
+    },
+    "8": {
+      "__uuid__": "2a41f526-b45f-40e1-9596-7ea8bda1a358"
+    },
+    "9": {
+      "__uuid__": "8053f1de-4f38-4af9-905b-c8a46ffc24ed"
+    },
+    "10": {
+      "__uuid__": "a01b9c79-9dc3-4b58-b8ba-09afe0f1f64f"
+    },
+    "11": {
+      "__uuid__": "04cd5d70-c631-46fb-a8b0-80b1f58d61c1"
+    },
+    "12": {
+      "__uuid__": "493e800c-65ae-4018-9c64-4aafae5b3ab4"
+    },
+    "13": {
+      "__uuid__": "7c85371d-9a24-4653-b0b7-62d0f4cb46b8"
+    },
+    "14": {
+      "__uuid__": "25ac45e4-8720-4c51-8c65-e253a70e2b50"
+    },
+    "15": {
+      "__uuid__": "1724ead0-0db7-4475-8230-38076b7878e4"
+    },
+    "16": {
+      "__uuid__": "9e2630fb-94cc-43c5-b720-a7a5cf5b05e1"
+    },
+    "17": {
+      "__uuid__": "dda6105a-9afb-4db3-9042-7d8d2442dca4"
+    },
+    "18": {
+      "__uuid__": "3524a94f-4595-431f-842a-1cde2f8f6376"
+    },
+    "19": {
+      "__uuid__": "5d11d17b-0cca-496a-a010-f8df89b31c00"
+    },
+    "20": {
+      "__uuid__": "1ac563e5-f792-427f-b8e5-53289719541c"
+    },
+    "21": {
+      "__uuid__": "cb2c0fab-b59b-4856-91a7-2e49ad5dfbcc"
+    },
+    "22": {
+      "__uuid__": "01fe563b-2203-48cf-a320-69f57db6475b"
+    },
+    "23": {
+      "__uuid__": "84c1b962-38be-4c38-baf6-100dbccac783"
+    },
+    "24": {
+      "__uuid__": "a1d82339-aa2a-43f8-954d-b3966d935d3f"
+    },
+    "25": {
+      "__uuid__": "a6f324c4-af38-40b8-8072-5cef82d87fc8"
+    },
+    "10_un": {
+      "__uuid__": "41731190-5120-45e6-a541-3409d2fb6cc8"
+    },
+    "11_un": {
+      "__uuid__": "d0015931-eea2-4889-8f37-94aa25d2cdeb"
+    },
+    "12_un": {
+      "__uuid__": "4959a1ea-a464-458f-b343-0082bf0e6473"
+    },
+    "13_un": {
+      "__uuid__": "4f59349f-88b2-4eb2-a7be-27bb5bf1241d"
+    },
+    "14_un": {
+      "__uuid__": "d68ddf23-e6f2-4cad-8c06-3bc37e19ecd6"
+    },
+    "15_un": {
+      "__uuid__": "ba66e542-9522-4752-84c0-28f656c47b19"
+    },
+    "16_un": {
+      "__uuid__": "26269f8d-3ab6-4e21-89fe-064758f580e0"
+    },
+    "17_un": {
+      "__uuid__": "15da9ae0-58a6-41be-b804-e313860fc20d"
+    },
+    "18_un": {
+      "__uuid__": "2fa2beb3-81d7-469a-b206-bf3944e9f8af"
+    },
+    "19_un": {
+      "__uuid__": "10d200e3-c9be-47ca-9b71-e5508021ddab"
+    },
+    "1_un": {
+      "__uuid__": "dbd424a0-7558-4add-8f86-929dc341c74b"
+    },
+    "20_un": {
+      "__uuid__": "b4208276-1d8e-4047-80f1-cfa78cab5c97"
+    },
+    "21_un": {
+      "__uuid__": "6356c908-520f-4bb5-b36a-4aa29ee1cbaf"
+    },
+    "22_un": {
+      "__uuid__": "6c6fd9fd-3efb-434b-a0be-7cd535e6fdb8"
+    },
+    "23_un": {
+      "__uuid__": "ce049119-a7bf-4e5a-b684-4cd17b108750"
+    },
+    "24_un": {
+      "__uuid__": "aebaea70-1e6a-42eb-85af-2a5a075ee370"
+    },
+    "25_un": {
+      "__uuid__": "a9a99d65-230f-409d-803b-b9e5044aed42"
+    },
+    "2_un": {
+      "__uuid__": "1036327f-0ceb-49fa-94b1-781e1102dcc2"
+    },
+    "3_un": {
+      "__uuid__": "b85cbbb6-ca6c-49b6-8555-6e4d0b2db939"
+    },
+    "4_un": {
+      "__uuid__": "3ba90b5f-e51e-43b0-a88a-b8d175f490fb"
+    },
+    "5_un": {
+      "__uuid__": "d32d57ce-5b76-4f93-b1b2-53141aef9aa0"
+    },
+    "6_un": {
+      "__uuid__": "0f5e7126-2960-4767-9d93-a0a33bb38863"
+    },
+    "7_un": {
+      "__uuid__": "d8465212-de3d-44ed-ada6-8b84101b0833"
+    },
+    "8_un": {
+      "__uuid__": "4c75f721-0d90-42f2-8358-0f2f905e4834"
+    },
+    "9_un": {
+      "__uuid__": "da17f6f4-8471-4339-aef3-1caceacd512e"
+    },
+    "CHOI_THAT": {
+      "__uuid__": "5d6f68bd-0dda-471b-81a7-d9d87a4f80ab"
+    },
+    "CHOI_THU": {
+      "__uuid__": "ba41bc5f-eed5-47ae-959d-483c0412f46c"
+    },
+    "HD_trang_1": {
+      "__uuid__": "0f5d8e2c-6844-427d-9031-51556220910e"
+    },
+    "HD_trang_2": {
+      "__uuid__": "5364e98f-8c49-4a96-8ca8-a548edf1d52f"
+    },
+    "HD_trang_3": {
+      "__uuid__": "ca177782-1c2b-4315-a1e0-6aff323cc3ca"
+    },
+    "HD_trang_4": {
+      "__uuid__": "d1761131-5610-4a79-a8cf-06fab5881f3e"
+    },
+    "bg1": {
+      "__uuid__": "324532f9-91b3-4ee4-a52b-0360920f18db"
+    },
+    "bg_jackpot": {
+      "__uuid__": "367a3c1f-1aac-4f8c-b8cf-a2c3394a05b9"
+    },
+    "bg_thang": {
+      "__uuid__": "76fad32c-554f-4ee1-bbe1-24b769cabc2a"
+    },
+    "btn_back": {
+      "__uuid__": "98747640-be30-4620-bf80-00cd1c369363"
+    },
+    "btn_bo_chon": {
+      "__uuid__": "34413668-dcc5-4e6b-b4b1-754d7db9536f"
+    },
+    "btn_chan": {
+      "__uuid__": "57c86a51-ede4-4493-9b15-87a54f388282"
+    },
+    "btn_le": {
+      "__uuid__": "b6433ab1-401b-4df9-b4dc-62525bdabf18"
+    },
+    "btn_next": {
+      "__uuid__": "e6abff94-b916-446b-a0c4-dc71f4b4702f"
+    },
+    "btn_tat_ca": {
+      "__uuid__": "c648d17b-9b87-48a8-bd75-784332feed6b"
+    },
+    "btn_thoat": {
+      "__uuid__": "427a7159-8e45-4b46-b669-9a8fa76425a3"
+    },
+    "cryto_01": {
+      "__uuid__": "00217f97-edd8-4896-8f6d-3a847958d637"
+    },
+    "cryto_02": {
+      "__uuid__": "d0b184c7-4970-42ed-8c08-b7359f8b7edb"
+    },
+    "cryto_03": {
+      "__uuid__": "cb781b63-836d-45f2-93c6-3822abde24c0"
+    },
+    "cryto_04": {
+      "__uuid__": "3b4f2f13-a5f3-4d34-bec9-dc49a4aa0e45"
+    },
+    "cryto_05": {
+      "__uuid__": "0eff7204-d9a4-41e7-a2a2-9016292ebe86"
+    },
+    "cryto_06": {
+      "__uuid__": "b558e1d1-0d8e-4ab3-9740-7dd7398f4d23"
+    },
+    "cryto_07": {
+      "__uuid__": "9f1b821a-dcf4-4de2-ad5b-9c995e49290a"
+    },
+    "cryto_08": {
+      "__uuid__": "35a99281-6e88-44d7-9210-59c837b47cf4"
+    },
+    "cryto_09": {
+      "__uuid__": "3ae7119c-bcce-4743-aabb-356019b91661"
+    },
+    "cryto_10": {
+      "__uuid__": "a6b3b192-d575-4121-8711-b4b32d56a25c"
+    },
+    "cryto_11": {
+      "__uuid__": "860f3ceb-c2f5-468b-9405-98229ab98aa0"
+    },
+    "cryto_12": {
+      "__uuid__": "01710efa-4371-441b-9b4c-25cff6a65961"
+    },
+    "cryto_13": {
+      "__uuid__": "0d46ed76-7f5d-4e67-9587-406e413d0481"
+    },
+    "cryto_14": {
+      "__uuid__": "80d8a916-49b0-4913-bf0e-3aebb51e8d38"
+    },
+    "cryto_15": {
+      "__uuid__": "42287fd0-26cb-4017-9e87-1ad7ea20cdd9"
+    },
+    "cryto_16": {
+      "__uuid__": "554a722a-1a66-4fc7-8a6a-86af77a8a86b"
+    },
+    "cryto_17": {
+      "__uuid__": "cf05dcf2-a0bb-4f5b-8e09-a706c04f8cf8"
+    },
+    "cryto_18": {
+      "__uuid__": "30ad7356-4205-4847-b1a4-864c0d11c81b"
+    },
+    "cryto_19": {
+      "__uuid__": "388d9832-56c0-45cc-a6fd-0e467dd2eb98"
+    },
+    "cryto_20": {
+      "__uuid__": "d133dbf1-cb37-46ca-8229-e2ad8916660a"
+    },
+    "cryto_21": {
+      "__uuid__": "b1b15aa1-b061-43ad-9980-ff4245f89384"
+    },
+    "cryto_22": {
+      "__uuid__": "bf6ebac1-f7b6-4bc7-8575-6b39564b122d"
+    },
+    "cryto_23": {
+      "__uuid__": "5dbdb15d-1aaf-4562-933f-b1631595f0e0"
+    },
+    "cryto_24": {
+      "__uuid__": "0b0c8359-3dbd-40a1-b940-18c366e089e5"
+    },
+    "line_bg": {
+      "__uuid__": "38678979-e12b-4b67-9c6a-8c07053afbe5"
+    },
+    "pu": {
+      "__uuid__": "4308192d-62be-4671-8c5f-a4f57de52cb9"
+    },
+    "round_bg": {
+      "__uuid__": "6cffdb3f-edfd-426c-8434-e1f3b1d59a9d"
+    },
+    "txt_Bn_game": {
+      "__uuid__": "6099f9cd-4d77-4a5b-9e05-c3110fcbedd8"
+    },
+    "txt_CD": {
+      "__uuid__": "7cd66b61-cadb-47f1-be5b-e13f80e7d25d"
+    },
+    "txt_HD": {
+      "__uuid__": "7e931eeb-28f7-4a51-9798-f9884c3ea012"
+    },
+    "txt_VD": {
+      "__uuid__": "97d42c71-2148-4883-98dc-4b074c1ec616"
+    },
+    "txt_ls": {
+      "__uuid__": "e74d3007-eec1-49b2-b648-c51dc7c574f6"
+    }
+  }
+}

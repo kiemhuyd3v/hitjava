@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_chu_vang",
+    "texture": "fd9898c4-2333-440f-9c5c-5fe88c602e33",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      301,
+      255
+    ],
+    "offset": [
+      -105.5,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

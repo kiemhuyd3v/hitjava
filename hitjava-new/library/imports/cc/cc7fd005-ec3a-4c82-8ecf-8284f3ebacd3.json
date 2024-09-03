@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoline",
+    "texture": "86f317b6-a70a-4037-bfac-0d6ca879a51a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      8,
+      358
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      8,
+      358
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

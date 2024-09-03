@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hotline",
+    "texture": "0d796502-498f-463b-a22a-f3a74cb62c0a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      122,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

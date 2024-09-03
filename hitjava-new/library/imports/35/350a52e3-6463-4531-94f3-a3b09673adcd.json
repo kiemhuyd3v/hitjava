@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pokemminigame",
+    "texture": "fe5b304a-4084-482f-8ef8-6bf8cd7ff4d0",
+    "atlas": "",
+    "rect": [
+      17,
+      12,
+      333,
+      333
+    ],
+    "offset": [
+      8.5,
+      -6
+    ],
+    "originalSize": [
+      350,
+      345
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

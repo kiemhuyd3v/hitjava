@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bannerCayHu",
+    "texture": "c2ba82de-7ca5-4a20-ad90-6e029a5ffe2c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      38
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      184,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

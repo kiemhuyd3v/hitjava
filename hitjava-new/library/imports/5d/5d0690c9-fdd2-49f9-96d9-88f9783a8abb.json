@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sicbo_sieutoc",
+    "texture": "b9f7c3d9-8088-4551-ba27-d105b3169cf2",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1018,
+      1020
+    ],
+    "offset": [
+      -2,
+      1
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

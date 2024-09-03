@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roulette6",
+    "texture": "c9577c65-62cd-4dfa-8ead-61c8b167d735",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      334
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      259,
+      334
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

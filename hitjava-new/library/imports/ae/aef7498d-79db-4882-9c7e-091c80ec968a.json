@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tableGameTo_LV1",
+    "texture": "7094e65b-7ab1-4c60-ae7e-d4ba632acfcc",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      1183,
+      549
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      1184,
+      549
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

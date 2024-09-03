@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_chat_ban",
+    "texture": "27374db3-c456-4bb7-a733-9280e9b205fb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      436,
+      678
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      436,
+      678
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

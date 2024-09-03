@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnHuy",
+    "texture": "a3b79cec-3e20-4c80-a6a3-18b8a24173b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      185,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      185,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

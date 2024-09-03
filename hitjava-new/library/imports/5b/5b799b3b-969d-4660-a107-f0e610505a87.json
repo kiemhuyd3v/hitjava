@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank_vcb",
+    "texture": "6603ca0b-4b9e-4289-81e9-0c23fcc91cd4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      228,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      228,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

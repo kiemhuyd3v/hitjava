@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "temp_captcha",
+    "texture": "ca22ff51-f67a-4516-823e-0398d4ffc252",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      2,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

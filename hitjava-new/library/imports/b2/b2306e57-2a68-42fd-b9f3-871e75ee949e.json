@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab1_slotgame",
+    "texture": "c3b888bd-2fe2-4ed1-9cf9-7175b50c1dd5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      135,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

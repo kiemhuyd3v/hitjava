@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TL_Symbol_Water",
+    "texture": "6f87c487-a5a4-4bf3-8149-1fb811ddce95",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      706,
+      392
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      710,
+      398
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

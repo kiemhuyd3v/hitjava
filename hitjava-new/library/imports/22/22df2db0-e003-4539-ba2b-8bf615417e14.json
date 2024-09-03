@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_tophu1",
+    "texture": "5fb9cf66-eb4d-4d36-88b4-7e522902851d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      201,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      201,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xhupanda",
+    "texture": "6f759591-e63d-4906-ac39-98253d75be75",
+    "atlas": "",
+    "rect": [
+      7,
+      2,
+      510,
+      161
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      520,
+      165
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

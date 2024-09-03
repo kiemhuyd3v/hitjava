@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icCardback",
+    "texture": "26fb46c2-a44a-435a-bf8b-266408d9721a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      156
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      114,
+      157
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

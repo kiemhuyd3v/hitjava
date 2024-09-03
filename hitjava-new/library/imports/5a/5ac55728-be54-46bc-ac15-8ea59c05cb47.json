@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderLine",
+    "texture": "9572cda5-4e65-44a1-88e1-4cfbb077573a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1089,
+      204
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1089,
+      204
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

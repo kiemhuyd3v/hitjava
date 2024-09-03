@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SFUEurostileBold",
+    "texture": "92fb1ed5-facf-4eb6-aa8b-d22f6443c188",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1017,
+      506
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1017,
+      506
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

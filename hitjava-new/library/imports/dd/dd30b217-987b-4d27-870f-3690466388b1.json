@@ -1,0 +1,371 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "activecuadat",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "bgdatactive": {
+          "bgdatactive": {
+            "width": 135,
+            "height": 127
+          }
+        },
+        "lsangactive": {
+          "lsangactive": {
+            "scaleX": 1.518,
+            "scaleY": 1.518,
+            "width": 96,
+            "height": 95
+          }
+        },
+        "mnhaytaixiu": {
+          "mnhaytaixiu": {
+            "width": 107,
+            "height": 86
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 145.78,
+      "spine": "3.6.53",
+      "hash": "DyM3xDQTQclP8zcErC4qZf+3HD0",
+      "height": 144.26
+    },
+    "slots": [
+      {
+        "attachment": "bgdatactive",
+        "name": "bgdatactive",
+        "bone": "bone"
+      },
+      {
+        "attachment": "lsangactive",
+        "blend": "additive",
+        "name": "lsangactive",
+        "bone": "bone2"
+      },
+      {
+        "attachment": "mnhaytaixiu",
+        "blend": "additive",
+        "name": "mnhaytaixiu",
+        "bone": "bone3"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone"
+      },
+      {
+        "parent": "root",
+        "name": "bone2"
+      },
+      {
+        "parent": "root",
+        "name": "bone3"
+      }
+    ],
+    "animations": {
+      "cuataixiu": {
+        "slots": {
+          "bgdatactive": {
+            "color": [
+              {
+                "color": "ffffff01",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff01",
+                "time": 0.8
+              }
+            ]
+          },
+          "lsangactive": {
+            "color": [
+              {
+                "color": "ffffff01",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff01",
+                "time": 0.8
+              }
+            ]
+          },
+          "mnhaytaixiu": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "time": 0
+              },
+              {
+                "color": "ffffff5e",
+                "time": 0.2
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.4
+              },
+              {
+                "color": "ffffff5e",
+                "time": 0.6
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.8
+              }
+            ]
+          }
+        }
+      },
+      "avticecuan": {
+        "slots": {
+          "bgdatactive": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "time": 0
+              },
+              {
+                "color": "ffffff48",
+                "time": 0.2
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.4
+              },
+              {
+                "color": "ffffff48",
+                "time": 0.6
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.8
+              }
+            ]
+          },
+          "lsangactive": {
+            "color": [
+              {
+                "color": "ffffff63",
+                "time": 0
+              },
+              {
+                "color": "ffffffe3",
+                "time": 0.2
+              },
+              {
+                "color": "ffffff63",
+                "time": 0.4
+              },
+              {
+                "color": "ffffffe3",
+                "time": 0.6
+              },
+              {
+                "color": "ffffff63",
+                "time": 0.8
+              }
+            ]
+          },
+          "mnhaytaixiu": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.8
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 120,
+                "time": 0.2667
+              },
+              {
+                "angle": -120,
+                "time": 0.5333
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "bone": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nactivecuadat.png\nsize: 317,139\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbgdatactive\n  rotate: true\n  xy: 2, 2\n  size: 135, 127\n  orig: 135, 127\n  offset: 0, 0\n  index: -1\nlsangactive\n  rotate: false\n  xy: 219, 42\n  size: 96, 95\n  orig: 96, 95\n  offset: 0, 0\n  index: -1\nmnhaytaixiu\n  rotate: true\n  xy: 131, 30\n  size: 107, 86\n  orig: 107, 86\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "57ea2e7f-7755-4dd0-abf3-6077a6e6f175"
+    }
+  ],
+  "textureNames": [
+    "activecuadat.png"
+  ],
+  "scale": 1
+}

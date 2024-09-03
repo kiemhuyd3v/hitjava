@@ -1,0 +1,271 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "iteamjackpot",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "iteam2nen": {
+          "iteam3nen": {
+            "width": 132,
+            "height": 115
+          }
+        },
+        "iteam10": {
+          "wild8": {
+            "width": 191,
+            "height": 184
+          },
+          "wild6": {
+            "width": 191,
+            "height": 184
+          },
+          "wild7": {
+            "width": 191,
+            "height": 184
+          },
+          "wild4": {
+            "width": 191,
+            "height": 184
+          },
+          "wild5": {
+            "width": 191,
+            "height": 184
+          },
+          "wild2": {
+            "width": 191,
+            "height": 184
+          },
+          "wild3": {
+            "width": 191,
+            "height": 184
+          },
+          "wild1": {
+            "width": 191,
+            "height": 184
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 132,
+      "spine": "3.2.01",
+      "hash": "JcEmCWj5rnEYxgSn57PegHqwUa4",
+      "height": 115
+    },
+    "slots": [
+      {
+        "attachment": "iteam3nen",
+        "name": "iteam2nen",
+        "bone": "root"
+      },
+      {
+        "attachment": "wild8",
+        "name": "iteam10",
+        "bone": "iteam"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "scaleX": 0.6,
+        "parent": "root",
+        "scaleY": 0.6,
+        "name": "iteam",
+        "x": 0.99
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "iteam10": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "time": 0
+              }
+            ],
+            "attachment": [
+              {
+                "name": "wild1",
+                "time": 0
+              },
+              {
+                "name": "wild2",
+                "time": 0.0333
+              },
+              {
+                "name": "wild3",
+                "time": 0.0666
+              },
+              {
+                "name": "wild4",
+                "time": 0.1
+              },
+              {
+                "name": "wild5",
+                "time": 0.1333
+              },
+              {
+                "name": "wild6",
+                "time": 0.1666
+              },
+              {
+                "name": "wild7",
+                "time": 0.2
+              },
+              {
+                "name": "wild8",
+                "time": 0.2333
+              },
+              {
+                "name": "wild8",
+                "time": 0.2666
+              },
+              {
+                "name": "wild7",
+                "time": 0.3
+              },
+              {
+                "name": "wild6",
+                "time": 0.3333
+              },
+              {
+                "name": "wild5",
+                "time": 0.3666
+              },
+              {
+                "name": "wild4",
+                "time": 0.4
+              },
+              {
+                "name": "wild3",
+                "time": 0.4333
+              },
+              {
+                "name": "wild2",
+                "time": 0.4666
+              },
+              {
+                "name": "wild1",
+                "time": 0.5
+              },
+              {
+                "name": "wild1",
+                "time": 0.5333
+              }
+            ]
+          }
+        },
+        "bones": {
+          "root": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.6666
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.6666
+              }
+            ],
+            "scale": [
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.6666
+              }
+            ]
+          },
+          "iteam": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.6666
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.6666
+              }
+            ],
+            "scale": [
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.6666
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\niteamjackpot.png\nsize: 1663,188\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\niteam3nen\n  rotate: true\n  xy: 1546, 54\n  size: 132, 115\n  orig: 132, 115\n  offset: 0, 0\n  index: -1\nwild1\n  rotate: false\n  xy: 2, 2\n  size: 191, 184\n  orig: 191, 184\n  offset: 0, 0\n  index: -1\nwild2\n  rotate: false\n  xy: 195, 2\n  size: 191, 184\n  orig: 191, 184\n  offset: 0, 0\n  index: -1\nwild3\n  rotate: false\n  xy: 388, 2\n  size: 191, 184\n  orig: 191, 184\n  offset: 0, 0\n  index: -1\nwild4\n  rotate: false\n  xy: 581, 2\n  size: 191, 184\n  orig: 191, 184\n  offset: 0, 0\n  index: -1\nwild5\n  rotate: false\n  xy: 774, 2\n  size: 191, 184\n  orig: 191, 184\n  offset: 0, 0\n  index: -1\nwild6\n  rotate: false\n  xy: 967, 2\n  size: 191, 184\n  orig: 191, 184\n  offset: 0, 0\n  index: -1\nwild7\n  rotate: false\n  xy: 1160, 2\n  size: 191, 184\n  orig: 191, 184\n  offset: 0, 0\n  index: -1\nwild8\n  rotate: false\n  xy: 1353, 2\n  size: 191, 184\n  orig: 191, 184\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "3c195ddb-6616-4f4b-9c6a-9497b770530a"
+    }
+  ],
+  "textureNames": [
+    "iteamjackpot.png"
+  ],
+  "scale": 1
+}

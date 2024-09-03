@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_tien-export",
+    "texture": "7a626558-2b6e-4ede-a1b9-a006e05c834b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      188
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      187,
+      189
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

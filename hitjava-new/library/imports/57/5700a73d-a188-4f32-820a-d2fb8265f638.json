@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popupdel",
+    "texture": "05bf2fba-0f83-4bae-be43-56ac1f76cc20",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

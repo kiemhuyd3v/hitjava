@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ruong",
+    "texture": "229b259b-82fb-4db0-9d01-3190d8e89283",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      254,
+      219
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      254,
+      219
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

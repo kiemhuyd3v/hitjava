@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thuycung_text_game2",
+    "texture": "6f67345a-fb73-4106-9842-291a2bb964f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      310,
+      312
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      311,
+      313
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

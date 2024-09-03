@@ -1,0 +1,215 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Button_Loc",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "1": {
+          "1": {
+            "width": 306,
+            "height": 47
+          }
+        },
+        "2": {
+          "2": {
+            "width": 306,
+            "height": 47
+          }
+        },
+        "3": {
+          "3": {
+            "width": 306,
+            "height": 47
+          }
+        },
+        "Blur": {
+          "Blur": {
+            "scaleX": 0.34,
+            "scaleY": 0.5,
+            "rotation": -5.91,
+            "width": 178,
+            "y": 6,
+            "height": 134
+          }
+        },
+        "Mask": {
+          "Mask": {
+            "color": "ce3a3a00",
+            "vertices": [
+              -50.64,
+              26.95,
+              -38.71,
+              38.2,
+              57.75,
+              38.28,
+              70.13,
+              26.34,
+              57.44,
+              14.26,
+              -39.2,
+              14.41
+            ],
+            "end": "Mask",
+            "type": "clipping",
+            "vertexCount": 6
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 336.6,
+      "spine": "3.7.93",
+      "audio": "",
+      "hash": "IFdDuKoBHnEvolpCs2BjX22YPnw",
+      "height": 51.7
+    },
+    "slots": [
+      {
+        "attachment": "1",
+        "name": "1",
+        "bone": "bone"
+      },
+      {
+        "attachment": "2",
+        "name": "2",
+        "bone": "bone2"
+      },
+      {
+        "attachment": "3",
+        "name": "3",
+        "bone": "bone3"
+      },
+      {
+        "attachment": "Mask",
+        "name": "Mask",
+        "bone": "Mask"
+      },
+      {
+        "attachment": "Blur",
+        "name": "Blur",
+        "bone": "bone4"
+      }
+    ],
+    "bones": [
+      {
+        "scaleX": 1.1,
+        "scaleY": 1.1,
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone"
+      },
+      {
+        "parent": "root",
+        "name": "bone2"
+      },
+      {
+        "parent": "root",
+        "name": "bone3"
+      },
+      {
+        "scaleX": 0.797,
+        "parent": "root",
+        "rotation": -12.24,
+        "name": "bone4",
+        "x": -97,
+        "y": -0.5
+      },
+      {
+        "parent": "root",
+        "name": "Mask",
+        "x": -9.76,
+        "y": -26.64
+      }
+    ],
+    "animations": {
+      "Button_OFF": {
+        "slots": {
+          "2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "time": 0
+              }
+            ]
+          },
+          "3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "time": 0
+              }
+            ]
+          }
+        }
+      },
+      "Button_ON": {
+        "slots": {
+          "3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped",
+                "time": 0
+              },
+              {
+                "color": "ffffff00",
+                "time": 0.3333
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.5667
+              },
+              {
+                "color": "ffffff00",
+                "time": 1.3333
+              }
+            ]
+          },
+          "Blur": {
+            "color": [
+              {
+                "color": "ffffffb8",
+                "time": 0.3667
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.5333
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone4": {
+            "translate": [
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.3667
+              },
+              {
+                "x": 179.09,
+                "y": 0,
+                "time": 0.7333
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nButton_Loc.png\r\nsize: 310,308\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: false\r\n  xy: 2, 259\r\n  size: 306, 47\r\n  orig: 306, 47\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: false\r\n  xy: 2, 210\r\n  size: 306, 47\r\n  orig: 306, 47\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 2, 161\r\n  size: 306, 47\r\n  orig: 306, 47\r\n  offset: 0, 0\r\n  index: -1\r\nBlur\r\n  rotate: false\r\n  xy: 2, 25\r\n  size: 178, 134\r\n  orig: 178, 134\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "7903e015-9bc0-4aa6-9148-91d325b484e4"
+    }
+  ],
+  "textureNames": [
+    "Button_Loc.png"
+  ],
+  "scale": 1
+}

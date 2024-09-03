@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_chung",
+    "texture": "6bbe4ba9-39a2-484c-81f8-cf0f2fe53fdf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      205,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      205,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

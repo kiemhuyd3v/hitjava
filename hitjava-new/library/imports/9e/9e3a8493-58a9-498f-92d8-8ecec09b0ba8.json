@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading 2_cut",
+    "texture": "df0a1015-e493-4160-88ff-aa176bad6f25",
+    "atlas": "",
+    "rect": [
+      2,
+      12,
+      2044,
+      2031
+    ],
+    "offset": [
+      0,
+      -3.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

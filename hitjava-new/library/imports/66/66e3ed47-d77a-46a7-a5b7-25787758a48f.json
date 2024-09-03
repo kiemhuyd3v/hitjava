@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vienBgPopUp",
+    "texture": "fdbf9304-8733-4aea-8f63-aebea3e03a1e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      626,
+      324
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      626,
+      324
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

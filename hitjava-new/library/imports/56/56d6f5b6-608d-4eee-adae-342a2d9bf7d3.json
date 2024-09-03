@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bonus": {
+      "__uuid__": "5f878e43-19de-4d5f-976a-003eb2c043d1"
+    },
+    "btn_quay": {
+      "__uuid__": "d763b54b-92c9-4534-a298-9dea4eae4b6f"
+    },
+    "btn_sieutoc": {
+      "__uuid__": "e52f0085-bc26-4e51-92e0-0bfb4b04c18d"
+    },
+    "btn_sieutoc_on": {
+      "__uuid__": "fa62a355-334e-4e91-b266-6246cc359d5b"
+    },
+    "btn_tudong": {
+      "__uuid__": "45c6163e-0be5-4a11-93ca-3a85fbe09f53"
+    },
+    "btn_tudong_on": {
+      "__uuid__": "c004db11-746f-405b-860c-b053091b6796"
+    },
+    "choithat": {
+      "__uuid__": "d9d7430f-287f-4138-99d3-611dc5a0bdf4"
+    },
+    "choithu": {
+      "__uuid__": "89f0635e-5c36-4376-b99e-5ba960aaa6dd"
+    },
+    "dong": {
+      "__uuid__": "8e900dfd-8712-45f9-93fd-1ba93e77d52f"
+    },
+    "frame_free": {
+      "__uuid__": "c1c79714-0b10-486b-beb4-512dd39336bc"
+    },
+    "freespin": {
+      "__uuid__": "e0744438-807f-4c3e-b6b1-42709c2f35c9"
+    },
+    "ic_back": {
+      "__uuid__": "c210d865-7bfe-415a-a148-c271e9552872"
+    },
+    "ic_bangthuong": {
+      "__uuid__": "b7734ffb-a25c-42c3-a60a-99e54540e29e"
+    },
+    "ic_bxh": {
+      "__uuid__": "661cca0b-e4fa-4983-b5d1-064f1a3cba8c"
+    },
+    "ic_lichsu": {
+      "__uuid__": "e986d9a7-d0e3-4ef2-890a-21453552fe22"
+    },
+    "ic_menu": {
+      "__uuid__": "a2aad151-bc9b-4f2a-aba2-8c3799fc2c82"
+    },
+    "ic_music": {
+      "__uuid__": "c349c9b7-cf36-4a2e-9d78-8fbb6e6f5a28"
+    },
+    "ic_music_off": {
+      "__uuid__": "f7bef051-95c4-43ba-a373-c27368905eab"
+    },
+    "ic_sound": {
+      "__uuid__": "2c4db958-f968-4256-bb92-633bd378c68a"
+    },
+    "ic_sound_offf": {
+      "__uuid__": "f4c61acd-1bf6-450d-8517-481920887e11"
+    },
+    "item_1": {
+      "__uuid__": "081e2722-526c-4cc6-a1ba-8e1ee4c22992"
+    },
+    "item_2": {
+      "__uuid__": "dbc4775e-6c88-4375-8619-e9939e021e1d"
+    },
+    "item_3": {
+      "__uuid__": "bc0b3657-e171-4859-b2e9-4a432cb62079"
+    },
+    "item_4": {
+      "__uuid__": "97bda2d3-86d0-4309-8285-46c653a47981"
+    },
+    "jackpot": {
+      "__uuid__": "7e453398-1282-45e1-9e45-ee877a1e4d83"
+    },
+    "logo": {
+      "__uuid__": "3215470d-ba55-44b2-bfbe-b02b4126d04e"
+    },
+    "muccuoc": {
+      "__uuid__": "ef2d8ad8-6a24-465c-a5cd-05227e4d149d"
+    },
+    "tongcuoc": {
+      "__uuid__": "5826daca-95e8-4519-8c5f-9eb295708927"
+    },
+    "tongthang": {
+      "__uuid__": "8b05c673-cee4-446c-893d-afd3718aff75"
+    }
+  }
+}

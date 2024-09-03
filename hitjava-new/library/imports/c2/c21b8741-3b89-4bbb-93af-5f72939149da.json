@@ -1,0 +1,497 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Untitled-2",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": [
+      {
+        "attachments": {
+          "ag-casino": {
+            "ag-casino": {
+              "x": 6.23,
+              "width": 93,
+              "y": -0.62,
+              "height": 39
+            }
+          },
+          "Layer 4 copy 2": {
+            "Layer 4 copy 2": {
+              "x": 1.49,
+              "width": 54,
+              "y": 1.56,
+              "height": 38
+            }
+          },
+          "ag casino": {
+            "ag casino": {
+              "x": 3.18,
+              "width": 341,
+              "y": 2.33,
+              "height": 48
+            }
+          },
+          "Layer 4 copy": {
+            "Layer 4 copy": {
+              "x": 0.98,
+              "width": 47,
+              "y": -2.54,
+              "height": 46
+            }
+          },
+          "KhungVang copy": {
+            "KhungVang copy": {
+              "x": -2.22,
+              "width": 346,
+              "y": -19.22,
+              "height": 550
+            }
+          },
+          "Layer 2": {
+            "Layer 2": {
+              "x": -2.22,
+              "width": 346,
+              "y": -19.72,
+              "height": 531
+            }
+          },
+          "Layer 3": {
+            "Layer 3": {
+              "x": -10.53,
+              "width": 356,
+              "y": 28.34,
+              "height": 391
+            }
+          },
+          "Layer 4": {
+            "Layer 4": {
+              "x": -3.86,
+              "width": 79,
+              "y": -2.36,
+              "height": 78
+            }
+          }
+        },
+        "name": "default"
+      }
+    ],
+    "skeleton": {
+      "images": "C:/Users/ADMIN/Desktop/đá/DG/AG/images/",
+      "x": -183.22,
+      "width": 356,
+      "y": -294.22,
+      "spine": "3.8.75",
+      "audio": "C:\\Users\\ADMIN\\Desktop\\đá\\DG\\AG",
+      "hash": "HUHKBStMKO9fgiNgvgsXILnoUwM",
+      "height": 550
+    },
+    "slots": [
+      {
+        "attachment": "Layer 2",
+        "name": "Layer 2",
+        "bone": "root"
+      },
+      {
+        "attachment": "Layer 3",
+        "name": "Layer 3",
+        "bone": "Layer 3"
+      },
+      {
+        "attachment": "KhungVang copy",
+        "name": "KhungVang copy",
+        "bone": "root"
+      },
+      {
+        "attachment": "ag casino",
+        "name": "ag casino",
+        "bone": "ag casino"
+      },
+      {
+        "attachment": "ag-casino",
+        "name": "ag-casino",
+        "bone": "ag-casino"
+      },
+      {
+        "attachment": "Layer 4",
+        "name": "Layer 4",
+        "bone": "Layer 4"
+      },
+      {
+        "attachment": "Layer 4 copy",
+        "name": "Layer 4 copy",
+        "bone": "Layer 4 copy"
+      },
+      {
+        "attachment": "Layer 4 copy 2",
+        "name": "Layer 4 copy 2",
+        "bone": "Layer 4 copy 2"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "Layer 3",
+        "x": 5.31,
+        "y": -43.06
+      },
+      {
+        "parent": "root",
+        "name": "ag casino",
+        "x": -4.9,
+        "y": -212.55
+      },
+      {
+        "parent": "root",
+        "name": "Layer 4",
+        "x": 94.14,
+        "y": 161.14
+      },
+      {
+        "parent": "root",
+        "name": "Layer 4 copy 2",
+        "x": 101.29,
+        "y": 19.22
+      },
+      {
+        "parent": "root",
+        "name": "Layer 4 copy",
+        "x": -92.7,
+        "y": 121.32
+      },
+      {
+        "parent": "root",
+        "name": "ag-casino",
+        "x": -104.95,
+        "y": 197.9
+      }
+    ],
+    "animations": {
+      "animation": {
+        "bones": {
+          "ag-casino": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "time": 0.6667
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": 19.99,
+                "time": 1.3333
+              },
+              {
+                "curve": "stepped",
+                "time": 2
+              },
+              {
+                "time": 2.5
+              }
+            ],
+            "scale": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "x": 1.605,
+                "y": 1.605,
+                "time": 0.6667
+              },
+              {
+                "curve": "stepped",
+                "time": 1.3333
+              },
+              {
+                "curve": "stepped",
+                "time": 2
+              },
+              {
+                "time": 2.5
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "curve": "stepped",
+                "time": 0.6667
+              },
+              {
+                "curve": "stepped",
+                "time": 1.3333
+              },
+              {
+                "curve": "stepped",
+                "time": 2
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          },
+          "Layer 4 copy 2": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -54.55,
+                "time": 0.8333
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": 9.41,
+                "time": 1.6667
+              },
+              {
+                "time": 2.5
+              }
+            ],
+            "translate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": 17.36,
+                "time": 0.8333
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": -25.53,
+                "time": 1.6667
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          },
+          "ag casino": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -4.58,
+                "time": 1
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -4.66,
+                "time": 1.8333
+              },
+              {
+                "time": 2.5
+              }
+            ],
+            "scale": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "x": 1.08,
+                "y": 1.08,
+                "time": 1
+              },
+              {
+                "curve": "stepped",
+                "time": 1.8333
+              },
+              {
+                "time": 2.5
+              }
+            ],
+            "translate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": 19.78,
+                "time": 1
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": -3.96,
+                "time": 1.8333
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          },
+          "Layer 4 copy": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -11.92,
+                "time": 0.8333
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -20.49,
+                "time": 1.6667
+              },
+              {
+                "time": 2.5
+              }
+            ],
+            "translate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": 19.4,
+                "time": 0.8333
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": -15.32,
+                "time": 1.6667
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          },
+          "Layer 3": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": 2.03,
+                "time": 1
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -2.85,
+                "time": 2
+              },
+              {
+                "time": 2.5
+              }
+            ],
+            "translate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": 7.15,
+                "time": 1
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": -6.13,
+                "time": 2
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          },
+          "Layer 4": {
+            "rotate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": -31.86,
+                "time": 0.8333
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "angle": 4.64,
+                "time": 1.5667
+              },
+              {
+                "time": 2.5
+              }
+            ],
+            "translate": [
+              {
+                "c3": 0.75,
+                "curve": 0.25
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": -25.52,
+                "time": 0.8333
+              },
+              {
+                "c3": 0.75,
+                "curve": 0.25,
+                "y": 10.21,
+                "time": 1.5667
+              },
+              {
+                "time": 2.5
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nUntitled-2.png\nsize: 1599,355\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nKhungVang copy\n  rotate: true\n  xy: 393, 9\n  size: 344, 548\n  orig: 346, 550\n  offset: 1, 1\n  index: -1\nLayer 2\n  rotate: true\n  xy: 943, 9\n  size: 344, 529\n  orig: 346, 531\n  offset: 1, 1\n  index: -1\nLayer 3\n  rotate: true\n  xy: 2, 2\n  size: 351, 389\n  orig: 356, 391\n  offset: 4, 1\n  index: -1\nLayer 4\n  rotate: true\n  xy: 1522, 276\n  size: 77, 75\n  orig: 79, 78\n  offset: 1, 2\n  index: -1\nLayer 4 copy\n  rotate: true\n  xy: 1522, 229\n  size: 45, 44\n  orig: 47, 46\n  offset: 1, 1\n  index: -1\nLayer 4 copy 2\n  rotate: true\n  xy: 1522, 84\n  size: 51, 36\n  orig: 54, 38\n  offset: 1, 1\n  index: -1\nag casino\n  rotate: true\n  xy: 1474, 14\n  size: 339, 46\n  orig: 341, 48\n  offset: 1, 1\n  index: -1\nag-casino\n  rotate: true\n  xy: 1522, 137\n  size: 90, 37\n  orig: 93, 39\n  offset: 2, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "8ca20e9d-c834-48ea-a272-b19df7b26b20"
+    }
+  ],
+  "textureNames": [
+    "Untitled-2.png"
+  ],
+  "scale": 1
+}

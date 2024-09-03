@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_vinhdanh",
+    "texture": "98be0abb-0b6d-4a08-adaf-df0e0ce2b76f",
+    "atlas": "e881216a-7044-4bde-be6c-5b06304b1f8a",
+    "rect": [
+      438,
+      865,
+      103,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

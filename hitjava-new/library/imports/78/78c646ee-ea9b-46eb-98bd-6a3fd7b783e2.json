@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "5D_ChoiThuChoiThat",
+    "texture": "9201cdf7-f3e2-454e-b396-22bb76b03146",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      214,
+      498
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      218,
+      503
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

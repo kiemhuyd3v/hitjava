@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderChip",
+    "texture": "415777e9-2383-456f-b0c6-75b5023bc166",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      650,
+      120
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      650,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

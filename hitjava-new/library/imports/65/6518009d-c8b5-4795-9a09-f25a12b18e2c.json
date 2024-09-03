@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hightlighttienhu",
+    "texture": "ebd6fccd-abe9-4614-9c7b-295ed46d70b5",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1067,
+      329
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      1072,
+      334
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

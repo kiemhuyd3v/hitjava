@@ -1,0 +1,445 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "ittrau",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "txt": {
+          "txt": {
+            "x": -4.68,
+            "width": 154,
+            "y": -2.86,
+            "height": 39
+          }
+        },
+        "Layer 571": {
+          "Layer 571": {
+            "x": -0.66,
+            "width": 129,
+            "y": 1.66,
+            "height": 129
+          }
+        },
+        "trau": {
+          "trau": {
+            "rotation": -91.09,
+            "x": 72.16,
+            "width": 167,
+            "y": 10.84,
+            "height": 154
+          }
+        },
+        "nen": {
+          "nen": {
+            "width": 169,
+            "height": 146
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 169,
+      "spine": "3.6.53",
+      "hash": "WRzgVN2H0AgsijbqBR7nOqpEJwk",
+      "height": 169.34
+    },
+    "slots": [
+      {
+        "attachment": "nen",
+        "name": "nen",
+        "bone": "root"
+      },
+      {
+        "attachment": "Layer 571",
+        "name": "Layer 571",
+        "bone": "Layer 571"
+      },
+      {
+        "attachment": "trau",
+        "name": "trau",
+        "bone": "trau"
+      },
+      {
+        "attachment": "txt",
+        "name": "txt",
+        "bone": "txt"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "Layer 571",
+        "x": -1.85,
+        "y": 28.46
+      },
+      {
+        "parent": "root",
+        "rotation": 91.09,
+        "name": "trau",
+        "length": 79.33,
+        "x": 12.21,
+        "y": -67.92
+      },
+      {
+        "parent": "root",
+        "name": "txt",
+        "x": 4.68,
+        "y": -52.36
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "Layer 571": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.276,
+                  0,
+                  0.621,
+                  0.4
+                ],
+                "time": 0
+              },
+              {
+                "color": "ffffff6e",
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.64
+                ],
+                "time": 0.4
+              },
+              {
+                "color": "ffffffff",
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "time": 0.8
+              },
+              {
+                "color": "ffffff6e",
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.64
+                ],
+                "time": 1.2
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.6
+              }
+            ]
+          }
+        },
+        "bones": {
+          "txt": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1.6
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 0.89,
+                "time": 0.8
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1.6
+              }
+            ],
+            "translate": [
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 8.24,
+                "time": 0.8
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ]
+          },
+          "trau": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0.8
+              },
+              {
+                "angle": 0,
+                "time": 1.6
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.276,
+                  0,
+                  0.621,
+                  0.4
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.64
+                ],
+                "x": 1.027,
+                "y": 1,
+                "time": 0.4
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.64
+                ],
+                "x": 1.027,
+                "y": 1,
+                "time": 1.2
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1.6
+              }
+            ],
+            "translate": [
+              {
+                "curve": [
+                  0.276,
+                  0,
+                  0.621,
+                  0.4
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.64
+                ],
+                "x": 0,
+                "y": 0.35,
+                "time": 0.4
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.64
+                ],
+                "x": 0,
+                "y": 0.35,
+                "time": 1.2
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ]
+          },
+          "Layer 571": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 120,
+                "time": 0.5333
+              },
+              {
+                "angle": -120,
+                "time": 1.0667
+              },
+              {
+                "angle": 0,
+                "time": 1.6
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1.6
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.6
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nittrau.png\nsize: 462,174\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLayer 571\n  rotate: false\n  xy: 306, 43\n  size: 129, 129\n  orig: 129, 129\n  offset: 0, 0\n  index: -1\nnen\n  rotate: true\n  xy: 158, 3\n  size: 169, 146\n  orig: 169, 146\n  offset: 0, 0\n  index: -1\ntrau\n  rotate: true\n  xy: 2, 5\n  size: 167, 154\n  orig: 167, 154\n  offset: 0, 0\n  index: -1\ntxt\n  rotate: false\n  xy: 306, 2\n  size: 154, 39\n  orig: 154, 39\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "86dd1c16-2c26-4d7b-b159-f9d5a3a56307"
+    }
+  ],
+  "textureNames": [
+    "ittrau.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skeleton",
+    "texture": "a371abe7-f292-493f-b9c5-7aa5d6ea6485",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      321,
+      228
+    ],
+    "offset": [
+      -93.5,
+      12
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

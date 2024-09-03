@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angrybirds_font_line",
+    "texture": "b30b28c2-4bac-4855-86e0-a5182145f988",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      63
+    ],
+    "offset": [
+      -12.5,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sliderProgress",
+    "texture": "20c3b10a-178d-4f87-aab8-f6af9bc3411e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      3
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      3
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

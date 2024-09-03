@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banggiathe",
+    "texture": "81dcec10-3bfd-4e0f-a63c-74e67ad7ba67",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      462,
+      288
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      462,
+      288
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

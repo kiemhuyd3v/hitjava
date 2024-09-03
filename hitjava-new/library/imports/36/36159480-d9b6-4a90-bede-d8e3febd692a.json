@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pink_text-export",
+    "texture": "0fb8aee0-bf20-4007-9851-39e717e457fa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      462,
+      511
+    ],
+    "offset": [
+      -25,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

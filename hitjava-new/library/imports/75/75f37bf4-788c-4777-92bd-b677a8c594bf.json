@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banbai",
+    "texture": "f362b8d6-334b-44af-8c0c-3d33ebeec0ae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1016,
+      489
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1016,
+      489
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

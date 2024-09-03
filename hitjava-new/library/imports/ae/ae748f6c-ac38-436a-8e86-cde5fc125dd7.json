@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tag-h-tr@2x",
+    "texture": "4c8abe69-fb33-4900-8d37-76dfb9e0aa3e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

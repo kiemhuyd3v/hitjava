@@ -1,0 +1,90 @@
+
+tungx.png
+size: 1159,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 99, 3
+  size: 95, 95
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+d10
+  rotate: false
+  xy: 293, 3
+  size: 95, 95
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+d11
+  rotate: false
+  xy: 390, 2
+  size: 94, 96
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+d12
+  rotate: false
+  xy: 486, 2
+  size: 94, 96
+  orig: 96, 96
+  offset: 2, 0
+  index: -1
+d2
+  rotate: false
+  xy: 678, 3
+  size: 94, 95
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+d3
+  rotate: false
+  xy: 774, 3
+  size: 94, 95
+  orig: 96, 96
+  offset: 2, 0
+  index: -1
+d4
+  rotate: true
+  xy: 2, 2
+  size: 96, 95
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+d5
+  rotate: false
+  xy: 870, 3
+  size: 94, 95
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+d6
+  rotate: false
+  xy: 966, 3
+  size: 94, 95
+  orig: 96, 96
+  offset: 2, 0
+  index: -1
+d7
+  rotate: false
+  xy: 196, 3
+  size: 95, 95
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+d8
+  rotate: true
+  xy: 1062, 4
+  size: 94, 95
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+d9
+  rotate: false
+  xy: 582, 3
+  size: 94, 95
+  orig: 96, 96
+  offset: 2, 0
+  index: -1

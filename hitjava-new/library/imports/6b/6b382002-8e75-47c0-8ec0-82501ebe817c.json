@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icTele",
+    "texture": "11bbadfb-e119-4476-874f-c177c15fbe71",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mini-copy",
+    "texture": "d865ef86-8130-4db9-9915-cb6284dd7d1c",
+    "atlas": "8e26ecca-82ca-45a6-9b08-e3704724db1c",
+    "rect": [
+      1868,
+      1488,
+      105,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      105
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_TotalWin_half",
+    "texture": "6c31e1a7-5f39-4e48-90e5-f0bac228fe74",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      160,
+      112
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      160,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

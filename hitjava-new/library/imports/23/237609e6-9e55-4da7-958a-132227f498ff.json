@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logogo88vtc",
+    "texture": "cc63a581-80ac-4c9e-b5d1-df9d0d7e5545",
+    "atlas": "",
+    "rect": [
+      14,
+      2,
+      208,
+      97
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      232,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

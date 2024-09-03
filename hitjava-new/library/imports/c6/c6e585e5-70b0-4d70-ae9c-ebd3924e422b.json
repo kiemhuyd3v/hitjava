@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnHuyChonDong",
+    "texture": "89a0238b-69d4-45fa-af41-9ea264ffef13",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      151,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      151,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

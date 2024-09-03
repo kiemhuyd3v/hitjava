@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btndaily",
+    "texture": "f402fa41-fc33-43c3-9b7b-4f12ddc961a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      537,
+      608
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      537,
+      608
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

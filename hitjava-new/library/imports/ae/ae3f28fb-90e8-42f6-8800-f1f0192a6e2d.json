@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_banmaybay",
+    "texture": "2bb6cccb-fe9b-471a-9fe8-7904a5087ea4",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      655,
+      488
+    ],
+    "offset": [
+      -183.5,
+      11
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

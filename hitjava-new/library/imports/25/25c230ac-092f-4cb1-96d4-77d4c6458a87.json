@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderPopup",
+    "texture": "57650892-ba8e-4dd6-a556-c41398e4500b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      201,
+      296
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      201,
+      297
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

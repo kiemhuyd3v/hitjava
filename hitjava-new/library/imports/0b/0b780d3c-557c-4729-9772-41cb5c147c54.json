@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "noXiu",
+    "texture": "338bd7a2-1927-4a90-8b64-fdba09624364",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      125,
+      38
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      125,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

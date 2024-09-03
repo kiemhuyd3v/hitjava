@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Anim euro",
+    "texture": "21303b76-ca5f-41b1-9cfa-c388399e3fb1",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      907,
+      985
+    ],
+    "offset": [
+      -56.5,
+      16.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

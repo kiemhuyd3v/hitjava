@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angrybirds_jackpot",
+    "texture": "c5faadc3-e952-4b1f-a11f-080c8d719bf9",
+    "atlas": "",
+    "rect": [
+      2,
+      19,
+      1019,
+      997
+    ],
+    "offset": [
+      -0.5,
+      -5.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

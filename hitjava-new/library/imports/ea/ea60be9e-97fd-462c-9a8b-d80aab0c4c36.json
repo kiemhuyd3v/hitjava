@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_daili",
+    "texture": "47918806-3c9b-4663-91ce-ed94a1c66b7c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      149,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

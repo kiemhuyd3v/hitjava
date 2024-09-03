@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_tx_countdown_fnt",
+    "texture": "a6905b10-a85e-4f75-b497-952b0723b185",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      333,
+      484
+    ],
+    "offset": [
+      -89.5,
+      14
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

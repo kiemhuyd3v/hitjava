@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tayduky_highitem",
+    "texture": "cb708c7f-2880-4319-b25e-3e5a76b20efd",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      964,
+      964
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      968,
+      968
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

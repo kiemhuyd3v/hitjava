@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_HD",
+    "texture": "ed475875-ebb9-46a6-83c6-8628b21bae9f",
+    "atlas": "cf8d6e0a-d171-4e56-becb-a45fb2e90471",
+    "rect": [
+      308,
+      1990,
+      245,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      245,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

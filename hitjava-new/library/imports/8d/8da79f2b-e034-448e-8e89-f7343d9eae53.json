@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "napphao",
+    "texture": "2e7fd3ef-7cd3-4b19-b4f2-1804634cfcc9",
+    "atlas": "",
+    "rect": [
+      1,
+      23,
+      403,
+      642
+    ],
+    "offset": [
+      -53.5,
+      168
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

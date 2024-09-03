@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoTaiAppQr",
+    "texture": "a8595482-6dd7-4d0e-b882-7c0a4a431964",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      88
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      83,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

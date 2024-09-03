@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thanh_load_nen",
+    "texture": "f0f4d6c8-b5e2-487e-a583-c75abaa67f6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      741,
+      14
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      741,
+      14
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

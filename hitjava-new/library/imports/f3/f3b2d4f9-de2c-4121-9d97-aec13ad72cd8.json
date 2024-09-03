@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_JP_minor",
+    "texture": "cf63930f-6237-42fc-959f-c162bca4f855",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      191,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      191,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

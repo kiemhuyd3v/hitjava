@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank_vietcabbank",
+    "texture": "05eda065-1385-440d-8884-7e9953476de4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      290,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      290,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

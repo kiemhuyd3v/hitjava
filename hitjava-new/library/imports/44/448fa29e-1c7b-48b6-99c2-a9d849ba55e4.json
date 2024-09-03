@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "DicesMd5.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "tx_md5_dice_1": {
+      "__uuid__": "22bb70e9-3db1-43a7-adcc-951189f3369a"
+    },
+    "tx_md5_dice_2": {
+      "__uuid__": "d2e50559-1417-4546-bc7e-3b8a6032b3b0"
+    },
+    "tx_md5_dice_3": {
+      "__uuid__": "775636eb-7ddb-4a93-b660-8cb282e0ac79"
+    },
+    "tx_md5_dice_4": {
+      "__uuid__": "02b7851a-50bb-45f7-90bc-943bf28a297a"
+    },
+    "tx_md5_dice_5": {
+      "__uuid__": "01fb6c3a-2e0b-40f4-8ff1-5508705533dd"
+    },
+    "tx_md5_dice_6": {
+      "__uuid__": "2810c9e9-edfb-42c5-b953-c44ca91c97d1"
+    },
+    "tx_md5_xx1_1": {
+      "__uuid__": "254559db-21dd-4634-8a88-8543d3b74963"
+    },
+    "tx_md5_xx1_2": {
+      "__uuid__": "aa9e0b3a-34cb-4da6-9f01-c5a7cefb842d"
+    },
+    "tx_md5_xx1_3": {
+      "__uuid__": "e9fc3450-8bb8-458b-9ec4-609cabe2f898"
+    },
+    "tx_md5_xx1_4": {
+      "__uuid__": "5d37b8dc-aa9f-4c92-bb15-b04d106740de"
+    },
+    "tx_md5_xx1_5": {
+      "__uuid__": "c5b02e6a-2704-47cf-8108-87215a06ac46"
+    },
+    "tx_md5_xx1_6": {
+      "__uuid__": "4c83bd7e-4696-4959-acbb-be029693731d"
+    },
+    "tx_md5_xx2_1": {
+      "__uuid__": "505b6996-f822-4cd8-881b-c59f3003ecb6"
+    },
+    "tx_md5_xx2_2": {
+      "__uuid__": "4d484c69-58db-4e98-906e-066916b84ef5"
+    },
+    "tx_md5_xx2_3": {
+      "__uuid__": "ce8aee8c-18da-40aa-8d2a-8e5c71a6808e"
+    },
+    "tx_md5_xx2_4": {
+      "__uuid__": "70a80cde-5b0e-4b48-b737-9b2440a93a36"
+    },
+    "tx_md5_xx2_5": {
+      "__uuid__": "bcbf47b3-2d4e-4732-baea-eca66d12431d"
+    },
+    "tx_md5_xx2_6": {
+      "__uuid__": "1aae874b-8861-4c8a-9064-df3782464f35"
+    },
+    "tx_md5_xx3_1": {
+      "__uuid__": "c31f946b-e28d-4c58-a9c3-8e591a1da8be"
+    },
+    "tx_md5_xx3_2": {
+      "__uuid__": "d1318c97-e6af-4ae9-8156-b06aaa751f7b"
+    },
+    "tx_md5_xx3_3": {
+      "__uuid__": "bdd3b5fe-0f8c-4774-9034-df74a603eca2"
+    },
+    "tx_md5_xx3_4": {
+      "__uuid__": "ea11f7de-2b83-4081-9d6c-7d43ba746366"
+    },
+    "tx_md5_xx3_5": {
+      "__uuid__": "80d36cb6-35a8-4fcf-ac83-5013ebf49805"
+    },
+    "tx_md5_xx3_6": {
+      "__uuid__": "dfb9c38a-34a8-48a7-8208-0eea018b4de9"
+    }
+  }
+}

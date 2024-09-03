@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wildShow",
+    "texture": "e3dc627d-1f0e-4a67-95b7-1ba5d4880087",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      2011,
+      2018
+    ],
+    "offset": [
+      -15.5,
+      12
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

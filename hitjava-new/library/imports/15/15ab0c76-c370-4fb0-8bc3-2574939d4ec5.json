@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_tl_Xhu-9",
+    "texture": "3d3eebba-4dd9-4d0d-bde2-81e2bfe8b91f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      1279
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      1279
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

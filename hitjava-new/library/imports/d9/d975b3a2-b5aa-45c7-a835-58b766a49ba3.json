@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flashLight4",
+    "texture": "cc48d9b2-4d0c-480b-aa0f-27c55dcba8e5",
+    "atlas": "6040c003-ce33-44f2-a886-192129f52964",
+    "rect": [
+      1,
+      417,
+      512,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

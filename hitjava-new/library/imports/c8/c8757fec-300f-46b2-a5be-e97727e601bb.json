@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_ruttien",
+    "texture": "3b7599f9-4793-4ab7-990f-41c903e80b8d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "conCua",
+    "texture": "75e3d568-2c09-48f3-b15d-d5fd618e4a57",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      115,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

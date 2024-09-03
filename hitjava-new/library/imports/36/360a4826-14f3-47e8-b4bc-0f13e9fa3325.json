@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "facebookbg",
+    "texture": "d6cbe500-0760-413a-b764-165c3e50b293",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      246,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      246,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

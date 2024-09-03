@@ -1,0 +1,153 @@
+
+homsieulon.png
+size: 1599,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 2
+  rotate: true
+  xy: 1555, 145
+  size: 124, 39
+  orig: 124, 39
+  offset: 0, 0
+  index: -1
+Group 2-1
+  rotate: false
+  xy: 248, 47
+  size: 140, 53
+  orig: 140, 53
+  offset: 0, 0
+  index: -1
+Layer 41
+  rotate: false
+  xy: 2, 24
+  size: 244, 245
+  orig: 244, 245
+  offset: 0, 0
+  index: -1
+Layer 42
+  rotate: false
+  xy: 1385, 34
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+hom
+  rotate: false
+  xy: 248, 102
+  size: 179, 167
+  orig: 179, 167
+  offset: 0, 0
+  index: -1
+ls1
+  rotate: true
+  xy: 1493, 37
+  size: 106, 104
+  orig: 148, 137
+  offset: 20, 19
+  index: -1
+ls10
+  rotate: false
+  xy: 1146, 138
+  size: 140, 131
+  orig: 148, 137
+  offset: 2, 3
+  index: -1
+ls11
+  rotate: false
+  xy: 1002, 136
+  size: 142, 133
+  orig: 148, 137
+  offset: 1, 1
+  index: -1
+ls12
+  rotate: false
+  xy: 859, 134
+  size: 141, 135
+  orig: 148, 137
+  offset: 1, 0
+  index: -1
+ls13
+  rotate: false
+  xy: 573, 133
+  size: 141, 136
+  orig: 148, 137
+  offset: 1, 0
+  index: -1
+ls14
+  rotate: false
+  xy: 716, 133
+  size: 141, 136
+  orig: 148, 137
+  offset: 1, 0
+  index: -1
+ls15
+  rotate: false
+  xy: 429, 133
+  size: 142, 136
+  orig: 148, 137
+  offset: 0, 0
+  index: -1
+ls16
+  rotate: false
+  xy: 1002, 2
+  size: 141, 132
+  orig: 148, 137
+  offset: 1, 5
+  index: -1
+ls2
+  rotate: true
+  xy: 1271, 15
+  size: 121, 112
+  orig: 148, 137
+  offset: 11, 15
+  index: -1
+ls3
+  rotate: true
+  xy: 1145, 2
+  size: 132, 124
+  orig: 148, 137
+  offset: 10, 5
+  index: -1
+ls4
+  rotate: false
+  xy: 1427, 152
+  size: 126, 117
+  orig: 148, 137
+  offset: 9, 13
+  index: -1
+ls5
+  rotate: false
+  xy: 708, 4
+  size: 135, 127
+  orig: 148, 137
+  offset: 7, 5
+  index: -1
+ls6
+  rotate: false
+  xy: 429, 2
+  size: 136, 129
+  orig: 148, 137
+  offset: 6, 3
+  index: -1
+ls7
+  rotate: false
+  xy: 1288, 142
+  size: 137, 127
+  orig: 148, 137
+  offset: 5, 5
+  index: -1
+ls8
+  rotate: false
+  xy: 567, 3
+  size: 139, 128
+  orig: 148, 137
+  offset: 3, 5
+  index: -1
+ls9
+  rotate: false
+  xy: 859, 2
+  size: 140, 130
+  orig: 148, 137
+  offset: 2, 3
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "5doi thong",
+    "texture": "55281ce2-22c5-42d0-8c33-c03708bdfaa5",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      2014,
+      504
+    ],
+    "offset": [
+      -13,
+      1
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

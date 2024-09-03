@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iteamchymcanhcut",
+    "texture": "3e33f471-75b8-4ecf-bc7a-a9c76c616d23",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      915,
+      228
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      919,
+      231
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

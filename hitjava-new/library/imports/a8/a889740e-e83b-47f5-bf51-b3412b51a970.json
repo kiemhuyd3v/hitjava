@@ -1,0 +1,228 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anhsang",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "as2": {
+          "as": {
+            "x": 1,
+            "width": 321,
+            "height": 321
+          }
+        },
+        "as": {
+          "as": {
+            "x": 1,
+            "width": 321,
+            "height": 321
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 321,
+      "spine": "3.6.53",
+      "hash": "VasS5XqyEfVUBDl5ftGvWhP0Q58",
+      "height": 321
+    },
+    "slots": [
+      {
+        "attachment": "as",
+        "name": "as",
+        "bone": "as"
+      },
+      {
+        "attachment": "as",
+        "name": "as2",
+        "bone": "as2"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "as",
+        "x": -1
+      },
+      {
+        "parent": "root",
+        "name": "as2",
+        "x": -1
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "as2": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "time": 0
+              },
+              {
+                "color": "ffffff4c",
+                "time": 0.5
+              },
+              {
+                "color": "ffffffff",
+                "time": 1
+              }
+            ]
+          },
+          "as": {
+            "color": [
+              {
+                "color": "ffffff4c",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.5
+              },
+              {
+                "color": "ffffff4c",
+                "time": 1
+              }
+            ]
+          }
+        },
+        "bones": {
+          "as2": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": -120,
+                "time": 0.3333
+              },
+              {
+                "angle": 120,
+                "time": 0.6667
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          },
+          "as": {
+            "rotate": [
+              {
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 120,
+                "time": 0.3333
+              },
+              {
+                "angle": -120,
+                "time": 0.6667
+              },
+              {
+                "angle": 0,
+                "time": 1
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nanhsang.png\nsize: 325,325\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nas\n  rotate: false\n  xy: 2, 2\n  size: 321, 321\n  orig: 321, 321\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "77f7cc7e-5b9d-4021-a42c-f95285940794"
+    }
+  ],
+  "textureNames": [
+    "anhsang.png"
+  ],
+  "scale": 1
+}

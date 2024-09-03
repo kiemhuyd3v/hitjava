@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thanh_load",
+    "texture": "2b739b14-3c48-453d-8732-b01ced965233",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      737,
+      10
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      737,
+      10
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

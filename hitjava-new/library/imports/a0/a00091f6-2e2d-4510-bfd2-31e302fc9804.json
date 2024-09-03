@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Small_Icon_cunghy",
+    "texture": "b2589a9e-793e-4a92-958e-4806ec7641f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

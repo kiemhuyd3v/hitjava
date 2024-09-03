@@ -1,0 +1,307 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "tungx",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "d1": {
+          "d4": {
+            "width": 96,
+            "height": 96
+          },
+          "d5": {
+            "width": 96,
+            "height": 96
+          },
+          "d6": {
+            "width": 96,
+            "height": 96
+          },
+          "d10": {
+            "width": 96,
+            "height": 96
+          },
+          "d7": {
+            "width": 96,
+            "height": 96
+          },
+          "d8": {
+            "width": 96,
+            "height": 96
+          },
+          "d12": {
+            "width": 96,
+            "height": 96
+          },
+          "d9": {
+            "width": 96,
+            "height": 96
+          },
+          "d11": {
+            "width": 96,
+            "height": 96
+          },
+          "d1": {
+            "width": 96,
+            "height": 96
+          },
+          "d2": {
+            "width": 96,
+            "height": 96
+          },
+          "d3": {
+            "width": 96,
+            "height": 96
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 96,
+      "spine": "3.6.53",
+      "hash": "JuKCB1e+mhfm/gSwfepMHa9LDOk",
+      "height": 96
+    },
+    "slots": [
+      {
+        "attachment": "d1",
+        "name": "d1",
+        "bone": "bone"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone"
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "d1": {
+            "attachment": [
+              {
+                "name": "d1",
+                "time": 0
+              },
+              {
+                "name": "d2",
+                "time": 0.0333
+              },
+              {
+                "name": "d3",
+                "time": 0.0667
+              },
+              {
+                "name": "d4",
+                "time": 0.1
+              },
+              {
+                "name": "d5",
+                "time": 0.1333
+              },
+              {
+                "name": "d6",
+                "time": 0.1667
+              },
+              {
+                "name": "d7",
+                "time": 0.2
+              },
+              {
+                "name": "d8",
+                "time": 0.2333
+              },
+              {
+                "name": "d9",
+                "time": 0.2667
+              },
+              {
+                "name": "d10",
+                "time": 0.3
+              },
+              {
+                "name": "d11",
+                "time": 0.3333
+              },
+              {
+                "name": "d12",
+                "time": 0.3667
+              },
+              {
+                "name": "d1",
+                "time": 0.4
+              },
+              {
+                "name": "d2",
+                "time": 0.4333
+              },
+              {
+                "name": "d3",
+                "time": 0.4667
+              },
+              {
+                "name": "d4",
+                "time": 0.5
+              },
+              {
+                "name": "d5",
+                "time": 0.5333
+              },
+              {
+                "name": "d6",
+                "time": 0.5667
+              },
+              {
+                "name": "d7",
+                "time": 0.6
+              },
+              {
+                "name": "d8",
+                "time": 0.6333
+              },
+              {
+                "name": "d9",
+                "time": 0.6667
+              },
+              {
+                "name": "d10",
+                "time": 0.7
+              },
+              {
+                "name": "d11",
+                "time": 0.7333
+              },
+              {
+                "name": "d12",
+                "time": 0.7667
+              },
+              {
+                "name": "d1",
+                "time": 0.8
+              },
+              {
+                "name": "d2",
+                "time": 0.8333
+              },
+              {
+                "name": "d3",
+                "time": 0.8667
+              },
+              {
+                "name": "d4",
+                "time": 0.9
+              },
+              {
+                "name": "d5",
+                "time": 0.9333
+              },
+              {
+                "name": "d6",
+                "time": 0.9667
+              },
+              {
+                "name": "d7",
+                "time": 1
+              },
+              {
+                "name": "d8",
+                "time": 1.0333
+              },
+              {
+                "name": "d9",
+                "time": 1.0667
+              },
+              {
+                "name": "d10",
+                "time": 1.1
+              },
+              {
+                "name": "d11",
+                "time": 1.1333
+              },
+              {
+                "name": "d12",
+                "time": 1.1667
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 1.1667
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              }
+            ],
+            "scale": [
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1.166,
+                "y": 1.166,
+                "time": 0.6
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 1.1667
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 1.1667
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ntungx.png\nsize: 1159,100\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nd1\n  rotate: false\n  xy: 99, 3\n  size: 95, 95\n  orig: 96, 96\n  offset: 1, 0\n  index: -1\nd10\n  rotate: false\n  xy: 293, 3\n  size: 95, 95\n  orig: 96, 96\n  offset: 1, 0\n  index: -1\nd11\n  rotate: false\n  xy: 390, 2\n  size: 94, 96\n  orig: 96, 96\n  offset: 1, 0\n  index: -1\nd12\n  rotate: false\n  xy: 486, 2\n  size: 94, 96\n  orig: 96, 96\n  offset: 2, 0\n  index: -1\nd2\n  rotate: false\n  xy: 678, 3\n  size: 94, 95\n  orig: 96, 96\n  offset: 1, 0\n  index: -1\nd3\n  rotate: false\n  xy: 774, 3\n  size: 94, 95\n  orig: 96, 96\n  offset: 2, 0\n  index: -1\nd4\n  rotate: true\n  xy: 2, 2\n  size: 96, 95\n  orig: 96, 96\n  offset: 0, 0\n  index: -1\nd5\n  rotate: false\n  xy: 870, 3\n  size: 94, 95\n  orig: 96, 96\n  offset: 1, 0\n  index: -1\nd6\n  rotate: false\n  xy: 966, 3\n  size: 94, 95\n  orig: 96, 96\n  offset: 2, 0\n  index: -1\nd7\n  rotate: false\n  xy: 196, 3\n  size: 95, 95\n  orig: 96, 96\n  offset: 1, 0\n  index: -1\nd8\n  rotate: true\n  xy: 1062, 4\n  size: 94, 95\n  orig: 96, 96\n  offset: 1, 0\n  index: -1\nd9\n  rotate: false\n  xy: 582, 3\n  size: 94, 95\n  orig: 96, 96\n  offset: 2, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "570f38e1-f4d7-4d91-91a0-ac8744a24434"
+    }
+  ],
+  "textureNames": [
+    "tungx.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "menhgia-help",
+    "texture": "2e9d9249-e16c-417d-92a9-4046078d66e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      621,
+      400
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      621,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

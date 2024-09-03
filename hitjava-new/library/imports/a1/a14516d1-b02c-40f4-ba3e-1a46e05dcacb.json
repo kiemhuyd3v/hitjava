@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_pop1",
+    "texture": "63827ff9-d86d-43e6-bdd5-42fe6ecd03f1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      199,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      199,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

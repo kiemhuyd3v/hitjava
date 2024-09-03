@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TÀI",
+    "texture": "a5a64f95-a95c-4a7c-a00c-eebc0e8cc292",
+    "atlas": "ab436561-25bb-4990-b5a6-631edab86f13",
+    "rect": [
+      1208,
+      685,
+      149,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      149,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

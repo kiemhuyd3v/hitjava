@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "event_trungthu.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btn_muangay": {
+      "__uuid__": "d43e9696-097c-40d7-b772-5de05df6e550"
+    },
+    "ic_close": {
+      "__uuid__": "cf9bad35-64bc-4f26-8bf3-0670d2837d0c"
+    },
+    "pack1": {
+      "__uuid__": "f71bd1b8-76ce-4d2c-9ac7-3c19d82ac221"
+    },
+    "pack2": {
+      "__uuid__": "4028518f-36b2-4302-9b19-c316b9888073"
+    },
+    "pack3": {
+      "__uuid__": "5bfc7902-022d-409b-8af1-7ed269bbf1e9"
+    }
+  }
+}

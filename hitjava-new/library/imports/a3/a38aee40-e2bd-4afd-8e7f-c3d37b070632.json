@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "conNai",
+    "texture": "4e71d436-ef21-4d07-a88b-4e50e3ad88e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

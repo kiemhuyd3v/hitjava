@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "allgameOn",
+    "texture": "87065ee6-3f74-43ec-959e-c6e5cd8dece2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

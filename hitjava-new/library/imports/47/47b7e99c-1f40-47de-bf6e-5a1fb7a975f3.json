@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Nhanh",
+    "texture": "24ab48af-b852-4a25-884b-74599772417c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

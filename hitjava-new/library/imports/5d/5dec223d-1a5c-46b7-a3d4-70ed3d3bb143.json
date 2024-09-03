@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_time_red-export",
+    "texture": "eee49be3-a588-498f-80d8-3b68981bdf65",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      521,
+      483
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      522,
+      484
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

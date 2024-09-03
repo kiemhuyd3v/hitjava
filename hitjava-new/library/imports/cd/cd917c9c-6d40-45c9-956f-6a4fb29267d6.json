@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ban-ca",
+    "texture": "aea7c1a4-f7d5-4d5e-87ff-dfc0a4b42463",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

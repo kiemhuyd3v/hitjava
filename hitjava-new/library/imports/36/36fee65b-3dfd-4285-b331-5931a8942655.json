@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "frame_avatar": {
+      "__uuid__": "f86ee63b-3316-4f67-b600-8560f96eee45"
+    },
+    "frame_menu": {
+      "__uuid__": "07d36a5b-5dc6-42c7-bd28-dead7cf1d0e3"
+    },
+    "frame_name": {
+      "__uuid__": "2e05bb98-3d34-47c5-a927-76e1c156ef70"
+    },
+    "frame_thongtin": {
+      "__uuid__": "c452a2e3-0d80-4202-9f83-f756813574e8"
+    },
+    "ic_catdat": {
+      "__uuid__": "4154af88-8f68-448b-a138-3f034beecd5f"
+    },
+    "ic_chat": {
+      "__uuid__": "48714ec0-1e3e-4f63-b94e-6d99ac348e57"
+    },
+    "ic_exit": {
+      "__uuid__": "53e07b4a-17f3-4e15-9b72-caf518f39bbe"
+    },
+    "ic_huongdan": {
+      "__uuid__": "e8377836-e7b5-4059-b2db-024429607e6f"
+    },
+    "ic_lichsu": {
+      "__uuid__": "f31d6c45-1247-4fce-96b4-2fc31560c329"
+    },
+    "ic_menu": {
+      "__uuid__": "34ad7fa1-a413-45e9-8cdb-f514b8c1fee4"
+    },
+    "ic_pick": {
+      "__uuid__": "3fef973d-0283-4985-8424-04478d0f84a0"
+    },
+    "ic_vinhdanh": {
+      "__uuid__": "6f79eba5-4a8c-4b4c-a2e3-608d71dc33f9"
+    },
+    "ic_xepbai": {
+      "__uuid__": "2ffa71a5-ec8c-4f48-b3c0-08baad0500aa"
+    },
+    "light_chonbai]": {
+      "__uuid__": "f198c54f-a6ff-4376-8d26-0786f6c95ee6"
+    },
+    "timeline": {
+      "__uuid__": "89eb4c30-5197-476c-b863-1318d80364be"
+    },
+    "timeline_full": {
+      "__uuid__": "a5a9c471-a542-4357-9594-2cc1a70a44b5"
+    },
+    "title": {
+      "__uuid__": "2a623144-0173-47ea-a6f2-4439aa82be39"
+    }
+  }
+}

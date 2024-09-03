@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_Wallet-TotalBet",
+    "texture": "3a5ac93c-13bb-4828-b3df-1e4dc68ba3c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      137,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      137,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

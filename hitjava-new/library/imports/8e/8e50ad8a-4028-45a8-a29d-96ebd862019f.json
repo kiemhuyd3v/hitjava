@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gift_sun",
+    "texture": "fae5a8e2-9a5f-4816-ad30-7365c6793995",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

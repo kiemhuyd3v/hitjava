@@ -1,0 +1,592 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "thanglon",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "thanglon1": {
+          "thanglon1": {
+            "x": 0.99,
+            "width": 416,
+            "y": -2,
+            "height": 145
+          }
+        },
+        "thanglon2": {
+          "thanglon2": {
+            "x": 0.99,
+            "width": 783,
+            "y": 0.99,
+            "height": 181
+          }
+        },
+        "anhsang": {
+          "1": {
+            "width": 276,
+            "y": 1.99,
+            "height": 277
+          },
+          "2": {
+            "width": 273,
+            "y": 1.99,
+            "height": 276
+          },
+          "3": {
+            "width": 278,
+            "y": 1.99,
+            "height": 277
+          },
+          "4": {
+            "width": 276,
+            "y": 1.99,
+            "height": 276
+          },
+          "5": {
+            "width": 277,
+            "y": 1.99,
+            "height": 277
+          },
+          "6": {
+            "width": 275,
+            "y": 1.99,
+            "height": 276
+          },
+          "7": {
+            "width": 276,
+            "y": 1.99,
+            "height": 276
+          },
+          "8": {
+            "width": 274,
+            "y": 1.99,
+            "height": 276
+          },
+          "9": {
+            "width": 277,
+            "y": 4,
+            "height": 275
+          },
+          "10": {
+            "width": 275,
+            "y": 1.99,
+            "height": 276
+          },
+          "11": {
+            "width": 274,
+            "y": 1.99,
+            "height": 276
+          },
+          "12": {
+            "width": 272,
+            "y": 1.99,
+            "height": 277
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 783,
+      "spine": "3.2.01",
+      "hash": "BTDf9L7Ser8qjkcCc6fcXJuNCGc",
+      "height": 550
+    },
+    "slots": [
+      {
+        "color": "ffffffb9",
+        "attachment": "9",
+        "name": "anhsang",
+        "bone": "anhsang"
+      },
+      {
+        "attachment": "thanglon2",
+        "name": "thanglon2",
+        "bone": "thanglon2"
+      },
+      {
+        "attachment": "thanglon1",
+        "name": "thanglon1",
+        "bone": "thanglon1"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "scaleX": 2,
+        "parent": "root",
+        "scaleY": 2,
+        "name": "anhsang",
+        "y": -41.69
+      },
+      {
+        "parent": "root",
+        "name": "thanglon1",
+        "x": -0.99,
+        "y": 2
+      },
+      {
+        "parent": "root",
+        "name": "thanglon2",
+        "x": -0.99,
+        "y": -0.99
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "anhsang": {
+            "attachment": [
+              {
+                "name": "1",
+                "time": 0
+              },
+              {
+                "name": "2",
+                "time": 0.0333
+              },
+              {
+                "name": "3",
+                "time": 0.0666
+              },
+              {
+                "name": "4",
+                "time": 0.1
+              },
+              {
+                "name": "5",
+                "time": 0.1333
+              },
+              {
+                "name": "6",
+                "time": 0.1666
+              },
+              {
+                "name": "7",
+                "time": 0.2
+              },
+              {
+                "name": "8",
+                "time": 0.2333
+              },
+              {
+                "name": "9",
+                "time": 0.2666
+              },
+              {
+                "name": "10",
+                "time": 0.3
+              },
+              {
+                "name": "11",
+                "time": 0.3333
+              },
+              {
+                "name": "12",
+                "time": 0.3666
+              },
+              {
+                "name": "1",
+                "time": 0.4
+              },
+              {
+                "name": "2",
+                "time": 0.4333
+              },
+              {
+                "name": "3",
+                "time": 0.4666
+              },
+              {
+                "name": "4",
+                "time": 0.5
+              },
+              {
+                "name": "5",
+                "time": 0.5333
+              },
+              {
+                "name": "6",
+                "time": 0.5666
+              },
+              {
+                "name": "7",
+                "time": 0.6
+              },
+              {
+                "name": "8",
+                "time": 0.6333
+              },
+              {
+                "name": "9",
+                "time": 0.6666
+              },
+              {
+                "name": "10",
+                "time": 0.7
+              },
+              {
+                "name": "11",
+                "time": 0.7333
+              },
+              {
+                "name": "12",
+                "time": 0.7666
+              }
+            ]
+          }
+        },
+        "bones": {
+          "thanglon1": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0.22,
+                "time": 0
+              },
+              {
+                "angle": 0.22,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.299,
+                  0,
+                  0.635,
+                  0.36
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1.2,
+                "y": 1.2,
+                "time": 0.1
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.63
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.2
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1.2,
+                "y": 1.2,
+                "time": 0.3
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.4
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1.2,
+                "y": 1.2,
+                "time": 0.5
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.6
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1.2,
+                "y": 1.2,
+                "time": 0.7
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "thanglon2": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0.22,
+                "time": 0
+              },
+              {
+                "angle": 0.22,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": [
+                  0.327,
+                  0.31,
+                  0.661,
+                  0.64
+                ],
+                "x": 1.075,
+                "y": 1.14,
+                "time": 0
+              },
+              {
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.0333
+              },
+              {
+                "curve": [
+                  0.314,
+                  0.27,
+                  0.657,
+                  0.63
+                ],
+                "x": 1.2,
+                "y": 1.373,
+                "time": 0.1333
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.2333
+              },
+              {
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ],
+                "x": 1.2,
+                "y": 1.373,
+                "time": 0.3333
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.4333
+              },
+              {
+                "curve": [
+                  0.299,
+                  0,
+                  0.635,
+                  0.36
+                ],
+                "x": 1.2,
+                "y": 1.373,
+                "time": 0.5333
+              },
+              {
+                "curve": [
+                  0.312,
+                  0.24,
+                  0.647,
+                  0.58
+                ],
+                "x": 1,
+                "y": 1,
+                "time": 0.6333
+              },
+              {
+                "curve": [
+                  0.318,
+                  0.26,
+                  0.652,
+                  0.6
+                ],
+                "x": 1.2,
+                "y": 1.373,
+                "time": 0.7333
+              },
+              {
+                "x": 1.075,
+                "y": 1.14,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ]
+          },
+          "anhsang": {
+            "rotate": [
+              {
+                "curve": "stepped",
+                "angle": 0,
+                "time": 0
+              },
+              {
+                "angle": 0,
+                "time": 0.8
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 0,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "time": 0.8
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped",
+                "x": 1,
+                "y": 1,
+                "time": 0
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "time": 0.8
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped",
+                "x": 0,
+                "y": 17.37,
+                "time": 0
+              },
+              {
+                "x": 0,
+                "y": 17.37,
+                "time": 0.8
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nthanglon.png\nsize: 1018,1018\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: true\n  xy: 420, 557\n  size: 276, 277\n  orig: 276, 277\n  offset: 0, 0\n  index: -1\n12\n  rotate: true\n  xy: 281, 6\n  size: 272, 277\n  orig: 272, 277\n  offset: 0, 0\n  index: -1\n2\n  rotate: false\n  xy: 699, 557\n  size: 273, 276\n  orig: 273, 276\n  offset: 0, 0\n  index: -1\n3\n  rotate: false\n  xy: 2, 409\n  size: 278, 277\n  orig: 278, 277\n  offset: 0, 0\n  index: -1\n4\n  rotate: false\n  xy: 561, 279\n  size: 276, 276\n  orig: 276, 276\n  offset: 0, 0\n  index: -1\n5\n  rotate: false\n  xy: 2, 130\n  size: 277, 277\n  orig: 277, 277\n  offset: 0, 0\n  index: -1\n6\n  rotate: true\n  xy: 560, 2\n  size: 275, 276\n  orig: 275, 276\n  offset: 0, 0\n  index: -1\n9\n  rotate: false\n  xy: 282, 280\n  size: 277, 275\n  orig: 277, 275\n  offset: 0, 0\n  index: -1\nthanglon1\n  rotate: false\n  xy: 2, 688\n  size: 416, 145\n  orig: 416, 145\n  offset: 0, 0\n  index: -1\nthanglon2\n  rotate: false\n  xy: 2, 835\n  size: 783, 181\n  orig: 783, 181\n  offset: 0, 0\n  index: -1\n\nthanglon2.png\nsize: 558,558\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n10\n  rotate: false\n  xy: 2, 2\n  size: 275, 276\n  orig: 275, 276\n  offset: 0, 0\n  index: -1\n11\n  rotate: false\n  xy: 279, 2\n  size: 274, 276\n  orig: 274, 276\n  offset: 0, 0\n  index: -1\n7\n  rotate: false\n  xy: 2, 280\n  size: 276, 276\n  orig: 276, 276\n  offset: 0, 0\n  index: -1\n8\n  rotate: false\n  xy: 280, 280\n  size: 274, 276\n  orig: 274, 276\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "835fb8e8-32cf-423c-b4c5-68fbf5c89701"
+    },
+    {
+      "__uuid__": "6e577559-2574-40a8-b2d0-af0b7bf1aed1"
+    }
+  ],
+  "textureNames": [
+    "thanglon.png",
+    "thanglon2.png"
+  ],
+  "scale": 1
+}

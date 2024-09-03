@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res-ResourceMenuTab-ic_lydo",
+    "texture": "45315b2b-08e9-4899-b6b5-dfa0e2791e74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

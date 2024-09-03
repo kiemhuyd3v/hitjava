@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "comingsoonMini",
+    "texture": "d644798e-4887-4995-aa82-16e5a16081de",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      187,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      187,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

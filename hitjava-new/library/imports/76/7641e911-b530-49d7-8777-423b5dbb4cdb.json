@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Panel_Popup",
+    "texture": "d3b77809-6081-476b-a71f-8b2318a3b177",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      560,
+      385
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      560,
+      385
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

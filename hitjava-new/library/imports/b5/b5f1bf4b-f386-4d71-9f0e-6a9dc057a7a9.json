@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xhuodin",
+    "texture": "6cf15d1f-5435-4dec-83c2-83924d259ae5",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      483,
+      168
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      491,
+      172
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

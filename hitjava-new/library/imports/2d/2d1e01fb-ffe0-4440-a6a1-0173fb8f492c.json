@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tien_roi",
+    "texture": "b262d4e7-0070-4f5b-9551-c542df73211c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      29,
+      29
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

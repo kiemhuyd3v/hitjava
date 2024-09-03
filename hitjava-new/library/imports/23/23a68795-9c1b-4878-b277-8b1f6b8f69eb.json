@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "number-export",
+    "texture": "4ac34bac-61aa-4359-84eb-e23d80f49a2a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      221,
+      251
+    ],
+    "offset": [
+      -17.5,
+      2.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

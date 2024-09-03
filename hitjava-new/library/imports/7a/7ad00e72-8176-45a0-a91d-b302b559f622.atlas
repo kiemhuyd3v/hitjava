@@ -1,0 +1,139 @@
+
+may xeng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+71
+  rotate: false
+  xy: 302, 571
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+71 copy
+  rotate: false
+  xy: 302, 632
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+72
+  rotate: false
+  xy: 455, 779
+  size: 94, 105
+  orig: 94, 105
+  offset: 0, 0
+  index: -1
+72 copy
+  rotate: false
+  xy: 359, 759
+  size: 93, 125
+  orig: 93, 125
+  offset: 0, 0
+  index: -1
+73
+  rotate: false
+  xy: 966, 957
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+73 copy
+  rotate: true
+  xy: 734, 963
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 302, 713
+  size: 54, 171
+  orig: 54, 171
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 563, 962
+  size: 53, 168
+  orig: 53, 168
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 3, 17
+  size: 50, 167
+  orig: 50, 167
+  offset: 0, 0
+  index: -1
+MNPK
+  rotate: false
+  xy: 302, 887
+  size: 258, 128
+  orig: 258, 128
+  offset: 0, 0
+  index: -1
+NEW
+  rotate: false
+  xy: 359, 736
+  size: 79, 20
+  orig: 79, 20
+  offset: 0, 0
+  index: -1
+can gat
+  rotate: true
+  xy: 815, 970
+  size: 45, 80
+  orig: 45, 80
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 3, 158
+  size: 285, 411
+  orig: 285, 411
+  offset: 0, 0
+  index: -1
+nen
+  rotate: false
+  xy: 3, 572
+  size: 296, 443
+  orig: 296, 443
+  offset: 0, 0
+  index: -1
+v1
+  rotate: false
+  xy: 637, 890
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+v2
+  rotate: false
+  xy: 898, 963
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+v3
+  rotate: false
+  xy: 192, 71
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+v4
+  rotate: false
+  xy: 563, 889
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+xeng
+  rotate: false
+  xy: 3, 70
+  size: 186, 85
+  orig: 186, 85
+  offset: 0, 0
+  index: -1

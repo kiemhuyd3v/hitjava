@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_Spin",
+    "texture": "8ec04a00-cf15-49ad-a500-75d31dd7baa8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

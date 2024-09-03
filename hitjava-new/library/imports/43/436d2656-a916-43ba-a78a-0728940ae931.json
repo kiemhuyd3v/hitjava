@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoNextCopy",
+    "texture": "44ea8276-a718-45ee-ad5e-f6d61628c498",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      23,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      23,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

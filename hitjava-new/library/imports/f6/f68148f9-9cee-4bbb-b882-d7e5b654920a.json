@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgnotilooby",
+    "texture": "382e58ae-a029-47ae-a248-50cee79f51a9",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      918,
+      140
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      922,
+      144
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_navi_default_120",
+    "texture": "1e080486-33fa-4e1f-b7b4-0898fc53e7dd",
+    "atlas": "c94899d5-4ffb-4216-873b-521417e21f9c",
+    "rect": [
+      569,
+      697,
+      120,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

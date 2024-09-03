@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icTopexit",
+    "texture": "c229ae76-d913-4f68-9465-92c51aaea168",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

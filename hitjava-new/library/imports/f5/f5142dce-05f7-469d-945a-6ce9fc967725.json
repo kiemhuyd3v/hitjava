@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_bangthuong_3",
+    "texture": "4ed3a529-d0eb-4190-aa79-fd05af604c2b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      737,
+      378
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      737,
+      379
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

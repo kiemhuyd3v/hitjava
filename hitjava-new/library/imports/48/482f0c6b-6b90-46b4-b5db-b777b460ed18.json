@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab2_tatca",
+    "texture": "44dd4ac9-8ec7-48c6-ba67-038d1aa15af7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "mainbg",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skins": {
+      "default": {
+        "led1": {
+          "led1": {
+            "width": 920,
+            "height": 571
+          }
+        },
+        "bg": {
+          "bg": {
+            "width": 910,
+            "height": 559
+          }
+        },
+        "led2": {
+          "led2": {
+            "width": 916,
+            "height": 567
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "images": "",
+      "width": 920,
+      "spine": "3.6.53",
+      "hash": "hBFRDr5+PEZYrVQk4FHXGfqTo+k",
+      "height": 571
+    },
+    "slots": [
+      {
+        "attachment": "bg",
+        "name": "bg",
+        "bone": "bone"
+      },
+      {
+        "attachment": "led1",
+        "blend": "additive",
+        "name": "led1",
+        "bone": "bone"
+      },
+      {
+        "attachment": "led2",
+        "blend": "additive",
+        "name": "led2",
+        "bone": "bone"
+      }
+    ],
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "parent": "root",
+        "name": "bone"
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "led1": {
+            "color": [
+              {
+                "color": "ffffffff",
+                "time": 0
+              },
+              {
+                "color": "ffffff83",
+                "time": 0.2667
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.5
+              },
+              {
+                "color": "ffffff83",
+                "time": 0.8333
+              },
+              {
+                "color": "ffffffff",
+                "time": 1.1667
+              }
+            ]
+          },
+          "led2": {
+            "color": [
+              {
+                "color": "ffffffc1",
+                "time": 0
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.1667
+              },
+              {
+                "color": "ffffff83",
+                "time": 0.4333
+              },
+              {
+                "color": "ffffffff",
+                "time": 0.6667
+              },
+              {
+                "color": "ffffff83",
+                "time": 1
+              },
+              {
+                "color": "ffffffc1",
+                "time": 1.1667
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nmainbg.png\nsize: 1705,924\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbg\n  rotate: true\n  xy: 1144, 12\n  size: 910, 559\n  orig: 910, 559\n  offset: 0, 0\n  index: -1\nled1\n  rotate: true\n  xy: 2, 2\n  size: 920, 571\n  orig: 920, 571\n  offset: 0, 0\n  index: -1\nled2\n  rotate: true\n  xy: 575, 6\n  size: 916, 567\n  orig: 916, 567\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "d9139692-8018-49ce-854a-ba70522203bc"
+    }
+  ],
+  "textureNames": [
+    "mainbg.png"
+  ],
+  "scale": 1
+}

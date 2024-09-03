@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_tinnhan",
+    "texture": "5040f477-b951-4da8-8bf1-da3c75179c52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

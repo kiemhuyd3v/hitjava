@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CoinRotate",
+    "texture": "c20a22ca-a967-466c-90f7-9b94ac3acabe",
+    "atlas": "",
+    "rect": [
+      2,
+      47,
+      575,
+      525
+    ],
+    "offset": [
+      0,
+      -21
+    ],
+    "originalSize": [
+      579,
+      577
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xoNai",
+    "texture": "464e1bc4-ebc8-43ad-baee-67fd0f7869d4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      344,
+      172
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      344,
+      173
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_taiapp",
+    "texture": "bdd34ffc-aac5-46d1-bd18-45cd3d2b1814",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      132
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MINIGAME_BUTTON",
+    "texture": "3d59892f-b934-4d91-b9bc-d4712a5ea12d",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      296,
+      168
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      304,
+      176
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TXspine2",
+    "texture": "7756ef2e-28fe-4711-b762-0408f902f8fa",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1017,
+      573
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      1022,
+      579
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

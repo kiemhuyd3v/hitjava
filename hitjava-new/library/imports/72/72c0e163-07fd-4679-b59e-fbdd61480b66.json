@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banChoi11",
+    "texture": "9d946177-8d9f-40a2-b776-667ae6bb21d2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      774,
+      410
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      774,
+      410
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

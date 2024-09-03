@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tayduky_bonusgame_BG0",
+    "texture": "96c5c2d3-93a3-4d83-8f42-d5610f7867aa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      369
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      369
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

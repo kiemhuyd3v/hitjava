@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LoadingLogo",
+    "texture": "feb5227a-eca4-42cb-b71e-1a32475b6ea8",
+    "atlas": "",
+    "rect": [
+      53,
+      0,
+      1909,
+      691
+    ],
+    "offset": [
+      26.5,
+      0
+    ],
+    "originalSize": [
+      1962,
+      691
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

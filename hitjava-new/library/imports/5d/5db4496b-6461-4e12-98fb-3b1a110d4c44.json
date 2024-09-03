@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BoardG_Knot_L",
+    "texture": "97208c7f-ec01-4401-8224-4acb3ef9aa82",
+    "atlas": "a3ab64c9-3c7b-4207-932d-7a042d256de8",
+    "rect": [
+      394,
+      0,
+      19,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

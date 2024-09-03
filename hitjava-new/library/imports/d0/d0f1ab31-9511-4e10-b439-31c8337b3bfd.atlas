@@ -1,0 +1,34 @@
+
+button.png
+size: 625,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnas
+  rotate: false
+  xy: 193, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+btnquay
+  rotate: true
+  xy: 2, 8
+  size: 160, 189
+  orig: 160, 189
+  offset: 0, 0
+  index: -1
+btntuquay
+  rotate: false
+  xy: 361, 28
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+btnx2
+  rotate: false
+  xy: 503, 48
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

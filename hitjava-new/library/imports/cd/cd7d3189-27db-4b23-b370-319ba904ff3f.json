@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txtSoiCau",
+    "texture": "cbdf92fb-f836-41b5-8f93-64dffb1ca830",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

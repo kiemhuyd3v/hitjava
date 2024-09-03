@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "casinoholdem1",
+    "texture": "ce6cd613-d902-4f17-a2a2-130cf540bafd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      333
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      259,
+      333
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
